@@ -30,6 +30,11 @@ data class Station(
 
 @Serializable
 data class FuelPrices(
+    /**
+     * 저장해 둔 값의 구조 번호.
+     * 앱을 고쳐 항목이 바뀌면 예전 저장분을 그대로 쓰면 안 되므로 번호로 걸러낸다.
+     */
+    val schema: Int = 0,
     /** 평균가 기준 광역 이름. 위치를 못 얻으면 "전국". */
     val areaName: String = "전국",
     val nationalAverage: Map<String, Double> = emptyMap(),
@@ -62,8 +67,10 @@ class FuelRepository(context: Context) {
 
     fun cached(): FuelPrices {
         val raw = prefs.getString(KEY, null) ?: return FuelPrices()
-        return runCatching { json.decodeFromString(FuelPrices.serializer(), raw) }
+        val stored = runCatching { json.decodeFromString(FuelPrices.serializer(), raw) }
             .getOrDefault(FuelPrices())
+        // 예전 구조로 저장된 것은 버린다. 안 그러면 새 항목이 빈 채로 계속 유효 취급된다.
+        return if (stored.schema == SCHEMA) stored else FuelPrices()
     }
 
     suspend fun load(context: Context, useLocation: Boolean, force: Boolean = false): FuelPrices {
@@ -120,14 +127,20 @@ class FuelRepository(context: Context) {
         }
 
         val location = if (useLocation) WeatherRepository.currentLatLon(context) else null
-        val nearby = if (location == null) emptyList() else aroundStations(location.first, location.second)
+        val nearby = if (location != null) {
+            aroundStations(location.first, location.second)
+        } else {
+            // 위치를 못 얻어도 화면이 비지 않게 시·도 최저가라도 보여준다
+            areaCode?.let { regionStations(it) }.orEmpty()
+        }
 
         return FuelPrices(
+            schema = SCHEMA,
             areaName = areaName,
             nationalAverage = national,
             areaAverage = areaAverage,
             nearby = nearby,
-            locatedNearby = nearby.isNotEmpty(),
+            locatedNearby = location != null && nearby.isNotEmpty(),
             fetchedEpochSec = now,
         )
     }
@@ -177,6 +190,23 @@ class FuelRepository(context: Context) {
         }.sortedBy { it.gasoline }
     }
 
+    /** 위치를 못 얻었을 때 쓰는 시·도 단위 최저가. 거리는 알 수 없다. */
+    private suspend fun regionStations(areaCode: String): List<Station> {
+        val body = call("lowTop10.do", "area" to areaCode, "prodcd" to FuelType.Gasoline.code, "cnt" to "5")
+        val rows = JSONObject(body).getJSONObject("RESULT").getJSONArray("OIL")
+        return (0 until rows.length()).map { i ->
+            val row = rows.getJSONObject(i)
+            val id = row.optString("UNI_ID")
+            Station(
+                name = row.optString("OS_NM"),
+                gasoline = row.optDouble("PRICE", 0.0).toInt(),
+                premium = runCatching { premiumPrice(id) }.getOrNull(),
+                brand = BRANDS[row.optString("POLL_DIV_CD")] ?: "",
+                distance = 0,
+            )
+        }
+    }
+
     private suspend fun premiumPrice(uniId: String): Int? {
         val body = call("detailById.do", "id" to uniId)
         val oil = JSONObject(body).getJSONObject("RESULT").getJSONArray("OIL")
@@ -208,6 +238,9 @@ class FuelRepository(context: Context) {
 
     private companion object {
         const val KEY = "prices"
+
+        /** 저장 구조를 바꿀 때마다 올린다. */
+        const val SCHEMA = 2
 
         /** 유가는 하루 한두 번 바뀐다. 6시간이면 충분하다. */
         const val CACHE_SEC = 6L * 60 * 60

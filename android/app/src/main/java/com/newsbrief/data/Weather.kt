@@ -6,10 +6,14 @@ import android.content.pm.PackageManager
 import android.location.Geocoder
 import android.location.LocationManager
 import android.os.Build
+import android.os.CancellationSignal
 import androidx.core.content.ContextCompat
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.suspendCancellableCoroutine
 import kotlinx.coroutines.withContext
+import kotlinx.coroutines.withTimeoutOrNull
 import java.util.Locale
+import kotlin.coroutines.resume
 
 data class Weather(
     val place: String,
@@ -70,7 +74,7 @@ private const val FALLBACK_PLACE = "서울"
 object WeatherRepository {
 
     suspend fun fetch(context: Context, useLocation: Boolean): Weather {
-        val located = if (useLocation) lastKnownLocation(context) else null
+        val located = if (useLocation) resolveLocation(context) else null
         val (latitude, longitude) = located ?: (FALLBACK_LAT to FALLBACK_LON)
 
         val place = if (located == null) FALLBACK_PLACE else placeName(context, latitude, longitude)
@@ -97,14 +101,45 @@ object WeatherRepository {
     }
 
     /** 반경 검색처럼 좌표가 필요한 곳에서 쓴다. 위치를 못 얻으면 null. */
-    fun currentLatLon(context: Context): Pair<Double, Double>? = lastKnownLocation(context)
+    suspend fun currentLatLon(context: Context): Pair<Double, Double>? = resolveLocation(context)
+
+    /**
+     * 마지막 위치가 없으면(폰을 막 켰거나 위치를 쓴 앱이 없었으면) 한 번만 새로 측위한다.
+     * 마지막 위치만 믿으면 계속 빈손이라 유가·날씨가 서울로 고정되는 일이 생긴다.
+     */
+    private suspend fun resolveLocation(context: Context): Pair<Double, Double>? {
+        lastKnownLocation(context)?.let { return it }
+        if (!hasLocationPermission(context)) return null
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.R) return null
+
+        val manager = context.getSystemService(Context.LOCATION_SERVICE) as? LocationManager ?: return null
+        val provider = listOf(LocationManager.NETWORK_PROVIDER, LocationManager.GPS_PROVIDER)
+            .firstOrNull { runCatching { manager.isProviderEnabled(it) }.getOrDefault(false) }
+            ?: return null
+
+        return withTimeoutOrNull(LOCATION_TIMEOUT_MS) {
+            suspendCancellableCoroutine { continuation ->
+                val signal = CancellationSignal()
+                continuation.invokeOnCancellation { signal.cancel() }
+                runCatching {
+                    manager.getCurrentLocation(provider, signal, context.mainExecutor) { location ->
+                        if (continuation.isActive) {
+                            continuation.resume(location?.let { it.latitude to it.longitude })
+                        }
+                    }
+                }.onFailure { if (continuation.isActive) continuation.resume(null) }
+            }
+        }
+    }
+
+    private const val LOCATION_TIMEOUT_MS = 8_000L
 
     /**
      * 광역('경기도')과 시군구('안양시') 이름. 유가 지역을 고를 때 쓴다.
      * 오피넷은 구 단위가 없어 시 단위까지만 맞추면 된다.
      */
     suspend fun administrativeNames(context: Context): Pair<String?, String?> {
-        val (latitude, longitude) = lastKnownLocation(context) ?: return null to null
+        val (latitude, longitude) = resolveLocation(context) ?: return null to null
         if (!Geocoder.isPresent()) return null to null
         return withContext(Dispatchers.IO) {
             runCatching {

@@ -54,6 +54,7 @@ import com.newsbrief.ui.FavoritesScreen
 import com.newsbrief.ui.FolderPickerSheet
 import com.newsbrief.ui.HomeScreen
 import com.newsbrief.ui.CurrencyScreen
+import com.newsbrief.ui.FavoriteFilterRow
 import com.newsbrief.ui.FuelScreen
 import com.newsbrief.ui.LotteryScreen
 import com.newsbrief.ui.SubTabs
@@ -170,6 +171,7 @@ private fun AppScreen(
     val current = tabs[selected]
     // 뉴스 안쪽: 0 오늘의 뉴스 / 1 즐겨찾기, 시세 안쪽: 0 시세 / 1 환율
     var newsSub by rememberSaveable { mutableIntStateOf(0) }
+    var showNewsFavorites by rememberSaveable { mutableStateOf(false) }
     var marketSub by rememberSaveable { mutableIntStateOf(0) }
 
     // 위젯을 눌러 들어오면 보던 탭이 어디든 홈으로 되돌린다
@@ -257,37 +259,45 @@ private fun AppScreen(
                 )
 
                 Tab.News -> Column {
-                    SubTabs(listOf("오늘의 뉴스", "즐겨찾기", "용어"), newsSub) { newsSub = it }
-                    if (newsSub == 2) {
+                    SubTabs(listOf("오늘의 뉴스", "용어"), newsSub) { newsSub = it }
+                    if (newsSub == 1) {
                         TermsScreen(
                             book = state.terms,
                             loading = state.termsLoading,
                             favorites = state.favoriteTerms,
                             onToggleFavorite = viewModel::toggleFavoriteTerm,
                         )
-                    } else if (newsSub == 0) {
-                        NewsScreen(
-                            categories = state.brief?.categories.orEmpty(),
-                            generatedAt = state.brief?.generatedAt.orEmpty(),
-                            loading = state.briefLoading,
-                            error = state.briefError,
-                            isFavorite = { link -> state.favorites.contains(link) },
-                            onOpenLink = onOpenLink,
-                            onToggleFavorite = { story, categoryName ->
-                                if (state.favorites.contains(story.link)) {
-                                    viewModel.removeFavorite(story.link)
-                                } else {
-                                    pendingFavorite = story to categoryName
-                                }
-                            },
-                        )
                     } else {
-                        FavoritesScreen(
-                            favorites = state.favorites,
-                            onOpenLink = onOpenLink,
-                            onRemove = viewModel::removeFavorite,
-                            onDeleteFolder = viewModel::deleteFolder,
+                        // 용어와 같은 방식으로, 즐겨찾기는 목록 위 칩으로 걸러 본다
+                        FavoriteFilterRow(
+                            count = state.favorites.items.size,
+                            active = showNewsFavorites,
+                            onToggle = { showNewsFavorites = !showNewsFavorites },
                         )
+                        if (showNewsFavorites) {
+                            FavoritesScreen(
+                                favorites = state.favorites,
+                                onOpenLink = onOpenLink,
+                                onRemove = viewModel::removeFavorite,
+                                onDeleteFolder = viewModel::deleteFolder,
+                            )
+                        } else {
+                            NewsScreen(
+                                categories = state.brief?.categories.orEmpty(),
+                                generatedAt = state.brief?.generatedAt.orEmpty(),
+                                loading = state.briefLoading,
+                                error = state.briefError,
+                                isFavorite = { link -> state.favorites.contains(link) },
+                                onOpenLink = onOpenLink,
+                                onToggleFavorite = { story, categoryName ->
+                                    if (state.favorites.contains(story.link)) {
+                                        viewModel.removeFavorite(story.link)
+                                    } else {
+                                        pendingFavorite = story to categoryName
+                                    }
+                                },
+                            )
+                        }
                     }
                 }
 

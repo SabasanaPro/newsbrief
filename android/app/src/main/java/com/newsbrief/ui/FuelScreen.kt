@@ -121,35 +121,39 @@ fun FuelScreen(
         )
 
         Spacer(Modifier.height(20.dp))
-        Text("내 주변 최저가", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
+        Text(
+            if (prices.locatedNearby) "내 주변 최저가" else "${prices.areaName} 최저가",
+            style = MaterialTheme.typography.titleMedium,
+            fontWeight = FontWeight.Bold,
+        )
         Spacer(Modifier.height(8.dp))
 
         if (!prices.locatedNearby) {
             Text(
-                "위치를 얻지 못해 주변 주유소를 찾을 수 없습니다. 위치 권한을 확인해주세요.",
-                style = MaterialTheme.typography.bodySmall,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                "위치를 얻지 못해 ${prices.areaName} 전체 기준으로 보여줍니다. " +
+                    "위치 권한과 휴대폰의 위치 기능이 켜져 있는지 확인해주세요.",
+                style = MaterialTheme.typography.labelSmall,
+                color = MaterialTheme.colorScheme.error,
             )
-            Spacer(Modifier.height(16.dp))
-            return@Column
-        }
-
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            RADIUS_OPTIONS.forEach { meters ->
-                FilterChip(
-                    selected = radius == meters,
-                    onClick = { radius = meters },
-                    label = { Text("${meters / 1000}km") },
-                )
+            Spacer(Modifier.height(8.dp))
+        } else {
+            Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                RADIUS_OPTIONS.forEach { meters ->
+                    FilterChip(
+                        selected = radius == meters,
+                        onClick = { radius = meters },
+                        label = { Text("${meters / 1000}km") },
+                    )
+                }
             }
+            Spacer(Modifier.height(8.dp))
         }
 
-        Spacer(Modifier.height(8.dp))
-
-        val stations = prices.within(radius).take(8)
+        val stations = if (prices.locatedNearby) prices.within(radius).take(8) else prices.nearby
         if (stations.isEmpty()) {
             Text(
-                "반경 ${radius / 1000}km 안에 주유소가 없습니다. 범위를 넓혀보세요.",
+                if (prices.locatedNearby) "반경 ${radius / 1000}km 안에 주유소가 없습니다. 범위를 넓혀보세요."
+                else "표시할 주유소가 없습니다",
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
@@ -210,7 +214,7 @@ private fun StationRow(rank: Int, station: Station, onClick: () -> Unit) {
             Text(
                 listOfNotNull(
                     station.brand.takeIf { it.isNotBlank() },
-                    formatDistance(station.distance),
+                    station.distance.takeIf { it > 0 }?.let { formatDistance(it) },
                 ).joinToString(" · "),
                 style = MaterialTheme.typography.labelSmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
