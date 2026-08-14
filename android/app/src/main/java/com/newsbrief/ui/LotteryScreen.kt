@@ -14,6 +14,7 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Card
@@ -31,10 +32,20 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.focus.FocusRequester
+import androidx.compose.ui.focus.focusRequester
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.input.key.Key
+import androidx.compose.ui.input.key.KeyEventType
+import androidx.compose.ui.input.key.key
+import androidx.compose.ui.input.key.onKeyEvent
+import androidx.compose.ui.input.key.type
+import androidx.compose.ui.text.TextRange
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
+import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -206,25 +217,60 @@ private fun MyNumbersSection(
     // 스위치를 켤 때만 저장된 값으로 초기화한다 — 입력 중 재설정되면 안 되기 때문.
     var values by remember(myNumbers.enabled) {
         mutableStateOf(
-            List(6) { index -> myNumbers.numbers.getOrNull(index)?.toString() ?: "" }
+            List(6) { index ->
+                val text = myNumbers.numbers.getOrNull(index)?.toString() ?: ""
+                TextFieldValue(text, TextRange(text.length))
+            }
         )
+    }
+    val focusRequesters = remember { List(6) { FocusRequester() } }
+
+    /** 커서를 해당 칸의 글자 끝으로 보내면서 포커스를 옮긴다. */
+    fun moveTo(index: Int) {
+        val text = values[index].text
+        values = values.toMutableList().also { it[index] = TextFieldValue(text, TextRange(text.length)) }
+        focusRequesters[index].requestFocus()
     }
 
     Row(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
-        values.forEachIndexed { index, text ->
+        values.forEachIndexed { index, field ->
             OutlinedTextField(
-                value = text,
+                value = field,
                 onValueChange = { input ->
-                    val digits = input.filter { it.isDigit() }.take(2)
-                    values = values.toMutableList().also { it[index] = digits }
-                    val parsed = values.mapNotNull { it.toIntOrNull() }.filter { it in 1..45 }
-                    if (parsed.size == 6 && parsed.distinct().size == 6) {
-                        onChange(myNumbers.copy(numbers = parsed))
+                    val digits = input.text.filter { it.isDigit() }.take(2)
+                    values = values.toMutableList().also {
+                        it[index] = TextFieldValue(digits, TextRange(digits.length))
                     }
+                    val numbers = values.mapNotNull { it.text.toIntOrNull() }.filter { it in 1..45 }
+                    if (numbers.size == 6 && numbers.distinct().size == 6) {
+                        onChange(myNumbers.copy(numbers = numbers))
+                    }
+                    if (index < 5 && isComplete(digits)) moveTo(index + 1)
                 },
-                modifier = Modifier.weight(1f),
+                modifier = Modifier
+                    .weight(1f)
+                    .focusRequester(focusRequesters[index])
+                    .onKeyEvent { event ->
+                        // 빈 칸에서 지우기를 누르면 왼쪽 칸 끝으로 이동해 이어서 지울 수 있게 한다
+                        val backspaceOnEmpty = event.type == KeyEventType.KeyDown &&
+                            event.key == Key.Backspace &&
+                            values[index].text.isEmpty() &&
+                            index > 0
+                        if (backspaceOnEmpty) {
+                            moveTo(index - 1)
+                            true
+                        } else {
+                            false
+                        }
+                    },
                 singleLine = true,
-                keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number),
+                keyboardOptions = KeyboardOptions(
+                    keyboardType = KeyboardType.Number,
+                    imeAction = if (index < 5) ImeAction.Next else ImeAction.Done,
+                ),
+                keyboardActions = KeyboardActions(
+                    onNext = { if (index < 5) moveTo(index + 1) },
+                ),
                 textStyle = TextStyle(textAlign = TextAlign.Center, fontSize = 15.sp),
             )
         }
@@ -232,7 +278,7 @@ private fun MyNumbersSection(
 
     Spacer(Modifier.height(10.dp))
 
-    val parsed = values.mapNotNull { it.toIntOrNull() }.filter { it in 1..45 }
+    val parsed = values.mapNotNull { it.text.toIntOrNull() }.filter { it in 1..45 }
     when {
         parsed.size < 6 -> ResultText("1~45 사이 숫자 6개를 입력하세요", MaterialTheme.colorScheme.onSurfaceVariant)
         parsed.distinct().size < 6 -> ResultText("중복된 숫자가 있습니다", MaterialTheme.colorScheme.error)
@@ -245,6 +291,17 @@ private fun MyNumbersSection(
             )
         }
     }
+}
+
+/**
+ * 이 칸 입력이 끝났다고 볼 수 있는지.
+ * 로또 번호는 1~45라 첫 자리가 5~9면 두 자리가 될 수 없어 바로 다음 칸으로 넘긴다.
+ * 1~4 는 4 일 수도 40번대일 수도 있어 한 자리만으로는 넘기지 않는다.
+ */
+private fun isComplete(digits: String): Boolean = when (digits.length) {
+    2 -> true
+    1 -> digits[0] in '5'..'9'
+    else -> false
 }
 
 @Composable
