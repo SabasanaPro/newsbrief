@@ -10,18 +10,25 @@ data class Brief(
     val generatedAt: String = "",
     val categories: List<Category> = emptyList(),
     val topics: List<Topic> = emptyList(),
+    /** 설정 화면에 띄울 전체 주제 목록. 주제가 늘어도 앱을 다시 깔지 않도록 서버가 함께 내려준다. */
+    val topicCatalog: List<TopicOption> = emptyList(),
     val lottery: Lottery? = null,
 )
 
-/** 백엔드가 주제별로 미리 뽑아 둔 한 문장. 설정에서 켠 주제만 골라 브리핑 문단을 만든다. */
+/** 백엔드가 주제별로 미리 뽑아 둔 재료. 설정에서 켠 주제만 골라 브리핑 문단을 만든다. */
 @Serializable
 data class Topic(
     val id: String = "",
     val name: String = "",
+    /** 한 문단으로 엮기 좋은 짧은 구. 예: "반도체·SSD 수출 급증" */
+    val phrase: String = "",
     val sentence: String = "",
     val articleCount: Int = 0,
     val link: String = "",
 )
+
+@Serializable
+data class TopicOption(val id: String = "", val name: String = "")
 
 @Serializable
 data class Category(

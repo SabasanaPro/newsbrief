@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:03:06+09:00",
+  "generatedAt": "2026-08-14T18:21:35+09:00",
   "categories": [
     {
       "id": "politics",
@@ -69,6 +69,19 @@
           ]
         },
         {
+          "title": "롯데손보, 2분기 순익 13억원 흑자전환… 투자손실 줄고 자본지표 개선",
+          "summary": "롯데손해보험이 올해 2분기 흑자전환에 성공했다. 투자 부문 손실이 줄어든 가운데 보험영업에서 안정적인 이익을 거둔 영향이다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/HA2TMOLCGM2GEMTCMQZDSYZRGQ/",
+          "publishedAt": "2026-08-14T08:49:22+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "머니투데이",
+            "아시아경제",
+            "연합뉴스"
+          ]
+        },
+        {
           "title": "카카오뱅크 임원진, 4.6억 규모 자사주 매입…\"기업가치 제고\"",
           "summary": "카카오뱅크 임원진이 약 4억6000만원 규모의 자사주를 사들였다. 14일 카카오뱅크에 따르면 임원 12명은 지난 6월부터 8월 12일까지 카카오뱅크 주식 총 2만1100주를 장내 매수했다.…",
           "source": "머니투데이",
@@ -80,19 +93,6 @@
             "아시아경제",
             "연합뉴스"
           ]
-        },
-        {
-          "title": "전세계 AI 투자 확대에…지난달 ICT 수출 '역대 최대'",
-          "summary": "전 세계의 AI 투자 확대에 힘입어 정보통신산업(ICT) 수출이 두 달 연속 500억달러를 웃도는 등 호조세를 이어가고 있다.…",
-          "source": "아시아경제",
-          "link": "https://view.asiae.co.kr/article/2026081411065320207",
-          "publishedAt": "2026-08-14T02:06:53+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "동아일보",
-            "연합뉴스"
-          ]
         }
       ]
     },
@@ -101,15 +101,15 @@
       "name": "사회",
       "items": [
         {
-          "title": "법무부, '수원지검 집단퇴정' 검사들 징계 청구",
-          "summary": "법무부, '수원지검 집단퇴정' 검사들 징계 청구(SBS 디지털뉴스부/사진=법무부 제공, 연합뉴스)",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706071",
-          "publishedAt": "2026-08-14T08:00:00+00:00",
+          "title": "법무부, ‘수원지검 집단퇴정’ 검사들 징계 청구",
+          "summary": "지난해 11월 이화영 전 경기도 평화부지사의 ‘술 파티 의혹 위증 사건’ 관련 재판 도중 법정에서 집단 퇴정한 수원지검 검사들에 대해 법무부가 징계를 청구했다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003213",
+          "publishedAt": "2026-08-14T08:04:01+00:00",
           "sourceCount": 8,
           "otherSources": [
+            "SBS",
             "경향신문",
-            "국민일보",
             "노컷뉴스",
             "동아일보",
             "매일경제",
@@ -132,15 +132,15 @@
           ]
         },
         {
-          "title": "한강버스 11개월 만에 누적 탑승객 50만명 돌파",
-          "summary": "서울시는 지난해 9월 18일 정식운항을 시작한 한강버스가 전날 기준 누적 탑승객 50만1430명을 기록했다고 14일 밝혔다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003175",
-          "publishedAt": "2026-08-14T05:32:00+00:00",
+          "title": "‘도박·음주운전’ 개그맨 이진호 징역 2년 구형···“하루하루 후회했다”",
+          "summary": "연합뉴스인터넷 불법도박과 음주운전 혐의로 재판에 넘겨진 개그맨 이진호씨(40)에게 징역 2년이 구형됐다.14일 수원지방법원 여주지원 형사1단독 안태윤 부장판사 심리로 진행된 이씨의 결심공판에서 검찰은 재판부에 징역 2년을 선고해 달라고 요청했다.검찰에 따르면, 이씨는 2023년 5월 11일부터 2024년 10월 14일까지 총 664회에 걸···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608141402001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-08-14T05:02:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "동아일보",
+            "매일경제",
             "조선일보"
           ]
         }
@@ -151,30 +151,30 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프, 드론·드론부품에 최대 100% 관세… 韓은 15%",
-          "summary": "도널드 트럼프 미국 행정부가 수입 드론과 관련 부품에 최대 100%의 관세를 부과하기로 했다. 한국산 드론과 부품에도 15%의 관세가 적용된다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/08/14/GVSWKZBQHAYGIYZSGQYTQMBUMI/",
-          "publishedAt": "2026-08-13T21:49:30+00:00",
+          "title": "트럼프, 드론·부품에 최대 100% 관세…韓 등 동맹국은 15%",
+          "summary": "도널드 트럼프 미국 대통령이 13일(현지 시간) 드론 및 관련 부품에 최대 100%의 관세를 부과하는 내용의 포고문에 서명했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20260814/134476596/1",
+          "publishedAt": "2026-08-13T22:46:00+00:00",
           "sourceCount": 6,
           "otherSources": [
             "경향신문",
-            "동아일보",
             "매일경제",
             "연합뉴스",
+            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "이란 앞바다 미 링컨함 ‘한계’ 다다랐나…“승조원 투신시도 여러번”",
-          "summary": "AP연합뉴스이란 앞바다에 9개월째 떠 있는 미국 핵추진 항공모함 에이브러햄 링컨호 승조원 중 투신하는 사례가 다수 발생한 것으로 전해졌다.CNN은 13일(현지시간) 지난 3일 링컨함에서 수병 1명이 함상에서 바다로 뛰어드는 사고가 벌어졌다고 미국 관리들을 인용해 전했다.정확한 투신 사유는 확인되지 않았으며, 당시 이 수병은 구명조끼를 착···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608140848001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
-          "publishedAt": "2026-08-13T23:48:00+00:00",
+          "title": "“투신 시도 여러번 있었다”…이란 앞바다 9개월, 링컨함에 생긴 일 ‘충격’‘",
+          "summary": "이란 앞바다에 9개월째 머물고 있는 미국 핵추진 항공모함 에이브러햄 링컨호 승조원들의 ‘한계 상황’이 알려지면서 충격을 주고 있다. 링컨함 승조원의 가족뿐 아니라, 세계 곳곳에 배..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12127589",
+          "publishedAt": "2026-08-13T22:59:10+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "매일경제",
+            "경향신문",
             "연합뉴스"
           ]
         },
@@ -210,25 +210,26 @@
           ]
         },
         {
-          "title": "SK하이닉스, 상반기 美 매출 84.6조…엔비디아 추정 고객 17.6조",
-          "summary": "SK하이닉스가 인공지능(AI)용 고대역폭 메모리(HBM) 수요 증가에 힘입어 올해 상반기 미국에서만 84조원이 넘는 매출을 올렸다.…",
+          "title": "SK스퀘어, 2분기 영업익 19조2354억원 '분기 최대'",
+          "summary": "SK스퀘어는 올해 2분기 연결 기준 영업이익 19조2354억원, 순이익 18조6750억원을 기록했다고 14일 밝혔다.…",
           "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/1995296",
-          "publishedAt": "2026-08-14T09:01:07+00:00",
-          "sourceCount": 2,
+          "link": "https://www.inews24.com/view/1995301",
+          "publishedAt": "2026-08-14T09:18:19+00:00",
+          "sourceCount": 3,
           "otherSources": [
+            "ZDNet코리아",
             "연합뉴스"
           ]
         },
         {
-          "title": "SK하이닉스 소액주주 346만명…1년 새 278만명 늘었다",
-          "summary": "SK하이닉스 소액주주가 1년 만에 5배 이상 늘어나며 346만명을 넘어섰다.14일 SK하이닉스 반기보고서에 따르면 올해 6월 말 기준 소액주주는 346만1526명으로 집계됐다.…",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/1995275",
-          "publishedAt": "2026-08-14T08:32:01+00:00",
+          "title": "두나무, 상반기 매출 4081억원…시장 위축에도 1000억원대 영업익",
+          "summary": "가상자산거래소 업비트를 운영하는 두나무가 글로벌 디지털자산 시장의 거래 위축 영향으로 올해 상반기 매출과 영업이익이 감소했다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154353",
+          "publishedAt": "2026-08-14T18:01:08+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "연합뉴스"
+            "ZDNet코리아"
           ]
         }
       ]
@@ -250,20 +251,20 @@
           ]
         },
         {
+          "title": "빗썸, 상반기 영업이익 149억원…거래 위축에도 흑자 유지",
+          "summary": "가상자산 거래소 빗썸이 시장 거래 위축에도 올해 상반기 영업흑자를 이어갔다. 가상자산 평가손실 영향으로 당기순손실을 기록했지만 본업인 거래소 사업에서는 흑자를 유지했다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154354",
+          "publishedAt": "2026-08-14T18:05:25+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
           "title": "물가·금리 부담 덜었지만…비트코인 6만3000달러대 횡보",
           "summary": "비트코인이 미국의 물가 둔화와 기준금리 동결 기대에도 6만3000달러대에서 제한적인 움직임을 이어가고 있다.…",
           "source": "테크M",
           "link": "https://www.techm.kr/news/articleView.html?idxno=154301",
           "publishedAt": "2026-08-14T09:38:49+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "가상자산사업자 신고·규제 강화의 주요 내용과 시사점",
-          "summary": "[블록미디어=강련호 변호사] 가상자산사업자에 대한 진입규제와 자금세탁방지(AML) 규율이 한층 강화된다.…",
-          "source": "블록미디어",
-          "link": "https://www.blockmedia.co.kr/archives/1127839?utm_source=general&utm_medium=rss",
-          "publishedAt": "2026-08-14T09:00:16+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -274,14 +275,25 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "‘WBC 8강 주역’ 위트컴, 이정후와 SF서 한솥밥",
-          "summary": "3월 월드베이스볼클래식(WBC)에서 태극마크를 달았던 한국계 내야수 셰이 위트컴(28)이 이정후(28·샌프란시스코)와 한솥밥을 먹는다.…",
+          "title": "태극마크 함께 달았던 위트컴·이정후, 샌프란시스코에서 한솥밥",
+          "summary": "올해 3월 월드베이스볼클래식(WBC)에서 함께 태극마크를 달았던 내야수 셰이 위트컴이 메이저리그(MLB) 샌프란시스코 자이언츠에서 이정후와 한솥밥을 먹는다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260814/134479129/1",
-          "publishedAt": "2026-08-14T06:46:00+00:00",
+          "link": "https://www.donga.com/news/Sports/article/all/20260814/134477807/1",
+          "publishedAt": "2026-08-14T02:16:45+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "연합뉴스"
+            "조선일보"
+          ]
+        },
+        {
+          "title": "WBC 한국 대표로 뛴 위트컴, SF에서 이정후와 한솥밥",
+          "summary": "지난 3월 월드베이스볼클래식(WBC)에서 한국 야구대표팀으로 활약했던 내야수 셰이 위트컴(27)이 미국프로야구...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260814153200007",
+          "publishedAt": "2026-08-14T08:19:18+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "동아일보"
           ]
         },
         {
@@ -294,17 +306,6 @@
           "otherSources": [
             "SBS"
           ]
-        },
-        {
-          "title": "태극마크 함께 달았던 위트컴·이정후, 샌프란시스코에서 한솥밥",
-          "summary": "올해 3월 월드베이스볼클래식(WBC)에서 함께 태극마크를 달았던 내야수 셰이 위트컴이 메이저리그(MLB) 샌프란시스코 자이언츠에서 이정후와 한솥밥을 먹는다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260814/134477807/1",
-          "publishedAt": "2026-08-14T02:16:45+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "조선일보"
-          ]
         }
       ]
     }
@@ -313,65 +314,176 @@
     {
       "id": "politics",
       "name": "정치",
+      "phrase": "선관위 특검 후보 이태한·이혁",
       "sentence": "6·3 지방선거 투표용지 부족 사태 등 국민참정권 침해 의혹을 수사할 특별검사 후보로 이태한 전 서울남부지검 형사4부장 검사와 이혁 전 서울고검 검사 등 2명이…",
-      "articleCount": 6,
+      "articleCount": 7,
       "link": "https://www.donga.com/news/Politics/article/all/20260814/134479647/1"
     },
     {
       "id": "crypto",
       "name": "가상자산",
+      "phrase": "빗썸 2분기 218억원 순손실",
       "sentence": "가상자산 거래소 빗썸은 올해 2분기 218억원의 순손실을 기록했다고 14일 밝혔다.",
-      "articleCount": 3,
+      "articleCount": 4,
       "link": "https://www.yna.co.kr/view/AKR20260814149600002"
     },
     {
-      "id": "semiconductor",
-      "name": "반도체",
-      "sentence": "SK하이닉스 소액주주가 1년 만에 5배 이상 늘어나며 346만명을 넘어섰다.14일 SK하이닉스 반기보고서에 따르면 올해 6월 말 기준 소액주주는 346만1526명…",
-      "articleCount": 2,
-      "link": "https://www.inews24.com/view/1995275"
-    },
-    {
-      "id": "ai",
-      "name": "AI·인공지능",
-      "sentence": "전 세계의 AI 투자 확대에 힘입어 정보통신산업(ICT) 수출이 두 달 연속 500억달러를 웃도는 등 호조세를 이어가고 있다.…",
-      "articleCount": 2,
-      "link": "https://view.asiae.co.kr/article/2026081411065320207"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "sentence": "국토부 제공김윤덕 국토교통부 장관이 14일 용산어린이정원을 포함해 용산공원 전체를 주택 공급 후보지로 검토하고 있다고 밝혔다.…",
-      "articleCount": 2,
-      "link": "https://www.khan.co.kr/article/202608141745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "sentence": "도널드 트럼프 미국 행정부가 수입 드론과 관련 부품에 최대 100%의 관세를 부과하기로 했다.",
-      "articleCount": 2,
-      "link": "https://www.chosun.com/international/international_general/2026/08/14/GVSWKZBQHAYGIYZSGQYTQMBUMI/"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "2분기 영업익 19조2354억원 분기 최대",
+      "sentence": "SK스퀘어는 올해 2분기 연결 기준 영업이익 19조2354억원, 순이익 18조6750억원을 기록했다고 14일 밝혔다.…",
+      "articleCount": 4,
+      "link": "https://www.inews24.com/view/1995301"
     },
     {
       "id": "world",
       "name": "국제정세",
+      "phrase": "트럼프 美 투자하는 외국 조선소에 선박 최대",
       "sentence": "도널드 트럼프 미국 대통령이 미국 조선업에 투자하는 외국 조선업체에 최대 2척의 선박을 해외에서 건조할 수 있도록 허용했다.…",
       "articleCount": 2,
       "link": "https://www.chosun.com/international/international_general/2026/08/14/MRRTIYZTGEZGCODGGBSTSMJXGY/"
     },
     {
-      "id": "stock",
-      "name": "증시",
-      "sentence": "SK하이닉스 소액주주가 1년 만에 5배 이상 늘어나며 346만명을 넘어섰다.14일 SK하이닉스 반기보고서에 따르면 올해 6월 말 기준 소액주주는 346만1526명…",
-      "articleCount": 1,
-      "link": "https://www.inews24.com/view/1995275"
-    },
-    {
       "id": "rate",
       "name": "금리",
+      "phrase": "물가·금리 부담 덜었지만",
       "sentence": "비트코인이 미국의 물가 둔화와 기준금리 동결 기대에도 6만3000달러대에서 제한적인 움직임을 이어가고 있다.…",
       "articleCount": 1,
       "link": "https://www.techm.kr/news/articleView.html?idxno=154301"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "김윤덕 국토장관 주택 공급",
+      "sentence": "국토부 제공김윤덕 국토교통부 장관이 14일 용산어린이정원을 포함해 용산공원 전체를 주택 공급 후보지로 검토하고 있다고 밝혔다.…",
+      "articleCount": 1,
+      "link": "https://www.khan.co.kr/article/202608141745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "드론·부품에 최대 100% 관세",
+      "sentence": "도널드 트럼프 미국 대통령이 13일(현지 시간) 드론 및 관련 부품에 최대 100%의 관세를 부과하는 내용의 포고문에 서명했다.…",
+      "articleCount": 1,
+      "link": "https://www.donga.com/news/Inter/article/all/20260814/134476596/1"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "물가·금리 부담 덜었지만",
+      "sentence": "비트코인이 미국의 물가 둔화와 기준금리 동결 기대에도 6만3000달러대에서 제한적인 움직임을 이어가고 있다.…",
+      "articleCount": 1,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=154301"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "김민희·홍상수",
+      "sentence": "홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 함께 스위스 로카르노영화제를 찾았다.",
+      "articleCount": 1,
+      "link": "https://www.yna.co.kr/view/AKR20260814030551005"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠",
+      "phrase": "WBC 한국 대표로 뛴 위트컴",
+      "sentence": "지난 3월 월드베이스볼클래식(WBC)에서 한국 야구대표팀으로 활약했던 내야수 셰이 위트컴(27)이 미국프로야구...",
+      "articleCount": 1,
+      "link": "https://www.yna.co.kr/view/AKR20260814153200007"
+    }
+  ],
+  "topicCatalog": [
+    {
+      "id": "semiconductor",
+      "name": "반도체"
+    },
+    {
+      "id": "stock",
+      "name": "증시"
+    },
+    {
+      "id": "fx",
+      "name": "환율"
+    },
+    {
+      "id": "rate",
+      "name": "금리"
+    },
+    {
+      "id": "ai",
+      "name": "AI·인공지능"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용"
+    },
+    {
+      "id": "politics",
+      "name": "정치"
+    },
+    {
+      "id": "world",
+      "name": "국제정세"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업"
+    },
+    {
+      "id": "telecom",
+      "name": "통신"
+    },
+    {
+      "id": "game",
+      "name": "게임"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료"
+    },
+    {
+      "id": "education",
+      "name": "교육"
+    },
+    {
+      "id": "labor",
+      "name": "노동"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후"
+    },
+    {
+      "id": "science",
+      "name": "우주·과학"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠"
     }
   ],
   "lottery": {

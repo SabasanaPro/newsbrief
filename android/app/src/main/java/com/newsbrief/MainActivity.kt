@@ -195,7 +195,11 @@ private fun AppScreen(
     ) { innerPadding ->
         Box(Modifier.fillMaxSize().padding(innerPadding)) {
             if (showSettings) {
-                SettingsScreen(settings = state.settings, onChange = viewModel::updateSettings)
+                SettingsScreen(
+                    settings = state.settings,
+                    topicCatalog = state.brief?.topicCatalog.orEmpty(),
+                    onChange = viewModel::updateSettings,
+                )
                 return@Box
             }
 

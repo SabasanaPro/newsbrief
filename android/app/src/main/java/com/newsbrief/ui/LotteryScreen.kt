@@ -238,14 +238,24 @@ private fun MyNumbersSection(
                 value = field,
                 onValueChange = { input ->
                     val digits = input.text.filter { it.isDigit() }.take(2)
+                    val previous = values[index].text
+                    // '01' 처럼 앞에 0을 붙여 치면 한 자리 수로 정리한다
+                    val normalized = if (digits.length == 2 && digits[0] == '0') digits.substring(1) else digits
+
                     values = values.toMutableList().also {
-                        it[index] = TextFieldValue(digits, TextRange(digits.length))
+                        it[index] = TextFieldValue(normalized, TextRange(normalized.length))
                     }
                     val numbers = values.mapNotNull { it.text.toIntOrNull() }.filter { it in 1..45 }
                     if (numbers.size == 6 && numbers.distinct().size == 6) {
                         onChange(myNumbers.copy(numbers = numbers))
                     }
-                    if (index < 5 && isComplete(digits)) moveTo(index + 1)
+
+                    when {
+                        // 칸을 다 지우면 왼쪽 칸 끝으로
+                        normalized.isEmpty() && previous.isNotEmpty() && index > 0 -> moveTo(index - 1)
+                        // 두 자리를 채웠거나 0을 붙여 한 자리를 확정하면 오른쪽 칸으로
+                        digits.length == 2 && normalized != "0" && index < 5 -> moveTo(index + 1)
+                    }
                 },
                 modifier = Modifier
                     .weight(1f)
@@ -291,17 +301,6 @@ private fun MyNumbersSection(
             )
         }
     }
-}
-
-/**
- * 이 칸 입력이 끝났다고 볼 수 있는지.
- * 로또 번호는 1~45라 첫 자리가 5~9면 두 자리가 될 수 없어 바로 다음 칸으로 넘긴다.
- * 1~4 는 4 일 수도 40번대일 수도 있어 한 자리만으로는 넘기지 않는다.
- */
-private fun isComplete(digits: String): Boolean = when (digits.length) {
-    2 -> true
-    1 -> digits[0] in '5'..'9'
-    else -> false
 }
 
 @Composable

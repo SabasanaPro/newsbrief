@@ -10,17 +10,20 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add
 import androidx.compose.material.icons.filled.Close
+import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.AssistChip
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Checkbox
-import androidx.compose.material3.FilterChip
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -28,6 +31,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -42,27 +46,27 @@ import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import com.newsbrief.data.Alarm
 import com.newsbrief.data.AppSettings
+import com.newsbrief.data.TopicOption
 
-/** 설정에서 고를 수 있는 브리핑 주제. 백엔드 topics.py 의 id 와 맞춘다. */
-private val TOPIC_OPTIONS = listOf(
-    "stock" to "증시",
-    "semiconductor" to "반도체",
-    "fx" to "환율",
-    "rate" to "금리",
-    "ai" to "AI·인공지능",
-    "crypto" to "가상자산",
-    "realestate" to "부동산",
-    "oil" to "유가·에너지",
-    "trade" to "수출·관세",
-    "price" to "물가·고용",
-    "politics" to "정치",
-    "world" to "국제정세",
-    "industry" to "산업·기업",
+/**
+ * 서버가 주제 목록을 내려주기 전에 쓸 기본값.
+ * 평소에는 news.json 의 topicCatalog 를 쓰므로, 주제가 늘어도 앱을 다시 깔 필요가 없다.
+ */
+private val FALLBACK_TOPICS = listOf(
+    TopicOption("stock", "증시"),
+    TopicOption("semiconductor", "반도체"),
+    TopicOption("fx", "환율"),
+    TopicOption("crypto", "가상자산"),
 )
 
-@OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun SettingsScreen(settings: AppSettings, onChange: (AppSettings) -> Unit) {
+fun SettingsScreen(
+    settings: AppSettings,
+    topicCatalog: List<TopicOption>,
+    onChange: (AppSettings) -> Unit,
+) {
+    var showTopicPicker by remember { mutableStateOf(false) }
+    val catalog = topicCatalog.ifEmpty { FALLBACK_TOPICS }
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -108,26 +112,26 @@ fun SettingsScreen(settings: AppSettings, onChange: (AppSettings) -> Unit) {
             }
         }
 
-        SettingsCard("🤖 AI 오늘의 브리핑") {
+        SettingsCard(
+            title = "🤖 AI 오늘의 브리핑",
+            action = {
+                TextButton(onClick = { showTopicPicker = true }) {
+                    Text("주제 선택")
+                }
+            },
+        ) {
+            val chosen = catalog.filter { it.id in settings.topics }
             Text(
-                "홈 화면 브리핑에 넣을 주제를 고르세요.",
-                style = MaterialTheme.typography.bodySmall,
+                text = if (chosen.isEmpty()) "선택한 주제가 없습니다"
+                else chosen.joinToString(" · ") { it.name },
+                style = MaterialTheme.typography.bodyMedium,
+            )
+            Spacer(Modifier.height(4.dp))
+            Text(
+                "최대 ${MAX_TOPICS}개까지 고를 수 있습니다 (${chosen.size}/$MAX_TOPICS)",
+                style = MaterialTheme.typography.labelSmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
-            Spacer(Modifier.height(8.dp))
-            FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp)) {
-                TOPIC_OPTIONS.forEach { (id, name) ->
-                    val checked = id in settings.topics
-                    FilterChip(
-                        selected = checked,
-                        onClick = {
-                            val next = if (checked) settings.topics - id else settings.topics + id
-                            onChange(settings.copy(topics = next))
-                        },
-                        label = { Text(name) },
-                    )
-                }
-            }
         }
 
         SettingsCard("📍 날씨") {
@@ -159,6 +163,71 @@ fun SettingsScreen(settings: AppSettings, onChange: (AppSettings) -> Unit) {
         )
         Spacer(Modifier.height(16.dp))
     }
+
+    if (showTopicPicker) {
+        TopicPickerDialog(
+            catalog = catalog,
+            selected = settings.topics,
+            onConfirm = { onChange(settings.copy(topics = it)) },
+            onDismiss = { showTopicPicker = false },
+        )
+    }
+}
+
+/** 주제가 20개가 넘어 설정 화면에 다 펼치면 길어지므로 팝업으로 뺀다. */
+@Composable
+private fun TopicPickerDialog(
+    catalog: List<TopicOption>,
+    selected: Set<String>,
+    onConfirm: (Set<String>) -> Unit,
+    onDismiss: () -> Unit,
+) {
+    var picked by remember { mutableStateOf(selected) }
+    val full = picked.size >= MAX_TOPICS
+
+    AlertDialog(
+        onDismissRequest = onDismiss,
+        title = { Text("브리핑 주제 (${picked.size}/$MAX_TOPICS)") },
+        text = {
+            LazyColumn(Modifier.heightIn(max = 400.dp)) {
+                items(catalog, key = { it.id }) { option ->
+                    val checked = option.id in picked
+                    // 4개를 채우면 나머지는 고를 수 없게 막는다
+                    val selectable = checked || !full
+                    Row(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .clickable(enabled = selectable) {
+                                picked = if (checked) picked - option.id else picked + option.id
+                            }
+                            .padding(vertical = 2.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Checkbox(
+                            checked = checked,
+                            onCheckedChange = {
+                                if (selectable) picked = if (checked) picked - option.id else picked + option.id
+                            },
+                            enabled = selectable,
+                        )
+                        Text(
+                            text = option.name,
+                            style = MaterialTheme.typography.bodyLarge,
+                            color = if (selectable) MaterialTheme.colorScheme.onSurface
+                            else MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                }
+            }
+        },
+        confirmButton = {
+            TextButton(onClick = {
+                onConfirm(picked)
+                onDismiss()
+            }) { Text("확인") }
+        },
+        dismissButton = { TextButton(onClick = onDismiss) { Text("취소") } },
+    )
 }
 
 @Composable
@@ -240,15 +309,26 @@ private fun KeywordEditor(keywords: List<String>, onChange: (List<String>) -> Un
 }
 
 @Composable
-private fun SettingsCard(title: String, content: @Composable () -> Unit) {
+private fun SettingsCard(
+    title: String,
+    action: (@Composable () -> Unit)? = null,
+    content: @Composable () -> Unit,
+) {
     Card(
         modifier = Modifier.fillMaxWidth(),
         colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
         elevation = CardDefaults.cardElevation(defaultElevation = 1.dp),
     ) {
         Column(Modifier.padding(14.dp)) {
-            Text(title, style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Bold)
-            Spacer(Modifier.height(10.dp))
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.SpaceBetween,
+            ) {
+                Text(title, style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Bold)
+                action?.invoke()
+            }
+            Spacer(Modifier.height(6.dp))
             content()
         }
     }

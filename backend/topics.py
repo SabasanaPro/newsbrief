@@ -6,6 +6,8 @@
 
 import re
 
+from rank import normalize_title
+
 # (주제 id, 표시 이름, 키워드) — 키워드가 제목·요약에 나오면 그 주제로 본다
 TOPICS = [
     ("semiconductor", "반도체", (
@@ -43,6 +45,16 @@ TOPICS = [
         "조선업", "조선소", "자동차", "현대차", "기아", "배터리", "이차전지", "철강",
         "항공사", "항공업", "제약", "바이오", "실적 발표", "영업이익",
     )),
+    ("telecom", "통신", ("통신사", "SKT", "KT", "LG유플러스", "5G", "6G", "요금제", "알뜰폰")),
+    ("game", "게임", ("게임", "넥슨", "엔씨소프트", "크래프톤", "넷마블", "스팀", "e스포츠")),
+    ("retail", "유통·소비", ("백화점", "이마트", "편의점", "쿠팡", "소비심리", "유통", "온라인쇼핑")),
+    ("health", "건강·의료", ("의료", "병원", "의대", "감염", "백신", "질병", "건강보험", "환자")),
+    ("education", "교육", ("교육부", "대학", "입시", "수능", "학교", "학생", "등록금")),
+    ("labor", "노동", ("노조", "파업", "노동자", "산업재해", "정년", "근로시간")),
+    ("climate", "환경·기후", ("기후", "탄소", "폭염", "태풍", "미세먼지", "가뭄", "온실가스", "재생에너지")),
+    ("science", "우주·과학", ("우주", "위성", "발사체", "누리호", "천문", "연구진", "논문")),
+    ("entertain", "연예·문화", ("드라마", "영화", "아이돌", "배우", "가수", "공연", "예능", "영화제")),
+    ("sports", "스포츠", ("야구", "축구", "KBO", "프로야구", "손흥민", "올림픽", "월드컵", "농구", "골프")),
 ]
 
 _SENTENCE_END_RE = re.compile(r"(?<=[.!?])\s+")
@@ -62,6 +74,36 @@ def keyword_pattern(keywords: tuple[str, ...]) -> re.Pattern:
 
 
 _TOPIC_PATTERNS = {topic_id: keyword_pattern(words) for topic_id, _, words in TOPICS}
+
+
+# 제목을 토막 내는 구분자. '·' 는 '반도체·SSD' 처럼 한 낱말 안에서도 쓰여 제외한다.
+_CLAUSE_RE = re.compile(r"…|\.\.\.|,|\||/")
+_QUOTE_RE = re.compile(r"[\"'“”‘’]")
+_TRIM_CHARS = " \"'“”‘’()[]<>《》·-"
+
+
+def _phrase(title: str, pattern: re.Pattern, limit: int = 26) -> str:
+    """제목에서 주제에 해당하는 토막만 뽑아 짧은 구로 만든다.
+
+    문장을 통째로 가져오면 브리핑이 기사 나열처럼 읽혀서, 키워드가 든 부분만 남긴다.
+    예: 'AI 열풍에 반도체·SSD 수출 급증… 7월 ICT 수출 역대 최대' → 'AI 열풍에 반도체·SSD 수출 급증'
+    """
+    # 따옴표를 남기면 뒤에 조사가 붙었을 때 문장이 깨진다
+    cleaned = re.sub(r"\s+", " ", _QUOTE_RE.sub(" ", normalize_title(title))).strip()
+
+    clauses = [c.strip(_TRIM_CHARS) for c in _CLAUSE_RE.split(cleaned)]
+    clauses = [c for c in clauses if len(c) >= 6]
+
+    # 키워드가 든 토막 중 가장 짧은 것 — 짧을수록 잘리지 않고 온전히 들어간다
+    hits = [c for c in clauses if pattern.search(c)]
+    chosen = min(hits, key=len) if hits else (clauses[0] if clauses else cleaned)
+
+    if len(chosen) > limit:
+        # 낱말 중간에서 끊기면 어색하므로 띄어쓰기 위치에서 자른다
+        cut = chosen[:limit]
+        space = cut.rfind(" ")
+        chosen = (cut[:space] if space >= limit // 2 else cut).rstrip()
+    return chosen.strip(_TRIM_CHARS)
 
 
 def _first_sentence(text: str, limit: int = 90) -> str:
@@ -94,23 +136,22 @@ def build_topics(stories: list[dict]) -> list[dict]:
         if not matched:
             continue
 
-        # 여러 매체가 다룬 기사를 대표로 삼되, 다른 주제가 이미 쓴 기사는 피해 문장 중복을 막는다
-        ranked = sorted(
+        # 여러 매체가 다룬 기사를 대표로 삼되, 다른 주제가 이미 쓴 기사는 뒤로 미뤄
+        # 주제마다 다른 기사가 걸리도록 한다. 대안이 없으면 겹치더라도 그대로 둔다.
+        lead = min(
             matched,
             key=lambda s: (s["link"] in used_links, -s.get("sourceCount", 1), -len(s.get("summary", ""))),
         )
-        lead = ranked[0]
-        if lead["link"] in used_links and len(result) >= 3:
-            continue
         used_links.add(lead["link"])
-
-        sentence = _first_sentence(lead.get("summary") or "") or f"{lead['title']} 소식이 전해졌습니다."
 
         result.append(
             {
                 "id": topic_id,
                 "name": name,
-                "sentence": sentence,
+                # 앱이 여러 주제를 한 문단으로 엮을 때 쓰는 짧은 구
+                "phrase": _phrase(lead["title"], pattern),
+                # 참고용 전체 문장
+                "sentence": _first_sentence(lead.get("summary") or "") or lead["title"],
                 "articleCount": len(matched),
                 "link": lead["link"],
             }
@@ -119,3 +160,11 @@ def build_topics(stories: list[dict]) -> list[dict]:
     # 관련 기사가 많은 주제가 위로
     result.sort(key=lambda t: t["articleCount"], reverse=True)
     return result
+
+
+def catalog() -> list[dict]:
+    """설정 화면에 보여줄 전체 주제 목록.
+
+    앱에 목록을 박아두면 주제를 늘릴 때마다 앱을 다시 설치해야 해서 여기서 함께 내려보낸다.
+    """
+    return [{"id": topic_id, "name": name} for topic_id, name, _ in TOPICS]

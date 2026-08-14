@@ -145,6 +145,7 @@ def main() -> int:
         "generatedAt": now.astimezone(KST).isoformat(timespec="seconds"),
         "categories": categories,
         "topics": topics_module.build_topics(all_stories),
+        "topicCatalog": topics_module.catalog(),
     }
 
     if not args.no_lottery:
