@@ -1,0 +1,46 @@
+name: 뉴스·복권 데이터 갱신
+
+on:
+  schedule:
+    # GitHub 의 cron 은 UTC 기준이고 실제 실행이 5~15분 늦어질 수 있어
+    # 목표 시각(08:00 / 20:00 KST)보다 20분 일찍 잡아둔다.
+    - cron: "40 22 * * *"  # 07:40 KST
+    - cron: "40 10 * * *"  # 19:40 KST
+  workflow_dispatch:        # Actions 탭에서 수동 실행
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: backend/requirements.txt
+
+      - run: pip install -r backend/requirements.txt
+
+      - name: 뉴스·복권 수집
+        working-directory: backend
+        run: python collect.py --out ../data/news.json
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --staged --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "데이터 갱신 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')"
+            git push
+          fi

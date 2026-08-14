@@ -1,0 +1,305 @@
+{
+  "generatedAt": "2026-08-14T15:19:14+09:00",
+  "categories": [
+    {
+      "id": "politics",
+      "name": "정치",
+      "items": [
+        {
+          "title": "靑 \"국회 권한 강화된 4년 중임 대통령제가 국민 수용성 높아\"",
+          "summary": "청와대는 14일 이재명 대통령이 추구하는 권력구조 개헌의 방향성과 관련해 \"국회의 권한이 강화된 4년 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260814078700001",
+          "publishedAt": "2026-08-14T03:14:56+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "동아일보",
+            "서울신문",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "송영길, ‘정청래 붕어 아이큐’ 발언에 “동지에게 쓸 말 아냐···유감”",
+          "summary": "국회사진기자단8·17 더불어민주당 전당대회 당대표 후보로 나선 송영길 의원이 경쟁자인 정청래 의원을 두고 “붕어 아이큐도 아니고 뻔한 거짓말을 왜 하냐”고 한 발언에 대해 14일 사과했다.송 의원은 이날 페이스북에 ‘붕어’ 표현에 대해 ···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608141117001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-08-14T02:17:00+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "李대통령 지지율 44%로 취임 후 최저…부정평가 46% 첫 역전",
+          "summary": "이재명 대통령의 국정 지지율이 직전 조사 대비 7% 내리며 취임 후 최저치를 기록했다는 여론조사 결과가 14일...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260814054851001",
+          "publishedAt": "2026-08-14T02:21:37+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "조선일보"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "경제",
+      "items": [
+        {
+          "title": "지난달 ICT 수출 533억6000만 달러…7월 기준 역대 최대",
+          "summary": "지난달 반도체를 포함한 정보통신산업(ICT) 수출액이 533억6000만 달러로 역대 7월 기준 가장 많았다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20260814/134477643/1",
+          "publishedAt": "2026-08-14T02:21:00+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "아시아경제",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "카카오뱅크 임원진, 자사주 2만1000주 매입… “주주가치 높일 것”",
+          "summary": "인터넷전문은행 카카오뱅크 임원진이 4억6000만원 규모 자사주를 매입한 것으로 나타났다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/GE4DEN3CMUYTCNTEMVRTQOLFGM/",
+          "publishedAt": "2026-08-14T01:59:21+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "경향신문",
+            "아시아경제",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "환율-유가 하락에 7월 수입물가 두 달 연속 내림세… 전월 대비 1% 하락",
+          "summary": "국제유가와 원-달러 환율이 나란히 하락하면서 수입물가가 두 달 연속으로 전월 대비 내림세를 보였다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20260814/134478536/1",
+          "publishedAt": "2026-08-14T05:27:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "연합뉴스"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "사회",
+      "items": [
+        {
+          "title": "상습도박·음주운전 의혹 이진호에 검찰 징역 2년 구형",
+          "summary": "검찰이 상습도박과 음주운전 혐의로 재판에 넘겨진 개그맨 이진호에게 징역 2년을 구형했다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003172",
+          "publishedAt": "2026-08-14T05:20:00+00:00",
+          "sourceCount": 8,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "노컷뉴스",
+            "동아일보",
+            "매일경제",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "백해룡 경정, ‘세관마약 의혹’ 합동수사한 임은정 동부지검장 고소",
+          "summary": "‘세관 마약수사 외압 의혹’을 제기해 온 백해룡 서울 강서경찰서 화곡지구대장(경정)이 합동수사단에서 함께 활동했던 임은정 서울동부지검장을 경찰에 고소했다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003148",
+          "publishedAt": "2026-08-14T03:12:00+00:00",
+          "sourceCount": 6,
+          "otherSources": [
+            "SBS",
+            "동아일보",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "특검, ‘尹체포방해’ 나경원·김기현·윤상현·권영진 기소",
+          "summary": "윤석열 전 대통령에 대한 고위공직자범죄수사처(공수처) 등의 체포영장 집행을 방해했다는 혐의를 받는 국민의힘 의원들이 재판에 넘겨졌다. 권창영 2차 종합 특별검사팀은 국민의힘 나경원..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12127848",
+          "publishedAt": "2026-08-14T03:54:07+00:00",
+          "sourceCount": 6,
+          "otherSources": [
+            "경향신문",
+            "국민일보",
+            "노컷뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "국제",
+      "items": [
+        {
+          "title": "트럼프, 수입 드론·부품에 관세 100%···한국은 15%",
+          "summary": "AP연합뉴스도널드 트럼프 미국 대통령이 수입 무인기(드론)와 부품에 관세를 부과하겠다고 밝혔다.백악관은 13일(현지시간) 트럼프 대통령이 드론과 그 부품 수입으로 인한 국가 안보 위협에 대응하고 미국 드론 산업 및 공급망을 강화하는 내용을 담은 포고문에 서명···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608140723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-08-13T22:23:00+00:00",
+          "sourceCount": 6,
+          "otherSources": [
+            "SBS",
+            "동아일보",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "트럼프 “美 투자하는 외국 조선소에 선박 최대 2척 건조 승인”",
+          "summary": "도널드 트럼프 미국 대통령이 미국 조선업에 투자하는 외국 조선업체에 최대 2척의 선박을 해외에서 건조할 수 있도록 허용했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/08/14/MRRTIYZTGEZGCODGGBSTSMJXGY/",
+          "publishedAt": "2026-08-13T22:09:56+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "매일경제",
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "“투신 시도 여러번 있었다”…이란 앞바다 9개월, 링컨함에 생긴 일 ‘충격’‘",
+          "summary": "이란 앞바다에 9개월째 머물고 있는 미국 핵추진 항공모함 에이브러햄 링컨호 승조원들의 ‘한계 상황’이 알려지면서 충격을 주고 있다. 링컨함 승조원의 가족뿐 아니라, 세계 곳곳에 배..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12127589",
+          "publishedAt": "2026-08-13T22:59:10+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "연합뉴스"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "IT·과학",
+      "items": [
+        {
+          "title": "에이직랜드, 상반기 매출 1137억원 '역대 최대'⋯영업익 흑자전환",
+          "summary": "에이직랜드가 올해 상반기 창사 이래 최대 반기 매출을 기록하고 흑자 전환에 성공했다.에이직랜드는 올해 상반기 연결 기준 매출 1137억원, 영업이익 50억원을 기록했다고 14일 밝혔다.매출은 전년 동기 305억원보다…",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/1995088",
+          "publishedAt": "2026-08-14T03:18:57+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "삼성전자, 딥러닝·데이터 전문가 영입…반도체 AX 가속",
+          "summary": "삼성전자가 딥러닝과 데이터 엔지니어링 분야 전문가를 잇달아 영입하며 반도체 사업의 AX(AI Transformation·인공지능 전환)에 속도를 낸다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=670937",
+          "publishedAt": "2026-08-14T09:32:43+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "전자신문"
+          ]
+        },
+        {
+          "title": "딥엑스, NPU 양산 1년 만에 글로벌 수주 77건…180억원 돌파",
+          "summary": "인공지능(AI) 반도체 기업 딥엑스는 자체 개발한 신경망처리장치(NPU)를 양산한 지 1년 만에 글로벌 시장에서 상업용 구매주문(PO) 77건을 확보했다고 밝혔다.딥엑스는 지난해 8월 온디바이스 AI 반도체 'DX-M1' 양산을 시작한 이후",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/1995173",
+          "publishedAt": "2026-08-14T05:43:12+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "name": "문화·스포츠",
+      "items": [
+        {
+          "title": "김민희·홍상수, 득남 후 첫 공식석상…\"아기 수유하며 촬영\"",
+          "summary": "홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 함께 스위스 로카르노영화제를 찾았다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260814030551005",
+          "publishedAt": "2026-08-14T01:36:45+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "태극마크 함께 달았던 위트컴·이정후, 샌프란시스코에서 한솥밥",
+          "summary": "올해 3월 월드베이스볼클래식(WBC)에서 함께 태극마크를 달았던 내야수 셰이 위트컴이 메이저리그(MLB) 샌프란시스코 자이언츠에서 이정후와 한솥밥을 먹는다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20260814/134477807/1",
+          "publishedAt": "2026-08-14T02:16:45+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "조선일보"
+          ]
+        },
+        {
+          "title": "임대 생활 마친 20세 공격수 김민수, 스페인 지로나 1군 등록",
+          "summary": "임대 생활을 성공적으로 마친 2006년생 공격수 김민수(20)가 2026-2027시즌에는 스페인 프로축구 지로...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260814019351007",
+          "publishedAt": "2026-08-14T00:07:16+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "동아일보"
+          ]
+        }
+      ]
+    }
+  ],
+  "lottery": {
+    "lotto": {
+      "round": 1236,
+      "drawDate": "2026-08-08",
+      "numbers": [
+        12,
+        18,
+        21,
+        29,
+        34,
+        38
+      ],
+      "bonus": 10,
+      "firstPrizeWinners": 11,
+      "firstPrizeAmount": 2441919375,
+      "link": "https://www.dhlottery.co.kr/lt645/result"
+    },
+    "pension": {
+      "round": 328,
+      "drawDate": "2026-08-13",
+      "group": "3",
+      "number": "644513",
+      "bonus": "177237",
+      "firstPrizeWinners": 2,
+      "firstPrizeAmount": 1680000000,
+      "link": "https://www.dhlottery.co.kr/pt720/result"
+    }
+  }
+}
