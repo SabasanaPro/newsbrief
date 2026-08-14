@@ -12,15 +12,24 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.SwapHoriz
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.newsbrief.data.AppSettings
@@ -30,7 +39,11 @@ import com.newsbrief.data.MAX_TOPICS
 import com.newsbrief.data.MyNumbers
 import com.newsbrief.data.Pension
 import com.newsbrief.data.Quote
+import com.newsbrief.data.RateTable
 import com.newsbrief.data.composeBriefing
+import com.newsbrief.data.currencyOf
+// 이 파일에도 억 단위로 줄이는 formatAmount 가 있어 이름을 바꿔 들여온다
+import com.newsbrief.data.formatAmount as formatMoney
 import com.newsbrief.data.pickBriefingTopics
 import com.newsbrief.data.Story
 import com.newsbrief.data.Weather
@@ -45,6 +58,7 @@ import java.util.Locale
 fun HomeScreen(
     brief: Brief?,
     quotes: List<Quote>,
+    rates: RateTable,
     weather: Weather?,
     weatherLoading: Boolean,
     myNumbers: MyNumbers,
@@ -73,9 +87,8 @@ fun HomeScreen(
 
         AiBriefingCard(brief, settings)
         TopNewsCard(brief, onOpenStory)
-        MarketCard(quotes, onSearch)
-        LottoCard(brief?.lottery?.lotto, myNumbers, onOpenLink)
-        PensionCard(brief?.lottery?.pension, onOpenLink)
+        MarketCard(quotes, rates, onSearch)
+        LotteryCard(brief?.lottery?.lotto, brief?.lottery?.pension, myNumbers, onOpenLink)
         WeatherCard(weather, weatherLoading, onSearch)
 
         Spacer(Modifier.height(16.dp))
@@ -143,10 +156,60 @@ private fun TopNewsCard(brief: Brief?, onOpenStory: (Story) -> Unit) {
 /* ---------------- 시장 ---------------- */
 
 @Composable
-private fun MarketCard(quotes: List<Quote>, onSearch: (String) -> Unit) {
-    if (quotes.isEmpty()) return
+private fun MarketCard(quotes: List<Quote>, rates: RateTable, onSearch: (String) -> Unit) {
+    var showRates by rememberSaveable { mutableStateOf(false) }
+    val canSwitch = rates.isUsable
+    val rateView = showRates && canSwitch
 
-    HomeCard(title = "📈 시장") {
+    if (quotes.isEmpty() && !rateView) return
+
+    HomeCard(
+        title = if (rateView) "💱 시세 · 환율" else "📈 시세 · 지수",
+        switchTo = if (canSwitch) (if (rateView) "지수" else "환율") else null,
+        onSwitch = if (canSwitch) ({ showRates = !showRates }) else null,
+    ) {
+        if (rateView) RateRows(rates, onSearch) else QuoteRows(quotes, onSearch)
+    }
+}
+
+/** 홈에서 자주 보는 네 가지만. 더 필요하면 시세 탭의 환율 계산기에서 본다. */
+private val HOME_RATES = listOf(
+    Triple("USD", "달러", 1),
+    Triple("JPY", "엔화", 100),
+    Triple("EUR", "유로", 1),
+    Triple("CNY", "위안", 1),
+)
+
+@Composable
+private fun RateRows(rates: RateTable, onSearch: (String) -> Unit) {
+    val krw = currencyOf("KRW")
+    HOME_RATES.forEach { (code, name, unit) ->
+        val value = rates.convert(unit.toDouble(), code, "KRW") ?: return@forEach
+        Row(
+            modifier = Modifier
+                .fillMaxWidth()
+                .clickable { onSearch("$name 환율") }
+                .padding(vertical = 4.dp),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            // 엔화는 100엔 기준으로 보는 게 익숙하다
+            Text(
+                "• $name${if (unit != 1) " ${unit}" else ""} ($code)",
+                style = MaterialTheme.typography.bodyMedium,
+            )
+            Text(
+                "${krw.symbol}${formatMoney(value, 2)}",
+                style = MaterialTheme.typography.bodyMedium,
+                fontWeight = FontWeight.SemiBold,
+            )
+        }
+    }
+}
+
+@Composable
+private fun QuoteRows(quotes: List<Quote>, onSearch: (String) -> Unit) {
+    Column {
         quotes.forEach { quote ->
             Row(
                 modifier = Modifier
@@ -176,13 +239,36 @@ private fun MarketCard(quotes: List<Quote>, onSearch: (String) -> Unit) {
     }
 }
 
-/* ---------------- 로또 ---------------- */
+/* ---------------- 복권 ---------------- */
+
+/** 로또와 연금복권을 한 칸에 두고 제목 옆 버튼으로 바꿔 본다. */
+@Composable
+private fun LotteryCard(
+    lotto: Lotto?,
+    pension: Pension?,
+    myNumbers: MyNumbers,
+    onOpenLink: (String) -> Unit,
+) {
+    var showPension by rememberSaveable { mutableStateOf(false) }
+    // 한쪽 데이터가 없으면 전환할 것이 없다
+    val canSwitch = lotto != null && pension != null
+    val pensionView = showPension && pension != null
+
+    if (lotto == null && pension == null) return
+
+    HomeCard(
+        title = if (pensionView) "💰 복권 · 연금복권" else "🍀 복권 · 로또",
+        onClick = { onOpenLink(if (pensionView) pension!!.link else lotto!!.link) },
+        switchTo = if (canSwitch) (if (pensionView) "로또" else "연금복권") else null,
+        onSwitch = if (canSwitch) ({ showPension = !showPension }) else null,
+    ) {
+        if (pensionView) PensionBody(pension!!) else LottoBody(lotto!!, myNumbers)
+    }
+}
 
 @Composable
-private fun LottoCard(lotto: Lotto?, myNumbers: MyNumbers, onOpenLink: (String) -> Unit) {
-    if (lotto == null) return
-
-    HomeCard(title = "🍀 로또", onClick = { onOpenLink(lotto.link) }) {
+private fun LottoBody(lotto: Lotto, myNumbers: MyNumbers) {
+    Column {
         BulletRow("${lotto.round}회 ${lotto.numbers.joinToString(", ")} + ${lotto.bonus}")
 
         val winners = lotto.firstPrizeWinners
@@ -207,13 +293,9 @@ private fun LottoCard(lotto: Lotto?, myNumbers: MyNumbers, onOpenLink: (String) 
     }
 }
 
-/* ---------------- 연금복권 ---------------- */
-
 @Composable
-private fun PensionCard(pension: Pension?, onOpenLink: (String) -> Unit) {
-    if (pension == null) return
-
-    HomeCard(title = "💰 연금복권 720+", onClick = { onOpenLink(pension.link) }) {
+private fun PensionBody(pension: Pension) {
+    Column {
         BulletRow("${pension.round}회 ${pension.group ?: "-"}조 ${pension.number.orEmpty()}")
 
         pension.bonus?.takeIf { it.isNotBlank() }?.let { BulletRow("보너스 $it") }
@@ -260,6 +342,9 @@ private fun WeatherCard(weather: Weather?, loading: Boolean, onSearch: (String) 
 private fun HomeCard(
     title: String,
     onClick: (() -> Unit)? = null,
+    /** 제목을 눌러 다른 내용으로 바꿀 수 있을 때 함께 보여줄 이름 */
+    switchTo: String? = null,
+    onSwitch: (() -> Unit)? = null,
     content: @Composable () -> Unit,
 ) {
     Card(
@@ -270,7 +355,36 @@ private fun HomeCard(
         elevation = CardDefaults.cardElevation(defaultElevation = 1.dp),
     ) {
         Column(Modifier.padding(14.dp)) {
-            Text(title, style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Bold)
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.SpaceBetween,
+            ) {
+                Text(title, style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Bold)
+                if (switchTo != null && onSwitch != null) {
+                    // 카드 자체를 누르면 링크가 열리므로, 전환은 이 조각만 눌리게 한다
+                    Row(
+                        modifier = Modifier
+                            .clip(RoundedCornerShape(6.dp))
+                            .clickable(onClick = onSwitch)
+                            .padding(horizontal = 6.dp, vertical = 2.dp),
+                        verticalAlignment = Alignment.CenterVertically,
+                    ) {
+                        Icon(
+                            Icons.Filled.SwapHoriz,
+                            contentDescription = null,
+                            modifier = Modifier.size(15.dp),
+                            tint = MaterialTheme.colorScheme.primary,
+                        )
+                        Spacer(Modifier.width(3.dp))
+                        Text(
+                            switchTo,
+                            style = MaterialTheme.typography.labelMedium,
+                            color = MaterialTheme.colorScheme.primary,
+                        )
+                    }
+                }
+            }
             Spacer(Modifier.height(8.dp))
             content()
         }

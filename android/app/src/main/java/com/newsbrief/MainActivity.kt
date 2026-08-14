@@ -216,6 +216,7 @@ private fun AppScreen(
                 Tab.Home -> HomeScreen(
                     brief = state.brief,
                     quotes = state.quotes,
+                    rates = state.rates,
                     weather = state.weather,
                     weatherLoading = state.weatherLoading,
                     myNumbers = state.myNumbers,
