@@ -65,7 +65,7 @@ fun MarketScreen(
             verticalAlignment = Alignment.CenterVertically,
             horizontalArrangement = Arrangement.SpaceBetween,
         ) {
-            Text("시세", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
+            Text("시장", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
             IconButton(onClick = onRefresh, enabled = !loading) {
                 if (loading) {
                     CircularProgressIndicator(Modifier.size(20.dp), strokeWidth = 2.dp)

@@ -72,9 +72,6 @@ fun LotteryScreen(
         return
     }
 
-    // 목요일엔 연금복권, 토요일·일요일엔 로또를 위로 올린다
-    val pensionFirst = LocalDate.now().dayOfWeek in setOf(DayOfWeek.THURSDAY, DayOfWeek.FRIDAY)
-
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -82,12 +79,9 @@ fun LotteryScreen(
             .padding(16.dp),
         verticalArrangement = Arrangement.spacedBy(12.dp),
     ) {
-        val cards = buildList<@Composable () -> Unit> {
-            if (lotto != null) add { LottoCard(lotto, myNumbers, onMyNumbersChange, onOpenLink) }
-            if (pension != null) add { PensionCard(pension, onOpenLink) }
-        }
-        val ordered = if (pensionFirst) cards.reversed() else cards
-        ordered.forEach { it() }
+        // 로또를 항상 먼저 보여준다
+        if (lotto != null) LottoCard(lotto, myNumbers, onMyNumbersChange, onOpenLink)
+        if (pension != null) PensionCard(pension, onOpenLink)
 
         Spacer(Modifier.height(8.dp))
     }
