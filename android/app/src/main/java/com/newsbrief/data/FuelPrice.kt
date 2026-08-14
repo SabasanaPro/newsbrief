@@ -20,13 +20,20 @@ val RADIUS_OPTIONS = listOf(3000, 5000, 10000)
 @Serializable
 data class Station(
     val name: String,
-    val gasoline: Int,
+    /** 도로명 주소. 지도에서 정확히 찾으려면 이름만으로는 부족하다. */
+    val address: String = "",
+    val gasoline: Int? = null,
     /** 고급휘발유. 취급하지 않는 주유소가 많아 없을 수 있다. */
     val premium: Int? = null,
     val brand: String = "",
     /** 현재 위치에서의 직선거리(m) */
     val distance: Int = 0,
-)
+) {
+    fun priceOf(type: FuelType): Int? = when (type) {
+        FuelType.Premium -> premium
+        else -> gasoline
+    }
+}
 
 @Serializable
 data class FuelPrices(
@@ -46,7 +53,10 @@ data class FuelPrices(
 ) {
     val isUsable: Boolean get() = nationalAverage.isNotEmpty()
 
-    fun within(radius: Int): List<Station> = nearby.filter { it.distance <= radius }
+    /** 고른 유종을 파는 곳만, 그 유종 값이 싼 순으로. */
+    fun within(radius: Int, type: FuelType): List<Station> =
+        nearby.filter { it.distance <= radius && it.priceOf(type) != null }
+            .sortedBy { it.priceOf(type) }
 }
 
 /** 정유사 코드 → 표시 이름. */
@@ -151,74 +161,94 @@ class FuelRepository(context: Context) {
      */
     private suspend fun aroundStations(latitude: Double, longitude: Double): List<Station> {
         val (x, y) = Katec.fromWgs84(latitude, longitude)
-        val body = call(
-            "aroundAll.do",
-            "x" to "%.1f".format(x),
-            "y" to "%.1f".format(y),
-            "radius" to RADIUS_OPTIONS.max().toString(),
-            "prodcd" to FuelType.Gasoline.code,
-            "sort" to "1",
-        )
-        val rows = JSONObject(body).getJSONObject("RESULT").getJSONArray("OIL")
 
-        val all = (0 until rows.length()).map { i ->
-            val row = rows.getJSONObject(i)
-            Triple(
-                row.optString("UNI_ID"),
-                Station(
-                    name = row.optString("OS_NM"),
-                    gasoline = row.optDouble("PRICE", 0.0).toInt(),
-                    brand = BRANDS[row.optString("POLL_DIV_CD")] ?: "",
-                    distance = row.optDouble("DISTANCE", 0.0).toInt(),
-                ),
-                row.optDouble("DISTANCE", 0.0).toInt(),
-            )
-        }
-
-        // 반경마다 싼 곳 위주로 뽑아 합친다. 3km 안에 아무것도 안 남는 일을 막는다.
+        // 휘발유와 고급휘발유는 파는 곳이 달라 각각 조회한 뒤 합친다.
+        // 고급휘발유만 보면 취급점이 적어 목록이 금방 비어 버린다.
         val picked = LinkedHashMap<String, Station>()
-        for (radius in RADIUS_OPTIONS) {
-            all.filter { it.third <= radius }.take(PER_RADIUS).forEach { (id, station, _) ->
-                picked.putIfAbsent(id, station)
+        for (type in listOf(FuelType.Gasoline, FuelType.Premium)) {
+            val body = call(
+                "aroundAll.do",
+                "x" to "%.1f".format(x),
+                "y" to "%.1f".format(y),
+                "radius" to RADIUS_OPTIONS.max().toString(),
+                "prodcd" to type.code,
+                "sort" to "1",
+            )
+            val rows = JSONObject(body).getJSONObject("RESULT").getJSONArray("OIL")
+            val parsed = (0 until rows.length()).map { i ->
+                val row = rows.getJSONObject(i)
+                val distance = row.optDouble("DISTANCE", 0.0).toInt()
+                Triple(
+                    row.optString("UNI_ID"),
+                    Station(
+                        name = row.optString("OS_NM"),
+                        brand = BRANDS[row.optString("POLL_DIV_CD")] ?: "",
+                        distance = distance,
+                    ),
+                    distance,
+                )
+            }
+            // 반경마다 싼 곳 위주로 뽑는다. 3km 안에 아무것도 안 남는 일을 막는다.
+            for (radius in RADIUS_OPTIONS) {
+                parsed.filter { it.third <= radius }.take(PER_RADIUS).forEach { (id, station, _) ->
+                    picked.putIfAbsent(id, station)
+                }
             }
         }
 
-        // 고급휘발유 가격은 목록 API 에 없어 주유소마다 상세를 한 번씩 더 봐야 한다
-        return picked.entries.map { (id, station) ->
-            val premium = runCatching { premiumPrice(id) }.getOrNull()
-            station.copy(premium = premium)
-        }.sortedBy { it.gasoline }
+        // 유종별 가격과 주소는 목록 API 에 없어 주유소마다 상세를 한 번씩 더 봐야 한다
+        return picked.entries.mapNotNull { (id, station) ->
+            runCatching { detail(id, station) }.getOrNull()
+        }
+    }
+
+    /** 상세 조회로 유종별 가격과 도로명 주소를 채운다. */
+    private suspend fun detail(uniId: String, base: Station): Station {
+        val oil = JSONObject(call("detailById.do", "id" to uniId))
+            .getJSONObject("RESULT").getJSONArray("OIL")
+        if (oil.length() == 0) return base
+
+        val row = oil.getJSONObject(0)
+        val prices = row.optJSONArray("OIL_PRICE")
+        var gasoline: Int? = null
+        var premium: Int? = null
+        if (prices != null) {
+            for (i in 0 until prices.length()) {
+                val price = prices.getJSONObject(i)
+                val value = price.optDouble("PRICE", 0.0).toInt().takeIf { it > 0 }
+                when (price.optString("PRODCD")) {
+                    FuelType.Gasoline.code -> gasoline = value
+                    FuelType.Premium.code -> premium = value
+                }
+            }
+        }
+        return base.copy(
+            address = row.optString("NEW_ADR").ifBlank { row.optString("VAN_ADR") },
+            gasoline = gasoline,
+            premium = premium,
+        )
     }
 
     /** 위치를 못 얻었을 때 쓰는 시·도 단위 최저가. 거리는 알 수 없다. */
     private suspend fun regionStations(areaCode: String): List<Station> {
-        val body = call("lowTop10.do", "area" to areaCode, "prodcd" to FuelType.Gasoline.code, "cnt" to "5")
-        val rows = JSONObject(body).getJSONObject("RESULT").getJSONArray("OIL")
-        return (0 until rows.length()).map { i ->
-            val row = rows.getJSONObject(i)
-            val id = row.optString("UNI_ID")
-            Station(
-                name = row.optString("OS_NM"),
-                gasoline = row.optDouble("PRICE", 0.0).toInt(),
-                premium = runCatching { premiumPrice(id) }.getOrNull(),
-                brand = BRANDS[row.optString("POLL_DIV_CD")] ?: "",
-                distance = 0,
-            )
-        }
-    }
-
-    private suspend fun premiumPrice(uniId: String): Int? {
-        val body = call("detailById.do", "id" to uniId)
-        val oil = JSONObject(body).getJSONObject("RESULT").getJSONArray("OIL")
-        if (oil.length() == 0) return null
-        val prices = oil.getJSONObject(0).optJSONArray("OIL_PRICE") ?: return null
-        for (i in 0 until prices.length()) {
-            val row = prices.getJSONObject(i)
-            if (row.optString("PRODCD") == FuelType.Premium.code) {
-                return row.optDouble("PRICE", 0.0).toInt().takeIf { it > 0 }
+        val picked = LinkedHashMap<String, Station>()
+        for (type in listOf(FuelType.Gasoline, FuelType.Premium)) {
+            val body = call("lowTop10.do", "area" to areaCode, "prodcd" to type.code, "cnt" to "5")
+            val rows = JSONObject(body).getJSONObject("RESULT").getJSONArray("OIL")
+            for (i in 0 until rows.length()) {
+                val row = rows.getJSONObject(i)
+                picked.putIfAbsent(
+                    row.optString("UNI_ID"),
+                    Station(
+                        name = row.optString("OS_NM"),
+                        brand = BRANDS[row.optString("POLL_DIV_CD")] ?: "",
+                    ),
+                )
             }
         }
-        return null
+        return picked.entries.mapNotNull { (id, station) ->
+            runCatching { detail(id, station) }.getOrNull()
+        }
     }
 
     private fun averages(body: String): Map<String, Double> {
@@ -240,7 +270,7 @@ class FuelRepository(context: Context) {
         const val KEY = "prices"
 
         /** 저장 구조를 바꿀 때마다 올린다. */
-        const val SCHEMA = 2
+        const val SCHEMA = 3
 
         /** 유가는 하루 한두 번 바뀐다. 6시간이면 충분하다. */
         const val CACHE_SEC = 6L * 60 * 60

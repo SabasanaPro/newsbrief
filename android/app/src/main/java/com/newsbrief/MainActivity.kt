@@ -98,6 +98,7 @@ class MainActivity : ComponentActivity() {
                         onOpenLink = ::openLink,
                         onOpenUpbit = ::openUpbit,
                         onSearch = ::openNaverSearch,
+                        onOpenMap = ::openNaverMap,
                     )
                 }
             }
@@ -131,6 +132,26 @@ class MainActivity : ComponentActivity() {
         const val EXTRA_GO_HOME = "go_home"
     }
 
+    /**
+     * 네이버 지도에서 주유소를 찾는다.
+     * 이름만 넣으면 같은 상호가 여러 곳이라 엉뚱한 데가 잡혀, 도로명 주소를 앞에 붙인다.
+     */
+    private fun openNaverMap(name: String, address: String) {
+        val query = listOf(address, name).filter { it.isNotBlank() }.joinToString(" ")
+        val encoded = URLEncoder.encode(query, "UTF-8")
+
+        // 지도 앱이 있으면 앱으로, 없으면 웹 지도로 넘어간다
+        val appIntent = Intent(
+            Intent.ACTION_VIEW,
+            Uri.parse("nmap://search?query=$encoded&appname=$packageName"),
+        )
+        if (appIntent.resolveActivity(packageManager) != null) {
+            startActivity(appIntent)
+            return
+        }
+        openLink("https://map.naver.com/p/search/$encoded")
+    }
+
     /** 업비트 앱이 있으면 실행하고, 없으면 스토어로 보낸다. */
     private fun openUpbit() {
         packageManager.getLaunchIntentForPackage(UPBIT_PACKAGE)?.let {
@@ -160,6 +181,7 @@ private fun AppScreen(
     onOpenLink: (String) -> Unit,
     onOpenUpbit: () -> Unit,
     onSearch: (String) -> Unit,
+    onOpenMap: (String, String) -> Unit,
     viewModel: BriefViewModel = viewModel(),
 ) {
     val state by viewModel.state.collectAsState()
@@ -341,7 +363,7 @@ private fun AppScreen(
                             prices = state.fuel,
                             loading = state.fuelLoading,
                             onRefresh = { viewModel.refreshFuel(force = true) },
-                            onSearch = onSearch,
+                            onOpenMap = onOpenMap,
                         )
                     }
                 }

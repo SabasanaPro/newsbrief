@@ -46,7 +46,7 @@ fun FuelScreen(
     prices: FuelPrices,
     loading: Boolean,
     onRefresh: () -> Unit,
-    onSearch: (String) -> Unit,
+    onOpenMap: (name: String, address: String) -> Unit,
 ) {
     if (!prices.isUsable) {
         Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
@@ -57,6 +57,7 @@ fun FuelScreen(
     }
 
     var radius by rememberSaveable { mutableStateOf(RADIUS_OPTIONS.first()) }
+    var fuel by rememberSaveable { mutableStateOf(FuelType.Gasoline) }
 
     Column(
         modifier = Modifier
@@ -128,6 +129,18 @@ fun FuelScreen(
         )
         Spacer(Modifier.height(8.dp))
 
+        // 차가 두 대라 유종을 바꿔가며 본다
+        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+            listOf(FuelType.Gasoline, FuelType.Premium).forEach { type ->
+                FilterChip(
+                    selected = fuel == type,
+                    onClick = { fuel = type },
+                    label = { Text("${type.label} 기준") },
+                )
+            }
+        }
+        Spacer(Modifier.height(8.dp))
+
         if (!prices.locatedNearby) {
             Text(
                 "위치를 얻지 못해 ${prices.areaName} 전체 기준으로 보여줍니다. " +
@@ -149,7 +162,11 @@ fun FuelScreen(
             Spacer(Modifier.height(8.dp))
         }
 
-        val stations = if (prices.locatedNearby) prices.within(radius).take(8) else prices.nearby
+        val stations = if (prices.locatedNearby) {
+            prices.within(radius, fuel).take(8)
+        } else {
+            prices.nearby.filter { it.priceOf(fuel) != null }.sortedBy { it.priceOf(fuel) }
+        }
         if (stations.isEmpty()) {
             Text(
                 if (prices.locatedNearby) "반경 ${radius / 1000}km 안에 주유소가 없습니다. 범위를 넓혀보세요."
@@ -165,7 +182,7 @@ fun FuelScreen(
             ) {
                 Column(Modifier.padding(vertical = 4.dp)) {
                     stations.forEachIndexed { index, station ->
-                        StationRow(index + 1, station) { onSearch(station.name) }
+                        StationRow(index + 1, station, fuel) { onOpenMap(station.name, station.address) }
                         if (index != stations.lastIndex) {
                             HorizontalDivider(Modifier.padding(horizontal = 14.dp))
                         }
@@ -185,7 +202,8 @@ fun FuelScreen(
             TextButton(onClick = onRefresh, enabled = !loading) { Text("지금 갱신") }
         }
         Text(
-            "휘발유 값이 싼 순서입니다. 이름을 누르면 네이버 지도에서 찾아봅니다. 값은 6시간마다 갱신됩니다.",
+            "${fuel.label} 값이 싼 순서입니다. 주유소를 누르면 네이버 지도에서 주소로 찾습니다. " +
+                "값은 6시간마다 갱신됩니다.",
             style = MaterialTheme.typography.labelSmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
@@ -194,7 +212,12 @@ fun FuelScreen(
 }
 
 @Composable
-private fun StationRow(rank: Int, station: Station, onClick: () -> Unit) {
+private fun StationRow(rank: Int, station: Station, fuel: FuelType, onClick: () -> Unit) {
+    // 고른 유종을 크게, 나머지 하나를 작게 보여준다
+    val main = station.priceOf(fuel)
+    val other = if (fuel == FuelType.Premium) FuelType.Gasoline else FuelType.Premium
+    val sub = station.priceOf(other)
+
     Row(
         modifier = Modifier
             .fillMaxWidth()
@@ -215,7 +238,9 @@ private fun StationRow(rank: Int, station: Station, onClick: () -> Unit) {
                 listOfNotNull(
                     station.brand.takeIf { it.isNotBlank() },
                     station.distance.takeIf { it > 0 }?.let { formatDistance(it) },
+                    station.address.takeIf { it.isNotBlank() },
                 ).joinToString(" · "),
+                maxLines = 1,
                 style = MaterialTheme.typography.labelSmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
@@ -223,15 +248,15 @@ private fun StationRow(rank: Int, station: Station, onClick: () -> Unit) {
         Spacer(Modifier.width(8.dp))
         Column(horizontalAlignment = Alignment.End) {
             Text(
-                "${won.format(station.gasoline)}원",
+                main?.let { "${won.format(it)}원" } ?: "N/A",
                 style = MaterialTheme.typography.bodyLarge,
                 fontWeight = FontWeight.SemiBold,
             )
-            // 고급휘발유는 취급하지 않는 곳이 많아 없으면 그대로 표시한다
+            // 취급하지 않는 유종이 많아 없으면 그대로 표시한다
             Text(
-                text = station.premium?.let { "고급 ${won.format(it)}원" } ?: "고급 N/A",
+                text = sub?.let { "${other.label} ${won.format(it)}원" } ?: "${other.label} N/A",
                 style = MaterialTheme.typography.labelSmall,
-                color = if (station.premium == null) MaterialTheme.colorScheme.onSurfaceVariant
+                color = if (sub == null) MaterialTheme.colorScheme.onSurfaceVariant
                 else MaterialTheme.colorScheme.primary,
             )
         }
