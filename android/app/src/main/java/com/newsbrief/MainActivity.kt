@@ -147,7 +147,8 @@ class MainActivity : ComponentActivity() {
  */
 private enum class Tab(val label: String, val title: String, val icon: ImageVector) {
     Home("홈", "My Dashboard", Icons.Filled.Home),
-    News("뉴스", "뉴스", Icons.AutoMirrored.Filled.Article),
+    // 뉴스 말고 용어도 들어 있어 '소식'으로 묶었다
+    News("소식", "소식", Icons.AutoMirrored.Filled.Article),
     Lottery("복권", "복권", Icons.Filled.ConfirmationNumber),
     Market("시세", "시세", Icons.AutoMirrored.Filled.ShowChart),
 }
