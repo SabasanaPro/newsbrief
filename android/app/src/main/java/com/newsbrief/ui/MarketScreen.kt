@@ -1,5 +1,6 @@
 package com.newsbrief.ui
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -38,6 +39,7 @@ fun MarketScreen(
     error: String?,
     onRefresh: () -> Unit,
     onOpenUpbit: () -> Unit,
+    onSearch: (String) -> Unit,
 ) {
     Column(
         modifier = Modifier
@@ -81,7 +83,7 @@ fun MarketScreen(
             ) {
                 Column(Modifier.padding(vertical = 4.dp)) {
                     quotes.forEachIndexed { index, quote ->
-                        QuoteRow(quote)
+                        QuoteRow(quote, onClick = { onSearch(quote.name) })
                         if (index != quotes.lastIndex) {
                             HorizontalDivider(Modifier.padding(horizontal = 14.dp))
                         }
@@ -108,7 +110,7 @@ fun MarketScreen(
 }
 
 @Composable
-private fun QuoteRow(quote: Quote) {
+private fun QuoteRow(quote: Quote, onClick: () -> Unit) {
     val color = when (quote.direction) {
         1 -> RiseColor
         -1 -> FallColor
@@ -123,6 +125,7 @@ private fun QuoteRow(quote: Quote) {
     Row(
         modifier = Modifier
             .fillMaxWidth()
+            .clickable(onClick = onClick)
             .padding(horizontal = 16.dp, vertical = 12.dp),
         verticalAlignment = Alignment.CenterVertically,
         horizontalArrangement = Arrangement.SpaceBetween,

@@ -31,8 +31,11 @@ private val DarkColors = darkColorScheme(
 val RiseColor = Color(0xFFD32F2F)
 val FallColor = Color(0xFF1976D2)
 
+/** 즐겨찾기 별. 라이트·다크 어느 쪽에서도 잘 보이는 노랑. */
+val StarColor = Color(0xFFF5B301)
+
 @Composable
-fun NewsBriefTheme(
+fun MyDashboardTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable () -> Unit,
 ) {

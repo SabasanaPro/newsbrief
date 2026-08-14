@@ -24,6 +24,9 @@ object Network {
 
     private val json = Json { ignoreUnknownKeys = true }
 
+    /** 다른 모듈(날씨 등)에서 쓰는 단순 GET. */
+    suspend fun getRaw(url: String): String = get(url)
+
     private suspend fun get(url: String, referer: String? = null): String = withContext(Dispatchers.IO) {
         val connection = (URL(url).openConnection() as HttpURLConnection).apply {
             requestMethod = "GET"

@@ -9,7 +9,18 @@ import kotlinx.serialization.Serializable
 data class Brief(
     val generatedAt: String = "",
     val categories: List<Category> = emptyList(),
+    val topics: List<Topic> = emptyList(),
     val lottery: Lottery? = null,
+)
+
+/** 백엔드가 주제별로 미리 뽑아 둔 한 문장. 설정에서 켠 주제만 골라 브리핑 문단을 만든다. */
+@Serializable
+data class Topic(
+    val id: String = "",
+    val name: String = "",
+    val sentence: String = "",
+    val articleCount: Int = 0,
+    val link: String = "",
 )
 
 @Serializable

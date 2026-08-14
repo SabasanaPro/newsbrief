@@ -3,11 +3,24 @@ package com.newsbrief
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
+import com.newsbrief.data.AppSettings
 import com.newsbrief.data.Brief
+import com.newsbrief.data.Favorite
+import com.newsbrief.data.FavoritesData
+import com.newsbrief.data.FavoritesStore
 import com.newsbrief.data.MyNumbers
 import com.newsbrief.data.MyNumbersStore
 import com.newsbrief.data.Network
 import com.newsbrief.data.Quote
+import com.newsbrief.data.SettingsStore
+import com.newsbrief.data.Story
+import com.newsbrief.data.Weather
+import com.newsbrief.data.WeatherRepository
+import com.newsbrief.data.add
+import com.newsbrief.data.addFolder
+import com.newsbrief.data.remove
+import com.newsbrief.data.removeFolder
+import com.newsbrief.notify.NotificationScheduler
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -21,19 +34,36 @@ data class UiState(
     val quotes: List<Quote> = emptyList(),
     val quotesLoading: Boolean = false,
     val quotesError: String? = null,
+    val weather: Weather? = null,
+    val weatherLoading: Boolean = false,
     val myNumbers: MyNumbers = MyNumbers(),
+    val favorites: FavoritesData = FavoritesData(),
+    val settings: AppSettings = AppSettings(),
 )
 
 class BriefViewModel(app: Application) : AndroidViewModel(app) {
 
-    private val store = MyNumbersStore(app)
-    private val _state = MutableStateFlow(UiState(myNumbers = store.load()))
+    private val numbersStore = MyNumbersStore(app)
+    private val favoritesStore = FavoritesStore(app)
+    private val settingsStore = SettingsStore(app)
+
+    private val _state = MutableStateFlow(
+        UiState(
+            myNumbers = numbersStore.load(),
+            favorites = favoritesStore.load(),
+            settings = settingsStore.load(),
+        )
+    )
     val state: StateFlow<UiState> = _state.asStateFlow()
 
     init {
         refreshBrief()
         refreshQuotes()
+        refreshWeather()
+        NotificationScheduler.rescheduleAll(app, _state.value.settings)
     }
+
+    /* ---------- 불러오기 ---------- */
 
     fun refreshBrief() {
         if (_state.value.briefLoading) return
@@ -71,8 +101,63 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
         }
     }
 
+    fun refreshWeather() {
+        if (_state.value.weatherLoading) return
+        _state.update { it.copy(weatherLoading = true) }
+        viewModelScope.launch {
+            val weather = runCatching {
+                WeatherRepository.fetch(getApplication(), _state.value.settings.useLocation)
+            }.getOrNull()
+            _state.update { it.copy(weather = weather, weatherLoading = false) }
+        }
+    }
+
+    fun refreshAll() {
+        refreshBrief()
+        refreshQuotes()
+        refreshWeather()
+    }
+
+    /* ---------- 내 로또 번호 ---------- */
+
     fun setMyNumbers(value: MyNumbers) {
-        store.save(value)
+        numbersStore.save(value)
         _state.update { it.copy(myNumbers = value) }
+    }
+
+    /* ---------- 즐겨찾기 ---------- */
+
+    fun addFavorite(story: Story, categoryName: String, folder: String) {
+        update(
+            _state.value.favorites.add(
+                Favorite(
+                    link = story.link,
+                    title = story.title,
+                    source = story.source,
+                    categoryName = categoryName,
+                    folder = folder,
+                    savedAt = System.currentTimeMillis(),
+                )
+            )
+        )
+    }
+
+    fun removeFavorite(link: String) = update(_state.value.favorites.remove(link))
+
+    fun createFolder(name: String) = update(_state.value.favorites.addFolder(name.trim()))
+
+    fun deleteFolder(name: String) = update(_state.value.favorites.removeFolder(name))
+
+    private fun update(data: FavoritesData) {
+        favoritesStore.save(data)
+        _state.update { it.copy(favorites = data) }
+    }
+
+    /* ---------- 설정 ---------- */
+
+    fun updateSettings(settings: AppSettings) {
+        settingsStore.save(settings)
+        _state.update { it.copy(settings = settings) }
+        NotificationScheduler.rescheduleAll(getApplication(), settings)
     }
 }
