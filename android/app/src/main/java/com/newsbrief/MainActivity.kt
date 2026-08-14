@@ -36,6 +36,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
@@ -68,6 +69,16 @@ class MainActivity : ComponentActivity() {
     private val permissionLauncher =
         registerForActivityResult(ActivityResultContracts.RequestMultiplePermissions()) { }
 
+    /** 위젯에서 들어왔을 때 홈 탭으로 되돌리기 위한 신호. 값이 바뀌면 화면이 반응한다. */
+    private val goHomeSignal = mutableIntStateOf(0)
+
+    override fun onNewIntent(intent: Intent) {
+        super.onNewIntent(intent)
+        setIntent(intent)
+        // 앱이 이미 떠 있었다면 마지막에 보던 탭이 남아 있으므로 홈으로 돌려준다
+        if (intent.getBooleanExtra(EXTRA_GO_HOME, false)) goHomeSignal.intValue++
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -80,6 +91,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background,
                 ) {
                     AppScreen(
+                        goHomeSignal = goHomeSignal.intValue,
                         onOpenLink = ::openLink,
                         onOpenUpbit = ::openUpbit,
                         onSearch = ::openNaverSearch,
@@ -111,6 +123,11 @@ class MainActivity : ComponentActivity() {
         openLink("https://search.naver.com/search.naver?query=$encoded")
     }
 
+    companion object {
+        /** 위젯이 앱을 열 때 붙이는 표시. */
+        const val EXTRA_GO_HOME = "go_home"
+    }
+
     /** 업비트 앱이 있으면 실행하고, 없으면 스토어로 보낸다. */
     private fun openUpbit() {
         packageManager.getLaunchIntentForPackage(UPBIT_PACKAGE)?.let {
@@ -135,6 +152,7 @@ private enum class Tab(val label: String, val title: String, val icon: ImageVect
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun AppScreen(
+    goHomeSignal: Int,
     onOpenLink: (String) -> Unit,
     onOpenUpbit: () -> Unit,
     onSearch: (String) -> Unit,
@@ -151,6 +169,14 @@ private fun AppScreen(
     // 뉴스 안쪽: 0 오늘의 뉴스 / 1 즐겨찾기, 시세 안쪽: 0 시세 / 1 환율
     var newsSub by rememberSaveable { mutableIntStateOf(0) }
     var marketSub by rememberSaveable { mutableIntStateOf(0) }
+
+    // 위젯을 눌러 들어오면 보던 탭이 어디든 홈으로 되돌린다
+    LaunchedEffect(goHomeSignal) {
+        if (goHomeSignal > 0) {
+            selected = 0
+            showSettings = false
+        }
+    }
 
     // 휴대폰 뒤로가기: 설정에서는 이전 화면으로, 다른 탭에서는 홈으로.
     // 홈에서만 뒤로가기가 앱을 종료한다.

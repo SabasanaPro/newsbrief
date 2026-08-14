@@ -1,6 +1,7 @@
 package com.newsbrief.widget
 
 import android.content.Context
+import android.content.Intent
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
@@ -8,8 +9,9 @@ import androidx.compose.ui.unit.sp
 import androidx.glance.GlanceId
 import androidx.glance.GlanceModifier
 import androidx.glance.GlanceTheme
-import androidx.glance.action.actionStartActivity
+import androidx.glance.LocalContext
 import androidx.glance.action.clickable
+import androidx.glance.appwidget.action.actionStartActivity
 import androidx.glance.appwidget.GlanceAppWidget
 import androidx.glance.appwidget.GlanceAppWidgetReceiver
 import androidx.glance.appwidget.SizeMode
@@ -63,13 +65,13 @@ class DashboardWidgetReceiver : GlanceAppWidgetReceiver() {
 
 @Composable
 private fun WidgetBody(snapshot: WidgetSnapshot) {
+    // 목록(LazyColumn) 자체에는 누르기가 걸리지 않는다. 칸마다 따로 걸어야 한다.
     LazyColumn(
         modifier = GlanceModifier
             .fillMaxWidth()
             .background(GlanceTheme.colors.widgetBackground)
             .cornerRadius(20.dp)
-            .padding(12.dp)
-            .clickable(actionStartActivity<MainActivity>()),
+            .padding(12.dp),
     ) {
         item { DateHeader(snapshot.updatedAt) }
 
@@ -163,11 +165,23 @@ private fun WidgetBody(snapshot: WidgetSnapshot) {
     }
 }
 
+/** 위젯의 어느 칸을 눌러도 앱 홈 화면으로 간다. */
+@Composable
+private fun openHome() = actionStartActivity(
+    Intent(LocalContext.current, MainActivity::class.java)
+        .setAction(Intent.ACTION_MAIN)
+        .addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TOP)
+        .putExtra(MainActivity.EXTRA_GO_HOME, true),
+)
+
 @Composable
 private fun DateHeader(updatedAt: String) {
     val today = LocalDate.now().format(DateTimeFormatter.ofPattern("M월 d일 EEEE", Locale.KOREA))
     Row(
-        modifier = GlanceModifier.fillMaxWidth().padding(bottom = 8.dp),
+        modifier = GlanceModifier
+            .fillMaxWidth()
+            .clickable(openHome())
+            .padding(bottom = 8.dp),
         verticalAlignment = Alignment.CenterVertically,
     ) {
         Text(
@@ -188,7 +202,7 @@ private fun DateHeader(updatedAt: String) {
     }
 }
 
-/** 홈 화면 카드와 같은 모양 — 둥근 모서리에 제목 한 줄, 그 아래 내용. */
+/** 홈 화면 카드와 같은 모양 — 둥근 모서리에 제목 한 줄, 그 아래 내용. 누르면 앱이 열린다. */
 @Composable
 private fun WidgetCard(title: String, content: @Composable () -> Unit) {
     Column(
@@ -201,6 +215,7 @@ private fun WidgetCard(title: String, content: @Composable () -> Unit) {
                 .fillMaxWidth()
                 .background(GlanceTheme.colors.surface)
                 .cornerRadius(14.dp)
+                .clickable(openHome())
                 .padding(12.dp),
         ) {
             Text(
