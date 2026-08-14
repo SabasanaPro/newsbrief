@@ -48,8 +48,8 @@ fun MarketScreen(
     loading: Boolean,
     error: String?,
     table: RateTable,
-    rateBase: String,
-    onRateBaseChange: (String) -> Unit,
+    rateBases: List<String>,
+    onRateBasesChange: (List<String>) -> Unit,
     onRefresh: () -> Unit,
     onOpenUpbit: () -> Unit,
     onSearch: (String) -> Unit,
@@ -113,68 +113,91 @@ fun MarketScreen(
             Text("업비트 열기")
         }
 
-        Spacer(Modifier.height(12.dp))
-        RateLine(table, rateBase, onRateBaseChange)
-
-        Spacer(Modifier.height(12.dp))
+        Spacer(Modifier.height(10.dp))
         Text(
             "코스피·코스닥은 평일 09:00~15:30 에만 값이 움직입니다.",
             style = MaterialTheme.typography.labelSmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
+
+        Spacer(Modifier.height(20.dp))
+        Text("환율", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
+        Spacer(Modifier.height(8.dp))
+        RateCard(table, rateBases, onRateBasesChange)
+
+        Spacer(Modifier.height(16.dp))
     }
 }
 
-/** 한 줄 환율. 기준 통화를 누르면 엔·유로 등으로 바꿔 볼 수 있다. */
+/** 원화 기준 환율 네 줄. 각 줄의 통화를 눌러 다른 통화로 바꿀 수 있다. */
 @Composable
-private fun RateLine(table: RateTable, base: String, onBaseChange: (String) -> Unit) {
+private fun RateCard(table: RateTable, bases: List<String>, onBasesChange: (List<String>) -> Unit) {
     if (!table.isUsable) return
-    var showPicker by remember { mutableStateOf(false) }
-
-    val info = currencyOf(base)
-    val krw = currencyOf("KRW")
-    val value = table.convert(1.0, base, "KRW")
+    // 통화를 바꾸는 중인 줄 번호
+    var editingSlot by remember { mutableStateOf<Int?>(null) }
 
     Card(
         modifier = Modifier.fillMaxWidth(),
         colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
         elevation = CardDefaults.cardElevation(defaultElevation = 1.dp),
     ) {
-        Row(
-            modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 12.dp),
-            verticalAlignment = Alignment.CenterVertically,
-        ) {
-            // 기준 통화 부분만 눌리는 영역이다
-            Row(
-                modifier = Modifier.clickable { showPicker = true },
-                verticalAlignment = Alignment.CenterVertically,
-            ) {
-                Text("1 ${info.flag} ${info.code}", style = MaterialTheme.typography.bodyMedium)
-                Icon(
-                    Icons.Filled.ArrowDropDown,
-                    contentDescription = "기준 통화 바꾸기",
-                    modifier = Modifier.size(18.dp),
-                    tint = MaterialTheme.colorScheme.primary,
-                )
+        Column(Modifier.padding(vertical = 4.dp)) {
+            bases.forEachIndexed { index, code ->
+                RateRow(table, code) { editingSlot = index }
+                if (index != bases.lastIndex) HorizontalDivider(Modifier.padding(horizontal = 14.dp))
             }
-            Spacer(Modifier.width(6.dp))
-            Text("=", style = MaterialTheme.typography.bodyMedium)
-            Spacer(Modifier.weight(1f))
-            Text(
-                text = value?.let { "${krw.symbol}${formatAmount(it, 2)}" } ?: "-",
-                style = MaterialTheme.typography.bodyLarge,
-                fontWeight = FontWeight.SemiBold,
-            )
         }
     }
 
-    if (showPicker) {
+    editingSlot?.let { slot ->
         CurrencyPickerDialog(
-            selected = listOf(base),
+            selected = listOf(bases[slot]),
             available = table.rates.keys,
             single = true,
-            onConfirm = { it.firstOrNull()?.let(onBaseChange) },
-            onDismiss = { showPicker = false },
+            onConfirm = { picked ->
+                picked.firstOrNull()?.let { code ->
+                    onBasesChange(bases.toMutableList().also { it[slot] = code })
+                }
+            },
+            onDismiss = { editingSlot = null },
+        )
+    }
+}
+
+@Composable
+private fun RateRow(table: RateTable, code: String, onPick: () -> Unit) {
+    val info = currencyOf(code)
+    val krw = currencyOf("KRW")
+
+    // 엔화처럼 한 단위가 몇 원밖에 안 되는 통화는 100 단위로 보는 게 익숙하다
+    val perUnit = table.convert(1.0, code, "KRW")
+    val unit = if (perUnit != null && perUnit < 100) 100 else 1
+    val value = perUnit?.times(unit)
+
+    Row(
+        modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 11.dp),
+        verticalAlignment = Alignment.CenterVertically,
+    ) {
+        // 통화 부분만 눌리는 영역이다
+        Row(
+            modifier = Modifier.clickable(onClick = onPick),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            Text("$unit ${info.flag} ${info.code}", style = MaterialTheme.typography.bodyMedium)
+            Icon(
+                Icons.Filled.ArrowDropDown,
+                contentDescription = "통화 바꾸기",
+                modifier = Modifier.size(18.dp),
+                tint = MaterialTheme.colorScheme.primary,
+            )
+        }
+        Spacer(Modifier.width(4.dp))
+        Text("=", style = MaterialTheme.typography.bodyMedium)
+        Spacer(Modifier.weight(1f))
+        Text(
+            text = value?.let { "${krw.symbol}${formatAmount(it, 2)}" } ?: "-",
+            style = MaterialTheme.typography.bodyLarge,
+            fontWeight = FontWeight.SemiBold,
         )
     }
 }

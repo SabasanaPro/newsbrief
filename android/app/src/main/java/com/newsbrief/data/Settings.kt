@@ -29,8 +29,8 @@ data class AppSettings(
     val useLocation: Boolean = true,
     /** 환율 계산기에 올려둔 통화. 순서가 화면 순서다. */
     val currencies: List<String> = listOf("KRW", "USD", "JPY", "EUR", "CNY"),
-    /** 시세 화면 한 줄 환율의 기준 통화 */
-    val rateBase: String = "USD",
+    /** 시세 화면 환율 칸에 올려둔 통화 (원화 기준으로 표시) */
+    val rateBases: List<String> = listOf("USD", "JPY", "EUR", "GBP"),
 )
 
 class SettingsStore(context: Context) {

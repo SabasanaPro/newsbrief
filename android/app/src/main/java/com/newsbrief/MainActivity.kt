@@ -264,16 +264,16 @@ private fun AppScreen(
                 )
 
                 Tab.Market -> Column {
-                    SubTabs(listOf("시세", "환율"), marketSub) { marketSub = it }
+                    SubTabs(listOf("시세", "환율계산기"), marketSub) { marketSub = it }
                     if (marketSub == 0) {
                         MarketScreen(
                             quotes = state.quotes,
                             loading = state.quotesLoading,
                             error = state.quotesError,
                             table = state.rates,
-                            rateBase = state.settings.rateBase,
-                            onRateBaseChange = {
-                                viewModel.updateSettings(state.settings.copy(rateBase = it))
+                            rateBases = state.settings.rateBases,
+                            onRateBasesChange = {
+                                viewModel.updateSettings(state.settings.copy(rateBases = it))
                             },
                             onRefresh = viewModel::refreshQuotes,
                             onOpenUpbit = onOpenUpbit,
