@@ -96,6 +96,21 @@ object WeatherRepository {
         )
     }
 
+    /** '서울특별시', '경기도' 같은 광역 행정구역 이름. 유가 지역을 고를 때 쓴다. */
+    suspend fun adminAreaName(context: Context): String? {
+        val (latitude, longitude) = lastKnownLocation(context) ?: return null
+        if (!Geocoder.isPresent()) return null
+        return withContext(Dispatchers.IO) {
+            runCatching {
+                @Suppress("DEPRECATION")
+                Geocoder(context, Locale.KOREA)
+                    .getFromLocation(latitude, longitude, 1)
+                    ?.firstOrNull()
+                    ?.adminArea
+            }.getOrNull()
+        }
+    }
+
     private fun hasLocationPermission(context: Context): Boolean =
         ContextCompat.checkSelfPermission(context, Manifest.permission.ACCESS_COARSE_LOCATION) ==
             PackageManager.PERMISSION_GRANTED

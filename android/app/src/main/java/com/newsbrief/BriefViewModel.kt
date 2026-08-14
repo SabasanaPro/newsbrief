@@ -9,6 +9,8 @@ import com.newsbrief.data.Favorite
 import com.newsbrief.data.FavoritesData
 import com.newsbrief.data.FavoritesStore
 import com.newsbrief.data.ExchangeRateRepository
+import com.newsbrief.data.FuelPrices
+import com.newsbrief.data.FuelRepository
 import com.newsbrief.data.MyNumbers
 import com.newsbrief.data.MyNumbersStore
 import com.newsbrief.data.RateTable
@@ -47,6 +49,8 @@ data class UiState(
     val settings: AppSettings = AppSettings(),
     val rates: RateTable = RateTable(),
     val ratesLoading: Boolean = false,
+    val fuel: FuelPrices = FuelPrices(),
+    val fuelLoading: Boolean = false,
 )
 
 class BriefViewModel(app: Application) : AndroidViewModel(app) {
@@ -55,6 +59,7 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
     private val favoritesStore = FavoritesStore(app)
     private val settingsStore = SettingsStore(app)
     private val rateRepository = ExchangeRateRepository(app)
+    private val fuelRepository = FuelRepository(app)
 
     private val _state = MutableStateFlow(
         UiState(
@@ -70,6 +75,7 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
         refreshQuotes()
         refreshWeather()
         refreshRates()
+        refreshFuel()
         NotificationScheduler.rescheduleAll(app, _state.value.settings)
         WidgetUpdater.schedule(app)
     }
@@ -168,6 +174,16 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
     }
 
     /* ---------- 내 로또 번호 ---------- */
+
+    /** 유가는 하루에 한두 번만 바뀌므로 저장해 둔 값을 먼저 보여준다. */
+    fun refreshFuel(force: Boolean = false) {
+        if (_state.value.fuelLoading) return
+        _state.update { it.copy(fuelLoading = true, fuel = fuelRepository.cached()) }
+        viewModelScope.launch {
+            val prices = fuelRepository.load(getApplication(), _state.value.settings.useLocation, force)
+            _state.update { it.copy(fuel = prices, fuelLoading = false) }
+        }
+    }
 
     fun setMyNumbers(value: MyNumbers) {
         numbersStore.save(value)

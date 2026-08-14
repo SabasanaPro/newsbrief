@@ -1,9 +1,22 @@
+import java.util.Properties
+
 plugins {
     id("com.android.application")
     kotlin("android")
     kotlin("plugin.compose")
     kotlin("plugin.serialization")
 }
+
+/**
+ * 인증키는 local.properties 에서 읽는다.
+ * 이 파일은 git 에 올라가지 않으므로 키가 저장소에 남지 않는다.
+ */
+val localProps = Properties().apply {
+    val file = rootProject.file("local.properties")
+    if (file.exists()) file.inputStream().use { load(it) }
+}
+
+fun secret(name: String): String = localProps.getProperty(name).orEmpty()
 
 android {
     namespace = "com.newsbrief"
@@ -15,6 +28,8 @@ android {
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
+
+        buildConfigField("String", "OPINET_KEY", "\"${secret("OPINET_KEY")}\"")
     }
 
     buildTypes {
@@ -34,6 +49,7 @@ android {
 
     buildFeatures {
         compose = true
+        buildConfig = true
     }
 }
 

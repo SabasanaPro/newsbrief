@@ -54,6 +54,7 @@ import com.newsbrief.ui.FavoritesScreen
 import com.newsbrief.ui.FolderPickerSheet
 import com.newsbrief.ui.HomeScreen
 import com.newsbrief.ui.CurrencyScreen
+import com.newsbrief.ui.FuelScreen
 import com.newsbrief.ui.LotteryScreen
 import com.newsbrief.ui.SubTabs
 import com.newsbrief.ui.MarketScreen
@@ -290,7 +291,7 @@ private fun AppScreen(
                 )
 
                 Tab.Market -> Column {
-                    SubTabs(listOf("시세", "환율계산기"), marketSub) { marketSub = it }
+                    SubTabs(listOf("시세", "환율계산기", "주유소"), marketSub) { marketSub = it }
                     if (marketSub == 0) {
                         MarketScreen(
                             quotes = state.quotes,
@@ -305,7 +306,7 @@ private fun AppScreen(
                             onOpenUpbit = onOpenUpbit,
                             onSearch = onSearch,
                         )
-                    } else {
+                    } else if (marketSub == 1) {
                         CurrencyScreen(
                             table = state.rates,
                             codes = state.settings.currencies,
@@ -314,6 +315,13 @@ private fun AppScreen(
                                 viewModel.updateSettings(state.settings.copy(currencies = it))
                             },
                             onRefresh = { viewModel.refreshRates(force = true) },
+                        )
+                    } else {
+                        FuelScreen(
+                            prices = state.fuel,
+                            loading = state.fuelLoading,
+                            onRefresh = { viewModel.refreshFuel(force = true) },
+                            onSearch = onSearch,
                         )
                     }
                 }
