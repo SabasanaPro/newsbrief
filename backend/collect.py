@@ -8,7 +8,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import rank
-from feeds import CATEGORIES, FEEDS
+import topics as topics_module
+from feeds import CATEGORIES, FEEDS, SELECTION_ORDER
 from fetch import fetch_feed
 
 KST = timezone(timedelta(hours=9))
@@ -17,6 +18,12 @@ WINDOW_HOURS = 18  # 기본 수집 범위
 FALLBACK_HOURS = 36  # 기사가 너무 적을 때 넓히는 범위
 MIN_ARTICLES_PER_CATEGORY = 25
 STORIES_PER_CATEGORY = 3
+
+# 가상화폐 전문 매체가 둘뿐이라, 일반 매체 기사 중 코인 관련 기사도 끌어와 함께 순위를 매긴다
+CRYPTO_KEYWORDS = (
+    "비트코인", "이더리움", "리플", "가상자산", "암호화폐", "블록체인", "스테이블코인",
+    "알트코인", "업비트", "빗썸", "코인베이스", "바이낸스", "NFT", "디파이", "가상화폐",
+)
 
 
 def collect_articles() -> list[dict]:
@@ -54,13 +61,32 @@ def within(articles: list[dict], now: datetime, hours: int) -> list[dict]:
     return [a for a in articles if a["published"] is None or a["published"] >= cutoff]
 
 
+CRYPTO_PATTERN = topics_module.keyword_pattern(CRYPTO_KEYWORDS)
+
+
+def is_crypto(article: dict) -> bool:
+    return bool(CRYPTO_PATTERN.search(f"{article['title']} {article['summary']}"))
+
+
+def category_pool(articles: list[dict], category_id: str) -> list[dict]:
+    if category_id == "crypto":
+        # 전용 매체도 일반 경제 기사를 함께 내보내므로 출처와 무관하게 키워드로 고른다.
+        # 본문에 단어가 스치기만 한 기사(예: 블록체인 기업의 코스닥 상장 소식)가 섞이지 않도록
+        # 제목에 키워드가 있는 기사를 우선하고, 그것만으로 부족할 때만 본문까지 본다.
+        by_title = [a for a in articles if CRYPTO_PATTERN.search(a["title"])]
+        return by_title if len(by_title) >= 12 else [a for a in articles if is_crypto(a)]
+    # 가상화폐 전용 매체의 기사가 다른 분야로 새지 않게 한다
+    return [a for a in articles if a["category"] == category_id]
+
+
 def build_categories(articles: list[dict], now: datetime) -> list[dict]:
-    result = []
+    picked_by_category: dict[str, list[dict]] = {}
     already_picked: list[dict] = []
     source_usage: dict[str, int] = {}
 
-    for category_id, category_name in CATEGORIES.items():
-        pool = [a for a in articles if a["category"] == category_id]
+    for category_id in SELECTION_ORDER:
+        category_name = CATEGORIES[category_id]
+        pool = category_pool(articles, category_id)
         recent = within(pool, now, WINDOW_HOURS)
         if len(recent) < MIN_ARTICLES_PER_CATEGORY:
             recent = within(pool, now, FALLBACK_HOURS)
@@ -77,10 +103,14 @@ def build_categories(articles: list[dict], now: datetime) -> list[dict]:
                 {"keywords": rank.keywords(story["title"]), "bigrams": rank.bigrams(story["title"])}
             )
 
-        result.append({"id": category_id, "name": category_name, "items": stories})
+        picked_by_category[category_id] = stories
         print(f"  {category_name}: 후보 {len(recent)}건 → {len(stories)}건 선정", file=sys.stderr)
 
-    return result
+    # 배정은 SELECTION_ORDER 로 했지만, 내보낼 때는 앱에 보여줄 순서를 따른다
+    return [
+        {"id": category_id, "name": name, "items": picked_by_category.get(category_id, [])}
+        for category_id, name in CATEGORIES.items()
+    ]
 
 
 def main() -> int:
@@ -94,9 +124,13 @@ def main() -> int:
     articles = collect_articles()
     print(f"총 {len(articles)}건 수집", file=sys.stderr)
 
+    categories = build_categories(articles, now)
+    all_stories = [story for category in categories for story in category["items"]]
+
     payload = {
         "generatedAt": now.astimezone(KST).isoformat(timespec="seconds"),
-        "categories": build_categories(articles, now),
+        "categories": categories,
+        "topics": topics_module.build_topics(all_stories),
     }
 
     if not args.no_lottery:

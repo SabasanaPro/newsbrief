@@ -4,14 +4,20 @@
 않거나 봇 차단이 걸려 있어 제외했다. 되살아나면 check_feeds.py 로 확인 후 추가.
 """
 
+# 앱에 표시되는 순서
 CATEGORIES = {
     "politics": "정치",
     "economy": "경제",
     "society": "사회",
     "world": "국제",
     "tech": "IT·과학",
+    "crypto": "가상화폐",
     "culture": "문화·스포츠",
 }
+
+# 기사를 배정하는 순서. 먼저 오는 분야가 해당 사건을 가져간다.
+# 가상화폐를 앞에 두어야 코인 뉴스가 경제·IT에 흡수되지 않고 전용 칸에 남는다.
+SELECTION_ORDER = ("crypto", "politics", "economy", "society", "world", "tech", "culture")
 
 # (매체명, 분야, RSS 주소)
 FEEDS = [
@@ -78,4 +84,7 @@ FEEDS = [
     ("블로터", "tech", "https://www.bloter.net/rss/allArticle.xml"),
     ("아이뉴스24", "tech", "https://www.inews24.com/rss/news_it.xml"),
     ("테크M", "tech", "https://www.techm.kr/rss/allArticle.xml"),
+    # 가상화폐 — 전문 매체가 둘뿐이라 collect.py 에서 전체 피드의 키워드 추출을 함께 쓴다
+    ("블록미디어", "crypto", "https://www.blockmedia.co.kr/feed"),
+    ("토큰포스트", "crypto", "https://www.tokenpost.kr/rss"),
 ]

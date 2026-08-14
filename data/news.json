@@ -1,49 +1,51 @@
 {
-  "generatedAt": "2026-08-14T15:29:57+09:00",
+  "generatedAt": "2026-08-14T17:17:23+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "靑 \"국회 권한 강화된 4년 중임 대통령제가 국민 수용성 높아\"",
-          "summary": "청와대는 14일 이재명 대통령이 추구하는 권력구조 개헌의 방향성과 관련해 \"국회의 권한이 강화된 4년 ...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260814078700001",
-          "publishedAt": "2026-08-14T03:14:56+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "동아일보",
-            "서울신문",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "송영길, ‘정청래 붕어 아이큐’ 발언에 “동지에게 쓸 말 아냐···유감”",
-          "summary": "국회사진기자단8·17 더불어민주당 전당대회 당대표 후보로 나선 송영길 의원이 경쟁자인 정청래 의원을 두고 “붕어 아이큐도 아니고 뻔한 거짓말을 왜 하냐”고 한 발언에 대해 14일 사과했다.송 의원은 이날 페이스북에 ‘붕어’ 표현에 대해 ···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608141117001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-08-14T02:17:00+00:00",
-          "sourceCount": 5,
+          "title": "선관위 특검 후보 이태한·이혁…李대통령, 사흘 내 1명 임명",
+          "summary": "6·3 지방선거 투표용지 부족 사태 등 국민참정권 침해 의혹을 수사할 특별검사 후보로 이태한 전 서울남부지검 형사4부장 검사와 이혁 전 서울고검 검사 등 2명이 추천됐다.선거관리위원회 특검 국민추천위원회는 14일 국회의원회관에서 제2차 회의를 열고 두 사람을 특검 후보로 만장일치 의결했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20260814/134479647/1",
+          "publishedAt": "2026-08-14T07:40:00+00:00",
+          "sourceCount": 6,
           "otherSources": [
             "SBS",
+            "경향신문",
             "연합뉴스",
             "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "李대통령 지지율 44%로 취임 후 최저…부정평가 46% 첫 역전",
-          "summary": "이재명 대통령의 국정 지지율이 직전 조사 대비 7% 내리며 취임 후 최저치를 기록했다는 여론조사 결과가 14일...",
+          "title": "與, 국힘 이진숙 제명촉구결의안 제출…\"5·18 정신 폄훼·망동\"",
+          "summary": "더불어민주당은 14일 국민의힘 이진숙 의원이 국회에서 우파 단체와 함께 5·18 민주화운동을 재조명하는...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260814054851001",
-          "publishedAt": "2026-08-14T02:21:37+00:00",
-          "sourceCount": 4,
+          "link": "https://www.yna.co.kr/view/AKR20260814062751001",
+          "publishedAt": "2026-08-14T05:45:25+00:00",
+          "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "경향신문",
-            "조선일보"
+            "동아일보",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "靑 “국회 권한 강화된 4년 중임 대통령제가 국민 수용성 높아”",
+          "summary": "청와대는 대통령제 개헌에 대해 “국회의 권한이 강화된 4년 중임 대통령제가 국민적 수용성이 가장 높다고 생각한다”고 14일 밝혔다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260814500098",
+          "publishedAt": "2026-08-14T02:33:20+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "동아일보",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
           ]
         }
       ]
@@ -53,42 +55,41 @@
       "name": "경제",
       "items": [
         {
-          "title": "지난달 ICT 수출 533억6000만 달러…7월 기준 역대 최대",
-          "summary": "지난달 반도체를 포함한 정보통신산업(ICT) 수출액이 533억6000만 달러로 역대 7월 기준 가장 많았다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Economy/article/all/20260814/134477643/1",
-          "publishedAt": "2026-08-14T02:21:00+00:00",
+          "title": "전세계 AI 투자 확대에…지난달 ICT 수출 '역대 최대'",
+          "summary": "전 세계의 AI 투자 확대에 힘입어 정보통신산업(ICT) 수출이 두 달 연속 500억달러를 웃도는 등 호조세를 이어가고 있다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026081411065320207",
+          "publishedAt": "2026-08-14T02:06:53+00:00",
           "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "아시아경제",
+            "동아일보",
             "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "카카오뱅크 임원진, 자사주 2만1000주 매입… “주주가치 높일 것”",
-          "summary": "인터넷전문은행 카카오뱅크 임원진이 4억6000만원 규모 자사주를 매입한 것으로 나타났다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/GE4DEN3CMUYTCNTEMVRTQOLFGM/",
-          "publishedAt": "2026-08-14T01:59:21+00:00",
+          "title": "카카오뱅크 임원진, 자사주 4억원어치 매입",
+          "summary": "카카오뱅크 로고카카오뱅크 임원진이 자사주 4억여원어치를 사들였다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608141431011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-08-14T05:31:01+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "경향신문",
+            "머니투데이",
             "아시아경제",
             "연합뉴스"
           ]
         },
         {
-          "title": "환율-유가 하락에 7월 수입물가 두 달 연속 내림세… 전월 대비 1% 하락",
-          "summary": "국제유가와 원-달러 환율이 나란히 하락하면서 수입물가가 두 달 연속으로 전월 대비 내림세를 보였다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Economy/article/all/20260814/134478536/1",
-          "publishedAt": "2026-08-14T05:27:00+00:00",
-          "sourceCount": 4,
+          "title": "한국씨티은행, 2분기 순익 1868억원… 분기 역대 최대",
+          "summary": "한국씨티은행이 1분기 순익을 넘어 분기 기준 역대 최대 순이익을 기록했다. 외환·파생상품·유가증권 등 기업금융 중심의 비이자 수익 증가가 실적 개선을 주도했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/MJRGGNBSGVSDGNTDGQZTKMLFMQ/",
+          "publishedAt": "2026-08-14T07:23:42+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "경향신문",
+            "아시아경제",
             "연합뉴스"
           ]
         }
@@ -99,6 +100,22 @@
       "name": "사회",
       "items": [
         {
+          "title": "특검, ‘尹체포방해’ 나경원·김기현·윤상현·권영진 기소",
+          "summary": "2차 종합특검이 윤석열 전 대통령에 대한 체포영장 집행을 방해한 혐의를 받는 나경원·김기현·윤상현·권영진 국민의힘 의원을 재판에 넘겼다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003168",
+          "publishedAt": "2026-08-14T05:01:00+00:00",
+          "sourceCount": 7,
+          "otherSources": [
+            "경향신문",
+            "노컷뉴스",
+            "동아일보",
+            "매일경제",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
           "title": "검찰, 도박·음주운전 혐의 개그맨 이진호에 징역 2년 구형",
           "summary": "검찰이 상습 도박과 음주운전 혐의로 재판에 넘겨진 개그맨 이진호에게 징역 2년을 구형했다. 검찰은 14일 수원지방법원 여주지원 형사1단독 안태윤 부장판사 심리로 진행된 결심공판에서..",
           "source": "매일경제",
@@ -108,37 +125,24 @@
           "otherSources": [
             "SBS",
             "경향신문",
+            "국민일보",
             "노컷뉴스",
-            "동아일보",
             "조선일보"
           ]
         },
         {
-          "title": "백해룡, 임은정 동부지검장 고소…남부지검은 白 피소사건 소환",
-          "summary": "'마약수사 외압 의혹'을 제기해 온 백해룡 경정이 합동수사단에서 함께 활동했던 임은정 서울동부지검장을 ...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260814060051004",
-          "publishedAt": "2026-08-14T05:57:40+00:00",
-          "sourceCount": 5,
+          "title": "법무부, '수원지검 집단퇴정' 검사들 징계 청구",
+          "summary": "법무부, '수원지검 집단퇴정' 검사들 징계 청구(SBS 디지털뉴스부/사진=법무부 제공, 연합뉴스)",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706071",
+          "publishedAt": "2026-08-14T08:00:00+00:00",
+          "sourceCount": 6,
           "otherSources": [
-            "SBS",
+            "국민일보",
             "동아일보",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "'尹 체포방해' 나경원·김기현·윤상현·권영진…불구속 기소",
-          "summary": "윤석열 전 대통령에 대한 수사기관의 정당한 체포영장 집행을 방해한 혐의로 국민의힘 나경원·김기현·윤상현·권영진 의원이 재판에 넘겨졌다.…",
-          "source": "노컷뉴스",
-          "link": "https://www.nocutnews.co.kr/news/6563120",
-          "publishedAt": "2026-08-14T14:35:16+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "경향신문",
             "매일경제",
-            "조선일보",
-            "한겨레"
+            "연합뉴스",
+            "조선일보"
           ]
         }
       ]
@@ -148,45 +152,44 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프, 수입 드론·부품에 관세 100%···한국은 15%",
-          "summary": "AP연합뉴스도널드 트럼프 미국 대통령이 수입 무인기(드론)와 부품에 관세를 부과하겠다고 밝혔다.백악관은 13일(현지시간) 트럼프 대통령이 드론과 그 부품 수입으로 인한 국가 안보 위협에 대응하고 미국 드론 산업 및 공급망을 강화하는 내용을 담은 포고문에 서명···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608140723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
-          "publishedAt": "2026-08-13T22:23:00+00:00",
+          "title": "트럼프, 드론·부품에 최대 100% 관세…韓 등 동맹국은 15%",
+          "summary": "도널드 트럼프 미국 대통령이 13일(현지 시간) 드론 및 관련 부품에 최대 100%의 관세를 부과하는 내용의 포고문에 서명했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20260814/134476596/1",
+          "publishedAt": "2026-08-13T22:46:00+00:00",
           "sourceCount": 6,
           "otherSources": [
             "SBS",
-            "동아일보",
+            "경향신문",
             "연합뉴스",
             "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "트럼프 “美 투자하는 외국 조선소에 선박 최대 2척 건조 승인”",
-          "summary": "도널드 트럼프 미국 대통령이 미국 조선업에 투자하는 외국 조선업체에 최대 2척의 선박을 해외에서 건조할 수 있도록 허용했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/08/14/MRRTIYZTGEZGCODGGBSTSMJXGY/",
-          "publishedAt": "2026-08-13T22:09:56+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
-            "매일경제",
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "“투신 시도 여러번 있었다”…이란 앞바다 9개월, 링컨함에 생긴 일 ‘충격’‘",
-          "summary": "이란 앞바다에 9개월째 머물고 있는 미국 핵추진 항공모함 에이브러햄 링컨호 승조원들의 ‘한계 상황’이 알려지면서 충격을 주고 있다. 링컨함 승조원의 가족뿐 아니라, 세계 곳곳에 배..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12127589",
-          "publishedAt": "2026-08-13T22:59:10+00:00",
+          "title": "이란 앞바다 미 링컨함 ‘한계’ 다다랐나…“승조원 투신시도 여러번”",
+          "summary": "AP연합뉴스이란 앞바다에 9개월째 떠 있는 미국 핵추진 항공모함 에이브러햄 링컨호 승조원 중 투신하는 사례가 다수 발생한 것으로 전해졌다.CNN은 13일(현지시간) 지난 3일 링컨함에서 수병 1명이 함상에서 바다로 뛰어드는 사고가 벌어졌다고 미국 관리들을 인용해 전했다.정확한 투신 사유는 확인되지 않았으며, 당시 이 수병은 구명조끼를 착···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608140848001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-08-13T23:48:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "경향신문",
+            "매일경제",
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "트럼프 “‘美투자’ 외국 조선소에 선박 최대 2척 건조 승인”",
+          "summary": "도널드 트럼프 미국 대통령은 13일(현지시간) 미국에 투자한 외국 조선업체가 해당 업체의 본국에서 선박 두 척을 건조할 수 있도록 지시했다. 트럼프 대통령은 이날 서명한 각서에서 ..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12127572",
+          "publishedAt": "2026-08-13T22:09:35+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
           ]
         }
       ]
@@ -196,8 +199,20 @@
       "name": "IT·과학",
       "items": [
         {
+          "title": "이스트소프트, 상반기 매출 607억 '역대 최대'…수익성 개선 흐름",
+          "summary": "[지디넷코리아]이스트소프트가 올해 2분기 영업적자 전환에도 상반기 누적 매출 600억원 돌파로 역대 최대치를 달성하며 수익성 개선 흐름을 이어갔다.이스트소프트는 2026년 2분기 연결 기준 매출 297억 원, 영업손실 3억 원을 기록했다고 14일 공시했다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20260814165134",
+          "publishedAt": "2026-08-14T07:51:34+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "블로터",
+            "아이뉴스24"
+          ]
+        },
+        {
           "title": "에이직랜드, 상반기 매출 1137억원 '역대 최대'⋯영업익 흑자전환",
-          "summary": "에이직랜드가 올해 상반기 창사 이래 최대 반기 매출을 기록하고 흑자 전환에 성공했다.에이직랜드는 올해 상반기 연결 기준 매출 1137억원, 영업이익 50억원을 기록했다고 14일 밝혔다.매출은 전년 동기 305억원보다…",
+          "summary": "에이직랜드가 올해 상반기 창사 이래 최대 반기 매출을 기록하고 흑자 전환에 성공했다.에이직랜드는 올해 상반기 연결 기준 매출 1137억원, 영업이익 50억원을 기록했다고 14일 밝혔다.매출은 전년 동기 305억원보다 약 273% 증가",
           "source": "아이뉴스24",
           "link": "https://www.inews24.com/view/1995088",
           "publishedAt": "2026-08-14T03:18:57+00:00",
@@ -216,17 +231,43 @@
           "otherSources": [
             "전자신문"
           ]
+        }
+      ]
+    },
+    {
+      "id": "crypto",
+      "name": "가상화폐",
+      "items": [
+        {
+          "title": "빗썸 2분기 218억원 순손실…매출 35.8％ 감소",
+          "summary": "가상자산 거래소 빗썸은 올해 2분기 218억원의 순손실을 기록했다고 14일 밝혔다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260814149600002",
+          "publishedAt": "2026-08-14T08:11:08+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "매일경제"
+          ]
         },
         {
-          "title": "딥엑스, NPU 양산 1년 만에 글로벌 수주 77건…180억원 돌파",
-          "summary": "인공지능(AI) 반도체 기업 딥엑스는 자체 개발한 신경망처리장치(NPU)를 양산한 지 1년 만에 글로벌 시장에서 상업용 구매주문(PO) 77건을 확보했다고 밝혔다.딥엑스는 지난해 8월 온디바이스 AI 반도체 'DX-M1' 양산을 시작한 이후",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/1995173",
-          "publishedAt": "2026-08-14T05:43:12+00:00",
+          "title": "바이낸스, 네이버·LG전자 20배 선물 출시… 자본시장법 위반 소지",
+          "summary": "글로벌 가상자산 거래소 바이낸스가 국내에서도 네이버(NAVER), LG전자 등에 최대 20배 레버리지로 투자할 수 있는 무기한 선물을 출시했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/HFSTIY3FGJRTSMJSGQZTGOLBMI/",
+          "publishedAt": "2026-08-14T05:26:51+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
           ]
+        },
+        {
+          "title": "물가·금리 부담 덜었지만…비트코인 6만3000달러대 횡보",
+          "summary": "비트코인이 미국의 물가 둔화와 기준금리 동결 기대에도 6만3000달러대에서 제한적인 움직임을 이어가고 있다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154301",
+          "publishedAt": "2026-08-14T09:38:49+00:00",
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -258,45 +299,82 @@
           ]
         },
         {
-          "title": "이강인 이을 ‘20세 공격수’ 스페인서 뛴다…김민수, 지로나 1군 등록",
-          "summary": "한국 남자 축구 대표팀 ‘에이스’ 이강인(25)이 프랑스 프로축구 리그1 파리 생제르맹(PSG)을 떠나 스페인 프로축구 프리메라리가 아틀레티코 마드리드로 이적하면서 스페인 무대에 대한 관심이 높아진 가운데, ‘영건’ 김민수(20)도 스페인 구단인 지로나(2부 리그) 1군에 이름을 올렸다.지로나는 14일(한국 시간) 구단 공식 채널을 통해 “김민수와 자스틴 가르시아가 새 시즌 1군 선수로 등록된다”고 밝혔다.김민수는 지난 2022년 지로나 19세 이하(U-19) 팀에 합류했고, 이후 B팀에서 활약했다.지난 2024년 주전 자원들의 줄부상으로 인해 1군으로 콜업돼 성인 무대 데뷔전을 치르기도 했다.10월20일 2024~2025시즌 라리가 10라운드 레알 소시에다드전에서 후반 27분 교체 투입되면서 8번째 스페인 코리안리거가 됐다.과거 이천수, 박주영, 이강인, 백승호, 기성용 등에 이어 새 역사를 썼다.그리곤 10월31일 엑스트레마두라 1924(당시 5부 리그)와의 2024~",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260814/134477222/1",
-          "publishedAt": "2026-08-14T00:56:31+00:00",
+          "title": "임대 생활 마친 20세 공격수 김민수, 스페인 지로나 1군 등록",
+          "summary": "임대 생활을 성공적으로 마친 2006년생 공격수 김민수(20)가 2026-2027시즌에는 스페인 프로축구 지로...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260814019351007",
+          "publishedAt": "2026-08-14T00:07:16+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "연합뉴스"
+            "동아일보"
           ]
         }
       ]
     }
   ],
-  "lottery": {
-    "lotto": {
-      "round": 1236,
-      "drawDate": "2026-08-08",
-      "numbers": [
-        12,
-        18,
-        21,
-        29,
-        34,
-        38
-      ],
-      "bonus": 10,
-      "firstPrizeWinners": 11,
-      "firstPrizeAmount": 2441919375,
-      "link": "https://www.dhlottery.co.kr/lt645/result"
+  "topics": [
+    {
+      "id": "politics",
+      "name": "정치",
+      "sentence": "2차 종합특검이 윤석열 전 대통령에 대한 체포영장 집행을 방해한 혐의를 받는 나경원·김기현·윤상현·권영진 국민의힘 의원을 재판에 넘겼다.…",
+      "articleCount": 6,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003168"
     },
-    "pension": {
-      "round": 328,
-      "drawDate": "2026-08-13",
-      "group": "3",
-      "number": "644513",
-      "bonus": "177237",
-      "firstPrizeWinners": 2,
-      "firstPrizeAmount": 1680000000,
-      "link": "https://www.dhlottery.co.kr/pt720/result"
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "sentence": "글로벌 가상자산 거래소 바이낸스가 국내에서도 네이버(NAVER), LG전자 등에 최대 20배 레버리지로 투자할 수 있는 무기한 선물을 출시했다.…",
+      "articleCount": 3,
+      "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/HFSTIY3FGJRTSMJSGQZTGOLBMI/"
+    },
+    {
+      "id": "ai",
+      "name": "AI·인공지능",
+      "sentence": "전 세계의 AI 투자 확대에 힘입어 정보통신산업(ICT) 수출이 두 달 연속 500억달러를 웃도는 등 호조세를 이어가고 있다.…",
+      "articleCount": 2,
+      "link": "https://view.asiae.co.kr/article/2026081411065320207"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "sentence": "도널드 트럼프 미국 대통령이 13일(현지 시간) 드론 및 관련 부품에 최대 100%의 관세를 부과하는 내용의 포고문에 서명했다.…",
+      "articleCount": 2,
+      "link": "https://www.donga.com/news/Inter/article/all/20260814/134476596/1"
+    },
+    {
+      "id": "world",
+      "name": "국제정세",
+      "sentence": "도널드 트럼프 미국 대통령은 13일(현지시간) 미국에 투자한 외국 조선업체가 해당 업체의 본국에서 선박 두 척을 건조할 수 있도록 지시했다.",
+      "articleCount": 2,
+      "link": "https://www.mk.co.kr/news/world/12127572"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "sentence": "에이직랜드가 올해 상반기 창사 이래 최대 반기 매출을 기록하고 흑자 전환에 성공했다.에이직랜드는 올해 상반기 연결 기준 매출 1137억원, 영업이익 50억원을 기…",
+      "articleCount": 2,
+      "link": "https://www.inews24.com/view/1995088"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체",
+      "sentence": "삼성전자가 딥러닝과 데이터 엔지니어링 분야 전문가를 잇달아 영입하며 반도체 사업의 AX(AI Transformation·인공지능 전환)에 속도를 낸다.…",
+      "articleCount": 1,
+      "link": "https://www.bloter.net/news/articleView.html?idxno=670937"
+    },
+    {
+      "id": "fx",
+      "name": "환율",
+      "sentence": "한국씨티은행이 1분기 순익을 넘어 분기 기준 역대 최대 순이익을 기록했다.",
+      "articleCount": 1,
+      "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/MJRGGNBSGVSDGNTDGQZTKMLFMQ/"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "sentence": "비트코인이 미국의 물가 둔화와 기준금리 동결 기대에도 6만3000달러대에서 제한적인 움직임을 이어가고 있다.…",
+      "articleCount": 1,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=154301"
     }
-  }
+  ]
 }

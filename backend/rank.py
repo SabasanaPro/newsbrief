@@ -152,7 +152,8 @@ def score_cluster(group: list[dict], now: datetime) -> float:
     return score
 
 
-_SENTENCE_END_RE = re.compile(r"(?<=[.!?다요])\s")
+# 문장 끝은 마침표류로만 판단한다. '다'나 '요' 뒤 공백까지 끊으면 문장 중간이 잘린다.
+_SENTENCE_END_RE = re.compile(r"(?<=[.!?])\s+")
 # (서울=연합뉴스) 홍길동 기자 =  /  (워싱턴=연합뉴스) 박성민 특파원 =
 _BYLINE_RE = re.compile(r"^\([^)]{1,30}\)\s*(?:[가-힣]{2,5}\s+){0,4}(?:기자|특파원|통신원)\s*=\s*")
 _TRAILING_RE = re.compile(r"\s*(?:▶|◆|☞|\[출처|무단전재|저작권자).*$")
