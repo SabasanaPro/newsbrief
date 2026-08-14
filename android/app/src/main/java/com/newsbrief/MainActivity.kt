@@ -8,6 +8,7 @@ import android.os.Build
 import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.ComponentActivity
+import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
@@ -141,6 +142,11 @@ private fun AppScreen(
 
     val tabs = remember { Tab.entries.toList() }
     val current = tabs[selected]
+
+    // 휴대폰 뒤로가기: 설정에서는 이전 화면으로, 다른 탭에서는 홈으로.
+    // 홈에서만 뒤로가기가 앱을 종료한다.
+    BackHandler(enabled = showSettings) { showSettings = false }
+    BackHandler(enabled = !showSettings && selected != 0) { selected = 0 }
 
     Scaffold(
         topBar = {

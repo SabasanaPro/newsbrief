@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T17:17:23+09:00",
+  "generatedAt": "2026-08-14T18:03:06+09:00",
   "categories": [
     {
       "id": "politics",
@@ -55,41 +55,42 @@
       "name": "경제",
       "items": [
         {
-          "title": "전세계 AI 투자 확대에…지난달 ICT 수출 '역대 최대'",
-          "summary": "전 세계의 AI 투자 확대에 힘입어 정보통신산업(ICT) 수출이 두 달 연속 500억달러를 웃도는 등 호조세를 이어가고 있다.…",
-          "source": "아시아경제",
-          "link": "https://view.asiae.co.kr/article/2026081411065320207",
-          "publishedAt": "2026-08-14T02:06:53+00:00",
+          "title": "김윤덕 국토장관 “주택 공급, 어린이정원 포함 용산공원 전체를 고민”",
+          "summary": "국토부 제공김윤덕 국토교통부 장관이 14일 용산어린이정원을 포함해 용산공원 전체를 주택 공급 후보지로 검토하고 있다고 밝혔다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608141745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-08-14T08:45:00+00:00",
           "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "동아일보",
             "연합뉴스",
-            "조선일보"
+            "조선일보",
+            "한겨레"
           ]
         },
         {
-          "title": "카카오뱅크 임원진, 자사주 4억원어치 매입",
-          "summary": "카카오뱅크 로고카카오뱅크 임원진이 자사주 4억여원어치를 사들였다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608141431011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-08-14T05:31:01+00:00",
+          "title": "카카오뱅크 임원진, 4.6억 규모 자사주 매입…\"기업가치 제고\"",
+          "summary": "카카오뱅크 임원진이 약 4억6000만원 규모의 자사주를 사들였다. 14일 카카오뱅크에 따르면 임원 12명은 지난 6월부터 8월 12일까지 카카오뱅크 주식 총 2만1100주를 장내 매수했다.…",
+          "source": "머니투데이",
+          "link": "https://www.mt.co.kr/finance/2026/08/14/2026081416232934853",
+          "publishedAt": "2026-08-14T07:42:06+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "머니투데이",
+            "경향신문",
             "아시아경제",
             "연합뉴스"
           ]
         },
         {
-          "title": "한국씨티은행, 2분기 순익 1868억원… 분기 역대 최대",
-          "summary": "한국씨티은행이 1분기 순익을 넘어 분기 기준 역대 최대 순이익을 기록했다. 외환·파생상품·유가증권 등 기업금융 중심의 비이자 수익 증가가 실적 개선을 주도했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/MJRGGNBSGVSDGNTDGQZTKMLFMQ/",
-          "publishedAt": "2026-08-14T07:23:42+00:00",
-          "sourceCount": 3,
+          "title": "전세계 AI 투자 확대에…지난달 ICT 수출 '역대 최대'",
+          "summary": "전 세계의 AI 투자 확대에 힘입어 정보통신산업(ICT) 수출이 두 달 연속 500억달러를 웃도는 등 호조세를 이어가고 있다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026081411065320207",
+          "publishedAt": "2026-08-14T02:06:53+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "아시아경제",
+            "SBS",
+            "동아일보",
             "연합뉴스"
           ]
         }
@@ -100,48 +101,46 @@
       "name": "사회",
       "items": [
         {
-          "title": "특검, ‘尹체포방해’ 나경원·김기현·윤상현·권영진 기소",
-          "summary": "2차 종합특검이 윤석열 전 대통령에 대한 체포영장 집행을 방해한 혐의를 받는 나경원·김기현·윤상현·권영진 국민의힘 의원을 재판에 넘겼다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003168",
-          "publishedAt": "2026-08-14T05:01:00+00:00",
-          "sourceCount": 7,
-          "otherSources": [
-            "경향신문",
-            "노컷뉴스",
-            "동아일보",
-            "매일경제",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "검찰, 도박·음주운전 혐의 개그맨 이진호에 징역 2년 구형",
-          "summary": "검찰이 상습 도박과 음주운전 혐의로 재판에 넘겨진 개그맨 이진호에게 징역 2년을 구형했다. 검찰은 14일 수원지방법원 여주지원 형사1단독 안태윤 부장판사 심리로 진행된 결심공판에서..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12127943",
-          "publishedAt": "2026-08-14T05:14:05+00:00",
-          "sourceCount": 6,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "국민일보",
-            "노컷뉴스",
-            "조선일보"
-          ]
-        },
-        {
           "title": "법무부, '수원지검 집단퇴정' 검사들 징계 청구",
           "summary": "법무부, '수원지검 집단퇴정' 검사들 징계 청구(SBS 디지털뉴스부/사진=법무부 제공, 연합뉴스)",
           "source": "SBS",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706071",
           "publishedAt": "2026-08-14T08:00:00+00:00",
-          "sourceCount": 6,
+          "sourceCount": 8,
           "otherSources": [
+            "경향신문",
             "국민일보",
+            "노컷뉴스",
             "동아일보",
             "매일경제",
-            "연합뉴스",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "특검 '尹 체포 방해' 나경원·김기현·윤상현·권영진 기소",
+          "summary": "2차 종합특검팀(특별검사 권창영)이 윤석열 전 대통령의 체포영장 집행을 방해한 혐의로 나경원·김기현·윤상현·권영진 국민의힘 의원을 재판에 넘겼다. 특검은 14일 이들 의원 4명을 ..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12128255",
+          "publishedAt": "2026-08-14T08:54:09+00:00",
+          "sourceCount": 6,
+          "otherSources": [
+            "경향신문",
+            "노컷뉴스",
+            "동아일보",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "한강버스 11개월 만에 누적 탑승객 50만명 돌파",
+          "summary": "서울시는 지난해 9월 18일 정식운항을 시작한 한강버스가 전날 기준 누적 탑승객 50만1430명을 기록했다고 14일 밝혔다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003175",
+          "publishedAt": "2026-08-14T05:32:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "동아일보",
             "조선일보"
           ]
         }
@@ -152,17 +151,17 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프, 드론·부품에 최대 100% 관세…韓 등 동맹국은 15%",
-          "summary": "도널드 트럼프 미국 대통령이 13일(현지 시간) 드론 및 관련 부품에 최대 100%의 관세를 부과하는 내용의 포고문에 서명했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260814/134476596/1",
-          "publishedAt": "2026-08-13T22:46:00+00:00",
+          "title": "트럼프, 드론·드론부품에 최대 100% 관세… 韓은 15%",
+          "summary": "도널드 트럼프 미국 행정부가 수입 드론과 관련 부품에 최대 100%의 관세를 부과하기로 했다. 한국산 드론과 부품에도 15%의 관세가 적용된다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/08/14/GVSWKZBQHAYGIYZSGQYTQMBUMI/",
+          "publishedAt": "2026-08-13T21:49:30+00:00",
           "sourceCount": 6,
           "otherSources": [
-            "SBS",
             "경향신문",
+            "동아일보",
+            "매일경제",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         },
@@ -180,15 +179,15 @@
           ]
         },
         {
-          "title": "트럼프 “‘美투자’ 외국 조선소에 선박 최대 2척 건조 승인”",
-          "summary": "도널드 트럼프 미국 대통령은 13일(현지시간) 미국에 투자한 외국 조선업체가 해당 업체의 본국에서 선박 두 척을 건조할 수 있도록 지시했다. 트럼프 대통령은 이날 서명한 각서에서 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12127572",
-          "publishedAt": "2026-08-13T22:09:35+00:00",
+          "title": "트럼프 “美 투자하는 외국 조선소에 선박 최대 2척 건조 승인”",
+          "summary": "도널드 트럼프 미국 대통령이 미국 조선업에 투자하는 외국 조선업체에 최대 2척의 선박을 해외에서 건조할 수 있도록 허용했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/08/14/MRRTIYZTGEZGCODGGBSTSMJXGY/",
+          "publishedAt": "2026-08-13T22:09:56+00:00",
           "sourceCount": 4,
           "otherSources": [
+            "매일경제",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         }
@@ -211,25 +210,25 @@
           ]
         },
         {
-          "title": "에이직랜드, 상반기 매출 1137억원 '역대 최대'⋯영업익 흑자전환",
-          "summary": "에이직랜드가 올해 상반기 창사 이래 최대 반기 매출을 기록하고 흑자 전환에 성공했다.에이직랜드는 올해 상반기 연결 기준 매출 1137억원, 영업이익 50억원을 기록했다고 14일 밝혔다.매출은 전년 동기 305억원보다 약 273% 증가",
+          "title": "SK하이닉스, 상반기 美 매출 84.6조…엔비디아 추정 고객 17.6조",
+          "summary": "SK하이닉스가 인공지능(AI)용 고대역폭 메모리(HBM) 수요 증가에 힘입어 올해 상반기 미국에서만 84조원이 넘는 매출을 올렸다.…",
           "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/1995088",
-          "publishedAt": "2026-08-14T03:18:57+00:00",
+          "link": "https://www.inews24.com/view/1995296",
+          "publishedAt": "2026-08-14T09:01:07+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
           ]
         },
         {
-          "title": "삼성전자, 딥러닝·데이터 전문가 영입…반도체 AX 가속",
-          "summary": "삼성전자가 딥러닝과 데이터 엔지니어링 분야 전문가를 잇달아 영입하며 반도체 사업의 AX(AI Transformation·인공지능 전환)에 속도를 낸다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=670937",
-          "publishedAt": "2026-08-14T09:32:43+00:00",
+          "title": "SK하이닉스 소액주주 346만명…1년 새 278만명 늘었다",
+          "summary": "SK하이닉스 소액주주가 1년 만에 5배 이상 늘어나며 346만명을 넘어섰다.14일 SK하이닉스 반기보고서에 따르면 올해 6월 말 기준 소액주주는 346만1526명으로 집계됐다.…",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/1995275",
+          "publishedAt": "2026-08-14T08:32:01+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "전자신문"
+            "연합뉴스"
           ]
         }
       ]
@@ -244,20 +243,10 @@
           "source": "연합뉴스",
           "link": "https://www.yna.co.kr/view/AKR20260814149600002",
           "publishedAt": "2026-08-14T08:11:08+00:00",
-          "sourceCount": 2,
+          "sourceCount": 3,
           "otherSources": [
-            "매일경제"
-          ]
-        },
-        {
-          "title": "바이낸스, 네이버·LG전자 20배 선물 출시… 자본시장법 위반 소지",
-          "summary": "글로벌 가상자산 거래소 바이낸스가 국내에서도 네이버(NAVER), LG전자 등에 최대 20배 레버리지로 투자할 수 있는 무기한 선물을 출시했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/HFSTIY3FGJRTSMJSGQZTGOLBMI/",
-          "publishedAt": "2026-08-14T05:26:51+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "연합뉴스"
+            "매일경제",
+            "조선일보"
           ]
         },
         {
@@ -268,6 +257,15 @@
           "publishedAt": "2026-08-14T09:38:49+00:00",
           "sourceCount": 1,
           "otherSources": []
+        },
+        {
+          "title": "가상자산사업자 신고·규제 강화의 주요 내용과 시사점",
+          "summary": "[블록미디어=강련호 변호사] 가상자산사업자에 대한 진입규제와 자금세탁방지(AML) 규율이 한층 강화된다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1127839?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-08-14T09:00:16+00:00",
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -276,15 +274,25 @@
       "name": "문화·스포츠",
       "items": [
         {
+          "title": "‘WBC 8강 주역’ 위트컴, 이정후와 SF서 한솥밥",
+          "summary": "3월 월드베이스볼클래식(WBC)에서 태극마크를 달았던 한국계 내야수 셰이 위트컴(28)이 이정후(28·샌프란시스코)와 한솥밥을 먹는다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20260814/134479129/1",
+          "publishedAt": "2026-08-14T06:46:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
+        {
           "title": "김민희·홍상수, 득남 후 첫 공식석상…\"아기 수유하며 촬영\"",
           "summary": "홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 함께 스위스 로카르노영화제를 찾았다.",
           "source": "연합뉴스",
           "link": "https://www.yna.co.kr/view/AKR20260814030551005",
           "publishedAt": "2026-08-14T01:36:45+00:00",
-          "sourceCount": 3,
+          "sourceCount": 2,
           "otherSources": [
-            "SBS",
-            "한겨레"
+            "SBS"
           ]
         },
         {
@@ -297,17 +305,6 @@
           "otherSources": [
             "조선일보"
           ]
-        },
-        {
-          "title": "임대 생활 마친 20세 공격수 김민수, 스페인 지로나 1군 등록",
-          "summary": "임대 생활을 성공적으로 마친 2006년생 공격수 김민수(20)가 2026-2027시즌에는 스페인 프로축구 지로...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260814019351007",
-          "publishedAt": "2026-08-14T00:07:16+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "동아일보"
-          ]
         }
       ]
     }
@@ -316,16 +313,23 @@
     {
       "id": "politics",
       "name": "정치",
-      "sentence": "2차 종합특검이 윤석열 전 대통령에 대한 체포영장 집행을 방해한 혐의를 받는 나경원·김기현·윤상현·권영진 국민의힘 의원을 재판에 넘겼다.…",
+      "sentence": "6·3 지방선거 투표용지 부족 사태 등 국민참정권 침해 의혹을 수사할 특별검사 후보로 이태한 전 서울남부지검 형사4부장 검사와 이혁 전 서울고검 검사 등 2명이…",
       "articleCount": 6,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003168"
+      "link": "https://www.donga.com/news/Politics/article/all/20260814/134479647/1"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "sentence": "글로벌 가상자산 거래소 바이낸스가 국내에서도 네이버(NAVER), LG전자 등에 최대 20배 레버리지로 투자할 수 있는 무기한 선물을 출시했다.…",
+      "sentence": "가상자산 거래소 빗썸은 올해 2분기 218억원의 순손실을 기록했다고 14일 밝혔다.",
       "articleCount": 3,
-      "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/HFSTIY3FGJRTSMJSGQZTGOLBMI/"
+      "link": "https://www.yna.co.kr/view/AKR20260814149600002"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체",
+      "sentence": "SK하이닉스 소액주주가 1년 만에 5배 이상 늘어나며 346만명을 넘어섰다.14일 SK하이닉스 반기보고서에 따르면 올해 6월 말 기준 소액주주는 346만1526명…",
+      "articleCount": 2,
+      "link": "https://www.inews24.com/view/1995275"
     },
     {
       "id": "ai",
@@ -335,39 +339,32 @@
       "link": "https://view.asiae.co.kr/article/2026081411065320207"
     },
     {
+      "id": "realestate",
+      "name": "부동산",
+      "sentence": "국토부 제공김윤덕 국토교통부 장관이 14일 용산어린이정원을 포함해 용산공원 전체를 주택 공급 후보지로 검토하고 있다고 밝혔다.…",
+      "articleCount": 2,
+      "link": "https://www.khan.co.kr/article/202608141745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+    },
+    {
       "id": "trade",
       "name": "수출·관세",
-      "sentence": "도널드 트럼프 미국 대통령이 13일(현지 시간) 드론 및 관련 부품에 최대 100%의 관세를 부과하는 내용의 포고문에 서명했다.…",
+      "sentence": "도널드 트럼프 미국 행정부가 수입 드론과 관련 부품에 최대 100%의 관세를 부과하기로 했다.",
       "articleCount": 2,
-      "link": "https://www.donga.com/news/Inter/article/all/20260814/134476596/1"
+      "link": "https://www.chosun.com/international/international_general/2026/08/14/GVSWKZBQHAYGIYZSGQYTQMBUMI/"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "sentence": "도널드 트럼프 미국 대통령은 13일(현지시간) 미국에 투자한 외국 조선업체가 해당 업체의 본국에서 선박 두 척을 건조할 수 있도록 지시했다.",
+      "sentence": "도널드 트럼프 미국 대통령이 미국 조선업에 투자하는 외국 조선업체에 최대 2척의 선박을 해외에서 건조할 수 있도록 허용했다.…",
       "articleCount": 2,
-      "link": "https://www.mk.co.kr/news/world/12127572"
+      "link": "https://www.chosun.com/international/international_general/2026/08/14/MRRTIYZTGEZGCODGGBSTSMJXGY/"
     },
     {
-      "id": "industry",
-      "name": "산업·기업",
-      "sentence": "에이직랜드가 올해 상반기 창사 이래 최대 반기 매출을 기록하고 흑자 전환에 성공했다.에이직랜드는 올해 상반기 연결 기준 매출 1137억원, 영업이익 50억원을 기…",
-      "articleCount": 2,
-      "link": "https://www.inews24.com/view/1995088"
-    },
-    {
-      "id": "semiconductor",
-      "name": "반도체",
-      "sentence": "삼성전자가 딥러닝과 데이터 엔지니어링 분야 전문가를 잇달아 영입하며 반도체 사업의 AX(AI Transformation·인공지능 전환)에 속도를 낸다.…",
+      "id": "stock",
+      "name": "증시",
+      "sentence": "SK하이닉스 소액주주가 1년 만에 5배 이상 늘어나며 346만명을 넘어섰다.14일 SK하이닉스 반기보고서에 따르면 올해 6월 말 기준 소액주주는 346만1526명…",
       "articleCount": 1,
-      "link": "https://www.bloter.net/news/articleView.html?idxno=670937"
-    },
-    {
-      "id": "fx",
-      "name": "환율",
-      "sentence": "한국씨티은행이 1분기 순익을 넘어 분기 기준 역대 최대 순이익을 기록했다.",
-      "articleCount": 1,
-      "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/MJRGGNBSGVSDGNTDGQZTKMLFMQ/"
+      "link": "https://www.inews24.com/view/1995275"
     },
     {
       "id": "rate",
@@ -376,5 +373,33 @@
       "articleCount": 1,
       "link": "https://www.techm.kr/news/articleView.html?idxno=154301"
     }
-  ]
+  ],
+  "lottery": {
+    "lotto": {
+      "round": 1236,
+      "drawDate": "2026-08-08",
+      "numbers": [
+        12,
+        18,
+        21,
+        29,
+        34,
+        38
+      ],
+      "bonus": 10,
+      "firstPrizeWinners": 11,
+      "firstPrizeAmount": 2441919375,
+      "link": "https://www.dhlottery.co.kr/lt645/result"
+    },
+    "pension": {
+      "round": 328,
+      "drawDate": "2026-08-13",
+      "group": "3",
+      "number": "644513",
+      "bonus": "177237",
+      "firstPrizeWinners": 2,
+      "firstPrizeAmount": 1680000000,
+      "link": "https://www.dhlottery.co.kr/pt720/result"
+    }
+  }
 }

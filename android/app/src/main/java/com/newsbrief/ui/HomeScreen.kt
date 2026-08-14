@@ -27,6 +27,7 @@ import com.newsbrief.data.AppSettings
 import com.newsbrief.data.Brief
 import com.newsbrief.data.Lotto
 import com.newsbrief.data.MyNumbers
+import com.newsbrief.data.Pension
 import com.newsbrief.data.Quote
 import com.newsbrief.data.Story
 import com.newsbrief.data.Weather
@@ -71,6 +72,7 @@ fun HomeScreen(
         TopNewsCard(brief, onOpenStory)
         MarketCard(quotes, onSearch)
         LottoCard(brief?.lottery?.lotto, myNumbers, onOpenLink)
+        PensionCard(brief?.lottery?.pension, onOpenLink)
         WeatherCard(weather, weatherLoading, onSearch)
 
         Spacer(Modifier.height(16.dp))
@@ -189,6 +191,28 @@ private fun LottoCard(lotto: Lotto?, myNumbers: MyNumbers, onOpenLink: (String) 
                 color = if (result.rank > 0) RiseColor else MaterialTheme.colorScheme.onSurfaceVariant,
             )
         }
+    }
+}
+
+/* ---------------- 연금복권 ---------------- */
+
+@Composable
+private fun PensionCard(pension: Pension?, onOpenLink: (String) -> Unit) {
+    if (pension == null) return
+
+    HomeCard(title = "💰 연금복권 720+", onClick = { onOpenLink(pension.link) }) {
+        BulletRow("${pension.round}회 ${pension.group ?: "-"}조 ${pension.number.orEmpty()}")
+
+        pension.bonus?.takeIf { it.isNotBlank() }?.let { BulletRow("보너스 $it") }
+
+        val winners = pension.firstPrizeWinners
+        val amount = pension.firstPrizeAmount
+        if (winners != null && amount != null) {
+            // 총액으로 오므로 20년(240개월) 기준 월 수령액으로 바꿔 보여준다
+            BulletRow("1등 ${winners}명 / 월 ${formatAmount(amount / 240)}(20년)")
+        }
+
+        BulletRow("다음 추첨까지 ${daysUntil(DayOfWeek.THURSDAY)}일")
     }
 }
 

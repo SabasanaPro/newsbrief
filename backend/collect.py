@@ -116,8 +116,22 @@ def build_categories(articles: list[dict], now: datetime) -> list[dict]:
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", default="../data/news.json", help="출력 JSON 경로")
-    parser.add_argument("--no-lottery", action="store_true", help="복권 조회 생략")
+    parser.add_argument("--no-lottery", action="store_true", help="복권 조회 생략 (시험용)")
     args = parser.parse_args()
+
+    out_path = Path(args.out)
+    if not out_path.is_absolute():
+        out_path = (Path(__file__).parent / out_path).resolve()
+
+    # 복권 없이 만든 파일을 앱이 받아가는 위치에 덮어쓰면 복권 화면이 통째로 비어버린다.
+    # 시험 실행 결과가 실수로 배포되지 않도록 막는다.
+    if args.no_lottery and out_path.name == "news.json" and out_path.parent.name == "data":
+        print(
+            "거부: --no-lottery 결과는 data/news.json 에 쓸 수 없습니다.\n"
+            "      시험용이면 --out 으로 다른 경로를 지정하세요.",
+            file=sys.stderr,
+        )
+        return 1
 
     now = datetime.now(timezone.utc)
     print("기사 수집 중...", file=sys.stderr)
@@ -138,9 +152,6 @@ def main() -> int:
 
         payload["lottery"] = lottery.fetch_all()
 
-    out_path = Path(args.out)
-    if not out_path.is_absolute():
-        out_path = (Path(__file__).parent / out_path).resolve()
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"저장 완료: {out_path}", file=sys.stderr)
