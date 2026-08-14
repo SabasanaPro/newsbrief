@@ -26,9 +26,12 @@ import androidx.compose.ui.unit.dp
 import com.newsbrief.data.AppSettings
 import com.newsbrief.data.Brief
 import com.newsbrief.data.Lotto
+import com.newsbrief.data.MAX_TOPICS
 import com.newsbrief.data.MyNumbers
 import com.newsbrief.data.Pension
 import com.newsbrief.data.Quote
+import com.newsbrief.data.composeBriefing
+import com.newsbrief.data.pickBriefingTopics
 import com.newsbrief.data.Story
 import com.newsbrief.data.Weather
 import com.newsbrief.data.checkLotto
@@ -37,9 +40,6 @@ import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 import java.time.temporal.TemporalAdjusters
 import java.util.Locale
-
-/** AI 브리핑에 넣을 수 있는 주제 개수. 너무 많으면 문단이 장황해진다. */
-const val MAX_TOPICS = 4
 
 @Composable
 fun HomeScreen(
@@ -99,8 +99,12 @@ private fun DateHeader() {
 
 @Composable
 private fun AiBriefingCard(brief: Brief?, settings: AppSettings) {
-    val selected = brief?.topics.orEmpty().filter { it.id in settings.topics }.take(MAX_TOPICS)
-    if (selected.isEmpty()) return
+    val topics = brief?.topics.orEmpty()
+    if (topics.isEmpty()) return
+
+    val selected = pickBriefingTopics(topics, settings.topics)
+    // 고른 주제가 오늘 하나도 안 잡혀 대신 채운 경우인지
+    val fallback = topics.none { it.id in settings.topics }
 
     HomeCard(title = "🤖 AI 오늘의 브리핑") {
         Text(
@@ -109,42 +113,14 @@ private fun AiBriefingCard(brief: Brief?, settings: AppSettings) {
         )
         Spacer(Modifier.height(6.dp))
         Text(
-            text = selected.joinToString(" · ") { it.name },
+            text = selected.joinToString(" · ") { it.name } +
+                if (fallback) "  (고른 주제에 오늘 뉴스가 없어 대신 표시)" else "",
             style = MaterialTheme.typography.labelSmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
     }
 }
 
-/**
- * 주제별 구를 한 문단으로 엮는다. 기사 문장을 그대로 늘어놓으면 목록처럼 읽혀서,
- * 짧은 구를 문장 틀에 끼워 하루를 요약하는 말투로 만든다.
- */
-private fun composeBriefing(phrases: List<String>): String {
-    // 두 주제가 같은 기사를 대표로 골랐을 수 있어 같은 구는 한 번만 쓴다
-    val items = phrases.filter { it.isNotBlank() }.distinct()
-    return when (items.size) {
-        0 -> ""
-        1 -> "오늘은 ${items[0]}${subjectParticle(items[0])} 눈에 띕니다."
-        2 -> "오늘은 ${items[0]}${andParticle(items[0])} ${items[1]}${subjectParticle(items[1])} 눈에 띕니다."
-        3 -> "오늘은 ${items[0]}${andParticle(items[0])} ${items[1]}${subjectParticle(items[1])} 눈에 띄고, " +
-            "${items[2]} 소식도 이어졌습니다."
-
-        else -> "오늘은 ${items[0]}${andParticle(items[0])} ${items[1]}${subjectParticle(items[1])} 눈에 띕니다. " +
-            "${items[2]}, ${items[3]} 소식도 함께 전해졌습니다."
-    }
-}
-
-/** 받침이 있으면 '과·이', 없으면 '와·가'. 한글이 아니면 받침 없는 쪽으로 둔다. */
-private fun hasFinalConsonant(text: String): Boolean {
-    val last = text.trimEnd(' ', '…', '.', '"', '\'', '”', '’', ')', ']') .lastOrNull() ?: return false
-    if (last !in '가'..'힣') return false
-    return (last.code - 0xAC00) % 28 != 0
-}
-
-private fun andParticle(text: String) = if (hasFinalConsonant(text)) "과" else "와"
-
-private fun subjectParticle(text: String) = if (hasFinalConsonant(text)) "이" else "가"
 
 /* ---------------- 오늘 주요 뉴스 ---------------- */
 
@@ -181,12 +157,20 @@ private fun MarketCard(quotes: List<Quote>, onSearch: (String) -> Unit) {
                 verticalAlignment = Alignment.CenterVertically,
             ) {
                 Text("• ${quote.name}", style = MaterialTheme.typography.bodyMedium)
-                Text(
-                    text = "${arrow(quote.direction)} ${quote.rate}",
-                    style = MaterialTheme.typography.bodyMedium,
-                    fontWeight = FontWeight.Medium,
-                    color = directionColor(quote.direction),
-                )
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Text(
+                        text = quote.price,
+                        style = MaterialTheme.typography.bodyMedium,
+                        fontWeight = FontWeight.SemiBold,
+                    )
+                    Spacer(Modifier.width(6.dp))
+                    Text(
+                        text = "${arrow(quote.direction)} ${quote.rate}",
+                        style = MaterialTheme.typography.labelMedium,
+                        fontWeight = FontWeight.Medium,
+                        color = directionColor(quote.direction),
+                    )
+                }
             }
         }
     }

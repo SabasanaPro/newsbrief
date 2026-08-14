@@ -224,6 +224,7 @@ private fun MyNumbersSection(
         )
     }
     val focusRequesters = remember { List(6) { FocusRequester() } }
+    var inputError by remember { mutableStateOf<String?>(null) }
 
     /** 커서를 해당 칸의 글자 끝으로 보내면서 포커스를 옮긴다. */
     fun moveTo(index: Int) {
@@ -236,11 +237,19 @@ private fun MyNumbersSection(
         values.forEachIndexed { index, field ->
             OutlinedTextField(
                 value = field,
-                onValueChange = { input ->
+                onValueChange = onValueChange@{ input ->
                     val digits = input.text.filter { it.isDigit() }.take(2)
                     val previous = values[index].text
                     // '01' 처럼 앞에 0을 붙여 치면 한 자리 수로 정리한다
                     val normalized = if (digits.length == 2 && digits[0] == '0') digits.substring(1) else digits
+
+                    // 46 이상은 아예 받지 않는다. '0' 은 '01' 을 치는 중일 수 있어 통과시킨다.
+                    val number = normalized.toIntOrNull()
+                    if (normalized.isNotEmpty() && normalized != "0" && (number == null || number !in 1..45)) {
+                        inputError = "1~45 사이의 숫자만 입력할 수 있습니다"
+                        return@onValueChange
+                    }
+                    inputError = null
 
                     values = values.toMutableList().also {
                         it[index] = TextFieldValue(normalized, TextRange(normalized.length))
@@ -290,6 +299,7 @@ private fun MyNumbersSection(
 
     val parsed = values.mapNotNull { it.text.toIntOrNull() }.filter { it in 1..45 }
     when {
+        inputError != null -> ResultText(inputError!!, MaterialTheme.colorScheme.error)
         parsed.size < 6 -> ResultText("1~45 사이 숫자 6개를 입력하세요", MaterialTheme.colorScheme.onSurfaceVariant)
         parsed.distinct().size < 6 -> ResultText("중복된 숫자가 있습니다", MaterialTheme.colorScheme.error)
         else -> {

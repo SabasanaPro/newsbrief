@@ -12,8 +12,6 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.size
-import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -24,6 +22,7 @@ import androidx.compose.material3.AssistChip
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Checkbox
+import androidx.compose.material3.FilterChip
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -46,6 +45,7 @@ import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import com.newsbrief.data.Alarm
 import com.newsbrief.data.AppSettings
+import com.newsbrief.data.MAX_TOPICS
 import com.newsbrief.data.TopicOption
 
 /**
@@ -175,6 +175,7 @@ fun SettingsScreen(
 }
 
 /** 주제가 20개가 넘어 설정 화면에 다 펼치면 길어지므로 팝업으로 뺀다. */
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 private fun TopicPickerDialog(
     catalog: List<TopicOption>,
@@ -189,34 +190,25 @@ private fun TopicPickerDialog(
         onDismissRequest = onDismiss,
         title = { Text("브리핑 주제 (${picked.size}/$MAX_TOPICS)") },
         text = {
-            LazyColumn(Modifier.heightIn(max = 400.dp)) {
-                items(catalog, key = { it.id }) { option ->
+            // 한 줄에 하나씩 놓으면 23개가 너무 길게 늘어져 칩으로 채운다
+            FlowRow(
+                modifier = Modifier
+                    .heightIn(max = 420.dp)
+                    .verticalScroll(rememberScrollState()),
+                horizontalArrangement = Arrangement.spacedBy(6.dp),
+                verticalArrangement = Arrangement.spacedBy(2.dp),
+            ) {
+                catalog.forEach { option ->
                     val checked = option.id in picked
                     // 4개를 채우면 나머지는 고를 수 없게 막는다
-                    val selectable = checked || !full
-                    Row(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .clickable(enabled = selectable) {
-                                picked = if (checked) picked - option.id else picked + option.id
-                            }
-                            .padding(vertical = 2.dp),
-                        verticalAlignment = Alignment.CenterVertically,
-                    ) {
-                        Checkbox(
-                            checked = checked,
-                            onCheckedChange = {
-                                if (selectable) picked = if (checked) picked - option.id else picked + option.id
-                            },
-                            enabled = selectable,
-                        )
-                        Text(
-                            text = option.name,
-                            style = MaterialTheme.typography.bodyLarge,
-                            color = if (selectable) MaterialTheme.colorScheme.onSurface
-                            else MaterialTheme.colorScheme.onSurfaceVariant,
-                        )
-                    }
+                    FilterChip(
+                        selected = checked,
+                        enabled = checked || !full,
+                        onClick = {
+                            picked = if (checked) picked - option.id else picked + option.id
+                        },
+                        label = { Text(option.name) },
+                    )
                 }
             }
         },

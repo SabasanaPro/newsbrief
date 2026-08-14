@@ -25,6 +25,8 @@ object WidgetUpdater {
     suspend fun push(context: Context, snapshot: WidgetSnapshot) {
         WidgetSnapshotStore(context).save(snapshot)
         DashboardWidget().updateAll(context)
+        DashboardWideWidget().updateAll(context)
+        DashboardFullWidget().updateAll(context)
     }
 
     /**
@@ -56,6 +58,7 @@ class WidgetWorker(context: Context, params: WorkerParameters) : CoroutineWorker
             brief = brief,
             quotes = quotes,
             weather = weather,
+            chosenTopics = settings.topics,
             now = LocalTime.now().format(DateTimeFormatter.ofPattern("HH:mm")),
         )
         WidgetUpdater.push(applicationContext, snapshot)

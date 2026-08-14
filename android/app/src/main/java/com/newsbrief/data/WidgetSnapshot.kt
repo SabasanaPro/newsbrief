@@ -15,16 +15,24 @@ data class WidgetSnapshot(
     val updatedAt: String = "",
     val weather: String = "",
     val weatherEmoji: String = "",
+    val briefing: String = "",
     val quotes: List<WidgetQuote> = emptyList(),
     val lottoRound: String = "",
     val lottoNumbers: String = "",
+    val lottoPrize: String = "",
+    val pensionLine: String = "",
     val headlines: List<String> = emptyList(),
 ) {
     val isEmpty: Boolean get() = weather.isBlank() && quotes.isEmpty() && headlines.isEmpty()
 }
 
 @Serializable
-data class WidgetQuote(val name: String, val rate: String, val direction: Int)
+data class WidgetQuote(
+    val name: String,
+    val price: String = "",
+    val rate: String = "",
+    val direction: Int = 0,
+)
 
 class WidgetSnapshotStore(context: Context) {
 
@@ -51,20 +59,31 @@ fun buildWidgetSnapshot(
     brief: Brief?,
     quotes: List<Quote>,
     weather: Weather?,
+    chosenTopics: Set<String>,
     now: String,
 ): WidgetSnapshot {
     val lotto = brief?.lottery?.lotto
+    val pension = brief?.lottery?.pension
+    val topics = pickBriefingTopics(brief?.topics.orEmpty(), chosenTopics)
+
     return WidgetSnapshot(
         updatedAt = now,
         weather = weather?.let { "${it.place} ${it.minTemp}~${it.maxTemp}℃ ${it.description}" }.orEmpty(),
         weatherEmoji = weather?.emoji.orEmpty(),
-        quotes = quotes.map { WidgetQuote(it.name, it.rate, it.direction) },
+        briefing = composeBriefing(topics.map { it.phrase.ifBlank { it.name } }),
+        quotes = quotes.map { WidgetQuote(it.name, it.price, it.rate, it.direction) },
         lottoRound = lotto?.let { "${it.round}회" }.orEmpty(),
         lottoNumbers = lotto?.let { "${it.numbers.joinToString(" ")} + ${it.bonus}" }.orEmpty(),
+        lottoPrize = lotto?.firstPrizeWinners?.let { winners ->
+            val amount = lotto.firstPrizeAmount
+            if (amount == null) "1등 ${winners}명"
+            else "1등 ${winners}명 / %.1f억".format(amount / 100_000_000.0)
+        }.orEmpty(),
+        pensionLine = pension?.let { "${it.round}회 ${it.group ?: "-"}조 ${it.number.orEmpty()}" }.orEmpty(),
         headlines = brief?.categories.orEmpty()
             .flatMap { it.items }
             .sortedByDescending { it.sourceCount }
-            .take(3)
+            .take(4)
             .map { it.title },
     )
 }

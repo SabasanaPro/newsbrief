@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:21:35+09:00",
+  "generatedAt": "2026-08-14T18:44:35+09:00",
   "categories": [
     {
       "id": "politics",
@@ -60,12 +60,11 @@
           "source": "경향신문",
           "link": "https://www.khan.co.kr/article/202608141745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
           "publishedAt": "2026-08-14T08:45:00+00:00",
-          "sourceCount": 5,
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
             "연합뉴스",
-            "조선일보",
-            "한겨레"
+            "조선일보"
           ]
         },
         {
@@ -82,15 +81,15 @@
           ]
         },
         {
-          "title": "카카오뱅크 임원진, 4.6억 규모 자사주 매입…\"기업가치 제고\"",
-          "summary": "카카오뱅크 임원진이 약 4억6000만원 규모의 자사주를 사들였다. 14일 카카오뱅크에 따르면 임원 12명은 지난 6월부터 8월 12일까지 카카오뱅크 주식 총 2만1100주를 장내 매수했다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/finance/2026/08/14/2026081416232934853",
-          "publishedAt": "2026-08-14T07:42:06+00:00",
+          "title": "전세계 AI 투자 확대에…지난달 ICT 수출 '역대 최대'",
+          "summary": "전 세계의 AI 투자 확대에 힘입어 정보통신산업(ICT) 수출이 두 달 연속 500억달러를 웃도는 등 호조세를 이어가고 있다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026081411065320207",
+          "publishedAt": "2026-08-14T02:06:53+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "경향신문",
-            "아시아경제",
+            "SBS",
+            "동아일보",
             "연합뉴스"
           ]
         }
@@ -101,46 +100,46 @@
       "name": "사회",
       "items": [
         {
-          "title": "법무부, ‘수원지검 집단퇴정’ 검사들 징계 청구",
-          "summary": "지난해 11월 이화영 전 경기도 평화부지사의 ‘술 파티 의혹 위증 사건’ 관련 재판 도중 법정에서 집단 퇴정한 수원지검 검사들에 대해 법무부가 징계를 청구했다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003213",
-          "publishedAt": "2026-08-14T08:04:01+00:00",
-          "sourceCount": 8,
+          "title": "정성호 법무부 장관, ‘수원지검 집단퇴정’ 검사 2명 징계 청구",
+          "summary": "정성호 법무부 장관이 ‘수원지검 집단퇴정’ 검사들에 대해 징계를 청구했다. 법무부는 14일 이화영 전 경기도 평화부지사의 ‘술 파티 의혹 위증 사건’ 공판준비기일에 법정에서 재판부..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12128140",
+          "publishedAt": "2026-08-14T07:54:49+00:00",
+          "sourceCount": 7,
           "otherSources": [
             "SBS",
             "경향신문",
             "노컷뉴스",
             "동아일보",
-            "매일경제",
-            "연합뉴스"
+            "연합뉴스",
+            "조선일보"
           ]
         },
         {
-          "title": "특검 '尹 체포 방해' 나경원·김기현·윤상현·권영진 기소",
-          "summary": "2차 종합특검팀(특별검사 권창영)이 윤석열 전 대통령의 체포영장 집행을 방해한 혐의로 나경원·김기현·윤상현·권영진 국민의힘 의원을 재판에 넘겼다. 특검은 14일 이들 의원 4명을 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12128255",
-          "publishedAt": "2026-08-14T08:54:09+00:00",
+          "title": "'尹 체포방해' 나경원·김기현·윤상현·권영진…불구속 기소",
+          "summary": "윤석열 전 대통령에 대한 수사기관의 정당한 체포영장 집행을 방해한 혐의로 국민의힘 나경원·김기현·윤상현·권영진 의원이 재판에 넘겨졌다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6563120",
+          "publishedAt": "2026-08-14T14:35:16+00:00",
           "sourceCount": 6,
           "otherSources": [
             "경향신문",
-            "노컷뉴스",
             "동아일보",
+            "매일경제",
             "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "‘도박·음주운전’ 개그맨 이진호 징역 2년 구형···“하루하루 후회했다”",
-          "summary": "연합뉴스인터넷 불법도박과 음주운전 혐의로 재판에 넘겨진 개그맨 이진호씨(40)에게 징역 2년이 구형됐다.14일 수원지방법원 여주지원 형사1단독 안태윤 부장판사 심리로 진행된 이씨의 결심공판에서 검찰은 재판부에 징역 2년을 선고해 달라고 요청했다.검찰에 따르면, 이씨는 2023년 5월 11일부터 2024년 10월 14일까지 총 664회에 걸···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608141402001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-08-14T05:02:00+00:00",
+          "title": "옛 연인이 스토킹 신고하자 보복살인…50대 구속",
+          "summary": "옛 연인을 살해한 뒤 자해해 병원에서 치료를 받아 온 50대 남성이 구속됐다.수원지법 성남지원 김주관 부장판사는 14일 이 남성에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도망할 염려가 있다”며 구속영장을 발부했다.남성은 지난달 5일 오전 3시경 성남시 중원구 상대원동 길거리에서 4년간 교제하다 헤어진 60대 여성을 흉기로 찔러 살해한 혐의를 받는다.범행 직후 자해한 그는 최근까지 병원에서 한 달 넘게 치료를 받다 전날 퇴원해 경찰에 체포됐다.경찰 조사 결과 이 남성은 전 연인으로부터 스토킹 혐의로 고소당해 처벌받게 될 상황에 처하자 앙심을 품고 범행한 것으로 나타났다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Society/article/all/20260814/134481175/1",
+          "publishedAt": "2026-08-14T09:28:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "매일경제",
+            "연합뉴스",
             "조선일보"
           ]
         }
@@ -151,14 +150,14 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프, 드론·부품에 최대 100% 관세…韓 등 동맹국은 15%",
-          "summary": "도널드 트럼프 미국 대통령이 13일(현지 시간) 드론 및 관련 부품에 최대 100%의 관세를 부과하는 내용의 포고문에 서명했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260814/134476596/1",
-          "publishedAt": "2026-08-13T22:46:00+00:00",
+          "title": "트럼프, 수입 드론·부품에 관세 100%···한국은 15%",
+          "summary": "AP연합뉴스도널드 트럼프 미국 대통령이 수입 무인기(드론)와 부품에 관세를 부과하겠다고 밝혔다.백악관은 13일(현지시간) 트럼프 대통령이 드론과 그 부품 수입으로 인한 국가 안보 위협에 대응하고 미국 드론 산업 및 공급망을 강화하는 내용을 담은 포고문에 서명···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608140723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-08-13T22:23:00+00:00",
           "sourceCount": 6,
           "otherSources": [
-            "경향신문",
+            "동아일보",
             "매일경제",
             "연합뉴스",
             "조선일보",
@@ -251,20 +250,20 @@
           ]
         },
         {
+          "title": "가상자산 거래 위축에…두나무·빗썸 상반기 매출 나란히 반토막",
+          "summary": "가상자산거래소 운영사 두나무와 빗썸이 올해 상반기 가상자산 거래 위축의 영향을 받으며 나란히 매출이 절반 가까이 감소했다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=671055",
+          "publishedAt": "2026-08-14T18:27:32+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
           "title": "빗썸, 상반기 영업이익 149억원…거래 위축에도 흑자 유지",
           "summary": "가상자산 거래소 빗썸이 시장 거래 위축에도 올해 상반기 영업흑자를 이어갔다. 가상자산 평가손실 영향으로 당기순손실을 기록했지만 본업인 거래소 사업에서는 흑자를 유지했다.…",
           "source": "테크M",
           "link": "https://www.techm.kr/news/articleView.html?idxno=154354",
           "publishedAt": "2026-08-14T18:05:25+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "물가·금리 부담 덜었지만…비트코인 6만3000달러대 횡보",
-          "summary": "비트코인이 미국의 물가 둔화와 기준금리 동결 기대에도 6만3000달러대에서 제한적인 움직임을 이어가고 있다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=154301",
-          "publishedAt": "2026-08-14T09:38:49+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -312,84 +311,188 @@
   ],
   "topics": [
     {
+      "id": "ai",
+      "name": "AI·인공지능",
+      "phrase": "AI 훈풍에 ICT 수출 534억달러",
+      "sentence": "지난달 국내 정보통신기술(ICT) 수출이 역대 7월 최대치를 새로 쓰며 연속 500억 달러대를 기록했다.",
+      "articleCount": 250,
+      "link": "https://www.yna.co.kr/view/AKR20260813157300017"
+    },
+    {
       "id": "politics",
       "name": "정치",
-      "phrase": "선관위 특검 후보 이태한·이혁",
-      "sentence": "6·3 지방선거 투표용지 부족 사태 등 국민참정권 침해 의혹을 수사할 특별검사 후보로 이태한 전 서울남부지검 형사4부장 검사와 이혁 전 서울고검 검사 등 2명이…",
-      "articleCount": 7,
-      "link": "https://www.donga.com/news/Politics/article/all/20260814/134479647/1"
+      "phrase": "특검 尹 체포방해 나경원·김기현·윤상현·권영진",
+      "sentence": "윤석열 전 대통령에 대한 고위공직자범죄수사처(공수처) 등의 체포영장 집행을 방해했다는 혐의를 받는 국민...",
+      "articleCount": 250,
+      "link": "https://www.yna.co.kr/view/AKR20260814081651004"
+    },
+    {
+      "id": "world",
+      "name": "국제정세",
+      "phrase": "트럼프 미국 투자한 외국 조선소",
+      "sentence": "한화오션 제공도널드 트럼프 미국 대통령이 미국에 투자한 외국 조선업체가 해당 업체의 본국에서 선박 두 척을 건조할 수 있도록 지시했다.백악관은 13일(현지시간)…",
+      "articleCount": 250,
+      "link": "https://www.khan.co.kr/article/202608140807001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "정의선 현대차그룹 회장 상반기 보수 45억원",
+      "sentence": "정의선 현대차그룹 회장이 올해 상반기 45억원의 보수를 받았다.",
+      "articleCount": 245,
+      "link": "https://www.yna.co.kr/view/AKR20260814158300003"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠",
+      "phrase": "프로야구 4할 타율 전설 백인천 전 감독",
+      "sentence": "한국프로야구 유일한 4할 타자인 백인천 전 감독이 뇌경색 증세 악화로 현재 위독한 상태다.",
+      "articleCount": 209,
+      "link": "https://www.yna.co.kr/view/AKR20260814024552007"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "서울시 용산공원 훼손해 주택 공급",
+      "sentence": "서울시가 김윤덕 국토교통부 장관이 용산공원 전체를 주택 공급지로 검토하겠다고 밝힌 데 대해 반대 입장을 밝혔다.…",
+      "articleCount": 157,
+      "link": "https://www.donga.com/news/Economy/article/all/20260814/134481083/1"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "국민주 SK하이닉스 소액주주 346만명",
+      "sentence": "SK하이닉스의 소액주주 수가 1년 만에 5배 이상 늘며 '300만 주주'를 돌파해 국민주 반열에 들어섰다.",
+      "articleCount": 146,
+      "link": "https://www.yna.co.kr/view/AKR20260814146200003"
+    },
+    {
+      "id": "stock",
+      "name": "증시",
+      "phrase": "상반기 순익 4244억원",
+      "sentence": "SC제일은행이 올해 상반기 4244억원의 당기순이익을 거뒀다고 14일 밝혔다.",
+      "articleCount": 136,
+      "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/GVRDGZJXHE3DIMRUMI2TSZRWMM/"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "여중생 제자 20여 차례 성폭행·추행한 중학교",
+      "sentence": "중학교 교사가 여중생 제자를 20여 차례 성폭행하고 추행한 혐의로 재판에 넘겨졌다.전주지검 군산지청 형사2부(부장검사 홍지예)는 전북의 40대 중학교 교사를 아동…",
+      "articleCount": 113,
+      "link": "https://www.donga.com/news/Society/article/all/20260814/134480770/2"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "中겨냥 드론·드론부품에 최대 100% 관세",
+      "sentence": "도널드 트럼프 미국 대통령은 13일(현지시간) 드론 및 드론 부품에 최대 100%의 관세를 부과하는 포고문...",
+      "articleCount": 111,
+      "link": "https://www.yna.co.kr/view/AKR20260814012400071"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "빌 게이츠 만나 재생에너지·SMR 에너지믹스",
+      "sentence": "한성숙 국무총리는 14일 빌 게이츠 테라파워 이사회 의장을 접견하고 한미 간 차세대 소형모듈형원자로(SMR) ...",
+      "articleCount": 100,
+      "link": "https://www.yna.co.kr/view/AKR20260814143800001"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "사생활 폭로 A씨-황정민 2억 손배소",
+      "sentence": "배우 황정민씨의 사생활 의혹을 제기해 온 여성 A씨가 황씨를 상대로 낸 2억원대 손해배상 소송에서 법원이 강제조정 결정을 내렸다.…",
+      "articleCount": 98,
+      "link": "https://www.donga.com/news/Society/article/all/20260814/134479668/1"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "홈플러스 근로자에 실업급여·융자 등 총",
+      "sentence": "정부는 14일 정부서울청사에서 강기룡 재정경제부 차관보 주재로 '홈플러스 관련 관계기관 전담반(TF) 회의'를...",
+      "articleCount": 88,
+      "link": "https://www.yna.co.kr/view/AKR20260814074300002"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "전국 2100개 주유소 500억원 지원금 지급",
+      "sentence": "HD현대오일뱅크가 고유가 및 석유제품 최고가격제 시행 등으로 경영 부담이 커진 주유소를 위해 ‘고유가 위기극복 지원금’을 지급한다.…",
+      "articleCount": 78,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260814500100"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "연명의료 중단 임종기→말기로 확대 검토",
+      "sentence": "현재 임종기에만 가능한 연명의료 유보·중단을 말기부터 가능하게 하는 방안이 본격 논의된다.",
+      "articleCount": 70,
+      "link": "https://www.yna.co.kr/view/AKR20260814052100530"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "이번 광복절부터 공휴일에도 해외채권 원리금 지급",
+      "sentence": "토스증권이 이번 광복절부터 공휴일과 토요일에도 해외채권 이자와 원금을 지급할 것이라고 14일 말했다.",
+      "articleCount": 67,
+      "link": "https://www.yna.co.kr/view/AKR20260814079300008"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "인디 RPG 보이드다이버 출품",
+      "sentence": "[지디넷코리아]익스트랙션 RPG 신작 '보이드 다이버: 이스케이프 프롬 디 어비스'가 오프라인 행사를 통해 이용자를 만난다.인디게임 전문 퍼블리셔 레드브릭하우스(…",
+      "articleCount": 63,
+      "link": "https://zdnet.co.kr/view/?no=20260814171629"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비",
+      "phrase": "2분기 영업이익 41억원",
+      "sentence": "편의점 세븐일레븐을 운영하는 코리아세븐은 올해 2분기 영업이익 41억원을 기록했다고 14일 밝혔다.",
+      "articleCount": 57,
+      "link": "https://www.yna.co.kr/view/AKR20260814140700030"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "추석 앞두고 불법스팸 차단 강화",
+      "sentence": "정부와 이동통신3사, 카카오 등이 9월 추석 연휴를 앞두고 불법스팸 차단을 강화한다.…",
+      "articleCount": 40,
+      "link": "https://www.donga.com/news/Economy/article/all/20260814/134479498/1"
     },
     {
       "id": "crypto",
       "name": "가상자산",
       "phrase": "빗썸 2분기 218억원 순손실",
       "sentence": "가상자산 거래소 빗썸은 올해 2분기 218억원의 순손실을 기록했다고 14일 밝혔다.",
-      "articleCount": 4,
+      "articleCount": 38,
       "link": "https://www.yna.co.kr/view/AKR20260814149600002"
     },
     {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "2분기 영업익 19조2354억원 분기 최대",
-      "sentence": "SK스퀘어는 올해 2분기 연결 기준 영업이익 19조2354억원, 순이익 18조6750억원을 기록했다고 14일 밝혔다.…",
-      "articleCount": 4,
-      "link": "https://www.inews24.com/view/1995301"
+      "id": "fx",
+      "name": "환율",
+      "phrase": "환율-유가 하락에 7월 수입물가 두 달 연속",
+      "sentence": "국제유가와 원-달러 환율이 나란히 하락하면서 수입물가가 두 달 연속으로 전월 대비 내림세를 보였다.…",
+      "articleCount": 36,
+      "link": "https://www.donga.com/news/Economy/article/all/20260814/134478536/1"
     },
     {
-      "id": "world",
-      "name": "국제정세",
-      "phrase": "트럼프 美 투자하는 외국 조선소에 선박 최대",
-      "sentence": "도널드 트럼프 미국 대통령이 미국 조선업에 투자하는 외국 조선업체에 최대 2척의 선박을 해외에서 건조할 수 있도록 허용했다.…",
-      "articleCount": 2,
-      "link": "https://www.chosun.com/international/international_general/2026/08/14/MRRTIYZTGEZGCODGGBSTSMJXGY/"
+      "id": "labor",
+      "name": "노동",
+      "phrase": "노동자 사망 현대중 군산조선소 압수수색",
+      "sentence": "경찰이 30대 노동자 끼임 사망사고가 발생한 현대중공업 전북 군산조선소 등을 압수수색했다.",
+      "articleCount": 36,
+      "link": "https://www.yna.co.kr/view/AKR20260814091451055"
     },
     {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "물가·금리 부담 덜었지만",
-      "sentence": "비트코인이 미국의 물가 둔화와 기준금리 동결 기대에도 6만3000달러대에서 제한적인 움직임을 이어가고 있다.…",
-      "articleCount": 1,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=154301"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "김윤덕 국토장관 주택 공급",
-      "sentence": "국토부 제공김윤덕 국토교통부 장관이 14일 용산어린이정원을 포함해 용산공원 전체를 주택 공급 후보지로 검토하고 있다고 밝혔다.…",
-      "articleCount": 1,
-      "link": "https://www.khan.co.kr/article/202608141745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "드론·부품에 최대 100% 관세",
-      "sentence": "도널드 트럼프 미국 대통령이 13일(현지 시간) 드론 및 관련 부품에 최대 100%의 관세를 부과하는 내용의 포고문에 서명했다.…",
-      "articleCount": 1,
-      "link": "https://www.donga.com/news/Inter/article/all/20260814/134476596/1"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "물가·금리 부담 덜었지만",
-      "sentence": "비트코인이 미국의 물가 둔화와 기준금리 동결 기대에도 6만3000달러대에서 제한적인 움직임을 이어가고 있다.…",
-      "articleCount": 1,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=154301"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "김민희·홍상수",
-      "sentence": "홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 함께 스위스 로카르노영화제를 찾았다.",
-      "articleCount": 1,
-      "link": "https://www.yna.co.kr/view/AKR20260814030551005"
-    },
-    {
-      "id": "sports",
-      "name": "스포츠",
-      "phrase": "WBC 한국 대표로 뛴 위트컴",
-      "sentence": "지난 3월 월드베이스볼클래식(WBC)에서 한국 야구대표팀으로 활약했던 내야수 셰이 위트컴(27)이 미국프로야구...",
-      "articleCount": 1,
-      "link": "https://www.yna.co.kr/view/AKR20260814153200007"
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "우주항공청 얼굴 됐다",
+      "sentence": "그룹 빅뱅이 우주항공청의 초대 홍보대사로 위촉됐다고 YG엔터테인먼트가 14일 밝혔다.",
+      "articleCount": 35,
+      "link": "https://www.yna.co.kr/view/AKR20260814044900005"
     }
   ],
   "topicCatalog": [

@@ -139,12 +139,14 @@ def main() -> int:
     print(f"총 {len(articles)}건 수집", file=sys.stderr)
 
     categories = build_categories(articles, now)
-    all_stories = [story for category in categories for story in category["items"]]
+
+    print("주제 문장 만드는 중...", file=sys.stderr)
+    topic_pool = within(articles, now, FALLBACK_HOURS)
 
     payload = {
         "generatedAt": now.astimezone(KST).isoformat(timespec="seconds"),
         "categories": categories,
-        "topics": topics_module.build_topics(all_stories),
+        "topics": topics_module.build_topics(topic_pool, now),
         "topicCatalog": topics_module.catalog(),
     }
 

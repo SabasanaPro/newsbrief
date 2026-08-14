@@ -92,11 +92,13 @@ def _phrase(title: str, pattern: re.Pattern, limit: int = 26) -> str:
     cleaned = re.sub(r"\s+", " ", _QUOTE_RE.sub(" ", normalize_title(title))).strip()
 
     clauses = [c.strip(_TRIM_CHARS) for c in _CLAUSE_RE.split(cleaned)]
-    clauses = [c for c in clauses if len(c) >= 6]
+    clauses = [c for c in clauses if len(c) >= 8]
 
-    # 키워드가 든 토막 중 가장 짧은 것 — 짧을수록 잘리지 않고 온전히 들어간다
-    hits = [c for c in clauses if pattern.search(c)]
-    chosen = min(hits, key=len) if hits else (clauses[0] if clauses else cleaned)
+    # 키워드가 든 토막 중에서 고르되, '정성호 법무' 처럼 토막이 너무 짧으면 뜻이 안 통한다.
+    # 길이 제한 안에 온전히 들어가는 것 중 가장 긴 토막을 쓴다.
+    hits = [c for c in clauses if pattern.search(c)] or clauses
+    fitting = [c for c in hits if len(c) <= limit]
+    chosen = max(fitting or hits, key=len, default=cleaned)
 
     if len(chosen) > limit:
         # 낱말 중간에서 끊기면 어색하므로 띄어쓰기 위치에서 자른다
@@ -118,30 +120,42 @@ def _first_sentence(text: str, limit: int = 90) -> str:
     return first
 
 
-def build_topics(stories: list[dict]) -> list[dict]:
-    """선정된 기사들을 주제별로 묶어 한 문장씩 만든다.
+# 한 주제에서 순위를 매기기 전에 자르는 기사 수. 클러스터링 비용을 감당 가능한 선으로 묶는다.
+_MAX_PER_TOPIC = 250
 
-    문장은 기사 요약의 첫 문장을 그대로 쓴다. 기계로 다시 쓰면 어색해지기 때문에,
-    이미 사람이 쓴 문장을 골라 오는 편이 자연스럽다.
+
+def build_topics(articles: list[dict], now) -> list[dict]:
+    """분야별 상위 기사가 아니라 수집한 기사 전체에서 주제를 뽑는다.
+
+    선정된 21건만 보면 주제 대부분이 비어 버려서, 설정에서 고른 주제가 하나도
+    안 잡히는 일이 생긴다. 그래서 주제마다 전체 기사에서 다시 추려 순위를 매긴다.
     """
+    import rank as rank_module
+
     result = []
     used_links: set[str] = set()
 
     for topic_id, name, _ in TOPICS:
         pattern = _TOPIC_PATTERNS[topic_id]
         matched = [
-            story for story in stories
-            if pattern.search(f"{story['title']} {story['summary']}")
+            article for article in articles
+            if pattern.search(f"{article['title']} {article.get('summary', '')}")
         ]
-        if not matched:
+        # 한두 건뿐이면 그날의 화제라고 보기 어렵다
+        if len(matched) < 3:
             continue
 
-        # 여러 매체가 다룬 기사를 대표로 삼되, 다른 주제가 이미 쓴 기사는 뒤로 미뤄
-        # 주제마다 다른 기사가 걸리도록 한다. 대안이 없으면 겹치더라도 그대로 둔다.
-        lead = min(
+        matched = sorted(
             matched,
-            key=lambda s: (s["link"] in used_links, -s.get("sourceCount", 1), -len(s.get("summary", ""))),
-        )
+            key=lambda a: a["published"] or now,
+            reverse=True,
+        )[:_MAX_PER_TOPIC]
+
+        # 여러 매체가 함께 다룬 순으로 두 건을 받아, 다른 주제가 쓴 기사는 피한다
+        candidates = rank_module.top_stories(matched, 2, now)
+        if not candidates:
+            continue
+        lead = next((c for c in candidates if c["link"] not in used_links), candidates[0])
         used_links.add(lead["link"])
 
         result.append(

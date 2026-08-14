@@ -80,6 +80,7 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
                         brief = current.brief,
                         quotes = current.quotes,
                         weather = current.weather,
+                        chosenTopics = current.settings.topics,
                         now = LocalTime.now().format(DateTimeFormatter.ofPattern("HH:mm")),
                     ),
                 )
