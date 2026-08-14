@@ -11,9 +11,12 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.foundation.clickable
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.ArrowDropDown
 import androidx.compose.material.icons.automirrored.filled.OpenInNew
 import androidx.compose.material.icons.filled.Refresh
 import androidx.compose.material3.Card
@@ -26,17 +29,27 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.newsbrief.data.Quote
+import com.newsbrief.data.RateTable
+import com.newsbrief.data.currencyOf
+import com.newsbrief.data.formatAmount
 
 @Composable
 fun MarketScreen(
     quotes: List<Quote>,
     loading: Boolean,
     error: String?,
+    table: RateTable,
+    rateBase: String,
+    onRateBaseChange: (String) -> Unit,
     onRefresh: () -> Unit,
     onOpenUpbit: () -> Unit,
     onSearch: (String) -> Unit,
@@ -101,10 +114,67 @@ fun MarketScreen(
         }
 
         Spacer(Modifier.height(12.dp))
+        RateLine(table, rateBase, onRateBaseChange)
+
+        Spacer(Modifier.height(12.dp))
         Text(
             "코스피·코스닥은 평일 09:00~15:30 에만 값이 움직입니다.",
             style = MaterialTheme.typography.labelSmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
+    }
+}
+
+/** 한 줄 환율. 기준 통화를 누르면 엔·유로 등으로 바꿔 볼 수 있다. */
+@Composable
+private fun RateLine(table: RateTable, base: String, onBaseChange: (String) -> Unit) {
+    if (!table.isUsable) return
+    var showPicker by remember { mutableStateOf(false) }
+
+    val info = currencyOf(base)
+    val krw = currencyOf("KRW")
+    val value = table.convert(1.0, base, "KRW")
+
+    Card(
+        modifier = Modifier.fillMaxWidth(),
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
+        elevation = CardDefaults.cardElevation(defaultElevation = 1.dp),
+    ) {
+        Row(
+            modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 12.dp),
+            verticalAlignment = Alignment.CenterVertically,
+        ) {
+            // 기준 통화 부분만 눌리는 영역이다
+            Row(
+                modifier = Modifier.clickable { showPicker = true },
+                verticalAlignment = Alignment.CenterVertically,
+            ) {
+                Text("1 ${info.flag} ${info.code}", style = MaterialTheme.typography.bodyMedium)
+                Icon(
+                    Icons.Filled.ArrowDropDown,
+                    contentDescription = "기준 통화 바꾸기",
+                    modifier = Modifier.size(18.dp),
+                    tint = MaterialTheme.colorScheme.primary,
+                )
+            }
+            Spacer(Modifier.width(6.dp))
+            Text("=", style = MaterialTheme.typography.bodyMedium)
+            Spacer(Modifier.weight(1f))
+            Text(
+                text = value?.let { "${krw.symbol}${formatAmount(it, 2)}" } ?: "-",
+                style = MaterialTheme.typography.bodyLarge,
+                fontWeight = FontWeight.SemiBold,
+            )
+        }
+    }
+
+    if (showPicker) {
+        CurrencyPickerDialog(
+            selected = listOf(base),
+            available = table.rates.keys,
+            single = true,
+            onConfirm = { it.firstOrNull()?.let(onBaseChange) },
+            onDismiss = { showPicker = false },
         )
     }
 }

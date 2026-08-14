@@ -27,6 +27,10 @@ data class AppSettings(
     /** AI 브리핑에 포함할 주제 id */
     val topics: Set<String> = setOf("stock", "semiconductor", "fx", "crypto"),
     val useLocation: Boolean = true,
+    /** 환율 계산기에 올려둔 통화. 순서가 화면 순서다. */
+    val currencies: List<String> = listOf("KRW", "USD", "JPY", "EUR", "CNY"),
+    /** 시세 화면 한 줄 환율의 기준 통화 */
+    val rateBase: String = "USD",
 )
 
 class SettingsStore(context: Context) {

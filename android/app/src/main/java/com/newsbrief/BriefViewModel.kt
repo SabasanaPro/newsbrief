@@ -8,8 +8,10 @@ import com.newsbrief.data.Brief
 import com.newsbrief.data.Favorite
 import com.newsbrief.data.FavoritesData
 import com.newsbrief.data.FavoritesStore
+import com.newsbrief.data.ExchangeRateRepository
 import com.newsbrief.data.MyNumbers
 import com.newsbrief.data.MyNumbersStore
+import com.newsbrief.data.RateTable
 import com.newsbrief.data.Network
 import com.newsbrief.data.Quote
 import com.newsbrief.data.SettingsStore
@@ -43,6 +45,8 @@ data class UiState(
     val myNumbers: MyNumbers = MyNumbers(),
     val favorites: FavoritesData = FavoritesData(),
     val settings: AppSettings = AppSettings(),
+    val rates: RateTable = RateTable(),
+    val ratesLoading: Boolean = false,
 )
 
 class BriefViewModel(app: Application) : AndroidViewModel(app) {
@@ -50,6 +54,7 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
     private val numbersStore = MyNumbersStore(app)
     private val favoritesStore = FavoritesStore(app)
     private val settingsStore = SettingsStore(app)
+    private val rateRepository = ExchangeRateRepository(app)
 
     private val _state = MutableStateFlow(
         UiState(
@@ -64,8 +69,22 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
         refreshBrief()
         refreshQuotes()
         refreshWeather()
+        refreshRates()
         NotificationScheduler.rescheduleAll(app, _state.value.settings)
         WidgetUpdater.schedule(app)
+    }
+
+    /**
+     * 환율은 하루 한 번만 바뀌므로 저장해 둔 표를 먼저 보여주고,
+     * 유효 기간이 지났을 때만 새로 받아온다.
+     */
+    fun refreshRates(force: Boolean = false) {
+        if (_state.value.ratesLoading) return
+        _state.update { it.copy(ratesLoading = true, rates = rateRepository.cached()) }
+        viewModelScope.launch {
+            val table = rateRepository.load(force)
+            _state.update { it.copy(rates = table, ratesLoading = false) }
+        }
     }
 
     /** 앱이 새로 받은 값을 위젯에도 그대로 넘겨 준다. */

@@ -13,6 +13,7 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
@@ -51,7 +52,9 @@ import com.newsbrief.data.needsNotificationPermission
 import com.newsbrief.ui.FavoritesScreen
 import com.newsbrief.ui.FolderPickerSheet
 import com.newsbrief.ui.HomeScreen
+import com.newsbrief.ui.CurrencyScreen
 import com.newsbrief.ui.LotteryScreen
+import com.newsbrief.ui.SubTabs
 import com.newsbrief.ui.MarketScreen
 import com.newsbrief.ui.MyDashboardTheme
 import com.newsbrief.ui.NewsScreen
@@ -118,10 +121,13 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+/**
+ * 아래 메뉴는 네 개까지만 둔다. 즐겨찾기는 뉴스의, 환율은 시세의 안쪽 탭으로 넣어
+ * 메뉴가 좁아지지 않게 했다.
+ */
 private enum class Tab(val label: String, val title: String, val icon: ImageVector) {
     Home("홈", "My Dashboard", Icons.Filled.Home),
-    News("뉴스", "오늘의 뉴스", Icons.AutoMirrored.Filled.Article),
-    Favorites("즐겨찾기", "즐겨찾기", Icons.Filled.Star),
+    News("뉴스", "뉴스", Icons.AutoMirrored.Filled.Article),
     Lottery("복권", "복권", Icons.Filled.ConfirmationNumber),
     Market("시세", "시세", Icons.AutoMirrored.Filled.ShowChart),
 }
@@ -142,6 +148,9 @@ private fun AppScreen(
 
     val tabs = remember { Tab.entries.toList() }
     val current = tabs[selected]
+    // 뉴스 안쪽: 0 오늘의 뉴스 / 1 즐겨찾기, 시세 안쪽: 0 시세 / 1 환율
+    var newsSub by rememberSaveable { mutableIntStateOf(0) }
+    var marketSub by rememberSaveable { mutableIntStateOf(0) }
 
     // 휴대폰 뒤로가기: 설정에서는 이전 화면으로, 다른 탭에서는 홈으로.
     // 홈에서만 뒤로가기가 앱을 종료한다.
@@ -217,28 +226,33 @@ private fun AppScreen(
                     onOpenStory = { onOpenLink(it.link) },
                 )
 
-                Tab.News -> NewsScreen(
-                    categories = state.brief?.categories.orEmpty(),
-                    generatedAt = state.brief?.generatedAt.orEmpty(),
-                    loading = state.briefLoading,
-                    error = state.briefError,
-                    isFavorite = { link -> state.favorites.contains(link) },
-                    onOpenLink = onOpenLink,
-                    onToggleFavorite = { story, categoryName ->
-                        if (state.favorites.contains(story.link)) {
-                            viewModel.removeFavorite(story.link)
-                        } else {
-                            pendingFavorite = story to categoryName
-                        }
-                    },
-                )
-
-                Tab.Favorites -> FavoritesScreen(
-                    favorites = state.favorites,
-                    onOpenLink = onOpenLink,
-                    onRemove = viewModel::removeFavorite,
-                    onDeleteFolder = viewModel::deleteFolder,
-                )
+                Tab.News -> Column {
+                    SubTabs(listOf("오늘의 뉴스", "즐겨찾기"), newsSub) { newsSub = it }
+                    if (newsSub == 0) {
+                        NewsScreen(
+                            categories = state.brief?.categories.orEmpty(),
+                            generatedAt = state.brief?.generatedAt.orEmpty(),
+                            loading = state.briefLoading,
+                            error = state.briefError,
+                            isFavorite = { link -> state.favorites.contains(link) },
+                            onOpenLink = onOpenLink,
+                            onToggleFavorite = { story, categoryName ->
+                                if (state.favorites.contains(story.link)) {
+                                    viewModel.removeFavorite(story.link)
+                                } else {
+                                    pendingFavorite = story to categoryName
+                                }
+                            },
+                        )
+                    } else {
+                        FavoritesScreen(
+                            favorites = state.favorites,
+                            onOpenLink = onOpenLink,
+                            onRemove = viewModel::removeFavorite,
+                            onDeleteFolder = viewModel::deleteFolder,
+                        )
+                    }
+                }
 
                 Tab.Lottery -> LotteryScreen(
                     lotto = state.brief?.lottery?.lotto,
@@ -248,14 +262,34 @@ private fun AppScreen(
                     onOpenLink = onOpenLink,
                 )
 
-                Tab.Market -> MarketScreen(
-                    quotes = state.quotes,
-                    loading = state.quotesLoading,
-                    error = state.quotesError,
-                    onRefresh = viewModel::refreshQuotes,
-                    onOpenUpbit = onOpenUpbit,
-                    onSearch = onSearch,
-                )
+                Tab.Market -> Column {
+                    SubTabs(listOf("시세", "환율"), marketSub) { marketSub = it }
+                    if (marketSub == 0) {
+                        MarketScreen(
+                            quotes = state.quotes,
+                            loading = state.quotesLoading,
+                            error = state.quotesError,
+                            table = state.rates,
+                            rateBase = state.settings.rateBase,
+                            onRateBaseChange = {
+                                viewModel.updateSettings(state.settings.copy(rateBase = it))
+                            },
+                            onRefresh = viewModel::refreshQuotes,
+                            onOpenUpbit = onOpenUpbit,
+                            onSearch = onSearch,
+                        )
+                    } else {
+                        CurrencyScreen(
+                            table = state.rates,
+                            codes = state.settings.currencies,
+                            loading = state.ratesLoading,
+                            onCodesChange = {
+                                viewModel.updateSettings(state.settings.copy(currencies = it))
+                            },
+                            onRefresh = { viewModel.refreshRates(force = true) },
+                        )
+                    }
+                }
             }
         }
     }
