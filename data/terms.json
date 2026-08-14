@@ -1,0 +1,424 @@
+{
+  "version": 1,
+  "note": "Alteon(L4/L7 로드밸런서) 개념에서 출발해 클라우드·컨테이너·AI 인프라로 넓혀가는 순서. bridge 는 '내가 알던 그것이 여기선 뭐라 불리는가'.",
+  "terms": [
+    {
+      "term": "ADC",
+      "reading": "Application Delivery Controller",
+      "category": "로드밸런싱",
+      "summary": "L4/L7 부하분산에 SSL 처리, 압축, 캐싱, 보안까지 묶은 장비를 부르는 이름. Alteon, F5 BIG-IP, Citrix ADC 가 여기 속한다.",
+      "bridge": "지금 다루는 Alteon 이 바로 ADC다. 요즘 문서에서 'ADC' 라고 쓰면 이 계열을 통칭한다."
+    },
+    {
+      "term": "VIP",
+      "reading": "Virtual IP",
+      "category": "로드밸런싱",
+      "summary": "실제 서버 대신 외부에 노출하는 대표 주소. 요청은 VIP 로 들어와 뒤쪽 서버들로 나뉜다.",
+      "bridge": "클라우드에서는 로드밸런서의 엔드포인트 주소, 쿠버네티스에서는 Service 의 ClusterIP 가 같은 역할이다."
+    },
+    {
+      "term": "Real Server",
+      "reading": "리얼 서버",
+      "category": "로드밸런싱",
+      "summary": "VIP 뒤에서 실제로 요청을 처리하는 서버들.",
+      "bridge": "AWS 에서는 Target Group 의 Target, 쿠버네티스에서는 Pod 또는 Endpoint 라고 부른다."
+    },
+    {
+      "term": "Health Check",
+      "reading": "헬스 체크",
+      "category": "로드밸런싱",
+      "summary": "서버가 살아 있는지 주기적으로 확인해, 죽은 서버에는 요청을 보내지 않게 하는 검사.",
+      "bridge": "쿠버네티스에서는 liveness probe(살아있나)와 readiness probe(요청 받을 준비됐나)로 나뉜다. Alteon 의 헬스체크가 두 개로 쪼개졌다고 보면 된다."
+    },
+    {
+      "term": "Persistence",
+      "reading": "퍼시스턴스 / 세션 유지",
+      "category": "로드밸런싱",
+      "summary": "같은 사용자의 요청을 계속 같은 서버로 보내는 기능. 쿠키나 출발지 IP 를 기준으로 삼는다.",
+      "bridge": "요즘은 session affinity 또는 sticky session 이라고 쓴다. 쿠버네티스 Service 의 sessionAffinity 설정이 그것이다."
+    },
+    {
+      "term": "SSL Offload",
+      "reading": "SSL 오프로드",
+      "category": "로드밸런싱",
+      "summary": "암호화 해제를 뒷단 서버 대신 앞단 장비에서 처리해 서버 부담을 던다.",
+      "bridge": "지금은 TLS termination 이라 부른다. SSL 은 사실상 폐기됐고 TLS 1.2/1.3 이 표준이라 용어도 TLS 로 옮겨갔다."
+    },
+    {
+      "term": "SNAT",
+      "reading": "Source NAT",
+      "category": "로드밸런싱",
+      "summary": "출발지 주소를 로드밸런서 주소로 바꿔 보내는 방식. 뒷단 서버가 응답을 반드시 로드밸런서로 되돌리게 만든다.",
+      "bridge": "클라우드 LB 도 같은 일을 하며, 원래 클라이언트 주소는 X-Forwarded-For 헤더로 전달한다."
+    },
+    {
+      "term": "X-Forwarded-For",
+      "reading": "엑스 포워디드 포",
+      "category": "로드밸런싱",
+      "summary": "프록시를 거치며 원래 클라이언트 IP 를 담아 전달하는 HTTP 헤더.",
+      "bridge": "SNAT 때문에 서버가 진짜 클라이언트를 못 볼 때 쓰는 그 헤더. 클라우드·서비스메시에서도 그대로 쓴다."
+    },
+    {
+      "term": "Direct Server Return",
+      "reading": "DSR",
+      "category": "로드밸런싱",
+      "summary": "응답이 로드밸런서를 거치지 않고 서버에서 클라이언트로 바로 나가는 구성. 대역폭을 크게 아낀다.",
+      "bridge": "클라우드 관리형 LB 에서는 대개 못 쓴다. 물리 장비의 강점이 남아 있는 영역이다."
+    },
+    {
+      "term": "VRRP",
+      "reading": "Virtual Router Redundancy Protocol",
+      "category": "로드밸런싱",
+      "summary": "두 대 이상의 장비가 하나의 가상 주소를 공유하다가, 주 장비가 죽으면 예비가 넘겨받는 이중화 방식.",
+      "bridge": "클라우드에서는 이 역할을 관리형 서비스가 대신하고, 사용자는 '고가용성(HA)' 옵션만 켠다."
+    },
+    {
+      "term": "L4 / L7",
+      "reading": "4계층 / 7계층",
+      "category": "로드밸런싱",
+      "summary": "L4 는 IP·포트만 보고 분배하고, L7 은 URL·헤더·쿠키까지 열어보고 분배한다.",
+      "bridge": "AWS 로는 NLB 가 L4, ALB 가 L7 이다. 쿠버네티스로는 Service 가 L4, Ingress 가 L7 에 해당한다."
+    },
+    {
+      "term": "WAF",
+      "reading": "Web Application Firewall",
+      "category": "보안",
+      "summary": "SQL 인젝션이나 XSS 같은 웹 공격을 HTTP 내용까지 들여다보고 걸러내는 방화벽.",
+      "bridge": "Alteon 계열에서 붙여 쓰던 그 기능. 지금은 클라우드 WAF(AWS WAF, Cloudflare)로도 많이 옮겨갔다."
+    },
+
+    {
+      "term": "IaaS / PaaS / SaaS",
+      "reading": "이아스 / 파스 / 사스",
+      "category": "클라우드",
+      "summary": "빌려 쓰는 범위의 차이. IaaS 는 서버·네트워크만, PaaS 는 실행 환경까지, SaaS 는 완성된 서비스까지 빌린다.",
+      "bridge": "장비를 직접 설치하던 방식이 IaaS 로, 그 위 운영까지 맡기는 것이 PaaS 다."
+    },
+    {
+      "term": "VPC",
+      "reading": "Virtual Private Cloud",
+      "category": "클라우드",
+      "summary": "클라우드 안에 논리적으로 격리해 만든 내 전용 네트워크. 서브넷·라우팅·보안그룹을 직접 짠다.",
+      "bridge": "고객사 전산실의 네트워크 구성도를 그대로 소프트웨어로 옮긴 것. VLAN 나누던 감각이 그대로 쓰인다."
+    },
+    {
+      "term": "Security Group",
+      "reading": "시큐리티 그룹",
+      "category": "클라우드",
+      "summary": "인스턴스 단위로 붙는 방화벽 규칙. 출발지·포트로 허용을 정한다.",
+      "bridge": "ACL 을 장비가 아니라 서버 한 대 한 대에 붙인다고 보면 된다."
+    },
+    {
+      "term": "ALB / NLB",
+      "reading": "Application / Network Load Balancer",
+      "category": "클라우드",
+      "summary": "AWS 의 관리형 로드밸런서. ALB 는 HTTP 규칙 기반, NLB 는 TCP/UDP 고성능 처리용.",
+      "bridge": "Alteon 의 L7 SLB 가 ALB, L4 SLB 가 NLB 다. 규칙 개념은 거의 그대로 옮겨 쓸 수 있다."
+    },
+    {
+      "term": "Auto Scaling",
+      "reading": "오토 스케일링",
+      "category": "클라우드",
+      "summary": "부하에 따라 서버 대수를 자동으로 늘리고 줄이는 기능.",
+      "bridge": "리얼 서버 목록이 사람이 아니라 시스템에 의해 수시로 바뀐다는 뜻. 그래서 헬스체크와 등록·해제가 훨씬 중요해졌다."
+    },
+    {
+      "term": "IaC",
+      "reading": "Infrastructure as Code",
+      "category": "클라우드",
+      "summary": "서버·네트워크 구성을 화면 클릭이 아니라 코드로 적어두고 그대로 만들어내는 방식. Terraform, Ansible 이 대표.",
+      "bridge": "장비 설정을 손으로 넣던 것을 설정 파일로 관리하고 버전을 남기는 것. CLI 스크립트를 체계화한 형태에 가깝다."
+    },
+    {
+      "term": "CDN",
+      "reading": "Content Delivery Network",
+      "category": "클라우드",
+      "summary": "사용자와 가까운 곳에 콘텐츠 사본을 두어 빠르게 내려주는 분산 서버망.",
+      "bridge": "캐싱을 장비 한 대가 아니라 전 세계 거점에서 하는 것."
+    },
+    {
+      "term": "멀티 클라우드 / 하이브리드",
+      "reading": "Multi-cloud / Hybrid",
+      "category": "클라우드",
+      "summary": "여러 클라우드를 함께 쓰거나(멀티), 사내 전산실과 클라우드를 같이 쓰는(하이브리드) 구성.",
+      "bridge": "국내 금융·공공 고객사가 실제로 많이 택하는 형태라, 사내 장비와 클라우드 LB 를 같이 설계할 일이 늘고 있다."
+    },
+
+    {
+      "term": "Container",
+      "reading": "컨테이너",
+      "category": "컨테이너",
+      "summary": "애플리케이션과 실행에 필요한 것들을 한 덩어리로 묶어 어디서든 같게 돌아가게 만든 실행 단위.",
+      "bridge": "가상머신이 '집 한 채'라면 컨테이너는 '방 한 칸'. 훨씬 가볍고 빨리 뜬다."
+    },
+    {
+      "term": "Kubernetes",
+      "reading": "쿠버네티스 / K8s",
+      "category": "컨테이너",
+      "summary": "컨테이너를 여러 서버에 배치하고, 죽으면 되살리고, 부하에 따라 늘리는 일을 자동화하는 시스템.",
+      "bridge": "리얼 서버를 사람이 등록·해제하던 일을 자동으로 하는 관리자. 헬스체크·부하분산 개념이 그대로 들어 있다."
+    },
+    {
+      "term": "Pod",
+      "reading": "파드",
+      "category": "컨테이너",
+      "summary": "쿠버네티스가 다루는 가장 작은 배포 단위. 보통 컨테이너 하나가 들어간다.",
+      "bridge": "리얼 서버 한 대에 해당하지만, 수시로 죽고 다시 뜨며 IP 도 그때마다 바뀐다."
+    },
+    {
+      "term": "Service",
+      "reading": "서비스",
+      "category": "컨테이너",
+      "summary": "수시로 바뀌는 Pod 들 앞에 고정된 주소를 두어 안정적으로 접근하게 해주는 것.",
+      "bridge": "VIP 그 자체다. Pod IP 가 계속 바뀌니 VIP 가 반드시 필요해진 것."
+    },
+    {
+      "term": "Ingress",
+      "reading": "인그레스",
+      "category": "컨테이너",
+      "summary": "클러스터 바깥에서 들어오는 HTTP(S) 요청을 호스트·경로 규칙에 따라 내부 Service 로 보내는 규칙.",
+      "bridge": "Alteon 의 L7 SLB 정책과 같다. '/api 는 A 서버군, /img 는 B 서버군' 하던 규칙이 YAML 로 옮겨온 것."
+    },
+    {
+      "term": "Ingress Controller",
+      "reading": "인그레스 컨트롤러",
+      "category": "컨테이너",
+      "summary": "Ingress 규칙을 실제로 수행하는 프로그램. NGINX, HAProxy, Envoy 등이 쓰인다.",
+      "bridge": "Ingress 가 '설정'이라면 Controller 는 '장비'다. 설정과 장비가 분리됐다고 보면 된다."
+    },
+    {
+      "term": "Service Mesh",
+      "reading": "서비스 메시",
+      "category": "컨테이너",
+      "summary": "서비스 사이의 통신을 앱 코드 대신 별도 계층이 맡아 라우팅·재시도·암호화·추적을 처리하는 구조. Istio, Linkerd 가 대표.",
+      "bridge": "L7 부하분산을 장비 한 곳이 아니라 모든 서비스 옆에 하나씩 붙여 처리하는 방식이다."
+    },
+    {
+      "term": "Sidecar",
+      "reading": "사이드카",
+      "category": "컨테이너",
+      "summary": "본체 컨테이너 옆에 따라붙어 통신·로그 같은 부가 일을 대신 처리하는 컨테이너.",
+      "bridge": "서비스메시에서 트래픽을 가로채는 그 조각. 미니 로드밸런서가 서버마다 한 대씩 붙은 셈이다."
+    },
+    {
+      "term": "Envoy",
+      "reading": "엔보이",
+      "category": "컨테이너",
+      "summary": "클라우드 환경을 겨냥해 만들어진 L7 프록시. 설정을 API 로 실시간 바꿀 수 있는 것이 특징.",
+      "bridge": "요즘 Ingress Controller 와 서비스메시 속에서 실제로 트래픽을 처리하는 물건. Alteon 과 하는 일이 가장 비슷하다."
+    },
+    {
+      "term": "Helm",
+      "reading": "헬름",
+      "category": "컨테이너",
+      "summary": "쿠버네티스에 올릴 것들을 묶어 패키지로 설치·업그레이드하게 해주는 도구.",
+      "bridge": "설정 템플릿을 만들어 두고 값만 바꿔 배포하는 방식. 고객사마다 설정만 바꿔 넣던 작업과 발상이 같다."
+    },
+    {
+      "term": "Blue-Green / Canary",
+      "reading": "블루그린 / 카나리",
+      "category": "컨테이너",
+      "summary": "새 버전을 안전하게 내보내는 방법. 블루그린은 통째로 전환하고, 카나리는 일부 트래픽만 먼저 보낸다.",
+      "bridge": "서버군을 나눠 두고 가중치를 조절하던 작업이다. 로드밸런서의 weight 조정이 배포 전략의 이름을 얻은 것."
+    },
+
+    {
+      "term": "Observability",
+      "reading": "관측성",
+      "category": "운영",
+      "summary": "시스템 내부 상태를 밖에서 알 수 있게 만드는 것. 로그·지표·추적 셋을 축으로 삼는다.",
+      "bridge": "모니터링이 '정해둔 것을 지켜보는 것'이라면, 관측성은 '예상 못 한 문제도 파고들 수 있게 하는 것'이다."
+    },
+    {
+      "term": "Metrics / Logs / Traces",
+      "reading": "지표 / 로그 / 추적",
+      "category": "운영",
+      "summary": "관측성의 세 기둥. 지표는 숫자, 로그는 사건 기록, 추적은 요청 하나가 거쳐간 경로.",
+      "bridge": "장비 SNMP 카운터가 지표, syslog 가 로그다. 추적은 새로 생긴 개념에 가깝다."
+    },
+    {
+      "term": "Prometheus / Grafana",
+      "reading": "프로메테우스 / 그라파나",
+      "category": "운영",
+      "summary": "지표를 모으는 도구(Prometheus)와 그것을 그래프로 보여주는 도구(Grafana). 거의 짝으로 쓴다.",
+      "bridge": "MRTG·Cacti 로 트래픽 그래프 보던 자리를 대체했다."
+    },
+    {
+      "term": "SLI / SLO / SLA",
+      "reading": "지표 / 목표 / 계약",
+      "category": "운영",
+      "summary": "SLI 는 측정하는 값(응답시간 등), SLO 는 내부 목표치, SLA 는 고객과 맺은 계약상 보장치.",
+      "bridge": "유지보수 계약서의 가용성 조항이 SLA. 그 앞단에 내부 목표(SLO)를 따로 두는 것이 요즘 방식이다."
+    },
+    {
+      "term": "MTTR",
+      "reading": "Mean Time To Recovery",
+      "category": "운영",
+      "summary": "장애가 나서 복구되기까지 걸린 평균 시간. 운영 품질의 핵심 지표로 쓴다.",
+      "bridge": "장애 대응 실적을 숫자로 말할 때 쓰는 표현. 파트 성과를 설명할 때 유용하다."
+    },
+    {
+      "term": "Postmortem",
+      "reading": "포스트모템 / 사후 분석",
+      "category": "운영",
+      "summary": "장애가 끝난 뒤 원인과 재발 방지책을 정리하는 문서. 사람을 탓하지 않는 것(blameless)이 원칙이다.",
+      "bridge": "장애 보고서와 같은 것이되, 책임 추궁이 아니라 구조 개선에 초점을 둔다는 점이 다르다."
+    },
+    {
+      "term": "CI/CD",
+      "reading": "지속적 통합 / 지속적 배포",
+      "category": "운영",
+      "summary": "코드 변경을 자동으로 검증하고(CI) 자동으로 내보내는(CD) 절차.",
+      "bridge": "이 앱의 뉴스 데이터를 GitHub Actions 가 하루 두 번 자동으로 만들어 올리는 것이 바로 CI/CD 다."
+    },
+    {
+      "term": "GitOps",
+      "reading": "깃옵스",
+      "category": "운영",
+      "summary": "인프라의 원하는 상태를 Git 에 적어두고, 실제 환경이 그것과 같아지도록 자동으로 맞추는 운영 방식.",
+      "bridge": "설정 백업본을 '참고용'이 아니라 '정답'으로 삼고, 장비가 거기에 맞춰지게 하는 것."
+    },
+
+    {
+      "term": "Zero Trust",
+      "reading": "제로 트러스트",
+      "category": "보안",
+      "summary": "사내망이라고 믿지 않고 모든 접근을 매번 검증하는 보안 모델.",
+      "bridge": "'방화벽 안쪽은 안전하다'는 전제를 버린 것. 경계 보안에서 신원 기반 보안으로 옮겨간 흐름이다."
+    },
+    {
+      "term": "mTLS",
+      "reading": "상호 TLS",
+      "category": "보안",
+      "summary": "서버뿐 아니라 클라이언트도 인증서로 신원을 증명하는 방식.",
+      "bridge": "서비스메시가 서비스 간 통신을 자동으로 mTLS 로 암호화한다. 제로 트러스트를 실제로 구현하는 수단."
+    },
+    {
+      "term": "SASE / SD-WAN",
+      "reading": "사세 / 에스디왠",
+      "category": "네트워크",
+      "summary": "지점 간 회선을 소프트웨어로 유연하게 묶고(SD-WAN), 거기에 보안 기능까지 클라우드로 붙인 것(SASE).",
+      "bridge": "전용회선·VPN 설계가 클라우드 서비스 형태로 옮겨간 것."
+    },
+    {
+      "term": "eBPF",
+      "reading": "이비피에프",
+      "category": "네트워크",
+      "summary": "리눅스 커널 안에서 안전하게 작은 프로그램을 돌려 패킷 처리·관측을 하는 기술. Cilium 이 대표 사례.",
+      "bridge": "패킷 처리를 전용 장비가 아니라 서버 커널에서 처리하는 흐름. 네트워크 기능이 소프트웨어로 내려온 대표 사례다."
+    },
+    {
+      "term": "QUIC / HTTP/3",
+      "reading": "퀵 / 에이치티티피 쓰리",
+      "category": "네트워크",
+      "summary": "TCP 대신 UDP 위에서 동작하는 새 전송 방식과 그 위의 HTTP. 연결 수립이 빠르고 이동 중 끊김에 강하다.",
+      "bridge": "L4 장비가 TCP 세션을 다루던 전제가 흔들린다. UDP 기반이라 기존 세션 추적·부하분산 방식이 그대로 안 맞는다."
+    },
+    {
+      "term": "IPv6 듀얼스택",
+      "reading": "Dual Stack",
+      "category": "네트워크",
+      "summary": "IPv4 와 IPv6 를 동시에 지원하는 구성.",
+      "bridge": "공공기관 사업에서 요구사항으로 자주 나온다. VIP 를 양쪽으로 다 열어야 하는지 확인이 필요한 항목."
+    },
+
+    {
+      "term": "LLM",
+      "reading": "Large Language Model",
+      "category": "AI",
+      "summary": "방대한 글로 학습해 문장을 이해하고 생성하는 모델. GPT, Claude, Gemini 가 여기 속한다.",
+      "bridge": "지금 이 대화를 처리하는 것이 LLM 이다."
+    },
+    {
+      "term": "토큰",
+      "reading": "Token",
+      "category": "AI",
+      "summary": "모델이 글을 다루는 최소 단위. 한국어는 대략 한 글자가 1~2 토큰이고, 사용료와 입력 한도가 토큰으로 계산된다.",
+      "bridge": "대역폭처럼 '쓴 만큼 비용'인 자원. 비용 산정할 때 반드시 보는 단위다."
+    },
+    {
+      "term": "컨텍스트 윈도",
+      "reading": "Context Window",
+      "category": "AI",
+      "summary": "모델이 한 번에 볼 수 있는 글의 최대 길이. 이걸 넘으면 앞부분을 잊는다.",
+      "bridge": "세션 테이블 크기와 비슷하다. 한도를 넘으면 오래된 것부터 밀려난다."
+    },
+    {
+      "term": "RAG",
+      "reading": "Retrieval-Augmented Generation",
+      "category": "AI",
+      "summary": "질문과 관련된 문서를 먼저 찾아 모델에게 같이 주는 방식. 사내 문서 기반 질의응답의 표준 구조다.",
+      "bridge": "회사에서 '내부 문서를 AI 로 검색하게 해달라'는 요구가 오면 대개 이것이다. 모델을 새로 학습시키는 게 아니라 검색을 붙이는 것."
+    },
+    {
+      "term": "벡터 DB",
+      "reading": "Vector Database",
+      "category": "AI",
+      "summary": "글의 의미를 숫자 배열로 바꿔 저장하고, 뜻이 비슷한 것을 찾아주는 저장소. RAG 의 검색 부분을 담당한다.",
+      "bridge": "키워드가 정확히 같아야 찾던 검색에서, 뜻이 비슷하면 찾는 검색으로 바뀐 것."
+    },
+    {
+      "term": "임베딩",
+      "reading": "Embedding",
+      "category": "AI",
+      "summary": "글이나 이미지를 의미를 담은 숫자 배열로 바꾸는 것. 이 숫자들이 가까울수록 뜻이 비슷하다.",
+      "bridge": "해시가 '같은지'만 알려준다면 임베딩은 '얼마나 비슷한지'를 알려준다."
+    },
+    {
+      "term": "파인튜닝",
+      "reading": "Fine-tuning",
+      "category": "AI",
+      "summary": "기존 모델에 우리 데이터를 더 학습시켜 특정 업무에 맞추는 것. 비용과 시간이 든다.",
+      "bridge": "요구사항 판단 포인트. 대개 RAG 로 충분한데 파인튜닝부터 검토하다 일이 커지는 경우가 많다."
+    },
+    {
+      "term": "환각",
+      "reading": "Hallucination",
+      "category": "AI",
+      "summary": "모델이 사실이 아닌 내용을 그럴듯하게 지어내는 현상.",
+      "bridge": "AI 도입 시 반드시 짚어야 할 제약. '출처를 같이 보여줄 것'이 실무에서 자주 쓰는 완화책이다."
+    },
+    {
+      "term": "프롬프트 엔지니어링",
+      "reading": "Prompt Engineering",
+      "category": "AI",
+      "summary": "모델에게 주는 지시문을 다듬어 원하는 결과를 얻는 기술.",
+      "bridge": "요구사항을 얼마나 구체적으로 적느냐의 문제. 후배에게 일을 맡길 때 필요한 능력과 같은 근육이다."
+    },
+    {
+      "term": "에이전트",
+      "reading": "Agent",
+      "category": "AI",
+      "summary": "모델이 스스로 도구를 골라 쓰고 여러 단계를 밟아 일을 끝내게 만든 형태.",
+      "bridge": "질문에 답만 하는 것이 아니라, 파일을 읽고 명령을 실행하고 결과를 확인하는 방식이다."
+    },
+    {
+      "term": "MCP",
+      "reading": "Model Context Protocol",
+      "category": "AI",
+      "summary": "AI 모델이 외부 도구·데이터에 접근하는 방식을 표준화한 규약. 도구마다 따로 붙이던 연결을 하나로 통일한다.",
+      "bridge": "장비마다 달랐던 관리 방식을 SNMP 로 통일한 것과 비슷한 발상이다."
+    },
+    {
+      "term": "GPU / NPU",
+      "reading": "지피유 / 엔피유",
+      "category": "AI",
+      "summary": "AI 연산에 쓰는 전용 칩. GPU 는 범용 병렬 연산, NPU 는 추론에 특화된 칩이다.",
+      "bridge": "데이터센터 설계에서 전력·냉각 요구가 크게 달라지는 원인. 인프라 담당에게 실제로 영향이 오는 부분이다."
+    },
+    {
+      "term": "추론 / 학습",
+      "reading": "Inference / Training",
+      "category": "AI",
+      "summary": "학습은 모델을 만드는 과정, 추론은 만들어진 모델을 실제로 써서 답을 얻는 과정. 비용 구조가 전혀 다르다.",
+      "bridge": "대부분의 사내 도입은 추론만 한다. '우리도 모델을 학습시켜야 하나'는 대개 아니라고 답할 수 있는 질문이다."
+    },
+    {
+      "term": "온프레미스 LLM",
+      "reading": "On-premise LLM",
+      "category": "AI",
+      "summary": "외부에 데이터를 보내지 않기 위해 사내 서버에 모델을 직접 올려 쓰는 방식.",
+      "bridge": "금융·공공 고객사가 자주 요구한다. GPU 서버 비용과 성능 저하가 제약으로 따라붙는다."
+    }
+  ]
+}

@@ -34,6 +34,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.newsbrief.data.FuelPrices
 import com.newsbrief.data.FuelType
+import com.newsbrief.data.RADIUS_OPTIONS
 import com.newsbrief.data.Station
 import java.text.DecimalFormat
 
@@ -55,8 +56,7 @@ fun FuelScreen(
         return
     }
 
-    var selected by rememberSaveable { mutableStateOf(FuelType.Gasoline.code) }
-    val types = remember { listOf(FuelType.Gasoline, FuelType.Diesel) }
+    var radius by rememberSaveable { mutableStateOf(RADIUS_OPTIONS.first()) }
 
     Column(
         modifier = Modifier
@@ -121,29 +121,35 @@ fun FuelScreen(
         )
 
         Spacer(Modifier.height(20.dp))
-        Text(
-            "${prices.areaName} 최저가 주유소",
-            style = MaterialTheme.typography.titleMedium,
-            fontWeight = FontWeight.Bold,
-        )
+        Text("내 주변 최저가", style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
         Spacer(Modifier.height(8.dp))
 
+        if (!prices.locatedNearby) {
+            Text(
+                "위치를 얻지 못해 주변 주유소를 찾을 수 없습니다. 위치 권한을 확인해주세요.",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+            Spacer(Modifier.height(16.dp))
+            return@Column
+        }
+
         Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            types.forEach { type ->
+            RADIUS_OPTIONS.forEach { meters ->
                 FilterChip(
-                    selected = selected == type.code,
-                    onClick = { selected = type.code },
-                    label = { Text(type.label) },
+                    selected = radius == meters,
+                    onClick = { radius = meters },
+                    label = { Text("${meters / 1000}km") },
                 )
             }
         }
 
         Spacer(Modifier.height(8.dp))
 
-        val stations = prices.cheapest[selected].orEmpty()
+        val stations = prices.within(radius).take(8)
         if (stations.isEmpty()) {
             Text(
-                "표시할 주유소가 없습니다",
+                "반경 ${radius / 1000}km 안에 주유소가 없습니다. 범위를 넓혀보세요.",
                 style = MaterialTheme.typography.bodySmall,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
@@ -175,7 +181,7 @@ fun FuelScreen(
             TextButton(onClick = onRefresh, enabled = !loading) { Text("지금 갱신") }
         }
         Text(
-            "주유소 이름을 누르면 네이버 지도에서 찾아봅니다. 값은 6시간마다 갱신됩니다.",
+            "휘발유 값이 싼 순서입니다. 이름을 누르면 네이버 지도에서 찾아봅니다. 값은 6시간마다 갱신됩니다.",
             style = MaterialTheme.typography.labelSmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )
@@ -201,19 +207,32 @@ private fun StationRow(rank: Int, station: Station, onClick: () -> Unit) {
         )
         Column(Modifier.weight(1f)) {
             Text(station.name, style = MaterialTheme.typography.bodyMedium, maxLines = 1)
-            if (station.brand.isNotBlank()) {
-                Text(
-                    station.brand,
-                    style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                )
-            }
+            Text(
+                listOfNotNull(
+                    station.brand.takeIf { it.isNotBlank() },
+                    formatDistance(station.distance),
+                ).joinToString(" · "),
+                style = MaterialTheme.typography.labelSmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
         }
         Spacer(Modifier.width(8.dp))
-        Text(
-            "${won.format(station.price)}원",
-            style = MaterialTheme.typography.bodyLarge,
-            fontWeight = FontWeight.SemiBold,
-        )
+        Column(horizontalAlignment = Alignment.End) {
+            Text(
+                "${won.format(station.gasoline)}원",
+                style = MaterialTheme.typography.bodyLarge,
+                fontWeight = FontWeight.SemiBold,
+            )
+            // 고급휘발유는 취급하지 않는 곳이 많아 없으면 그대로 표시한다
+            Text(
+                text = station.premium?.let { "고급 ${won.format(it)}원" } ?: "고급 N/A",
+                style = MaterialTheme.typography.labelSmall,
+                color = if (station.premium == null) MaterialTheme.colorScheme.onSurfaceVariant
+                else MaterialTheme.colorScheme.primary,
+            )
+        }
     }
 }
+
+private fun formatDistance(meters: Int): String =
+    if (meters >= 1000) "%.1fkm".format(meters / 1000.0) else "${meters}m"

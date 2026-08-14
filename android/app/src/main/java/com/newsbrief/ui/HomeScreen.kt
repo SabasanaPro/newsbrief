@@ -41,6 +41,8 @@ import com.newsbrief.data.MyNumbers
 import com.newsbrief.data.Pension
 import com.newsbrief.data.Quote
 import com.newsbrief.data.RateTable
+import com.newsbrief.data.Term
+import com.newsbrief.data.TermBook
 import com.newsbrief.data.composeBriefing
 import com.newsbrief.data.currencyOf
 // 이 파일에도 억 단위로 줄이는 formatAmount 가 있어 이름을 바꿔 들여온다
@@ -60,6 +62,7 @@ fun HomeScreen(
     brief: Brief?,
     quotes: List<Quote>,
     rates: RateTable,
+    terms: TermBook,
     weather: Weather?,
     weatherLoading: Boolean,
     myNumbers: MyNumbers,
@@ -91,6 +94,7 @@ fun HomeScreen(
         MarketCard(quotes, rates, onSearch)
         LotteryCard(brief?.lottery?.lotto, brief?.lottery?.pension, myNumbers, onOpenLink)
         WeatherCard(weather, weatherLoading, onSearch)
+        TermCard(terms.todays())
 
         Spacer(Modifier.height(16.dp))
     }
@@ -309,6 +313,42 @@ private fun PensionBody(pension: Pension) {
         }
 
         BulletRow("다음 추첨까지 ${daysUntil(DayOfWeek.THURSDAY)}일")
+    }
+}
+
+/* ---------------- 오늘의 용어 ---------------- */
+
+@Composable
+private fun TermCard(term: Term?) {
+    if (term == null) return
+    var showBridge by rememberSaveable(term.term) { mutableStateOf(false) }
+
+    HomeCard(
+        title = "📘 오늘의 용어",
+        switchTo = if (showBridge) "설명" else "쉽게",
+        onSwitch = { showBridge = !showBridge },
+    ) {
+        Row(verticalAlignment = Alignment.CenterVertically) {
+            Text(
+                term.term,
+                style = MaterialTheme.typography.titleSmall,
+                fontWeight = FontWeight.Bold,
+                color = MaterialTheme.colorScheme.primary,
+            )
+            if (term.reading.isNotBlank() && term.reading != term.term) {
+                Spacer(Modifier.width(6.dp))
+                Text(
+                    term.reading,
+                    style = MaterialTheme.typography.labelSmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+        }
+        Spacer(Modifier.height(4.dp))
+        Text(
+            if (showBridge) term.bridge else term.summary,
+            style = MaterialTheme.typography.bodyMedium,
+        )
     }
 }
 

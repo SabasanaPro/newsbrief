@@ -96,18 +96,24 @@ object WeatherRepository {
         )
     }
 
-    /** '서울특별시', '경기도' 같은 광역 행정구역 이름. 유가 지역을 고를 때 쓴다. */
-    suspend fun adminAreaName(context: Context): String? {
-        val (latitude, longitude) = lastKnownLocation(context) ?: return null
-        if (!Geocoder.isPresent()) return null
+    /** 반경 검색처럼 좌표가 필요한 곳에서 쓴다. 위치를 못 얻으면 null. */
+    fun currentLatLon(context: Context): Pair<Double, Double>? = lastKnownLocation(context)
+
+    /**
+     * 광역('경기도')과 시군구('안양시') 이름. 유가 지역을 고를 때 쓴다.
+     * 오피넷은 구 단위가 없어 시 단위까지만 맞추면 된다.
+     */
+    suspend fun administrativeNames(context: Context): Pair<String?, String?> {
+        val (latitude, longitude) = lastKnownLocation(context) ?: return null to null
+        if (!Geocoder.isPresent()) return null to null
         return withContext(Dispatchers.IO) {
             runCatching {
                 @Suppress("DEPRECATION")
-                Geocoder(context, Locale.KOREA)
+                val address = Geocoder(context, Locale.KOREA)
                     .getFromLocation(latitude, longitude, 1)
                     ?.firstOrNull()
-                    ?.adminArea
-            }.getOrNull()
+                address?.adminArea to address?.locality
+            }.getOrDefault(null to null)
         }
     }
 

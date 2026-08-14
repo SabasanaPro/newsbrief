@@ -57,6 +57,7 @@ import com.newsbrief.ui.CurrencyScreen
 import com.newsbrief.ui.FuelScreen
 import com.newsbrief.ui.LotteryScreen
 import com.newsbrief.ui.SubTabs
+import com.newsbrief.ui.TermsScreen
 import com.newsbrief.ui.MarketScreen
 import com.newsbrief.ui.MyDashboardTheme
 import com.newsbrief.ui.NewsScreen
@@ -244,6 +245,7 @@ private fun AppScreen(
                     brief = state.brief,
                     quotes = state.quotes,
                     rates = state.rates,
+                    terms = state.terms,
                     weather = state.weather,
                     weatherLoading = state.weatherLoading,
                     myNumbers = state.myNumbers,
@@ -255,8 +257,15 @@ private fun AppScreen(
                 )
 
                 Tab.News -> Column {
-                    SubTabs(listOf("오늘의 뉴스", "즐겨찾기"), newsSub) { newsSub = it }
-                    if (newsSub == 0) {
+                    SubTabs(listOf("오늘의 뉴스", "즐겨찾기", "용어"), newsSub) { newsSub = it }
+                    if (newsSub == 2) {
+                        TermsScreen(
+                            book = state.terms,
+                            loading = state.termsLoading,
+                            favorites = state.favoriteTerms,
+                            onToggleFavorite = viewModel::toggleFavoriteTerm,
+                        )
+                    } else if (newsSub == 0) {
                         NewsScreen(
                             categories = state.brief?.categories.orEmpty(),
                             generatedAt = state.brief?.generatedAt.orEmpty(),

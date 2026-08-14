@@ -14,6 +14,8 @@ import com.newsbrief.data.FuelRepository
 import com.newsbrief.data.MyNumbers
 import com.newsbrief.data.MyNumbersStore
 import com.newsbrief.data.RateTable
+import com.newsbrief.data.TermBook
+import com.newsbrief.data.TermsRepository
 import com.newsbrief.data.Network
 import com.newsbrief.data.Quote
 import com.newsbrief.data.SettingsStore
@@ -51,6 +53,9 @@ data class UiState(
     val ratesLoading: Boolean = false,
     val fuel: FuelPrices = FuelPrices(),
     val fuelLoading: Boolean = false,
+    val terms: TermBook = TermBook(),
+    val termsLoading: Boolean = false,
+    val favoriteTerms: Set<String> = emptySet(),
 )
 
 class BriefViewModel(app: Application) : AndroidViewModel(app) {
@@ -60,6 +65,7 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
     private val settingsStore = SettingsStore(app)
     private val rateRepository = ExchangeRateRepository(app)
     private val fuelRepository = FuelRepository(app)
+    private val termsRepository = TermsRepository(app)
 
     private val _state = MutableStateFlow(
         UiState(
@@ -76,6 +82,7 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
         refreshWeather()
         refreshRates()
         refreshFuel()
+        refreshTerms()
         NotificationScheduler.rescheduleAll(app, _state.value.settings)
         WidgetUpdater.schedule(app)
     }
@@ -182,6 +189,29 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
         viewModelScope.launch {
             val prices = fuelRepository.load(getApplication(), _state.value.settings.useLocation, force)
             _state.update { it.copy(fuel = prices, fuelLoading = false) }
+        }
+    }
+
+    fun toggleFavoriteTerm(term: String) {
+        val current = _state.value.favoriteTerms
+        val next = if (term in current) current - term else current + term
+        termsRepository.setFavorites(next)
+        _state.update { it.copy(favoriteTerms = next) }
+    }
+
+    /** 용어집은 거의 바뀌지 않으니 저장된 것을 먼저 쓰고 하루 한 번만 확인한다. */
+    fun refreshTerms() {
+        if (_state.value.termsLoading) return
+        _state.update {
+            it.copy(
+                termsLoading = true,
+                terms = termsRepository.cached(),
+                favoriteTerms = termsRepository.favorites(),
+            )
+        }
+        viewModelScope.launch {
+            val book = termsRepository.load()
+            _state.update { it.copy(terms = book, termsLoading = false) }
         }
     }
 
