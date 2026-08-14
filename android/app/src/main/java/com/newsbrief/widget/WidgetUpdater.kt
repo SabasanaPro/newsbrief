@@ -25,8 +25,6 @@ object WidgetUpdater {
     suspend fun push(context: Context, snapshot: WidgetSnapshot) {
         WidgetSnapshotStore(context).save(snapshot)
         DashboardWidget().updateAll(context)
-        DashboardWideWidget().updateAll(context)
-        DashboardFullWidget().updateAll(context)
     }
 
     /**

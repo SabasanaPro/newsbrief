@@ -2,26 +2,25 @@ package com.newsbrief.widget
 
 import android.content.Context
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.unit.DpSize
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.glance.GlanceId
 import androidx.glance.GlanceModifier
 import androidx.glance.GlanceTheme
-import androidx.glance.LocalSize
 import androidx.glance.action.actionStartActivity
 import androidx.glance.action.clickable
 import androidx.glance.appwidget.GlanceAppWidget
 import androidx.glance.appwidget.GlanceAppWidgetReceiver
 import androidx.glance.appwidget.SizeMode
 import androidx.glance.appwidget.cornerRadius
+import androidx.glance.appwidget.lazy.LazyColumn
 import androidx.glance.appwidget.provideContent
 import androidx.glance.background
 import androidx.glance.layout.Alignment
 import androidx.glance.layout.Column
 import androidx.glance.layout.Row
 import androidx.glance.layout.Spacer
-import androidx.glance.layout.fillMaxSize
 import androidx.glance.layout.fillMaxWidth
 import androidx.glance.layout.height
 import androidx.glance.layout.padding
@@ -30,22 +29,23 @@ import androidx.glance.text.FontWeight
 import androidx.glance.text.Text
 import androidx.glance.text.TextStyle
 import androidx.glance.unit.ColorProvider
-import androidx.compose.ui.graphics.Color
 import com.newsbrief.MainActivity
 import com.newsbrief.data.WidgetSnapshot
 import com.newsbrief.data.WidgetSnapshotStore
-
-/** 2×2 요약, 4×2 상세, 4×4 전체 세 가지 크기를 지원한다. */
-private val SMALL = DpSize(140.dp, 110.dp)
-private val WIDE = DpSize(280.dp, 110.dp)
-private val FULL = DpSize(280.dp, 240.dp)
+import java.time.LocalDate
+import java.time.format.DateTimeFormatter
+import java.util.Locale
 
 private val Rise = ColorProvider(Color(0xFFD32F2F))
 private val Fall = ColorProvider(Color(0xFF1976D2))
 
-abstract class BaseDashboardWidget : GlanceAppWidget() {
+/**
+ * 앱을 열었을 때 보이는 홈 화면을 그대로 옮긴 위젯.
+ * 세로로 길어질 수 있어 목록으로 만들어 두었다 — 위젯을 작게 줄여도 안에서 넘겨 볼 수 있다.
+ */
+class DashboardWidget : GlanceAppWidget() {
 
-    override val sizeMode = SizeMode.Responsive(setOf(SMALL, WIDE, FULL))
+    override val sizeMode = SizeMode.Single
 
     override suspend fun provideGlance(context: Context, id: GlanceId) {
         val snapshot = WidgetSnapshotStore(context).load()
@@ -57,157 +57,174 @@ abstract class BaseDashboardWidget : GlanceAppWidget() {
     }
 }
 
-/**
- * 내용은 같지만 위젯 목록에 크기별로 따로 뜨게 하려고 둘로 나눴다.
- * 런처가 목록에서 보여주는 크기는 등록된 항목마다 하나뿐이기 때문이다.
- */
-class DashboardWidget : BaseDashboardWidget()
-
-class DashboardWideWidget : BaseDashboardWidget()
-
-class DashboardFullWidget : BaseDashboardWidget()
-
 class DashboardWidgetReceiver : GlanceAppWidgetReceiver() {
     override val glanceAppWidget: GlanceAppWidget = DashboardWidget()
 }
 
-class DashboardWideWidgetReceiver : GlanceAppWidgetReceiver() {
-    override val glanceAppWidget: GlanceAppWidget = DashboardWideWidget()
-}
-
-class DashboardFullWidgetReceiver : GlanceAppWidgetReceiver() {
-    override val glanceAppWidget: GlanceAppWidget = DashboardFullWidget()
-}
-
 @Composable
 private fun WidgetBody(snapshot: WidgetSnapshot) {
-    val size = LocalSize.current
-    val wide = size.width >= WIDE.width
-    val full = size.height >= FULL.height
-
-    Column(
+    LazyColumn(
         modifier = GlanceModifier
-            .fillMaxSize()
+            .fillMaxWidth()
             .background(GlanceTheme.colors.widgetBackground)
-            .cornerRadius(16.dp)
+            .cornerRadius(20.dp)
             .padding(12.dp)
-            // 위젯을 누르면 앱이 열린다
             .clickable(actionStartActivity<MainActivity>()),
     ) {
+        item { DateHeader(snapshot.updatedAt) }
+
         if (snapshot.isEmpty) {
-            Text(
-                "앱을 한 번 열면 표시됩니다",
-                style = TextStyle(fontSize = 12.sp, color = GlanceTheme.colors.onSurfaceVariant),
-            )
-            return@Column
-        }
-
-        WeatherLine(snapshot)
-
-        // 큰 위젯에만 브리핑 문단이 들어간다
-        if (full && snapshot.briefing.isNotBlank()) {
-            Spacer(GlanceModifier.height(6.dp))
-            Text(
-                snapshot.briefing,
-                style = TextStyle(fontSize = 12.sp, color = GlanceTheme.colors.onSurface),
-                maxLines = 3,
-            )
-        }
-
-        Spacer(GlanceModifier.height(6.dp))
-        if (full) QuoteRows(snapshot) else QuoteLine(snapshot, wide)
-
-        if (snapshot.lottoNumbers.isNotBlank()) {
-            Spacer(GlanceModifier.height(6.dp))
-            Text(
-                "🍀 ${snapshot.lottoRound} ${snapshot.lottoNumbers}",
-                style = TextStyle(fontSize = 12.sp, color = GlanceTheme.colors.onSurface),
-                maxLines = 1,
-            )
-            if (full && snapshot.lottoPrize.isNotBlank()) {
+            item {
+                Spacer(GlanceModifier.height(8.dp))
                 Text(
-                    snapshot.lottoPrize,
-                    style = TextStyle(fontSize = 11.sp, color = GlanceTheme.colors.onSurfaceVariant),
-                    maxLines = 1,
+                    "앱을 한 번 열면 표시됩니다",
+                    style = TextStyle(fontSize = 13.sp, color = GlanceTheme.colors.onSurfaceVariant),
                 )
+            }
+            return@LazyColumn
+        }
+
+        if (snapshot.briefing.isNotBlank()) {
+            item {
+                WidgetCard("🤖 AI 오늘의 브리핑") {
+                    Text(
+                        snapshot.briefing,
+                        style = TextStyle(fontSize = 13.sp, color = GlanceTheme.colors.onSurface),
+                    )
+                }
             }
         }
 
-        if (full && snapshot.pensionLine.isNotBlank()) {
-            Spacer(GlanceModifier.height(4.dp))
-            Text(
-                "💰 ${snapshot.pensionLine}",
-                style = TextStyle(fontSize = 12.sp, color = GlanceTheme.colors.onSurface),
-                maxLines = 1,
-            )
+        if (snapshot.headlines.isNotEmpty()) {
+            item {
+                WidgetCard("📰 오늘 주요 뉴스") {
+                    snapshot.headlines.take(3).forEach { headline ->
+                        BulletLine(headline)
+                    }
+                }
+            }
         }
 
-        // 좁은 위젯에는 기사 제목이 들어갈 자리가 없다
-        if (wide && snapshot.headlines.isNotEmpty()) {
-            Spacer(GlanceModifier.height(6.dp))
-            snapshot.headlines.take(if (full) 4 else 2).forEach { headline ->
-                Text(
-                    "• $headline",
-                    style = TextStyle(fontSize = 12.sp, color = GlanceTheme.colors.onSurface),
-                    maxLines = 1,
-                )
+        if (snapshot.quotes.isNotEmpty()) {
+            item {
+                WidgetCard("📈 시세") {
+                    snapshot.quotes.forEach { quote ->
+                        Row(
+                            modifier = GlanceModifier.fillMaxWidth().padding(vertical = 2.dp),
+                            verticalAlignment = Alignment.CenterVertically,
+                        ) {
+                            Text(
+                                "• ${quote.name}",
+                                style = TextStyle(fontSize = 13.sp, color = GlanceTheme.colors.onSurface),
+                                modifier = GlanceModifier.defaultWeight(),
+                            )
+                            Text(
+                                quote.price,
+                                style = TextStyle(
+                                    fontSize = 13.sp,
+                                    fontWeight = FontWeight.Medium,
+                                    color = GlanceTheme.colors.onSurface,
+                                ),
+                            )
+                            Spacer(GlanceModifier.width(6.dp))
+                            Text(
+                                "${arrow(quote.direction)}${quote.rate}",
+                                style = TextStyle(fontSize = 12.sp, color = directionColor(quote.direction)),
+                            )
+                        }
+                    }
+                }
             }
+        }
+
+        if (snapshot.lottoNumbers.isNotBlank() || snapshot.pensionLine.isNotBlank()) {
+            item {
+                WidgetCard("🍀 복권") {
+                    if (snapshot.lottoNumbers.isNotBlank()) {
+                        BulletLine("${snapshot.lottoRound} ${snapshot.lottoNumbers}")
+                        if (snapshot.lottoPrize.isNotBlank()) BulletLine(snapshot.lottoPrize)
+                    }
+                    if (snapshot.pensionLine.isNotBlank()) {
+                        BulletLine("연금복권 ${snapshot.pensionLine}")
+                    }
+                }
+            }
+        }
+
+        if (snapshot.weather.isNotBlank()) {
+            item {
+                WidgetCard("${snapshot.weatherEmoji.ifBlank { "🌤️" }} 오늘 날씨") {
+                    BulletLine(snapshot.weather)
+                }
+            }
+        }
+
+        item { Spacer(GlanceModifier.height(4.dp)) }
+    }
+}
+
+@Composable
+private fun DateHeader(updatedAt: String) {
+    val today = LocalDate.now().format(DateTimeFormatter.ofPattern("M월 d일 EEEE", Locale.KOREA))
+    Row(
+        modifier = GlanceModifier.fillMaxWidth().padding(bottom = 8.dp),
+        verticalAlignment = Alignment.CenterVertically,
+    ) {
+        Text(
+            "🗓️ $today",
+            style = TextStyle(
+                fontSize = 15.sp,
+                fontWeight = FontWeight.Bold,
+                color = GlanceTheme.colors.onSurface,
+            ),
+            modifier = GlanceModifier.defaultWeight(),
+        )
+        if (updatedAt.isNotBlank()) {
+            Text(
+                updatedAt,
+                style = TextStyle(fontSize = 11.sp, color = GlanceTheme.colors.onSurfaceVariant),
+            )
         }
     }
 }
 
-/** 큰 위젯에서는 시세를 가격까지 한 줄씩 보여준다. */
+/** 홈 화면 카드와 같은 모양 — 둥근 모서리에 제목 한 줄, 그 아래 내용. */
 @Composable
-private fun QuoteRows(snapshot: WidgetSnapshot) {
-    snapshot.quotes.forEach { quote ->
-        Row(modifier = GlanceModifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+private fun WidgetCard(title: String, content: @Composable () -> Unit) {
+    Column(
+        modifier = GlanceModifier
+            .fillMaxWidth()
+            .padding(bottom = 8.dp),
+    ) {
+        Column(
+            modifier = GlanceModifier
+                .fillMaxWidth()
+                .background(GlanceTheme.colors.surface)
+                .cornerRadius(14.dp)
+                .padding(12.dp),
+        ) {
             Text(
-                quote.name,
-                style = TextStyle(fontSize = 12.sp, color = GlanceTheme.colors.onSurface),
-                modifier = GlanceModifier.defaultWeight(),
-                maxLines = 1,
+                title,
+                style = TextStyle(
+                    fontSize = 13.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = GlanceTheme.colors.onSurface,
+                ),
             )
-            Text(
-                "${quote.price}  ${arrow(quote.direction)}${quote.rate}",
-                style = TextStyle(fontSize = 12.sp, color = directionColor(quote.direction)),
-                maxLines = 1,
-            )
+            Spacer(GlanceModifier.height(6.dp))
+            content()
         }
     }
 }
 
 @Composable
-private fun WeatherLine(snapshot: WidgetSnapshot) {
-    if (snapshot.weather.isBlank()) return
+private fun BulletLine(text: String) {
     Text(
-        "${snapshot.weatherEmoji} ${snapshot.weather}",
-        style = TextStyle(
-            fontSize = 13.sp,
-            fontWeight = FontWeight.Bold,
-            color = GlanceTheme.colors.onSurface,
-        ),
-        maxLines = 1,
+        "• $text",
+        style = TextStyle(fontSize = 13.sp, color = GlanceTheme.colors.onSurface),
+        modifier = GlanceModifier.padding(vertical = 1.dp),
+        maxLines = 2,
     )
-}
-
-@Composable
-private fun QuoteLine(snapshot: WidgetSnapshot, wide: Boolean) {
-    // 좁을 땐 코스피와 비트코인만
-    val shown = if (wide) snapshot.quotes else snapshot.quotes.filter {
-        it.name == "코스피" || it.name == "비트코인"
-    }
-    if (shown.isEmpty()) return
-
-    Row(modifier = GlanceModifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
-        shown.forEachIndexed { index, quote ->
-            if (index > 0) Spacer(GlanceModifier.width(10.dp))
-            Text(
-                "${quote.name} ${arrow(quote.direction)}${quote.rate}",
-                style = TextStyle(fontSize = 12.sp, color = directionColor(quote.direction)),
-                maxLines = 1,
-            )
-        }
-    }
 }
 
 @Composable

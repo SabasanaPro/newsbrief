@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">My Dashboard</string>
-    <string name="widget_label">My Dashboard 2×2</string>
-    <string name="widget_label_wide">My Dashboard 4×2</string>
-    <string name="widget_label_full">My Dashboard 4×4</string>
-    <string name="widget_description">날씨·시세·로또 요약</string>
-    <string name="widget_description_wide">날씨·시세·로또에 주요 뉴스까지</string>
-    <string name="widget_description_full">홈 화면 전체 — 브리핑·시세·복권·뉴스</string>
+    <string name="widget_label">My Dashboard</string>
+    <string name="widget_description">홈 화면 그대로 — 브리핑·뉴스·시세·복권·날씨</string>
 </resources>
