@@ -18,9 +18,13 @@ import com.newsbrief.data.Weather
 import com.newsbrief.data.WeatherRepository
 import com.newsbrief.data.add
 import com.newsbrief.data.addFolder
+import com.newsbrief.data.buildWidgetSnapshot
 import com.newsbrief.data.remove
 import com.newsbrief.data.removeFolder
 import com.newsbrief.notify.NotificationScheduler
+import com.newsbrief.widget.WidgetUpdater
+import java.time.LocalTime
+import java.time.format.DateTimeFormatter
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -61,6 +65,26 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
         refreshQuotes()
         refreshWeather()
         NotificationScheduler.rescheduleAll(app, _state.value.settings)
+        WidgetUpdater.schedule(app)
+    }
+
+    /** 앱이 새로 받은 값을 위젯에도 그대로 넘겨 준다. */
+    private fun syncWidget() {
+        val current = _state.value
+        if (current.brief == null && current.quotes.isEmpty() && current.weather == null) return
+        viewModelScope.launch {
+            runCatching {
+                WidgetUpdater.push(
+                    getApplication(),
+                    buildWidgetSnapshot(
+                        brief = current.brief,
+                        quotes = current.quotes,
+                        weather = current.weather,
+                        now = LocalTime.now().format(DateTimeFormatter.ofPattern("HH:mm")),
+                    ),
+                )
+            }
+        }
     }
 
     /* ---------- 불러오기 ---------- */
@@ -70,7 +94,10 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
         _state.update { it.copy(briefLoading = true, briefError = null) }
         viewModelScope.launch {
             runCatching { Network.fetchBrief() }
-                .onSuccess { brief -> _state.update { it.copy(brief = brief, briefLoading = false) } }
+                .onSuccess { brief ->
+                    _state.update { it.copy(brief = brief, briefLoading = false) }
+                    syncWidget()
+                }
                 .onFailure { error ->
                     _state.update {
                         it.copy(briefLoading = false, briefError = error.message ?: "불러오지 못했습니다")
@@ -92,6 +119,7 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
                             quotesError = if (quotes.isEmpty()) "시세를 불러오지 못했습니다" else null,
                         )
                     }
+                    syncWidget()
                 }
                 .onFailure { error ->
                     _state.update {
@@ -109,6 +137,7 @@ class BriefViewModel(app: Application) : AndroidViewModel(app) {
                 WeatherRepository.fetch(getApplication(), _state.value.settings.useLocation)
             }.getOrNull()
             _state.update { it.copy(weather = weather, weatherLoading = false) }
+            syncWidget()
         }
     }
 

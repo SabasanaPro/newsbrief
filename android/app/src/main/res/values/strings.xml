@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">My Dashboard</string>
+    <string name="widget_description">날씨·시세·로또·주요 뉴스 요약</string>
 </resources>
