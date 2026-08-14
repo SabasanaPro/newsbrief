@@ -30,6 +30,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.newsbrief.data.AppSettings
@@ -323,6 +324,13 @@ private fun WeatherCard(weather: Weather?, loading: Boolean, onSearch: (String) 
             weather != null -> {
                 BulletRow("${weather.place} ${weather.minTemp}~${weather.maxTemp}℃ (현재 ${weather.currentTemp}℃)")
                 BulletRow("${weather.description} · 강수확률 ${weather.precipitationChance}%")
+                weather.air?.let { air ->
+                    BulletRow(
+                        "초미세먼지 ${air.pm25} ${air.pm25Grade} · 미세먼지 ${air.pm10} ${air.pm10Grade}",
+                        color = gradeColor(air.worstGrade),
+                    )
+                    BulletRow("자외선 ${air.uvIndex} ${air.uvGrade}")
+                }
             }
 
             loading -> CircularProgressIndicator(Modifier.size(20.dp), strokeWidth = 2.dp)
@@ -334,6 +342,15 @@ private fun WeatherCard(weather: Weather?, loading: Boolean, onSearch: (String) 
             )
         }
     }
+}
+
+/** 미세먼지 등급 색. 나쁨부터 눈에 띄게 한다. */
+@Composable
+private fun gradeColor(grade: String): Color = when (grade) {
+    "좋음" -> FallColor
+    "나쁨" -> Color(0xFFE07B00)
+    "매우나쁨" -> RiseColor
+    else -> MaterialTheme.colorScheme.onSurface
 }
 
 /* ---------------- 공용 ---------------- */
@@ -392,10 +409,11 @@ private fun HomeCard(
 }
 
 @Composable
-private fun BulletRow(text: String, onClick: (() -> Unit)? = null) {
+private fun BulletRow(text: String, onClick: (() -> Unit)? = null, color: Color? = null) {
     Text(
         text = "• $text",
         style = MaterialTheme.typography.bodyMedium,
+        color = color ?: MaterialTheme.colorScheme.onSurface,
         modifier = Modifier
             .fillMaxWidth()
             .then(if (onClick != null) Modifier.clickable(onClick = onClick) else Modifier)

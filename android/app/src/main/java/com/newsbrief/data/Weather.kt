@@ -19,9 +19,47 @@ data class Weather(
     val description: String,
     val emoji: String,
     val precipitationChance: Int,
+    val air: AirQuality? = null,
 ) {
     /** "서울 22~28℃ / 구름 조금" */
     val summary: String get() = "$place $minTemp~$maxTemp℃ / $description"
+}
+
+/**
+ * 초미세먼지(PM2.5)·미세먼지(PM10)·자외선.
+ * 등급은 환경부 기준을 따른다 — 예보에서 쓰는 좋음/보통/나쁨/매우나쁨과 같은 구간이다.
+ */
+data class AirQuality(
+    val pm25: Int,
+    val pm10: Int,
+    val uvIndex: Int,
+) {
+    val pm25Grade: String get() = grade(pm25, 15, 35, 75)
+    val pm10Grade: String get() = grade(pm10, 30, 80, 150)
+
+    /** 자외선은 기상청 구간(0~2 낮음, 3~5 보통, 6~7 높음, 8~10 매우높음, 11+ 위험) */
+    val uvGrade: String get() = when {
+        uvIndex <= 2 -> "낮음"
+        uvIndex <= 5 -> "보통"
+        uvIndex <= 7 -> "높음"
+        uvIndex <= 10 -> "매우높음"
+        else -> "위험"
+    }
+
+    /** 셋 중 가장 나쁜 항목 기준으로 한 줄 요약. */
+    val worstGrade: String
+        get() = listOf(pm25Grade, pm10Grade).maxByOrNull { GRADE_ORDER.indexOf(it) } ?: "보통"
+
+    private fun grade(value: Int, good: Int, normal: Int, bad: Int): String = when {
+        value <= good -> "좋음"
+        value <= normal -> "보통"
+        value <= bad -> "나쁨"
+        else -> "매우나쁨"
+    }
+
+    private companion object {
+        val GRADE_ORDER = listOf("좋음", "보통", "나쁨", "매우나쁨")
+    }
 }
 
 /** 서울시청. 위치 권한이 없거나 마지막 위치를 못 얻었을 때 쓴다. */
@@ -36,7 +74,26 @@ object WeatherRepository {
         val (latitude, longitude) = located ?: (FALLBACK_LAT to FALLBACK_LON)
 
         val place = if (located == null) FALLBACK_PLACE else placeName(context, latitude, longitude)
-        return fetchForecast(latitude, longitude, place)
+        val forecast = fetchForecast(latitude, longitude, place)
+        // 대기질은 없어도 날씨는 보여줘야 하므로 실패해도 그냥 넘어간다
+        val air = runCatching { fetchAirQuality(latitude, longitude) }.getOrNull()
+        return forecast.copy(air = air)
+    }
+
+    private suspend fun fetchAirQuality(latitude: Double, longitude: Double): AirQuality {
+        val url = buildString {
+            append("https://air-quality-api.open-meteo.com/v1/air-quality")
+            append("?latitude=").append(latitude)
+            append("&longitude=").append(longitude)
+            append("&current=pm10,pm2_5,uv_index")
+            append("&timezone=Asia%2FSeoul")
+        }
+        val current = org.json.JSONObject(Network.getRaw(url)).getJSONObject("current")
+        return AirQuality(
+            pm25 = Math.round(current.optDouble("pm2_5", 0.0)).toInt(),
+            pm10 = Math.round(current.optDouble("pm10", 0.0)).toInt(),
+            uvIndex = Math.round(current.optDouble("uv_index", 0.0)).toInt(),
+        )
     }
 
     private fun hasLocationPermission(context: Context): Boolean =
