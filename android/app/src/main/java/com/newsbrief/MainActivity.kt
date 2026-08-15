@@ -12,6 +12,7 @@ import androidx.activity.compose.BackHandler
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
+import androidx.compose.foundation.gestures.detectHorizontalDragGestures
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -46,6 +47,9 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.unit.dp
+import kotlin.math.abs
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.newsbrief.data.Story
 import com.newsbrief.data.contains
@@ -66,6 +70,9 @@ import com.newsbrief.ui.SettingsScreen
 import java.net.URLEncoder
 
 private const val UPBIT_PACKAGE = "com.dunamu.exchange"
+
+/** 이만큼 밀어야 메뉴가 넘어간다. 너무 짧으면 목록을 훑다가 실수로 넘어간다. */
+private const val SWIPE_THRESHOLD_DP = 80
 
 class MainActivity : ComponentActivity() {
 
@@ -255,7 +262,30 @@ private fun AppScreen(
             }
         },
     ) { innerPadding ->
-        Box(Modifier.fillMaxSize().padding(innerPadding)) {
+        Box(
+            Modifier
+                .fillMaxSize()
+                .padding(innerPadding)
+                // 손으로 좌우로 밀어 메뉴를 옮긴다. 끝에서 더 밀면 반대쪽 끝으로 돌아간다.
+                .pointerInput(showSettings, tabs.size) {
+                    if (showSettings) return@pointerInput
+                    val threshold = SWIPE_THRESHOLD_DP.dp.toPx()
+                    var dragged = 0f
+                    detectHorizontalDragGestures(
+                        onDragStart = { dragged = 0f },
+                        onDragEnd = {
+                            if (abs(dragged) >= threshold) {
+                                selected = if (dragged < 0) {
+                                    (selected + 1) % tabs.size
+                                } else {
+                                    (selected - 1 + tabs.size) % tabs.size
+                                }
+                            }
+                        },
+                        onHorizontalDrag = { _, amount -> dragged += amount },
+                    )
+                },
+        ) {
             if (showSettings) {
                 SettingsScreen(
                     settings = state.settings,

@@ -105,16 +105,27 @@ class FuelRepository(context: Context) {
         val sidoRows = JSONObject(call("avgSidoPrice.do", "prodcd" to FuelType.Gasoline.code))
             .getJSONObject("RESULT").getJSONArray("OIL")
 
+        val location = if (useLocation) WeatherRepository.currentLatLon(context) else null
+        val nearby = if (location != null) {
+            aroundStations(location.first, location.second)
+        } else {
+            emptyList()
+        }
+
         val (adminArea, _) =
             if (useLocation) WeatherRepository.administrativeNames(context) else null to null
 
+        // 주소 검색(Geocoder)은 기기에 따라 빈손으로 돌아온다.
+        // 그럴 때는 근처 주유소 주소('경기 안양시 …')의 앞머리로 시·도를 알아낸다.
+        val areaHint = adminArea ?: nearby.firstOrNull { it.address.isNotBlank() }?.address
+
         var areaCode: String? = null
         var areaName = "전국"
-        if (adminArea != null) {
+        if (areaHint != null) {
             for (i in 0 until sidoRows.length()) {
                 val row = sidoRows.getJSONObject(i)
                 val name = row.optString("SIDONM")
-                if (name.isNotBlank() && name != "전국" && adminArea.contains(name)) {
+                if (name.isNotBlank() && name != "전국" && areaHint.contains(name)) {
                     areaCode = row.optString("SIDOCD")
                     areaName = name
                     break
@@ -136,21 +147,16 @@ class FuelRepository(context: Context) {
             }
         }
 
-        val location = if (useLocation) WeatherRepository.currentLatLon(context) else null
-        val nearby = if (location != null) {
-            aroundStations(location.first, location.second)
-        } else {
-            // 위치를 못 얻어도 화면이 비지 않게 시·도 최저가라도 보여준다
-            areaCode?.let { regionStations(it) }.orEmpty()
-        }
+        // 위치를 못 얻었으면 화면이 비지 않게 시·도 최저가라도 보여준다
+        val stations = nearby.ifEmpty { areaCode?.let { regionStations(it) }.orEmpty() }
 
         return FuelPrices(
             schema = SCHEMA,
             areaName = areaName,
             nationalAverage = national,
             areaAverage = areaAverage,
-            nearby = nearby,
-            locatedNearby = location != null && nearby.isNotEmpty(),
+            nearby = stations,
+            locatedNearby = nearby.isNotEmpty(),
             fetchedEpochSec = now,
         )
     }

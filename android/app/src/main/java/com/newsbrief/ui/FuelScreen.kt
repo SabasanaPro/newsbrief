@@ -115,7 +115,7 @@ fun FuelScreen(
 
         Spacer(Modifier.height(6.dp))
         Text(
-            if (prices.areaAverage.isEmpty()) "위치를 못 얻어 전국 평균만 표시합니다"
+            if (prices.areaAverage.isEmpty()) "지역을 알 수 없어 전국 평균만 표시합니다"
             else "${prices.areaName} 평균 / 전국 평균",
             style = MaterialTheme.typography.labelSmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
