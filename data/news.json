@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-08-15T20:02:31+09:00",
+  "generatedAt": "2026-08-15T22:45:13+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "李 “오래된 전쟁 끝낼 남북 당사자 논의 시작하자”",
-          "summary": "이재명 대통령이 광복절인 15일 “친일 반민족 행위자가 부당 축적한 재산을 조사·환수해 역사에 대한 확실한 책임을 묻겠다”고 밝혔다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20260815/134482926/2",
-          "publishedAt": "2026-08-15T01:47:00+00:00",
+          "title": "\"전쟁 끝낼 당사자들 논의 시작하자\"…이 대통령 경축사",
+          "summary": "오늘은 순국선열들의 희생을 가슴에 새기며 더 나은 미래를 다짐하는 제81주년 광복절입니다.…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707020",
+          "publishedAt": "2026-08-15T11:42:00+00:00",
           "sourceCount": 5,
           "otherSources": [
-            "SBS",
+            "동아일보",
             "연합뉴스",
             "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "정부, 日야스쿠니 공물·참배 \"개탄\"…日관계자 초치해 항의",
-          "summary": "정부가 15일 일본 정계의 야스쿠니 신사 공물 봉납과 참배를 비판했다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260815036852504",
-          "publishedAt": "2026-08-15T08:13:00+00:00",
+          "title": "정부, 日 야스쿠니 공물·참배에 “개탄 금할 수 없어”",
+          "summary": "정부가 15일 일본 정계의 야스쿠니 신사 공물 봉납과 참배에 대해 “역사를 망각한 시대착오적인 행위를 한 데 대해 개탄을 금할 수 없다”고 비판했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20260815/134483337/1",
+          "publishedAt": "2026-08-15T06:59:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "동아일보"
+            "연합뉴스"
           ]
         },
         {
@@ -50,38 +50,38 @@
       "name": "경제",
       "items": [
         {
-          "title": "'통상 실무 사령탑' 여한구 산업부 통상교섭본부장 경질",
-          "summary": "지난해 한미 관세 협상 등 주요 통상 현안에서 실무 사령탑 역할을 해온 여한구 산업통상부 통상교섭본부장이 경질됐습니다.산업부는 오늘 0시를 기해…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706814",
-          "publishedAt": "2026-08-15T03:33:00+00:00",
+          "title": "‘한미 관세 협상 총괄’ 여한구 산업부 통상교섭본부장 경질",
+          "summary": "한미 관세 협상을 총괄했던 여한구 산업통상부 통상교섭본부장이 15일 전격 경질됐다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/economy_general/2026/08/15/GRRTSYJSGNSTMYZSHE2DGMRYGM/",
+          "publishedAt": "2026-08-15T01:49:46+00:00",
           "sourceCount": 4,
           "otherSources": [
+            "SBS",
             "경향신문",
-            "연합뉴스",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "용산구 “용산공원 주택공급 검토 강력 반대”",
-          "summary": "서울시에 이어 용산구도 정부가 용산공원을 주택 공급 후보지로 검토하는 데 반대한다고 밝혔다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/real_estate/2026/08/15/GYZTENRVGY2DQZJYHFQTGYTBGU/",
-          "publishedAt": "2026-08-15T07:32:47+00:00",
-          "sourceCount": 2,
-          "otherSources": [
             "연합뉴스"
           ]
         },
         {
-          "title": "\"졸업생도 털려\" 서강대, 개인정보 18만건 유출...전화번호·비번 포함",
-          "summary": "서강대학교 학생·졸업생·교직원 개인정보 18만건이 유출되는 사고가 발생했다. 성명과 학번, 휴대전화 번호는 물론, 암호화된 통합 비밀번호까지 유출된 것으로 나타났다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/society/2026/08/15/2026081513044421404",
-          "publishedAt": "2026-08-15T04:15:18+00:00",
+          "title": "서울시 이어 용산구도 \"용산공원 주택공급 검토 강력 반대\"",
+          "summary": "서울시에 이어 용산구도 정부가 용산공원을 주택 공급 후보지로 검토하는 데 반대 입장을 표명했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260815034500004",
+          "publishedAt": "2026-08-15T05:45:53+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "동아일보"
+            "조선일보"
+          ]
+        },
+        {
+          "title": "주유소 기름값 13주째 하락…휘발유 1864.1원·경유 1847원",
+          "summary": "이번 주 전국 주유소 기름값이 13주 연속 하락하면서 휘발유·경유 모두 1800원 중반대를 유지했다. 국제유가는 중동전쟁이 장기화한 데 따른 공급 불안 속에서 상승했다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026081510483639532",
+          "publishedAt": "2026-08-15T01:48:36+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
           ]
         }
       ]
@@ -90,6 +90,22 @@
       "id": "society",
       "name": "사회",
       "items": [
+        {
+          "title": "서강대 개인정보 18만건 유출…“신원미상 외부공격”",
+          "summary": "서강대에서 개인정보 유출사건이 발생해 재학생과 교직원 등 18만건의 개인정보가 빠져나갔다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030253058",
+          "publishedAt": "2026-08-15T03:39:00+00:00",
+          "sourceCount": 8,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "매일경제",
+            "서울신문",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
         {
           "title": "불멸의 4할타자…프로야구 전설 백인천, 향년 83세로 별세",
           "summary": "한국프로야구 불멸의 4할 타자인 백인천 전 감독이 15일 오전 6시 41분 충남 천안 단국대학교 병원에서 뇌출혈로 치료받던 중 별세했다.…",
@@ -105,29 +121,16 @@
           ]
         },
         {
-          "title": "부산서 50대가 몰던 승용차 미용실로 돌진…손님 등 3명 부상, 병원 이송",
-          "summary": "부산 북구에서 승용차가 도로변 건물의 미용실로 돌진하는 사고가 발생했다. 15일 연합뉴스에 따르면 이날 정오쯤 부산 북구 덕천동에서 50대 남성이 몰던 승용차가 도로변 건물의 미용실로 돌진했다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260815500030",
-          "publishedAt": "2026-08-15T05:57:53+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "노컷뉴스",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "“번복 이유가 뭐냐”…수원지검 집단퇴정 징계 청구에 현직 검사 비판",
-          "summary": "이른바 ‘수원지검 집단 퇴정’과 관련해 법무부가 검사들의 징계를 청구하자 현직 검사가 징계 근거를 요구하며 공개 비판에 나섰다. 15일 법조계에 따르면 공봉숙 서울고검 검사는 지난..",
+          "title": "“집 나가겠다”…가출 막아선 엄마에 끓는 물 부은 10대 딸",
+          "summary": "가출을 막으며 휴대전화를 빼앗은 어머니에게 끓는 물을 부어 다치게 한 10대 딸이 경찰에 붙잡혔다. 15일 뉴스1에 따르면 경기 남양주남부경찰서는 특수존속상해 혐의로 10대 A 양..",
           "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12128760",
-          "publishedAt": "2026-08-15T08:04:33+00:00",
+          "link": "https://www.mk.co.kr/news/society/12128765",
+          "publishedAt": "2026-08-15T08:37:43+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "SBS",
-            "연합뉴스",
-            "조선일보"
+            "노컷뉴스",
+            "동아일보",
+            "연합뉴스"
           ]
         }
       ]
@@ -238,11 +241,11 @@
           "otherSources": []
         },
         {
-          "title": "리플 1.0735달러, 온체인 고점 해석 갈렸다",
-          "summary": "리플(XRP)이 1달러대 초반에서 거래되는 가운데 5월 중순 나타난 온체인 활동 증가와 현재 파생상품 지표를 분리해 봐야 한다는 분석이 나온다.…",
+          "title": "비트코인 10월 저점 전망, 알트코인 논쟁 재점화",
+          "summary": "비트코인(BTC)이 2026년 10월 저점을 형성할 수 있다는 전망이 나오면서 알트코인의 통화 경쟁력을 둘러싼 논쟁도 다시 커졌다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/391407",
-          "publishedAt": "2026-08-15T10:34:58+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/391440",
+          "publishedAt": "2026-08-15T13:10:35+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -253,37 +256,36 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "삼성 양창섭, 한화 노시환 헬멧 맞혀 헤드샷 퇴장",
-          "summary": "프로야구 삼성 라이온즈 우완 투수 양창섭이 타자의 머리 쪽에 빠른 볼을 던져 퇴장당했다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260815046000007",
-          "publishedAt": "2026-08-15T10:26:36+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "동아일보",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "이정후, 3경기 연속 무안타 침묵…시즌 타율 0.290으로 하락",
-          "summary": "이정후(샌프란시스코 자이언츠)의 침묵이 3경기째 이어지고 있다.이정후는 15일(한국 시간) 미국 캘리포니아주 샌프란시스코의 오라클파크에서 열린 2026 메이저리그(MLB) 콜로라도 로키스와의 경기에 5번 타자 우익수로 선발 출전해 4타수 무안타를 기록했다.지난 11일 휴스턴 애스트로스전에서 시즌 9호포를 터트린 이후 3경기 연속 무안타다.이정후의 시즌 타율은 0.293에서 0.290(427타수 124안타)으로 소폭 하락했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260815/134483280/1",
-          "publishedAt": "2026-08-15T05:11:50+00:00",
+          "title": "키움 'KT상대로 10-5 승리'",
+          "summary": "2026.08.15 /cej@osen.co.kr…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/sports_photo/2026/08/15/G4YTON3DMY4TAZJZMNTDKYRWGE/",
+          "publishedAt": "2026-08-15T13:25:00+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
           ]
         },
         {
-          "title": "타구에 얼굴 맞은 프로야구 NC 임지민, 다음 주 초 수술",
-          "summary": "프로야구 NC 다이노스의 불펜에 악재가 닥쳤다.",
+          "title": "한국 남자농구, 광복절에 한일전 20점 차 완패…이우석 14점",
+          "summary": "한국 남자 농구 대표팀이 광복절에 열린 일본과의 맞대결에서 완패했다.",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260815031700007",
-          "publishedAt": "2026-08-15T04:22:29+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20260815049600007",
+          "publishedAt": "2026-08-15T12:23:32+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "동아일보"
+            "한겨레"
+          ]
+        },
+        {
+          "title": "‘전 손흥민 동료’ 로메로, 이강인과 한솥밥…아틀레티코 이적",
+          "summary": "잉글랜드 프리미어리그(EPL) 토트넘 홋스퍼에서 손흥민(LA FC)과 함께 뛰었던 아르헨티나 수비수 크리스티안 로메로가 아틀레티코 마드리드(스페인)로 이적, 이강인과 한솥밥을 먹는다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20260815/134483454/1",
+          "publishedAt": "2026-08-15T11:46:08+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
           ]
         }
       ]
@@ -301,25 +303,25 @@
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "日야스쿠니 공물·참배 개탄",
-      "sentence": "정부가 15일 일본 정계의 야스쿠니 신사 공물 봉납과 참배를 비판했다.",
+      "phrase": "트럼프 호르무즈 美 영토 주장에 허황된 망상",
+      "sentence": "도널드 트럼프 미국 대통령이 호르무즈 해협을 조만간 미국 영토로 선언하게 될 것이라고 주장한 데 대해 ...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260815036852504"
+      "link": "https://www.yna.co.kr/view/AKR20260815012951009"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "한화 노시환 머리 맞힌 삼성 양창섭",
-      "sentence": "프로야구 삼성 라이온즈 투수 양창섭이 한화 이글스 타자 노시환의 머리를 맞혀 퇴장당했다.양창섭은 15일 대구 삼성라이온즈파크에서 열린 한화와 2026 신한SOL…",
-      "articleCount": 248,
-      "link": "https://www.donga.com/news/Sports/article/all/20260815/134483440/1"
+      "phrase": "李대통령 프로야구의 한 시대 빛낸 故백인천",
+      "sentence": "이재명 대통령은 15일 \"한국 프로야구의 전설 고(故) 백인천 감독님의 별세 소식에 깊은 애도를 표한다\"고 밝...",
+      "articleCount": 227,
+      "link": "https://www.yna.co.kr/view/AKR20260815046100001"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
       "phrase": "챗GPT에 전여친 살해계획 털어논 美남성",
       "sentence": "인공지능(AI) 챗봇 챗GPT에 살해 계획을 털어놓은 미국 남성이 오픈AI의 신고로 덜미가 잡혔다.",
-      "articleCount": 207,
+      "articleCount": 188,
       "link": "https://www.yna.co.kr/view/AKR20260815022500091"
     },
     {
@@ -327,31 +329,31 @@
       "name": "산업·기업",
       "phrase": "2분기 당기순익 13억원",
       "sentence": "롯데손해보험[000400]은 올해 2분기 영업이익 31억원, 당기순이익 13억원을 기록했다고 14일 밝혔다.",
-      "articleCount": 142,
+      "articleCount": 139,
       "link": "https://www.yna.co.kr/view/AKR20260814155100002"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "국토장관 용산공원 전체 주택공급 검토",
-      "sentence": "김윤덕 국토교통부 장관이 용산 어린이정원뿐 아니라 용산공원 전체를 주택 공급에 활용하는 방안을 검토하고 있다고...",
-      "articleCount": 113,
-      "link": "https://www.yna.co.kr/view/AKR20260814118800003"
     },
     {
       "id": "education",
       "name": "교육",
       "phrase": "서강대 개인정보 18만건 유출",
       "sentence": "서강대 재학생과 졸업생, 교직원 등의 개인정보 약 18만건이 유출됐다.",
-      "articleCount": 112,
+      "articleCount": 107,
       "link": "https://www.yna.co.kr/view/AKR20260815029651004"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "국토장관 용산공원 전체 주택공급 검토",
+      "sentence": "김윤덕 국토교통부 장관이 용산 어린이정원뿐 아니라 용산공원 전체를 주택 공급에 활용하는 방안을 검토하고 있다고...",
+      "articleCount": 106,
+      "link": "https://www.yna.co.kr/view/AKR20260814118800003"
     },
     {
       "id": "stock",
       "name": "증시",
       "phrase": "상반기 순익 4244억원",
       "sentence": "SC제일은행이 올해 상반기 4244억원의 당기순이익을 거뒀다고 14일 밝혔다.",
-      "articleCount": 111,
+      "articleCount": 101,
       "link": "https://www.chosun.com/economy/stock-finance/2026/08/14/GVRDGZJXHE3DIMRUMI2TSZRWMM/"
     },
     {
@@ -359,7 +361,7 @@
       "name": "수출·관세",
       "phrase": "통상 사령탑 여한구 본부장 경질",
       "sentence": "여한구 산업통상부 통상교섭본부장이 15일 돌연 경질된 가운데 정부 고위관계자는 \"한미 관세 협상과는 무관하다\"...",
-      "articleCount": 104,
+      "articleCount": 101,
       "link": "https://www.yna.co.kr/view/AKR20260815043100001"
     },
     {
@@ -367,23 +369,15 @@
       "name": "반도체",
       "phrase": "삼성전자 소액주주 수 800만 육박",
       "sentence": "'국민주' 삼성전자 주식을 보유한 소액주주 수가 올해 상반기 800만명에 육박한 것으로 나타났다.",
-      "articleCount": 103,
+      "articleCount": 100,
       "link": "https://www.yna.co.kr/view/AKR20260814150700003"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "중국 SNS 사과문만 지웠다",
-      "sentence": "배우 하영이 증조부의 친일 논란과 관련해 사과문을 게재한 가운데, 중국 사회관계망서비스(SNS)에 올렸던 사과문만 돌연 삭제해 궁금증이 쏠리고 있다.",
-      "articleCount": 89,
-      "link": "https://www.mk.co.kr/news/society/12128684"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "프로야구 불멸의 4할 타자 백인천 전 감독",
       "sentence": "한국프로야구 불멸의 4할 타자인 백인천 전 감독이 15일 오전 6시 41분 충남 천안 단국대학교 병원에서 뇌출...",
-      "articleCount": 85,
+      "articleCount": 80,
       "link": "https://www.yna.co.kr/view/AKR20260814184452007"
     },
     {
@@ -391,63 +385,79 @@
       "name": "환경·기후",
       "phrase": "BTS 보이콧 에 결국 그래미 아카데미",
       "sentence": "2021년 열린 제63회 그래미 어워즈에서 방탄소년단이 ‘다이너마이트’ 무대를 선보이고 있다.…",
-      "articleCount": 79,
+      "articleCount": 70,
       "link": "https://www.khan.co.kr/article/202608151703001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
     },
     {
-      "id": "game",
-      "name": "게임",
-      "phrase": "17일부터 24강전 시작",
-      "sentence": "ASL 시즌22가 17일부터 24강전 일정에 돌입한다.",
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "제81주년 광복절 경축식",
+      "sentence": "울산시는 15일 울산문화예술회관 대공연장에서 제81주년 광복절 경축식을 개최했다.",
+      "articleCount": 70,
+      "link": "https://www.yna.co.kr/view/AKR20260814116300057"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "9회 역투하는 이정현",
+      "sentence": "2026.08.15 /cej@osen.co.kr…",
       "articleCount": 56,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003307"
+      "link": "https://www.chosun.com/sports/sports_photo/2026/08/15/MZRTGYZYMQYGCNBRMI3DKZRUG4/"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
-      "phrase": "휘발유 1천864원·경유 1천847원",
-      "sentence": "이번 주 전국 주유소 기름값이 13주 연속 하락하면서 휘발유·경유 모두 1천800원 중반대를 유지했다.",
+      "phrase": "李 오래된 전쟁 끝낼 남북 당사자 논의 시작하자",
+      "sentence": "이재명 대통령이 광복절인 15일 “친일 반민족 행위자가 부당 축적한 재산을 조사·환수해 역사에 대한 확실한 책임을 묻겠다”고 밝혔다.…",
       "articleCount": 55,
-      "link": "https://www.yna.co.kr/view/AKR20260814170600003"
+      "link": "https://www.donga.com/news/Politics/article/all/20260815/134482926/2"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "홈플러스 근로자에 실업급여·융자 등 총",
       "sentence": "정부는 14일 정부서울청사에서 강기룡 재정경제부 차관보 주재로 '홈플러스 관련 관계기관 전담반(TF) 회의'를...",
-      "articleCount": 48,
+      "articleCount": 50,
       "link": "https://www.yna.co.kr/view/AKR20260814074300002"
     },
     {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "추석 앞두고 불법스팸 차단 강화",
-      "sentence": "정부와 이동통신3사, 카카오 등이 9월 추석 연휴를 앞두고 불법스팸 차단을 강화한다.…",
-      "articleCount": 47,
-      "link": "https://www.donga.com/news/Economy/article/all/20260814/134479498/1"
+      "id": "game",
+      "name": "게임",
+      "phrase": "게임단체들 게임 제작비·e스포츠 대회 세액공제",
+      "sentence": "게임업계 주요 단체들이 2026년 세제개편안과 관련해 \"게임 제작 비용과 e스포츠 대회에 세제 혜택이 필요하다...",
+      "articleCount": 50,
+      "link": "https://www.yna.co.kr/view/AKR20260814093100017"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "美 7월 소매판매 9개월 만에 감소",
+      "sentence": "7월 미국의 소매판매가 9개월 만에 처음으로 전월 대비 감소했다.",
+      "articleCount": 39,
+      "link": "https://www.bloter.net/news/articleView.html?idxno=671066"
     },
     {
       "id": "crypto",
       "name": "가상자산",
       "phrase": "코인 한파 두나무",
       "sentence": "2분기 매출 1735억·영업익 235억 그쳐 가상자산 한파에 거래수수료 매출 직격탄 거래대금 급감에 고객예치금도 30%↓국내 1위 가상자산 거래소 업비트를 운영하…",
-      "articleCount": 43,
+      "articleCount": 39,
       "link": "https://www.mk.co.kr/news/stock/12128276"
     },
     {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "청년은 빌라에만 살라는 거냐 비판 쏟아지자",
-      "sentence": "청년층이 4억 원 이하 빌라 등 비(非)아파트 구입을 지원하는 ‘청년미래 보금자리론’을 놓고 “청년들은 아파트 말고 빌라에 살라는 거냐”는 비판이 쏟아지자 금융당…",
-      "articleCount": 35,
-      "link": "https://www.donga.com/news/Economy/article/all/20260814/134479545/1"
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "제주 서귀포시중산간에 호우주의보",
+      "sentence": "(제주=연합뉴스) 기상청은 15일 오후 3시 50분을 기해 제주 서귀포시중산간에 호우주의보를 발효한다고 밝혔다.",
+      "articleCount": 32,
+      "link": "https://www.yna.co.kr/view/AKR20260815038000527"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "촬영 표시등 적절성 쟁점",
       "sentence": "메타의 AI 스마트안경이 상대방 모르게 사진이나 영상을 촬영할 수 있다는 이유로 독일에서 형사 고발됐습니다.15일 주요 외신들에 따르면 독일 시민단체 헤이트에이드…",
-      "articleCount": 32,
+      "articleCount": 29,
       "link": "https://www.techm.kr/news/articleView.html?idxno=154370"
     },
     {
@@ -455,23 +465,15 @@
       "name": "노동",
       "phrase": "강릉 초등학교 작업장서 다친 50대 외국인",
       "sentence": "15일 오전 8시 45분께 강원 강릉시 주문진읍의 한 초등학교에서 배수로 작업을 하던 외국인 노동자가 가슴 부...",
-      "articleCount": 32,
+      "articleCount": 28,
       "link": "https://www.yna.co.kr/view/AKR20260815028500062"
-    },
-    {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "우주항공청 초대 홍보대사 우주 향한 韓 비전",
-      "sentence": "올해 데뷔 20주년을 맞은 K-팝 2세대 대표 한류 그룹 ‘빅뱅(BIGBANG)’이 우주항공청의 초대 홍보대사로 위촉됐다.14일 팀 소속사 YG엔터테인먼트에 따르…",
-      "articleCount": 30,
-      "link": "https://www.donga.com/news/Society/article/all/20260814/134477089/1"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "외환시장 24시간 개장 이후 일평균 거래량",
       "sentence": "지난 7월 6일 24시간 외환시장 개방 이후 일평균 현물환 거래량이 10% 이상 늘어난 것으로 나타났다.",
-      "articleCount": 21,
+      "articleCount": 20,
       "link": "https://www.yna.co.kr/view/AKR20260814072100002"
     }
   ],
@@ -571,19 +573,19 @@
   ],
   "lottery": {
     "lotto": {
-      "round": 1236,
-      "drawDate": "2026-08-08",
+      "round": 1237,
+      "drawDate": "2026-08-15",
       "numbers": [
-        12,
-        18,
-        21,
-        29,
+        10,
+        20,
+        23,
         34,
-        38
+        37,
+        40
       ],
-      "bonus": 10,
-      "firstPrizeWinners": 11,
-      "firstPrizeAmount": 2441919375,
+      "bonus": 36,
+      "firstPrizeWinners": 23,
+      "firstPrizeAmount": 1214932680,
       "link": "https://www.dhlottery.co.kr/lt645/result"
     },
     "pension": {
