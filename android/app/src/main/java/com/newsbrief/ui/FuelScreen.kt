@@ -201,6 +201,14 @@ fun FuelScreen(
             )
             TextButton(onClick = onRefresh, enabled = !loading) { Text("지금 갱신") }
         }
+        // 안 될 때 무엇이 안 되는지 바로 보이게 상태를 적어 둔다
+        Text(
+            "위치 ${if (prices.locatedNearby) "확인" else "실패"} · " +
+                "지역 ${prices.areaAverage.takeIf { it.isNotEmpty() }?.let { prices.areaName } ?: "미확인"} · " +
+                "주유소 ${prices.nearby.size}곳",
+            style = MaterialTheme.typography.labelSmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
         Text(
             "${fuel.label} 값이 싼 순서입니다. 주유소를 누르면 네이버 지도에서 주소로 찾습니다. " +
                 "값은 6시간마다 갱신됩니다.",

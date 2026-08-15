@@ -88,7 +88,10 @@ class FuelRepository(context: Context) {
 
         val cached = cached()
         val now = System.currentTimeMillis() / 1000
-        if (!force && cached.isUsable && now - cached.fetchedEpochSec < CACHE_SEC) return cached
+        // 지역이나 주변 주유소를 못 얻은 결과는 오래 붙들지 않는다.
+        // 위치가 나중에 잡히는 일이 잦아서, 그때 다시 시도해야 한다.
+        val window = if (cached.areaAverage.isEmpty() || cached.nearby.isEmpty()) RETRY_SEC else CACHE_SEC
+        if (!force && cached.isUsable && now - cached.fetchedEpochSec < window) return cached
 
         return runCatching { fetch(context, useLocation, now) }
             .onSuccess { fresh ->
@@ -276,10 +279,13 @@ class FuelRepository(context: Context) {
         const val KEY = "prices"
 
         /** 저장 구조를 바꿀 때마다 올린다. */
-        const val SCHEMA = 3
+        const val SCHEMA = 4
 
         /** 유가는 하루 한두 번 바뀐다. 6시간이면 충분하다. */
         const val CACHE_SEC = 6L * 60 * 60
+
+        /** 반쪽짜리 결과를 붙들고 있지 않도록 짧게 다시 시도한다. */
+        const val RETRY_SEC = 10L * 60
 
         /** 반경 구간마다 가져올 주유소 수 */
         const val PER_RADIUS = 5
