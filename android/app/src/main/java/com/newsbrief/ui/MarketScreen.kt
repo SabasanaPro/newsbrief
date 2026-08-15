@@ -41,6 +41,7 @@ import com.newsbrief.data.Quote
 import com.newsbrief.data.RateTable
 import com.newsbrief.data.currencyOf
 import com.newsbrief.data.formatAmount
+import kotlin.math.abs
 
 @Composable
 fun MarketScreen(
@@ -199,7 +200,31 @@ private fun RateRow(table: RateTable, code: String, onPick: () -> Unit) {
             style = MaterialTheme.typography.bodyLarge,
             fontWeight = FontWeight.SemiBold,
         )
+        table.changes[code]?.let { change ->
+            Spacer(Modifier.width(6.dp))
+            ChangeLabel(change)
+        }
     }
+}
+
+/** 전일 대비 등락률. 지수·코인과 같은 방식으로 색을 준다. */
+@Composable
+fun ChangeLabel(change: Double) {
+    val direction = when {
+        change > 0.005 -> 1
+        change < -0.005 -> -1
+        else -> 0
+    }
+    Text(
+        text = "${arrow(direction)} %.2f%%".format(abs(change)),
+        style = MaterialTheme.typography.labelMedium,
+        fontWeight = FontWeight.Medium,
+        color = when (direction) {
+            1 -> RiseColor
+            -1 -> FallColor
+            else -> MaterialTheme.colorScheme.onSurfaceVariant
+        },
+    )
 }
 
 @Composable

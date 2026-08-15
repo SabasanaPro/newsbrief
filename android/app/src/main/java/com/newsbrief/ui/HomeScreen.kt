@@ -203,11 +203,17 @@ private fun RateRows(rates: RateTable, onSearch: (String) -> Unit) {
                 "• $name${if (unit != 1) " ${unit}" else ""} ($code)",
                 style = MaterialTheme.typography.bodyMedium,
             )
-            Text(
-                "${krw.symbol}${formatMoney(value, 2)}",
-                style = MaterialTheme.typography.bodyMedium,
-                fontWeight = FontWeight.SemiBold,
-            )
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text(
+                    "${krw.symbol}${formatMoney(value, 2)}",
+                    style = MaterialTheme.typography.bodyMedium,
+                    fontWeight = FontWeight.SemiBold,
+                )
+                rates.changes[code]?.let { change ->
+                    Spacer(Modifier.width(6.dp))
+                    ChangeLabel(change)
+                }
+            }
         }
     }
 }
@@ -468,7 +474,8 @@ private fun directionColor(direction: Int) = when (direction) {
     else -> MaterialTheme.colorScheme.onSurfaceVariant
 }
 
-private fun arrow(direction: Int) = when (direction) {
+/** 시세·환율에서 함께 쓰는 등락 화살표. */
+fun arrow(direction: Int) = when (direction) {
     1 -> "▲"
     -1 -> "▼"
     else -> "–"
