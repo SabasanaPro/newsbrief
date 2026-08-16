@@ -1,42 +1,45 @@
 {
-  "generatedAt": "2026-08-16T08:02:06+09:00",
+  "generatedAt": "2026-08-16T20:38:18+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "정부, 日야스쿠니 공물·참배 \"개탄\"…日관계자 초치해 항의",
-          "summary": "정부가 15일 일본 정계의 야스쿠니 신사 공물 봉납과 참배를 비판했다.",
+          "title": "김민석, 당원 최다 서울·경기 당원 투표서 승리…정청래에 0.38%포인트 앞서",
+          "summary": "권도현 기자더불어민주당 당대표 후보인 김민석 의원이 16일 8·17 전당대회 서울·경기(수도권) 순회경선 권리당원 투표에서 정청래·송영길 의원을 누르고 연승했다.···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608161825001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-08-16T09:25:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "軍, 동부전선 MDL 침범 북한군에 경고사격…올해 들어 첫 사례",
+          "summary": "최근 올해 들어 처음으로 북한군이 군사분계선(MDL)을 침범해 우리 군이 경고사격을 실시한 것으로 확인됐다.",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260815036852504",
-          "publishedAt": "2026-08-15T08:13:00+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20260815042700504",
+          "publishedAt": "2026-08-15T22:00:03+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "경향신문",
+            "동아일보",
+            "서울신문"
+          ]
+        },
+        {
+          "title": "김태호 \"李대통령 '연임 안한다' 밝히면 野 개헌논의 동참해야\"",
+          "summary": "국민의힘 김태호 의원은 16일 \"이재명 대통령이 연임 불추진을 명확히 밝히면, 야당도 개헌 논의에 적극...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260816030900001",
+          "publishedAt": "2026-08-16T07:07:32+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "동아일보"
-          ]
-        },
-        {
-          "title": "최대 격전지 호남···송영길 “호남의 아들” 정청래 “사위” 김민석 “제 영혼”",
-          "summary": "연합뉴스김 후···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608151642001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-08-15T07:42:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "연합뉴스",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "이 대통령 \"전쟁 끝낼 당사자들 논의 시작하자\"",
-          "summary": "이재명 대통령이 어제 8·15 경축사를 통해 \"오래된 전쟁을 끝내기 위한 당사자들 간의 논의를 시작하자\"고 제안했습니다.…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707240",
-          "publishedAt": "2026-08-15T22:10:00+00:00",
-          "sourceCount": 2,
-          "otherSources": [
             "한겨레"
           ]
         }
@@ -47,33 +50,39 @@
       "name": "경제",
       "items": [
         {
-          "title": "용산구 “용산공원 주택공급 검토 강력 반대”",
-          "summary": "서울시에 이어 용산구도 정부가 용산공원을 주택 공급 후보지로 검토하는 데 반대한다고 밝혔다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/real_estate/2026/08/15/GYZTENRVGY2DQZJYHFQTGYTBGU/",
-          "publishedAt": "2026-08-15T07:32:47+00:00",
-          "sourceCount": 2,
+          "title": "암 환자 근육 지키는 장내 미생물…‘암 악액질’ 치료 가능성",
+          "summary": "암 환자의 체중과 근육이 급격히 줄어드는 ‘암 악액질’을 장내 미생물을 조절해 완화할 수 있는 가능성이 확인됐다.암 악액질은 단순히 음식을 적게 먹어 살이 빠지는 것과 다르다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/It/article/all/20260816/134485096/1",
+          "publishedAt": "2026-08-16T06:44:11+00:00",
+          "sourceCount": 3,
           "otherSources": [
+            "SBS",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "청년 일자리 19만개 사라졌다…절반은 'AI 고노출' 업종",
+          "summary": "지난달 감소한 청년층 취업자의 절반 이상이 정보통신업과 전문·과학 및 기술서비스업 등 이른바 '인공지능(AI) 고노출' 업종에서 나온 것으로 나타났다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026081611563233203",
+          "publishedAt": "2026-08-16T02:59:13+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "경향신문",
             "연합뉴스"
           ]
         },
         {
-          "title": "여한구 통상교섭본부장 직권면직…산업부 “임면권자 정무적 판단”",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1273030.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "상반기 평균급여 하닉 1억4천, 작년 대비 23%↑…삼전 ‘개미’ 800만명",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/economy/marketing/1273015.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "LG ‘몸체’+엔비디아 ‘두뇌’…이족보행 휴머노이드 로봇 내년 초 공개",
+          "summary": "LG 제공LG가 개발한 몸체에 엔비디아의 두뇌를 가진 휴머노이드 로봇이 내년 1분기 공개된다. 두 회사의 ‘피지컬 AI’ 동맹이···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608162031025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-08-16T11:31:02+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "한겨레"
+          ]
         }
       ]
     },
@@ -82,40 +91,41 @@
       "name": "사회",
       "items": [
         {
-          "title": "엄마가 가출 막자…펄펄 끓는 물 부은 10대 딸",
-          "summary": "엄마가 가출을 막으며 휴대전화를 빼앗자, 엄마에게 끓는 물을 부어 다치게 한 10대 딸이 경찰에 붙잡혔다.경기 남양주남부경찰서는 15일 특수존속상해 혐의로 이 딸을 현행범으로 체포했다고 밝혔다.딸은 이날 오전 0시 50분경 남양주시의 자택에서 전기주전자에 담긴 끓는 물을 모친에게 뿌려 다치게 한 혐의를 받고 있다.당시 그는 엄마와 언쟁을 벌이다 “집을 나가겠다”며 가출을 시도했고, 엄마가 이를 막아서자 끓는 물을 뿌린 것으로 조사됐다.이웃의 신고를 받고 출동한 경찰은 딸을 현행범으로 체포했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Society/article/all/20260815/134483397/1",
-          "publishedAt": "2026-08-15T08:49:00+00:00",
+          "title": "친일재산조사위 16년만에 가동… “최소 325억 환수”",
+          "summary": "친일반민족행위자 재산 환수를 위한 친일재산조사위원회(이하 조사위)가 올해 연말부터 재가동된다. 2010년 1기 조사위가 해산한 이후 16년 만이다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003485",
+          "publishedAt": "2026-08-16T10:01:02+00:00",
           "sourceCount": 4,
           "otherSources": [
             "노컷뉴스",
             "매일경제",
-            "연합뉴스"
+            "한겨레"
           ]
         },
         {
-          "title": "밤에 태안 갯벌 해루질 나간 50대…10시간 만에 숨진 채 발견",
-          "summary": "충남 태안의 한 갯벌에서 야간 해루질(갯벌에서 조개 등 수산물을 채취하는 것)을 하다 실종된 50대가 10시간 만에 숨진 채 발견됐다. 15일 태안해양경찰서에 따르면 이날 오전 1..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12128752",
-          "publishedAt": "2026-08-15T07:12:36+00:00",
+          "title": "가습기살균제피해단체, '빈소 설치' 두고 서울시와 대치",
+          "summary": "가습기 살균제 참사 피해자 권리 회복에 앞장서 온 고(故) 서영철 전국가습기살균제참사피해자연대 대표의 빈소 설치를 두고 단체와 서울시의 대치 국면이 이어지고 있다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6563622",
+          "publishedAt": "2026-08-16T20:04:06+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "경향신문",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "전남 해남 서북서쪽 20㎞서 규모 2.4 지진…“피해 없을 것”",
+          "summary": "16일 오후 7시34분11초께 전남광주 해남군 서북서쪽 20㎞ 지역에서 규모 2.4 지진이 발생했다.기상청에 따르면 지진 발생 위치는 북위 34.66도, 동경 126.41도다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Society/article/all/20260816/134486162/1",
+          "publishedAt": "2026-08-16T11:10:33+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
             "연합뉴스"
-          ]
-        },
-        {
-          "title": "수원지검 집단퇴정 징계 청구에 공봉숙 검사 \"번복된 이유 설명해야\"",
-          "summary": "'수원지검 집단 퇴정 사건' 관련 검사들에 대해 법무부가 징계를 청구하자 현직 검사가 \"징계 의결 근거를 밝혀달라\"…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008706949",
-          "publishedAt": "2026-08-15T09:35:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "매일경제",
-            "조선일보"
           ]
         }
       ]
@@ -125,40 +135,41 @@
       "name": "국제",
       "items": [
         {
-          "title": "'7.7 강진' 인니 플로레스섬서 최소 20명 사망·6명 부상",
-          "summary": "인도네시아 동부 플로레스섬 인근 해안에서 발생한 규모 7.7 강진으로 최소 20명이 숨지고 6명이 다쳤다...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260815026451104",
-          "publishedAt": "2026-08-15T05:37:11+00:00",
+          "title": "“패잔병 1만여명 살해”…난징대학살 만행 일본군 편지 공개됐다",
+          "summary": "중국이 일본의 패전 81주년을 맞아 난징대학살 관련 기록물을 추가 공개했다. 16일 관영 신화통신에 따르면 난징대학살 희생동포 기념관은 중국을 침략한 일본군 병사의 친필 편지 등을..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/politics/12129009",
+          "publishedAt": "2026-08-16T07:56:49+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "경향신문",
-            "조선일보"
+            "동아일보",
+            "연합뉴스"
           ]
         },
         {
-          "title": "이스라엘 공격에 레바논서 11명 사망…\"6월 휴전 이후 최다\"",
-          "summary": "레바논 남부 지역에서 이스라엘의 공격으로 9명이 사망했다고 AFP통신 등이 15일(현지시간) 레바논 현지 매...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260815040052109",
-          "publishedAt": "2026-08-15T16:37:49+00:00",
-          "sourceCount": 3,
+          "title": "트럼프 \"호르무즈 곧 우리 영토\" … 이란 \"패배 안 받아들이고 망상\"",
+          "summary": "미국과 이란이 호르무즈 해협을 둘러싼 통제권이 서로에게 있다고 주장하며 공방을 벌이면서 전쟁 불확실성이 지속되고 있다. 미국이 대규모 군사작전 재개보다는 경제적 제재를 통한 압박으..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12129081",
+          "publishedAt": "2026-08-16T08:52:50+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "SBS",
+            "동아일보",
+            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "‘케임브리지대 최연소 흑인 교수’ 표절 의혹 속 사망",
-          "summary": "자폐와 난독증을 딛고 흑인 최연소로 영국 케임브리지대 교수로 임용된 제이슨 아데이(41) 전 교육사회학 교수가 표절 논란 속에 사임한 뒤, 자택에서 숨진 채 발견됐다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/08/15/MM3TMNBTMRRDAZLBGBRTOYJWMU/",
-          "publishedAt": "2026-08-15T13:50:19+00:00",
+          "title": "이스라엘 공격에 레바논서 11명 사망…\"6월 휴전 이후 최다\"",
+          "summary": "이스라엘군이 현지시간 15일 새벽 레바논 남부지역을 공격해 최소 11명이 사망한 것으로 파악됐습니다.외신에 따르면, 이스라엘군의 이번 공습으로 …",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707251",
+          "publishedAt": "2026-08-15T22:11:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "매일경제",
-            "연합뉴스"
+            "경향신문",
+            "한겨레"
           ]
         }
       ]
@@ -167,6 +178,15 @@
       "id": "tech",
       "name": "IT·과학",
       "items": [
+        {
+          "title": "최강 ‘엘니뇨’ 가능성 ‘쑥’…올해 가장 더울 확률 69%로 치솟아",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/science/science_general/1273132.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
+        },
         {
           "title": "‘고래사냥’ 나선 고래, 서핑하는 돌고래…경이로운 바다동물의 세계",
           "summary": "",
@@ -184,15 +204,6 @@
           "publishedAt": null,
           "sourceCount": 1,
           "otherSources": []
-        },
-        {
-          "title": "한국산 초소형군집위성 양산기 개발 완료…올해 누리호 타고 우주로",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/science_general/1272707.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
         }
       ]
     },
@@ -201,31 +212,31 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "3400만달러 비트코인 ETF, 아마존 지분 넘었다",
-          "summary": "에델만 파이낸셜 엔진스(Edelman Financial Engines)가 6월 30일 기준 비트코인(BTC) 현물 ETF 3400만 달러(약 481억원)어치를 보유한 것으로 나타났다.…",
+          "title": "체인링크 98만4600개, 코인베이스로 이동",
+          "summary": "체인링크(LINK)를 대량 보유한 고래 지갑이 코인베이스($COIN)로 98만4600 LINK를 입금했다. 평가액은 약 923만 달러(약 131억원)다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/391504",
-          "publishedAt": "2026-08-15T20:12:29+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/391641",
+          "publishedAt": "2026-08-16T08:40:49+00:00",
           "sourceCount": 2,
           "otherSources": [
             "블록미디어"
           ]
         },
         {
-          "title": "Z세대 ETF 비중 25%, 바이낸스 주식거래서 확대",
-          "summary": "바이낸스의 Z세대 주식 거래에서 ETF 비중이 8월 초 25.0%로 올라섰다. 6월 14.6%에서 두 달 사이 10.4%포인트 높아진 수치다.…",
+          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 420만1385달러 청산",
+          "summary": "지난 24시간 암호화폐 시장에서 420만1385달러(약 59억4437만원) 규모의 레버리지 포지션이 청산됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/market/391532",
-          "publishedAt": "2026-08-15T22:37:48+00:00",
+          "link": "https://www.tokenpost.kr/news/briefing/391669",
+          "publishedAt": "2026-08-16T11:04:17+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "튜더, 비트코인 ETF 보유 18.9% 늘렸다",
-          "summary": "폴 튜더 존스(Paul Tudor Jones)가 설립한 튜더 인베스트먼트(Tudor Investment Corporation)가 2분기 말 블랙록($BLK) 비트코인(BTC) 현물 상장지수펀드(ETF) 보유량을 전분기보다 18.9% 늘린 것으로 나타났다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/391530",
-          "publishedAt": "2026-08-15T22:27:36+00:00",
+          "title": "월가 고평가 경고음, 대공황 · 닷컴버블 수준…비트코인도 긴장",
+          "summary": "[블록미디어 이정화 기자] 미국 증시의 밸류에이션이 1929년 대공황 직전과 2000년 닷컴버블 당시 수준에 접근했다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1128272?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-08-16T11:17:43+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -236,37 +247,40 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "광복절 대참사…한국 농구, 일본에 20점 차 대패, 역대 최다 점수 차 ‘굴욕’",
-          "summary": "[OSEN=한용섭 기자] 광복절에 한일전 ‘대참사’였다. 한국 농구 대표팀이 일본에 역대 최다 점수 차 패배 굴욕을 당했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/basketball/2026/08/16/HAZGEYRXMU4DAMTGMU2DKZBSMQ/",
-          "publishedAt": "2026-08-15T15:10:00+00:00",
+          "title": "홍상수 '눈 둘 데가 없네' 로카르노영화제 감독상·연기상",
+          "summary": "스위스에서 열린 79회 로카르노 영화제에서 홍상수 감독이 영화 '눈 둘 데가 없네'로 감독상과 에큐메니컬 심사위원상을 받았습니다.…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707556",
+          "publishedAt": "2026-08-16T06:38:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "경향신문",
+            "동아일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "여자배구, 홍콩 3-0 완파…동아시아선수권 3위",
+          "summary": "차상현 감독이 이끄는 한국 여자배구 대표팀(세계랭킹 27위)이 2026 동아시아여자배구선수권대회를 3위로 마쳤...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260816040100007",
+          "publishedAt": "2026-08-16T10:04:04+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "동아일보",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "U17 여자배구, 세계선수권 5·6위 결정전 진출…태국 3-0 완파",
+          "summary": "17세 이하(U17) 여자 배구 대표팀이 국제배구연맹(FIVB) 세계선수권대회 5·6위 결정전에 진출했다.이승여 감독이 이끄는 U17 여자 배구대표팀은 16일(이하 한국시간) 칠레 산티아고 국립 스타디움 파크 코트에서 열린 태국과 세계선수권대회 5-8위 결정전에서 3-0(25-19 25-15 25-11) 완승을 거뒀다.한국은 17일 이탈리아와 5위 결정전을 치른다.한국은 대회 조별리그에서 5전 전승을 거두고 16강전에서 필리핀까지 꺾으며 8강까지 진출하는 등 승승장구했다.하지만 한국은 8강전에서 튀르키예에 패하며 순위 결정전으로 밀렸다.목표로 뒀던 4강 진출이 무산됐지만 한국은 높은 집중력을 발휘해 태국을 완파했다.특히 ‘제2의 김연경’ 손서연(선명여고)이 19득점으로 팀 공격을 이끌었고 장수인(경남여고)도 14득점으로 힘을 보탰다.한국은 1세트 초반부터 강한 서브와 다양한 공격으로 태국 수비를 흔들며 25-19로 손쉽게 기선제압에 성공했다.한국은 2세트에서만 8득점을",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20260816/134484136/1",
+          "publishedAt": "2026-08-16T02:25:03+00:00",
           "sourceCount": 3,
           "otherSources": [
             "연합뉴스",
             "한겨레"
-          ]
-        },
-        {
-          "title": "U-17 여자배구, 세계선수권 5-6위 결정전 진출…태국 3-0 완파",
-          "summary": "17세 이하(U-17) 여자 배구대표팀이 국제배구연맹(FIVB) 세계선수권대회 5-6위 순위 결정전에 진출했다...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260816008200007",
-          "publishedAt": "2026-08-15T22:33:11+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "한겨레"
-          ]
-        },
-        {
-          "title": "‘송민규 2골 1도움’ K리그1 서울, 대전에 4-2 짜릿한 역전승",
-          "summary": "프로축구 K리그1 선두 FC서울이 안방에서 대전하나시티즌에 짜릿한 대역전승을 거뒀다.서울은 15일 서울월드컵경기장에서 열린 대전과의 하나은행 K리그1 2026 23라운드 홈 경기에서 4-2로 이겼다.이로써 서울은 승점 47(14승 5무 4패)이 되면서 선두 자리를 굳혔다.김기동 감독이 이끄는 서울은 2026 국제축구연맹(FIFA) 북중미 월드컵 휴식기 전후로 이어오던 6경기 무패(5승 1무)가 끊긴 뒤 3경기 무승(2무 1패)에 빠지며 주춤했다.이날 경기에선 선제 실점과 자책골까지 내줬지만 경기 막판 짜릿한 역전을 연출하며 팬들을 열광에 빠뜨렸다.승리의 주인공은 1-2로 끌려가던 후반 24분 교체 투입된 송민규였다.송민규는 후반 36분 동점골과 후반 38분 역전골을 넣으면서 그라운드를 밟은 지 14분 만에 경기를 뒤집었고, 후반 48분 정승원 쐐기골을 도와 2골 1도움 맹활약을 펼쳤다.반면 승점 수확에 실패한 대전은 승점 26(6승 8무 9패)에 그쳤다.황선홍 감독이",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260816/134483499/1",
-          "publishedAt": "2026-08-15T15:00:51+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "연합뉴스"
           ]
         }
       ]
@@ -276,17 +290,17 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "李대통령 전쟁끝낼 당사자간 논의 시작하자",
-      "sentence": "이재명 대통령은 광복절인 15일 \"전쟁을 종식하고 한반도의 불안정한 정전 체제를 평화 체제로 바꾸는 여...",
+      "phrase": "친일재산조사위 16년만에 가동",
+      "sentence": "친일반민족행위자 재산 환수를 위한 친일재산조사위원회(이하 조사위)가 올해 연말부터 재가동된다.",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260815025400001"
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000003485"
     },
     {
       "id": "world",
       "name": "국제정세",
       "phrase": "트럼프 호르무즈 美 영토 주장에 허황된 망상",
       "sentence": "도널드 트럼프 미국 대통령이 호르무즈 해협을 조만간 미국 영토로 선언하게 될 것이라고 주장한 데 대해 ...",
-      "articleCount": 216,
+      "articleCount": 250,
       "link": "https://www.yna.co.kr/view/AKR20260815012951009"
     },
     {
@@ -294,167 +308,167 @@
       "name": "스포츠",
       "phrase": "李대통령 프로야구의 한 시대 빛낸 故백인천",
       "sentence": "이재명 대통령은 15일 \"한국 프로야구의 전설 고(故) 백인천 감독님의 별세 소식에 깊은 애도를 표한다\"고 밝...",
-      "articleCount": 190,
+      "articleCount": 229,
       "link": "https://www.yna.co.kr/view/AKR20260815046100001"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "챗GPT에 전여친 살해계획 털어논 美남성",
-      "sentence": "인공지능(AI) 챗봇 챗GPT에 살해 계획을 털어놓은 미국 남성이 오픈AI의 신고로 덜미가 잡혔다.",
-      "articleCount": 108,
-      "link": "https://www.yna.co.kr/view/AKR20260815022500091"
+      "phrase": "브라질 파라나 새 공장 가동",
+      "sentence": "LG전자가 중남미 최대 내수 시장인 브라질에 신규 가전 생산 기지를 가동한다.",
+      "articleCount": 122,
+      "link": "https://www.chosun.com/economy/industry-company/2026/08/16/MM2DQMZVHEYDIOBWG5SDGNLCGM/"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "S&P500 0.2%↓",
-      "sentence": "14일(현지시간) 미국 뉴욕증시는 부진한 소비 지표로 경기 둔화 우려가 부각되면서 소폭 하락했다.",
-      "articleCount": 79,
-      "link": "https://www.yna.co.kr/view/AKR20260815005551072"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "무음극 배터리 수명 저하 막는 신기술 나왔다",
-      "sentence": "무음극 배터리 수명 저하 막는 신기술 나왔다… 한양대–삼성SDI 공동개발",
-      "articleCount": 79,
-      "link": "https://www.hani.co.kr/arti/economy/biznews/1272858.html"
+      "phrase": "동전주·시총미달 줄줄이 관리종목행",
+      "sentence": "부실기업 퇴출을 위한 상장폐지 요건 강화조처가 시행된 이후 주가 1천원 미만 '동전주'나 '시가총액 기준 미달...",
+      "articleCount": 78,
+      "link": "https://www.yna.co.kr/view/AKR20260815026900008"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "서강대 개인정보 18만건 유출",
-      "sentence": "서강대 재학생과 졸업생, 교직원 등의 개인정보 약 18만건이 유출됐다.",
-      "articleCount": 79,
-      "link": "https://www.yna.co.kr/view/AKR20260815029651004"
+      "phrase": "난징대학살 만행 일본군 편지 공개",
+      "sentence": "중국이 일본의 패전 81주년을 맞아 난징대학살 관련 기록물을 추가 공개했다.",
+      "articleCount": 76,
+      "link": "https://www.yna.co.kr/view/AKR20260816033400009"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "서울시 이어 용산구도 용산공원 주택공급 검토",
-      "sentence": "서울시에 이어 용산구도 정부가 용산공원을 주택 공급 후보지로 검토하는 데 반대 입장을 표명했다.",
-      "articleCount": 69,
-      "link": "https://www.yna.co.kr/view/AKR20260815034500004"
+      "phrase": "인천 아파트서 6살 아이 추락해 사망",
+      "sentence": "6살 아이가 아파트에서 추락해 숨져 경찰이 수사에 나섰다.",
+      "articleCount": 73,
+      "link": "https://www.yna.co.kr/view/AKR20260816009100065"
     },
     {
       "id": "trade",
       "name": "수출·관세",
       "phrase": "통상 사령탑 여한구 본부장 경질",
       "sentence": "여한구 산업통상부 통상교섭본부장이 15일 돌연 경질된 가운데 정부 고위관계자는 \"한미 관세 협상과는 무관하다\"...",
-      "articleCount": 65,
+      "articleCount": 69,
       "link": "https://www.yna.co.kr/view/AKR20260815043100001"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "프로야구 불멸의 4할 타자 백인천 전 감독",
-      "sentence": "한국프로야구 불멸의 4할 타자인 백인천 전 감독이 15일 오전 6시 41분 충남 천안 단국대학교 병원에서 뇌출...",
-      "articleCount": 60,
-      "link": "https://www.yna.co.kr/view/AKR20260814184452007"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "30조원어치 스페이스X 지분 보유",
-      "sentence": "인공지능(AI) 반도체 선두 주자 엔비디아가 일론 머스크의 우주기업 스페이스X의 지분을 대량 보유한 ...",
-      "articleCount": 54,
-      "link": "https://www.yna.co.kr/view/AKR20260816001100091"
+      "phrase": "삼성전자보다 더 받는다",
+      "sentence": "주요 시중은행에서 올해 상반기(1~6월) 직원이 받은 평균 급여가 지난해 상반기보다 13%가량 늘어난 것으로 나타났다.…",
+      "articleCount": 67,
+      "link": "https://www.donga.com/news/Economy/article/all/20260816/134484982/1"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "암 환자 생명 위협하는 악액질",
+      "sentence": "암 환자의 체중과 근육이 급격히 감소하는 합병증인 '암 악액질'을 천연물과 장내 미생물을 통해 개선하는 기술이...",
+      "articleCount": 63,
+      "link": "https://www.yna.co.kr/view/AKR20260814068700017"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "집중호우에 남부 곳곳 침수 피해",
+      "sentence": "가뭄을 달래줄 단비지만 반대로 비 피해를 입은 지역도 있습니다.",
+      "articleCount": 62,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707668"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "홍상수 눈 둘 데가 없네 로카르노영화제 감독상",
       "sentence": "홍상수 감독과 배우 김민희가 신작 '눈 둘 데가 없네'로 스위스에서 열린 제79회 로카르노영화제에서 나란히...",
-      "articleCount": 54,
+      "articleCount": 59,
       "link": "https://www.yna.co.kr/view/AKR20260816000800082"
     },
     {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "李 오래된 전쟁 끝낼 남북 당사자 논의 시작하자",
-      "sentence": "이재명 대통령이 광복절인 15일 “친일 반민족 행위자가 부당 축적한 재산을 조사·환수해 역사에 대한 확실한 책임을 묻겠다”고 밝혔다.…",
-      "articleCount": 47,
-      "link": "https://www.donga.com/news/Politics/article/all/20260815/134482926/2"
-    },
-    {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "BTS 보이콧 에 결국 그래미 아카데미",
-      "sentence": "2021년 열린 제63회 그래미 어워즈에서 방탄소년단이 ‘다이너마이트’ 무대를 선보이고 있다.…",
-      "articleCount": 46,
-      "link": "https://www.khan.co.kr/article/202608151703001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "창사 첫 분기 흑자 전환",
+      "sentence": "인공지능(AI) 챗봇 클로드 개발사 앤트로픽이 2분기에 창사 이래 처음으로 영업이익 흑자를 기록했다.",
+      "articleCount": 57,
+      "link": "https://www.yna.co.kr/view/AKR20260816009200091"
     },
     {
       "id": "science",
       "name": "우주·과학",
-      "phrase": "서귀포시동부·제주시동부에 호우주의보",
-      "sentence": "(제주=연합뉴스) 기상청은 16일 오전 2시 40분을 기해 서귀포시동부·제주시동부에 호우주의보를 발효한다고 밝혔다.",
-      "articleCount": 41,
-      "link": "https://www.yna.co.kr/view/AKR20260816001300527"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "일본 열도 발칵 뒤집은 넥슨",
-      "sentence": "“배당 19% 이게 가능해?”... 일본 열도 발칵 뒤집은 넥슨",
-      "articleCount": 37,
-      "link": "https://www.chosun.com/economy/economy_general/2026/08/16/KWFZHWOIBVEKLBLVSUBID6NDQY/"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "3400만달러 비트코인 ETF",
-      "sentence": "에델만 파이낸셜 엔진스(Edelman Financial Engines)가 6월 30일 기준 비트코인(BTC) 현물 ETF 3400만 달러(약 481억원)어치를 보…",
-      "articleCount": 36,
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/391504"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "물가 자극 요인",
-      "sentence": "기업 호실적 따른 통화량 급증 이어져...물가 자극 요인",
-      "articleCount": 31,
-      "link": "https://www.hani.co.kr/arti/economy/economy_general/1272935.html"
+      "phrase": "합천남부 등 경남 5곳 호우주의보 해제",
+      "sentence": "(창원=연합뉴스) 기상청은 경남 합천남부·산청동남부·산청서남부·산청북부·하동북부에 내렸던 호우주의보를 16일 오후 4시를 기해 해제한다고 밝혔다...",
+      "articleCount": 57,
+      "link": "https://www.yna.co.kr/view/AKR20260816031800527"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "선두 KT 3-0 꺾어 8연승 저지",
-      "sentence": "구창모 7이닝 무실점…NC, 선두 KT 3-0 꺾어 8연승 저지",
+      "phrase": "개인정보 걱정이 통신사 충성도 흔들었다",
+      "sentence": "지난해 발생한 이동통신사 개인정보 유출 사고 이후 평소 온라인 프라이버시 침해를 걱정하던 사람일수록 실제로 기...",
+      "articleCount": 52,
+      "link": "https://www.yna.co.kr/view/AKR20260814100300017"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "대통령님 감사합니다 해놓고 현수막엔 이제명",
+      "sentence": "전남 무안군의회가 이재명 대통령에게 감사의 뜻을 전하기 위해 내건 현수막에 대통령 이름을 ‘이제명’으로 잘못 표기했다가 철거하는 일이 벌어졌다.…",
+      "articleCount": 47,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260816500057"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "공정수당에도 임금격차 해소 못할 것",
+      "sentence": "경기 성남시의 중소 반도체 설계기업 기간제 노동자로 인공지능(AI) 설계 업무를 맡은 20대 김모씨는 최근 하루 연차를 신청했다가 반려당했다.…",
+      "articleCount": 47,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260816500042"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "코인베이스로 이동",
+      "sentence": "체인링크(LINK)를 대량 보유한 고래 지갑이 코인베이스($COIN)로 98만4600 LINK를 입금했다.",
+      "articleCount": 41,
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/391641"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "78조원에 EA를 삼킨 사우디",
+      "sentence": "역대 최대 차입매수로 게임판에 올라선 오일머니…한국 게임산업은?지난 8월 5일 미국 굴지의 게임회사 일렉트로닉아츠(EA)가 나스닥에서 사라졌다.",
+      "articleCount": 32,
+      "link": "https://www.mk.co.kr/news/world/12129146"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비",
+      "phrase": "LG백화점 초대 대표이사 지낸 유수남씨 별세",
+      "sentence": "럭키금성그룹(현 LG그룹)이 유통사업에 진출할 때 LG백화점 초대 대표이사를 지낸 유수남(柳秀男)씨가 지난 1...",
       "articleCount": 27,
-      "link": "https://www.hani.co.kr/arti/sports/baseball/1272651.html"
+      "link": "https://www.yna.co.kr/view/AKR20260816017400704"
     },
     {
       "id": "rate",
       "name": "금리",
       "phrase": "30년물 국채 금리 5.22%",
       "sentence": "‘국가부채 40조 달러’ 미국…30년물 국채 금리 5.22%, 25년 만에 최고",
-      "articleCount": 21,
-      "link": "https://www.hani.co.kr/arti/international/international_general/1272912.html"
-    },
-    {
-      "id": "retail",
-      "name": "유통·소비",
-      "phrase": "B2B 기업이 굿즈 에 주목하는 이유",
-      "sentence": "기업간거래(B2B)를 영위하는 일부 기업들이 소비자와의 접점을 넓히기 위해 최근 ‘굿즈(goods·상품) 사업’에 뛰어들고 있다.B2B 기업은 전통적으로 소비자가…",
       "articleCount": 20,
-      "link": "https://www.donga.com/news/Economy/article/all/20260816/134483508/1"
+      "link": "https://www.hani.co.kr/arti/international/international_general/1272912.html"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "강릉 초등학교 작업장서 다친 50대 외국인",
-      "sentence": "15일 오전 8시 45분께 강원 강릉시 주문진읍의 한 초등학교에서 배수로 작업을 하던 외국인 노동자가 가슴 부...",
-      "articleCount": 18,
-      "link": "https://www.yna.co.kr/view/AKR20260815028500062"
+      "phrase": "직장인 80% 기간제 차별 존재",
+      "sentence": "직장인 10명 중 8명은 한국 사회에서 기간제와 정규직 노동자 간 차별이 존재하는 것으로 인식한다는 조사 결과...",
+      "articleCount": 20,
+      "link": "https://www.yna.co.kr/view/AKR20260816016200004"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "고유가·고환율에 최대 9%대 올린다",
       "sentence": "빵·라면·간편식 가격 ‘뜀박질’…고유가·고환율에 최대 9%대 올린다",
-      "articleCount": 12,
+      "articleCount": 9,
       "link": "https://www.hani.co.kr/arti/economy/economy_general/1272913.html"
     }
   ],
