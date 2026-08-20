@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T20:54:31+09:00",
+  "generatedAt": "2026-08-20T21:02:41+09:00",
   "categories": [
     {
       "id": "politics",
@@ -195,15 +195,15 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "네이버 노조, 노란봉투법 근거로 통합교섭 요구",
-          "summary": "계열사 한 곳만의 문제가 아닌 그룹 전체의 문제로 받아들인 네이버 노동조합(노조)이 전 계열사의 통합교섭을 주장하며 다음 달 단체 행동을 예고하고 있어서다.법인은 나뉘어 있어도 주요 근로조건과 경영 의사결정에 네이버 본사가 영향력을 행사하는 만큼 계열사별로 반복해온 개별교섭을 끝내고 네이버가 직접 교섭에 나서야 한다는 주장이다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=671343",
-          "publishedAt": "2026-08-20T18:09:09+00:00",
+          "title": "네이버 노조, '통합교섭' 공식 요구…IT 노사관계 변수로 부상",
+          "summary": "네이버 노동조합(노조)이 8년 동안 이어진 개별교섭 구조로 인한 계열사간 처우 격차 확대를 지적하며 네이버 본사와 전 계열사가 참여하는 '통합교섭'을 사측에 공식 요구했다.…",
+          "source": "전자신문",
+          "link": "https://www.etnews.com/20260820000298",
+          "publishedAt": "2026-08-20T06:27:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
-            "전자신문"
+            "블로터",
+            "연합뉴스"
           ]
         },
         {
@@ -259,11 +259,11 @@
           ]
         },
         {
-          "title": "AI가 가상자산 시세조종 잡는다…금감원, 감시체계 구축",
-          "summary": "금융감독원이 인공지능(AI)을 활용해 가상자산 시세조종과 가장·통정매매 등 불공정거래를 실시간으로 탐지하는 시장감시 체제를 구축했다.…",
-          "source": "노컷뉴스",
-          "link": "https://www.nocutnews.co.kr/news/6565294",
-          "publishedAt": "2026-08-20T12:00:00+00:00",
+          "title": "거래 줄어 실적 주춤…수수료 다변화 과제 |두나무①",
+          "summary": "가상자산 거래가 감소하면서 국내 거래소들의 보릿고개가 시작된 가운데 주요 거래소의 실적과 재무구조에 어떤 변화가 나타나고 있는지 살펴봅니다.가상자산 거래 위축이 이어지면서 가상자산거래소 업비트를 운영하는 두나무도 상반기 한파를 피하지 못했다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=671402",
+          "publishedAt": "2026-08-20T17:24:08+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -347,7 +347,7 @@
       "name": "부동산",
       "phrase": "경산 아파트 방화 피의자도 숨져",
       "sentence": "경북 경산시 한 아파트 관리사무소에 불을 질러 주민 등을 숨지게 하거나 다치게 한 류모(71) 씨가 사건 발생...",
-      "articleCount": 148,
+      "articleCount": 147,
       "link": "https://www.yna.co.kr/view/AKR20260820177800053"
     },
     {
@@ -355,7 +355,7 @@
       "name": "반도체",
       "phrase": "SK하이닉스 노사 임단협 잠정합의",
       "sentence": "SK하이닉스 노사가 올해 임금 및 단체협약(임단협) 잠정합의안을 마련했다.",
-      "articleCount": 139,
+      "articleCount": 140,
       "link": "https://www.yna.co.kr/view/AKR20260820111300003"
     },
     {
@@ -379,7 +379,7 @@
       "name": "교육",
       "phrase": "학생 물통에 몰래 소변 넣은 日교사",
       "sentence": "일본에서 고등학교 교사가 학생의 물통에 소변을 몰래 넣었다가 적발돼 면직되는 사건이 발생했다.",
-      "articleCount": 124,
+      "articleCount": 122,
       "link": "https://www.yna.co.kr/view/AKR20260820107300009"
     },
     {
@@ -387,7 +387,7 @@
       "name": "산업·기업",
       "phrase": "맞춤형 mRNA 암 치료제 3상 성공",
       "sentence": "미국 제약사 모더나와 머크가 공동 개발한 환자 맞춤형 mRNA 암 백신이 고위험 흑색종 환자를 대상으로 한 ...",
-      "articleCount": 115,
+      "articleCount": 114,
       "link": "https://www.yna.co.kr/view/AKR20260820002051072"
     },
     {
@@ -401,17 +401,17 @@
     {
       "id": "health",
       "name": "건강·의료",
-      "phrase": "모든 환자 대상으로 확대 논의",
-      "sentence": "20일 비대면진료 플랫폼의 약 도매업 금지 법안 통과…\"다른 영역에서 산업 활성화 협의 지속\" [이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토…",
-      "articleCount": 92,
-      "link": "https://www.mt.co.kr/future/2026/08/20/2026082017471471376"
+      "phrase": "경산 아파트 방화 피의자까지 숨져",
+      "sentence": "지난 달 23일 경북 경산시 한 아파트 관리사무소에 불을 질러 주민 등을 숨지게 하거나 다치게 한 류모(71) 씨가 사건 발생 28일 만에 숨졌다.…",
+      "articleCount": 91,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004813"
     },
     {
       "id": "trade",
       "name": "수출·관세",
       "phrase": "산업장관 대미 투자 협상 의미 있는 진전",
       "sentence": "미국을 방문하고 돌아온 김정관 산업통상부 장관은 20일 양국의 대미 투자 협상 과정에 대해 \"상당히 의미 있...",
-      "articleCount": 87,
+      "articleCount": 86,
       "link": "https://www.yna.co.kr/view/AKR20260820171000003"
     },
     {
@@ -419,7 +419,7 @@
       "name": "유가·에너지",
       "phrase": "원유가격 상승 영향",
       "sentence": "일본의 무역수지가 지난달까지 석 달 연속 적자를 기록했다.",
-      "articleCount": 84,
+      "articleCount": 83,
       "link": "https://www.yna.co.kr/view/AKR20260820075800009"
     },
     {
@@ -435,7 +435,7 @@
       "name": "물가·고용",
       "phrase": "계열사 통합교섭 요구",
       "sentence": "네이버 노동조합이 계열사별로 진행해 온 임금·단체협상을 하나로 묶고 네이버 본사가 교섭에 직접 참여하라고 요구했다.…",
-      "articleCount": 70,
+      "articleCount": 69,
       "link": "https://www.chosun.com/economy/tech_it/2026/08/20/GUYWENJVGA3TAZLGMYZGKZTGMQ/"
     },
     {
@@ -459,7 +459,7 @@
       "name": "가상자산",
       "phrase": "비트코인 7만달러 돌파",
       "sentence": "비트코인이 20일(현지시간) 2개월여 만에 7만달러(약 9759만원)를 돌파했다.…",
-      "articleCount": 60,
+      "articleCount": 61,
       "link": "https://www.mt.co.kr/world/2026/08/20/2026082018330589062"
     },
     {
@@ -467,7 +467,7 @@
       "name": "환경·기후",
       "phrase": "여수 등 26곳 폭염주의보 유지",
       "sentence": "(광주=연합뉴스) 기상청은 담양에 발령했던 호우주의보를 20일 오후 8시를 기해 해제한다고 밝혔다.",
-      "articleCount": 57,
+      "articleCount": 56,
       "link": "https://www.yna.co.kr/view/AKR20260820179200527"
     },
     {
@@ -475,7 +475,7 @@
       "name": "유통·소비",
       "phrase": "李대통령 불법촬영물 유통 뿌리 반드시 뽑겠다",
       "sentence": "이재명 대통령은 20일 \"불법 촬영물 유통의 뿌리를 반드시 뽑겠다\"며 디지털 성범죄 근절 의지를 다졌다.",
-      "articleCount": 49,
+      "articleCount": 47,
       "link": "https://www.yna.co.kr/view/AKR20260820163900001"
     },
     {
@@ -483,7 +483,7 @@
       "name": "노동",
       "phrase": "네이버 노조 8년 개별교섭 한계",
       "sentence": "네이버 노동조합이 네이버제트의 임금 교섭 결렬과 쟁의 돌입을 계기로 계열사별 개별 교섭의 비효율과 처우 격차를...",
-      "articleCount": 42,
+      "articleCount": 41,
       "link": "https://www.yna.co.kr/view/AKR20260820061300017"
     },
     {
