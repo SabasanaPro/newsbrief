@@ -1,48 +1,48 @@
 {
-  "generatedAt": "2026-08-20T21:02:41+09:00",
+  "generatedAt": "2026-08-21T08:45:25+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "국회, 패스트트랙 심사 단축법안 가결…최장 330일→90일",
-          "summary": "국회 신속 처리 대상 안건의 심사 기간을 기존 330일에서 90일로 단축하는 국회법 개정안이 오늘 더불어민주당 주도로 국회 본회의를 통과했습니다.",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008714034",
-          "publishedAt": "2026-08-20T08:01:00+00:00",
+          "title": "김여정 “전쟁놀이 못하게 된 서울, 인과응보…이재명은 이중적” 조롱",
+          "summary": "UFS훈련 축소에 “전쟁놀이 못하게된 서울…가긍한 처지” “이재명, 안팎 다른 이중적 언행…불안초조한 모순심리” “美안보지원 공짜 아냐…이 기회에 생존의 답 찾아야” 김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 도널드 트럼프 미국 대통령 지시로 한미연합훈련이 축소된 데 대해 “그리도 즐겨하던 전쟁놀이를 못하게 된 서울의 가긍한 처지”라며 한국을 향해 조롱 섞인 메시지를 발신했다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260820500254",
+          "publishedAt": "2026-08-20T12:13:33+00:00",
           "sourceCount": 6,
           "otherSources": [
-            "경향신문",
-            "동아일보",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "국민의힘 윤리위, 조경태·진종오 ‘당원권 정지’ 2년 이상…권영진 1년 6개월·서범수 10개월",
-          "summary": "국민의힘 중앙윤리위원회가 20일 조경태·진종오 의원에게 각각 당원권 정지 2년 6개월과 2년의 중징계를 내렸다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260820500249",
-          "publishedAt": "2026-08-20T11:31:48+00:00",
-          "sourceCount": 5,
-          "otherSources": [
             "SBS",
+            "동아일보",
+            "매일경제",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "현역 4명 '당원권 정지' 중징계…조경태 2년 6개월",
+          "summary": "국민의힘 윤리위원회가 비당권파 현역 의원 4명에 대해, 당원권 정지라는 중징계 처분을 내렸습니다.…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008714762",
+          "publishedAt": "2026-08-20T21:19:00+00:00",
+          "sourceCount": 5,
+          "otherSources": [
             "경향신문",
+            "서울신문",
             "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "안규백 “北핵무기 80∼120개로 봐…美전술핵? 받으면 안돼”",
-          "summary": "안규백 국방부 장관이 20일 정부가 북한이 최대 120개의 핵무기를 가지고 있는 것으로 추정한다는 취지로 답변했다.…",
+          "title": "패스트트랙 심사 330일→90일 단축법안 본회의 통과",
+          "summary": "현재 최장 330일이 걸리는 패스트트랙(신속처리안건) 심사 기간을 90일로 단축하는 국회법 개정안이 20일 국회 본회의를 통과했다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20260820/134510961/1",
-          "publishedAt": "2026-08-20T03:01:00+00:00",
+          "link": "https://www.donga.com/news/Politics/article/all/20260821/134516220/2",
+          "publishedAt": "2026-08-20T19:30:00+00:00",
           "sourceCount": 5,
           "otherSources": [
-            "매일경제",
+            "경향신문",
             "연합뉴스",
             "조선일보",
             "한겨레"
@@ -55,45 +55,46 @@
       "name": "경제",
       "items": [
         {
-          "title": "한은 부총재에 ‘국제통’ 권민수 부총재보 임명",
-          "summary": "한국은행 제공한국은행은 신임 한은 부총재에 권민수 국제금융·협력 담당 부총재보(56)가 임명됐다고 20일 밝혔다.권 부총재는 서울 출신으로 휘문고, 연세대 경영학과를 졸업하고 1995년 한은에 입행했다.…",
+          "title": "한국은행 신임 부총재에 ‘국제통’ 권민수 부총재보",
+          "summary": "한국은행은 신임 한은 부총재에 권민수 국제금융·협력 담당 부총재보(56)가 임명됐다고 20일 밝혔다.권 부총재는 서울 출신으로 휘문고, 연세대 경영학과를 졸업하고 1995년 한은에 들어와 국제국 외환시장팀장, 외자운용원 외자기획부장과 원장 등을 역임했다.…",
           "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608202016001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-08-20T11:16:00+00:00",
-          "sourceCount": 7,
+          "link": "https://www.khan.co.kr/article/202608202214005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-08-20T13:14:00+00:00",
+          "sourceCount": 6,
           "otherSources": [
-            "동아일보",
-            "머니투데이",
             "서울신문",
+            "아시아경제",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "“더는 못 버텨요”…10년 만에 최고치 찍은 은행 대출 연체율 왜?",
+          "summary": "1년 전 보다 중소법인 큰 폭 상승 “글로벌 금리상승 연체율 반등 가능성”국내 은행의 원화대출 연체율이 6월말 기준으로 10년만에 최고치를 기록했다. 분기 말 은행들이 연체채권 정..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/economy/12132900",
+          "publishedAt": "2026-08-20T23:36:55+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "경향신문",
             "아시아경제",
             "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "SK하이닉스 노사, 성과급 60% 주식으로 지급 잠정합의… 임금 6.3% 인상",
-          "summary": "SK하이닉스 노사가 올해 임금 6.3% 인상과 초과이익분배금(PS)의 60%를 주식으로 지급하는 내용의 임금·단체협약(임단협) 잠정합의안을 마련했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/tech_it/2026/08/20/GFSGEMRRME4WIMJWMU2WKOBTG4/",
-          "publishedAt": "2026-08-20T06:11:52+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "동아일보"
-          ]
-        },
-        {
-          "title": "\"주가 누르기 막는다\"…합병가액, 시가 아닌 공정가액으로 산정",
-          "summary": "앞으로 상장사가 합병 등을 추진할 때 합병가액 산정 방식이 '시가' 대신 자산 및 미래수익 가치를 반영한 '공정가액'으로 바뀐다.…",
+          "title": "생산자물가, 11개월 만에 하락 전환…\"이달 다시 오른다\"",
+          "summary": "지난달 국내 생산자물가가 11개월 만에 하락 전환했다. 국제유가 하락 영향에 석탄 및 석유제품과 화학제품 가격이 내린 결과다.…",
           "source": "아시아경제",
-          "link": "https://view.asiae.co.kr/article/2026082018344340909",
-          "publishedAt": "2026-08-20T09:34:43+00:00",
-          "sourceCount": 4,
+          "link": "https://view.asiae.co.kr/article/2026082017074279068",
+          "publishedAt": "2026-08-20T21:00:00+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "SBS",
+            "경향신문",
             "연합뉴스",
-            "조선일보"
+            "조선일보",
+            "한겨레"
           ]
         }
       ]
@@ -103,11 +104,11 @@
       "name": "사회",
       "items": [
         {
-          "title": "경산 아파트 방화 피의자까지 숨져…사망자 모두 5명으로 늘어",
-          "summary": "지난 달 23일 경북 경산시 한 아파트 관리사무소에 불을 질러 주민 등을 숨지게 하거나 다치게 한 류모(71) 씨가 사건 발생 28일 만에 숨졌다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004813",
-          "publishedAt": "2026-08-20T11:45:00+00:00",
+          "title": "중수청 특례임용에 정원의 82.6% 지원, \"검사 규모 공개 불가\"",
+          "summary": "중대범죄수사청 출범을 위한 검찰 소속 공무원 특례임용에 2375명이 신청했다. 오는 10월 출범하는 중대범죄수사청(중수청) 특례 임용에 검찰청 소속 검사와 수사관 등 2375명이 지원했다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6565791",
+          "publishedAt": "2026-08-20T23:49:39+00:00",
           "sourceCount": 5,
           "otherSources": [
             "경향신문",
@@ -117,29 +118,31 @@
           ]
         },
         {
-          "title": "종합특검, ‘내란 가담 의혹’ 심우정 전 검찰총장 기소",
-          "summary": "2차 종합특검(특별검사 권창영)이 20일 심우정 전 검찰총장과 전무곤 전 대검찰청 기획조정부장을 내란 중요 임무 종사·직권남용 혐의로 불구속 기소했다. 심 전 총장 등은 2024년..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12132599",
-          "publishedAt": "2026-08-20T09:11:03+00:00",
-          "sourceCount": 4,
+          "title": "선유도역 인근 공장서 암모니아 가스 누출…인명피해 없어",
+          "summary": "21일 오전 5시 30분께 서울 영등포구 선유도역 인근 식품 공장에서 암모니아 가스가 누출돼 소방당국이 출동했...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260821015100004",
+          "publishedAt": "2026-08-20T22:08:04+00:00",
+          "sourceCount": 5,
           "otherSources": [
             "SBS",
             "경향신문",
-            "조선일보"
+            "동아일보",
+            "매일경제"
           ]
         },
         {
-          "title": "‘양정원 사건 무마’ 강남서 수사팀장 재판행",
-          "summary": "뇌물을 받고 유명 인플루언서 양정원씨 사기 사건과 주가조작 사범 등의 사건을 무마해준 혐의를 받는 서울 강남경찰서 전 수사팀장 등이 재판에 넘겨졌다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004778",
-          "publishedAt": "2026-08-20T09:51:01+00:00",
-          "sourceCount": 4,
+          "title": "“내 아들 학폭 조사?” 교직원 21명에게 274회 행패…법정구속",
+          "summary": "청주지법 영동지원 형사1단독 강춘구 판사는 20일 교직원들에게 욕설하거나 고성을 지른 혐의(정보통신망법 위반·아동학대 등) 등으로 불구속기소 된 A씨에게 징역 1년 4개월과 벌금 20만원을 선고하고 법정구속했다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260820500239",
+          "publishedAt": "2026-08-20T09:19:58+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "경향신문",
+            "SBS",
+            "노컷뉴스",
             "매일경제",
-            "조선일보"
+            "연합뉴스"
           ]
         }
       ]
@@ -149,42 +152,38 @@
       "name": "국제",
       "items": [
         {
-          "title": "'왕실 업무 복귀 아니지만…' 해리왕자 부부 6년 만에 영국 귀환",
-          "summary": "지난 2020년 영국 왕실 공식 업무에서 물러난 뒤 미국으로 이주했던 찰스 3세 영국 국왕의 차남 해리 왕자 ...",
+          "title": "美 \"우리편이냐 맞설거냐\"…'이란경제 붕괴' 동맹 동참 압박",
+          "summary": "스콧 베선트 미국 재무장관은 20일(현지시간) 이란 정권의 붕괴를 겨냥한 대대적 경제 압박에 나서겠다면서 ...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260820064400009",
-          "publishedAt": "2026-08-20T01:22:56+00:00",
-          "sourceCount": 5,
+          "link": "https://www.yna.co.kr/view/AKR20260821002551071",
+          "publishedAt": "2026-08-20T17:47:55+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "동아일보",
-            "매일경제",
-            "한겨레"
+            "조선일보"
           ]
         },
         {
-          "title": "트럼프 “김정은, 핵무기 57개 보유”…‘대화목표 비핵화냐’에 “그 얘기 하고 싶지 않다”",
-          "summary": "도널드 트럼프 미국 대통령이 19일(현지 시간) 연내 김정은 북한 국무위원장과 만날 것으로 예상한다고 밝혔다.…",
+          "title": "학생 물통에 자기 소변 넣은 日교사…“돌발적으로 했다”",
+          "summary": "일본에서 20대 고등학교 교사가 학생의 물통에 몰래 자신의 소변을 넣었다가 적발돼 징계면직됐다.20일 요미우리신문 등에 따르면 일본 군마현 교육위원회는 전날 현립고에 근무하는 20대 남성 교사를 징계면직 처분했다.이 교사는 올 5월 근무 중 학생이 사용하는 물통에 소변을 넣은 것으로 조사됐다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260820/134508973/1",
-          "publishedAt": "2026-08-19T23:27:00+00:00",
-          "sourceCount": 4,
+          "link": "https://www.donga.com/news/Inter/article/all/20260820/134512955/1",
+          "publishedAt": "2026-08-20T06:55:00+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "매일경제",
-            "연합뉴스",
-            "한겨레"
+            "서울신문"
           ]
         },
         {
-          "title": "사형 8번 미뤄진 사형수, 101세로 자연사…76년간 감옥생활",
-          "summary": "미국에서 사형 집행이 8번 미뤄져 76년간 감옥에 있던 재소자가 101세의 나이로 자연사한 사실이 알려졌다. 20일 연합뉴스, 영국 BBC에 따르면 미국 코네티컷주에 있는 요양시설..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12132000",
-          "publishedAt": "2026-08-20T01:40:43+00:00",
-          "sourceCount": 4,
+          "title": "美, 쿠바 민간 외교단체·건설부 등 무더기 제재",
+          "summary": "도널드 트럼프 미국 행정부가 쿠바의 민간 외교단체 지도부 3명과 쿠바 건설부·국영기업 등 9곳을 무더기 제재했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/08/21/GYYGIOJQMQ4DIYZXHBTDQNBWGQ/",
+          "publishedAt": "2026-08-20T22:32:20+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "동아일보",
             "연합뉴스"
           ]
         }
@@ -195,26 +194,14 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "네이버 노조, '통합교섭' 공식 요구…IT 노사관계 변수로 부상",
-          "summary": "네이버 노동조합(노조)이 8년 동안 이어진 개별교섭 구조로 인한 계열사간 처우 격차 확대를 지적하며 네이버 본사와 전 계열사가 참여하는 '통합교섭'을 사측에 공식 요구했다.…",
-          "source": "전자신문",
-          "link": "https://www.etnews.com/20260820000298",
-          "publishedAt": "2026-08-20T06:27:00+00:00",
+          "title": "SK하이닉스, PS 60% 자사주로…'10년' 합의 1년 만에 손질",
+          "summary": "SK하이닉스 노사가 올해 임금 및 단체협약(임단협) 잠정합의안을 도출했다. 임금은 6.3% 올리고 PS(초과이익분배금)의 60%를 자사주로 지급하는 방안이 핵심이다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=671393",
+          "publishedAt": "2026-08-20T15:17:02+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "블로터",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "SKT, 3G '신규 중단' 23년 만에 종료 수순...KT는?",
-          "summary": "SK텔레콤이 3세대(3G) 이동통신 종료에 착수했다. 3G 서비스 개시 23년 만이다. 20일부터 3G 신규 가입을 받지 않는다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=154444",
-          "publishedAt": "2026-08-20T09:47:29+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "아이뉴스24",
+            "연합뉴스",
             "전자신문"
           ]
         },
@@ -229,6 +216,17 @@
             "아이뉴스24",
             "연합뉴스"
           ]
+        },
+        {
+          "title": "네이버 노조, '통합교섭' 공식 요구…IT 노사관계 변수로 부상",
+          "summary": "네이버 노동조합(노조)이 8년 동안 이어진 개별교섭 구조로 인한 계열사간 처우 격차 확대를 지적하며 네이버 본사와 전 계열사가 참여하는 '통합교섭'을 사측에 공식 요구했다.…",
+          "source": "전자신문",
+          "link": "https://www.etnews.com/20260820000298",
+          "publishedAt": "2026-08-20T06:27:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "블로터"
+          ]
         }
       ]
     },
@@ -237,35 +235,37 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "비트코인 7만달러 돌파…\"다음 고비는 7만5000달러\"",
-          "summary": "비트코인이 20일(현지시간) 2개월여 만에 7만달러(약 9759만원)를 돌파했다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/world/2026/08/20/2026082018330589062",
-          "publishedAt": "2026-08-20T09:49:41+00:00",
+          "title": "비트코인, 7만2000달러 돌파…美 증시 하락에도 ‘나홀로 강세’",
+          "summary": "[블록미디어 오수환 기자] 미국 증시가 국채금리 반등과 국제유가 상승 여파로 일제히 하락한 가운데 비트코인은 7만2000달러선을 웃돌며 강세를 이어갔다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1130159?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-08-20T23:25:40+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "블록미디어"
+            "조선일보"
           ]
         },
         {
-          "title": "미국인 63% \"트럼프, 가상화폐로 부당하게 돈 벌었다\"",
-          "summary": "미국인 10명중 6명꼴로 도널드 트럼프 대통령과 그 일가가 가상화폐로 부당하게 이득을 거둔다고 보는 것으로 나...",
+          "title": "비트코인 7만 달러 돌파… 트럼프 규제완화 법안 압박에 급등",
+          "summary": "가상화폐 시총 1위 비트코인이 미국 국채 바이백과 도널드 트럼프 미국 대통령의 규제 완화 법안 통과 압박에 7만 달러 선을 돌파했다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004913",
+          "publishedAt": "2026-08-20T20:50:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "매일경제"
+          ]
+        },
+        {
+          "title": "비트코인, 규제완화법 청신호에 7만불 돌파…역대2위 공매도청산",
+          "summary": "가상화폐 시총 1위 비트코인이 미국 국채 바이백과 도널드 트럼프 미국 대통령의 규제 완화 법안 통과 ...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260820075300009",
-          "publishedAt": "2026-08-20T02:15:33+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20260821003700091",
+          "publishedAt": "2026-08-20T17:58:35+00:00",
           "sourceCount": 2,
           "otherSources": [
             "SBS"
           ]
-        },
-        {
-          "title": "거래 줄어 실적 주춤…수수료 다변화 과제 |두나무①",
-          "summary": "가상자산 거래가 감소하면서 국내 거래소들의 보릿고개가 시작된 가운데 주요 거래소의 실적과 재무구조에 어떤 변화가 나타나고 있는지 살펴봅니다.가상자산 거래 위축이 이어지면서 가상자산거래소 업비트를 운영하는 두나무도 상반기 한파를 피하지 못했다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=671402",
-          "publishedAt": "2026-08-20T17:24:08+00:00",
-          "sourceCount": 1,
-          "otherSources": []
         }
       ]
     },
@@ -274,36 +274,38 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "동원과학기술대, 창단 5년 만에 대통령기 대학야구 제패",
-          "summary": "동원과학기술대학교가 창단 5년 만에 전국 최고 권위 대학야구 무대 정상에 섰다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260820157900007",
-          "publishedAt": "2026-08-20T08:11:35+00:00",
-          "sourceCount": 2,
+          "title": "미트윌란 조규성, 시즌 마수걸이 득점포…팀은 2-0 완승",
+          "summary": "축구 국가대표 골잡이 조규성(미트윌란)이 유럽클럽대항전에서 시즌 마수걸이 득점에 성공했다.미트윌란은 21일(한국 시간) 덴마크 헤르닝의 MCH 아레나에서 열린 2026~2027시즌 유럽축구연맹(UEFA) 콘퍼런스리그(UECL) 플레이오프(PO) 1차전에서 리예카(크로아티아)를 2-0으로 완파했다.이날 최전방 스트라이커로 선발 출전한 조규성은 0-0으로 맞선 전반 20분 프란쿨리누의 크로스를 헤더로 마무리해 선제골을 터트렸다.이번 시즌 공식전 7경기 만에 터진 조규성의 첫 득점이다.지난 시즌을 포함하면 올해 3월13일 노팅엄 포레스트(잉글랜드)와의 유로파리그(UEL) 16강 1차전(1-0 승) 이후 약 5개월 만이다.조규성의 선제골로 앞서간 미트윌란은 후반 3분 소푸스 요하네센의 추가골로 2-0 승리에 쐐기를 박았다.조규성은 약 74분을 소화한 뒤 교체됐다.홈에서 승리한 미트윌란은 오는 28일 원정 2차전에서 비기기만 해도 UECL 본선에 오른다.[서울=뉴시스]",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20260821/134516951/1",
+          "publishedAt": "2026-08-20T22:58:16+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "동아일보"
+            "연합뉴스",
+            "한겨레"
           ]
         },
         {
-          "title": "CJ 이재현 회장·이미경 부회장, 유니버셜뮤직 회장과 LA서 깜짝 회동…K-컬처 미래 논의",
-          "summary": "CJ ENM은 이재현 CJ 회장과 이미경 CJ 부회장이 세계 최대 음악기업 유니버설뮤직그룹의 루시안 그레인지 회장 겸 CEO와 만나 K-컬처의 글로벌 성장과 엔터테인먼트 산업의 미래에 대해 논의했다고 20일 밝혔다.세 사람은 지난 16일(현지시간) 미국 로스앤젤레스(LA)에서 열린 KCON LA 2026 현장에서 회동했다.…",
+          "title": "굳건한 배드민턴 '세계 최강' 안세영, 세계선수권 8강 안착",
+          "summary": "한 달여 만에 부상을 털고 코트로 돌아온 배드민턴 여자 단식 '세계 최강' 안세영(삼성생명)이 세계선수권대회 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260820125351007",
+          "publishedAt": "2026-08-20T13:20:28+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "동아일보",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "베식타시 오현규, 올 시즌 6경기 만에 1호골…PK 유도까지",
+          "summary": "축구 국가대표 스트라이커 오현규(베식타시)가 올 시즌 공식전 6경기 만에 시즌 1호골을 터트렸다.베식타시는 21일(한국 시간) 튀르키예 이스탄불의 튀프라쉬 스타디움에서 열린 카우노 잘기리스(리투아니아)와의 2026~2027시즌 유럽축구연맹(UEFA) 유로파리그(UEL) 플레이오프(PO) 1차전 홈 경기에서 3-0 승리했다.오현규는 이날 최전방 공격수로 선발 출전해 약 60분을 뛰며 시즌 마수걸이 득점포와 함께 페널티킥을 유도하는 등 맹활약했다.오현규는 킥오프 6분 만에 팀에 선제골을 안겼다.르드반 이을마즈의 코너킥을 헤더로 마무리해 상대 골망을 흔들었다.올 시즌 공식전 6경기 만에 터진 오현규의 첫 득점이다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Culture/article/all/20260820/134514945/1",
-          "publishedAt": "2026-08-20T09:10:22+00:00",
+          "link": "https://www.donga.com/news/Sports/article/all/20260821/134516945/1",
+          "publishedAt": "2026-08-20T22:55:15+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
-          ]
-        },
-        {
-          "title": "'테니스계 악동' 키리오스, 코카인 양성 반응…잠정 출전정지",
-          "summary": "테니스계 '악동' 닉 키리오스(31·호주)가 코카인 양성 반응으로 잠정 출전 정지 처분을 받았다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260820087900007",
-          "publishedAt": "2026-08-20T02:32:34+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "한겨레"
           ]
         }
       ]
@@ -311,187 +313,187 @@
   ],
   "topics": [
     {
-      "id": "ai",
-      "name": "AI·인공지능",
-      "phrase": "독파모 2차 평가 세부 점수 공개",
-      "sentence": "[지디넷코리아]정부가 '독자 인공지능(AI) 파운데이션 모델 프로젝트' 2차 평가 항목별 1위 기업과 점수를 추가 공개했다.…",
-      "articleCount": 250,
-      "link": "https://zdnet.co.kr/view/?no=20260820172731"
-    },
-    {
       "id": "politics",
       "name": "정치",
-      "phrase": "내란 가담 심우정 전 검찰총장 등 기소",
-      "sentence": "12·3 비상계엄 내란 가담 및 즉시항고 포기 관련 직권남용 의혹을 받는 심우정 전 검찰총장이 지난달 16일 구속 전 피의자 심문(영장실질심사)을 받고 서울 서초…",
+      "phrase": "김여정 전쟁놀이 못하게 된 서울의 가긍한 처지",
+      "sentence": "김정은 북한 국무위원장의 동생인 김여정 노동당 총무부장이 도널드 트럼프 미국 대통령 지시로 한미연합훈련이 축소...",
       "articleCount": 250,
-      "link": "https://www.khan.co.kr/article/202608201934001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
+      "link": "https://www.yna.co.kr/view/AKR20260820183300504"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "中 왕이에 한반도 문제 긴밀한 소통 이어가달라",
-      "sentence": "이재명 대통령이 20일 방한 중인 왕이 중국공산당 중앙정치국 위원 겸 외교부장을 만나 한반도 정세와 양국 관계...",
+      "phrase": "쿠바 민간 외교단체·건설부 등 무더기 제재",
+      "sentence": "도널드 트럼프 미국 행정부가 쿠바의 민간 외교단체 지도부 3명과 쿠바 건설부·국영기업 등 9곳을 무더기 제재했다.…",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260820165751001"
+      "link": "https://www.chosun.com/international/international_general/2026/08/21/GYYGIOJQMQ4DIYZXHBTDQNBWGQ/"
+    },
+    {
+      "id": "ai",
+      "name": "AI·인공지능",
+      "phrase": "원전 19기 용량 전력 더 필요",
+      "sentence": "반도체 신규 투자와 인공지능 데이터센터 등, 3대 메가 프로젝트가 장기 전력 수요 지도를 바꿔 놓았습니다.…",
+      "articleCount": 214,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008714394"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "최원준, 선제 득점이야",
-      "sentence": "2026.08.20 / jpnews@osen.co.kr…",
-      "articleCount": 250,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/08/20/MRSDQNLFMJTDGZTGHEYGMOJUGI/"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "경산 아파트 방화 피의자도 숨져",
-      "sentence": "경북 경산시 한 아파트 관리사무소에 불을 질러 주민 등을 숨지게 하거나 다치게 한 류모(71) 씨가 사건 발생...",
-      "articleCount": 147,
-      "link": "https://www.yna.co.kr/view/AKR20260820177800053"
-    },
-    {
-      "id": "semiconductor",
-      "name": "반도체",
-      "phrase": "SK하이닉스 노사 임단협 잠정합의",
-      "sentence": "SK하이닉스 노사가 올해 임금 및 단체협약(임단협) 잠정합의안을 마련했다.",
-      "articleCount": 140,
-      "link": "https://www.yna.co.kr/view/AKR20260820111300003"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "3G 신규 중단 23년 만에 종료 수순",
-      "sentence": "SK텔레콤이 3세대(3G) 이동통신 종료에 착수했다.",
-      "articleCount": 127,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=154444"
+      "phrase": "미트윌란 UECL 본선행 청신호",
+      "sentence": "국가대표 스트라이커 조규성(미트윌란)이 덴마크 프로축구 무대에서 올 시즌 마수걸이 골을 터트리며 소속팀의 완승...",
+      "articleCount": 164,
+      "link": "https://www.yna.co.kr/view/AKR20260821019400007"
     },
     {
       "id": "stock",
       "name": "증시",
       "phrase": "주가누르기 유인 차단",
       "sentence": "앞으로 합병가액을 산정할 때 시장가격이 아닌 공정가액을 적용하도록 해 지배주주 등이 '주가 누르기'를 할 유인...",
-      "articleCount": 124,
+      "articleCount": 139,
       "link": "https://www.yna.co.kr/view/AKR20260820164600002"
     },
     {
-      "id": "education",
-      "name": "교육",
-      "phrase": "학생 물통에 몰래 소변 넣은 日교사",
-      "sentence": "일본에서 고등학교 교사가 학생의 물통에 소변을 몰래 넣었다가 적발돼 면직되는 사건이 발생했다.",
-      "articleCount": 122,
-      "link": "https://www.yna.co.kr/view/AKR20260820107300009"
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "강남·서초 아파트 매매가격 2주째 약세",
+      "sentence": "비거주 1주택자와 고가 주택 보유자에게 세 부담을 늘리는 세제개편안 발표 이후 서울 강남권 고가 지역 아파트 ...",
+      "articleCount": 136,
+      "link": "https://www.yna.co.kr/view/AKR20260820073100003"
     },
     {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "맞춤형 mRNA 암 치료제 3상 성공",
-      "sentence": "미국 제약사 모더나와 머크가 공동 개발한 환자 맞춤형 mRNA 암 백신이 고위험 흑색종 환자를 대상으로 한 ...",
-      "articleCount": 114,
-      "link": "https://www.yna.co.kr/view/AKR20260820002051072"
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "SK하이닉스 노사 임단협 잠정합의",
+      "sentence": "SK하이닉스 노사가 올해 임금 및 단체협약(임단협) 잠정합의안을 마련했다.",
+      "articleCount": 134,
+      "link": "https://www.yna.co.kr/view/AKR20260820111300003"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "청년 최고위원 전용기-노동 최고위원 권미경 지명",
       "sentence": "김민석 더불어민주당 신임 대표가 청년 최고위원에 1991년생 재선 전용기 의원을, 노동 부문 최고위원에 권미경 한국노동조합총연맹(한국노총) 공공연대노동조합연맹 위…",
-      "articleCount": 114,
+      "articleCount": 111,
       "link": "https://www.donga.com/news/Politics/article/all/20260820/134513108/1"
     },
     {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "경산 아파트 방화 피의자까지 숨져",
-      "sentence": "지난 달 23일 경북 경산시 한 아파트 관리사무소에 불을 질러 주민 등을 숨지게 하거나 다치게 한 류모(71) 씨가 사건 발생 28일 만에 숨졌다.…",
-      "articleCount": 91,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004813"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "10년 만에 전면파업",
+      "sentence": "현대자동차 노동조합(금속노조 현대차지부)이 올해 임금협상 난항으로 21일 전면 파업에 들어갔다.",
+      "articleCount": 108,
+      "link": "https://www.yna.co.kr/view/AKR20260820157300057"
     },
     {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "산업장관 대미 투자 협상 의미 있는 진전",
-      "sentence": "미국을 방문하고 돌아온 김정관 산업통상부 장관은 20일 양국의 대미 투자 협상 과정에 대해 \"상당히 의미 있...",
-      "articleCount": 86,
-      "link": "https://www.yna.co.kr/view/AKR20260820171000003"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "원유가격 상승 영향",
-      "sentence": "일본의 무역수지가 지난달까지 석 달 연속 적자를 기록했다.",
-      "articleCount": 83,
-      "link": "https://www.yna.co.kr/view/AKR20260820075800009"
+      "id": "education",
+      "name": "교육",
+      "phrase": "학생 물통에 몰래 소변 넣은 20대 男교사",
+      "sentence": "일본의 한 20대 고등학교 교사가 학생의 물통에 소변을 몰래 넣었다가 적발되는 충격적인 사건이 발생했다.…",
+      "articleCount": 102,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260821500019"
     },
     {
       "id": "rate",
       "name": "금리",
       "phrase": "한은 부총재에 국제통 권민수 부총재보 임명",
       "sentence": "한국은행 신임 부총재에 권민수(56) 국제금융·협력 담당 부총재보가 임명됐다고 한은이 20일 밝혔다.",
-      "articleCount": 82,
+      "articleCount": 92,
       "link": "https://www.yna.co.kr/view/AKR20260820178900002"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "매출 차질 2.3조 추산",
+      "sentence": "현대자동차 노동조합(금속노조 현대차지부)이 임금협상 난항으로 21일 전면 파업에 들어갔다.",
+      "articleCount": 85,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004920"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "유가 떨어지자 7월 생산자 물가 11개월 만에",
+      "sentence": "지난달 국내 생산자물가지수가 11개월 만에 하락 전환했다.",
+      "articleCount": 80,
+      "link": "https://www.yna.co.kr/view/AKR20260820151900002"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "계열사 통합교섭 요구",
-      "sentence": "네이버 노동조합이 계열사별로 진행해 온 임금·단체협상을 하나로 묶고 네이버 본사가 교섭에 직접 참여하라고 요구했다.…",
-      "articleCount": 69,
-      "link": "https://www.chosun.com/economy/tech_it/2026/08/20/GUYWENJVGA3TAZLGMYZGKZTGMQ/"
+      "phrase": "국제유가 하락에 생산자물가 11개월 만에 내려",
+      "sentence": "연합뉴스지난달 국내 생산자물가가 11개월 만에 하락세로 돌아섰다.…",
+      "articleCount": 73,
+      "link": "https://www.khan.co.kr/article/202608210710001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "3G 신규 중단 23년 만에 종료 수순",
+      "sentence": "SK텔레콤이 3세대(3G) 이동통신 종료에 착수했다.",
+      "articleCount": 70,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=154444"
     },
     {
       "id": "science",
       "name": "우주·과학",
-      "phrase": "동해상 미상 발사체 발사",
-      "sentence": "합동참모본부(합참)는 북한이 20일 동해상으로 미상 발사체를 발사했다고 밝혔다.",
-      "articleCount": 67,
-      "link": "https://www.chosun.com/economy/economy_general/2026/08/20/GA3GIMJWME4DANDCGFTDEOBQGE/"
+      "phrase": "동해상으로 미상의 발사체 발사",
+      "sentence": "합동참모본부가 북한이 동해상으로 미상의 발사체를 날려보냈다고 20일 발표했다.",
+      "articleCount": 65,
+      "link": "https://www.mk.co.kr/news/politics/12132404"
     },
     {
-      "id": "game",
-      "name": "게임",
-      "phrase": "도깨비의세계 10월 출시",
-      "sentence": "카카오게임즈[293490]가 국내 게임 개발사 슈퍼캣의 차기작 '도깨비의세계'를 출시 시점을 오는 10월로 확...",
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "김정관 대미투자 협상 상당한 진전",
+      "sentence": "미국 방문을 마치고 귀국한 김정관 산업통상부 장관(사진)이 대미 투자 협상과 관련해 “상당히 의미 있는 진전이 있었다”고 밝혔다.…",
       "articleCount": 64,
-      "link": "https://www.yna.co.kr/view/AKR20260820111500017"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "비트코인 7만달러 돌파",
-      "sentence": "비트코인이 20일(현지시간) 2개월여 만에 7만달러(약 9759만원)를 돌파했다.…",
-      "articleCount": 61,
-      "link": "https://www.mt.co.kr/world/2026/08/20/2026082018330589062"
-    },
-    {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "여수 등 26곳 폭염주의보 유지",
-      "sentence": "(광주=연합뉴스) 기상청은 담양에 발령했던 호우주의보를 20일 오후 8시를 기해 해제한다고 밝혔다.",
-      "articleCount": 56,
-      "link": "https://www.yna.co.kr/view/AKR20260820179200527"
+      "link": "https://www.donga.com/news/Society/article/all/20260821/134516265/2"
     },
     {
       "id": "retail",
       "name": "유통·소비",
-      "phrase": "李대통령 불법촬영물 유통 뿌리 반드시 뽑겠다",
-      "sentence": "이재명 대통령은 20일 \"불법 촬영물 유통의 뿌리를 반드시 뽑겠다\"며 디지털 성범죄 근절 의지를 다졌다.",
-      "articleCount": 47,
-      "link": "https://www.yna.co.kr/view/AKR20260820163900001"
+      "phrase": "에토미데이트 밀수·유통 일당 무더기 검거",
+      "sentence": "일명 ‘제2의 프로포폴’로 불리는 마약류 ‘에토미데이트’를 해외에서 대거 밀반입해 국내에 유통한 일당이 무더기로 경찰에 붙잡혔다.…",
+      "articleCount": 61,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260820500222"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "서승재·김원호도 8강행",
+      "sentence": "‘배드민턴 여제’ 안세영(삼성생명)이 세계선수권대회 8강에 안착했다.세계랭킹 1위 안세영은 20일(한국 시간) 인도 뉴델리에서 열린 2026 세계배드민턴연맹(BW…",
+      "articleCount": 58,
+      "link": "https://www.donga.com/news/Sports/article/all/20260821/134516637/1"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "BTS 정국·회장님 노려 380억 탈취",
+      "sentence": "그룹 방탄소년단(BTS) 정국, 대기업 회장 등 국내 재력가들의 명의를 도용해 380억원을 가로챈 혐의로 기소...",
+      "articleCount": 58,
+      "link": "https://www.yna.co.kr/view/AKR20260820169000004"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "비트코인 7만 달러 돌파",
+      "sentence": "가상화폐 시총 1위 비트코인이 미국 국채 바이백과 도널드 트럼프 미국 대통령의 규제 완화 법안 통과 압박에 7만 달러 선을 돌파했다.…",
+      "articleCount": 50,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004913"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "네이버 노조 8년 개별교섭 한계",
-      "sentence": "네이버 노동조합이 네이버제트의 임금 교섭 결렬과 쟁의 돌입을 계기로 계열사별 개별 교섭의 비효율과 처우 격차를...",
+      "phrase": "하이닉스 노사 성과급 60% 자사주로 지급",
+      "sentence": "SK하이닉스 노사가 올해 임금 및 단체협약(임단협) 잠정합의안을 마련했다.…",
       "articleCount": 41,
-      "link": "https://www.yna.co.kr/view/AKR20260820061300017"
+      "link": "https://www.donga.com/news/Economy/article/all/20260821/134516271/2"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "신임 부총재에 권민수 부총재보 선임",
       "sentence": "한국은행 신임 부총재에 권민수 부총재보가 선임됐다.",
-      "articleCount": 26,
+      "articleCount": 27,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260820500248"
     }
   ],
