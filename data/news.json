@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:40:08+09:00",
+  "generatedAt": "2026-08-22T22:46:17+09:00",
   "categories": [
     {
       "id": "politics",
@@ -119,15 +119,15 @@
           ]
         },
         {
-          "title": "MB·윤 정권 비판했던 명진스님 입적... 서귀포서 해양사고",
-          "summary": "사회 참여와 종단 개혁의 전면에 서 왔던 명진스님이 22일 오전 입적했다. 세수 76세, 법랍 52년이다.…",
-          "source": "오마이뉴스",
-          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261074",
-          "publishedAt": "2026-08-22T08:01:58+00:00",
+          "title": "캐리비안 베이 女탈의실서 불법촬영…20대 여장男 검거",
+          "summary": "여장을 하고 워터파크 캐리비안 베이 여자 탈의실에 침입해 이용객들을 불법 촬영한 뒤 달아난 20대 남성이 도주 20여일 만에 경찰에 붙잡혔다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6566430",
+          "publishedAt": "2026-08-22T20:06:35+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "한겨레"
+            "동아일보",
+            "연합뉴스"
           ]
         }
       ]
@@ -226,22 +226,20 @@
           ]
         },
         {
-          "title": "비트코인 7만1556달러, 예측시장은 신중",
-          "summary": "비트코인(BTC)이 20일 7만1556달러(약 9918만원)까지 오르며 6월 1일 이후 최고치를 기록했지만, 예측시장 확률은 강한 상승 쪽으로 쏠리지 않았다.…",
+          "title": "4억2700만 USDT, 바이낸스 24시간 순유입",
+          "summary": "바이낸스에 최근 24시간 동안 테더(USDT) 4억2700만 개가 순유입된 것으로 집계됐다. 원화로는 약 5918억원 규모다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/395589",
-          "publishedAt": "2026-08-22T06:47:33+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "연합뉴스"
-          ]
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/395697",
+          "publishedAt": "2026-08-22T13:44:59+00:00",
+          "sourceCount": 1,
+          "otherSources": []
         },
         {
-          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 14억9113만달러 청산",
-          "summary": "지난 24시간 암호화폐 시장에서 14억9113만달러(약 2조663억2281만원) 규모의 레버리지 포지션이 청산됐다.…",
+          "title": "스테이블코인 사흘새 16억달러 순증 집계",
+          "summary": "스테이블코인 공급이 최근 사흘 동안 약 16억 달러(약 2조2176억원) 순증한 것으로 집계됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/briefing/395599",
-          "publishedAt": "2026-08-22T06:56:39+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/395696",
+          "publishedAt": "2026-08-22T13:43:42+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -275,13 +273,15 @@
           ]
         },
         {
-          "title": "김태훈, 역전 2점 홈런 기쁨 가득",
-          "summary": "[OSEN=창원, 이석우 기자] 22일 창원NC파크에서 2026 신한 SOL KBO 리그 NC 다이노스와 삼성 라이온즈의 경기가 열렸다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/08/22/MRRTKMJZMM3GENDCGY3WMNTDHA/",
-          "publishedAt": "2026-08-22T11:27:00+00:00",
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "키움, 안우진 앞세워 5연패 탈출…3위 KIA는 6연승 마침표",
+          "summary": "프로야구 최하위 키움 히어로즈가 우완 에이스 안우진의 호투와 생일을 맞은 서건창의 활약을 앞세워 5연패에서 벗...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260822046700007",
+          "publishedAt": "2026-08-22T12:02:07+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "동아일보"
+          ]
         }
       ]
     }
@@ -308,23 +308,23 @@
       "name": "스포츠",
       "phrase": "프로야구 대전·잠실·인천 경기 우천 취소",
       "sentence": "22일 오후 7시부터 열릴 예정이던 프로야구 LG 트윈스-한화 이글스(대전), 롯데 자이언츠-두산 베어스(잠실...",
-      "articleCount": 189,
+      "articleCount": 202,
       "link": "https://www.yna.co.kr/view/AKR20260822035652007"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "톡은 카카오AI",
-      "sentence": "카카오가 카카오톡 기반 인공지능(AI) 사업을 맡는 ‘카카오AI’와 미래 투자를 전담할 ‘카카오X’로 나뉜다.…",
-      "articleCount": 179,
-      "link": "https://www.donga.com/news/Economy/article/all/20260821/134521627/1"
+      "phrase": "대학생에 제미나이 1년 무료",
+      "sentence": "구글이 국내 대학생과 대학원생을 대상으로 자사 인공지능(AI) 서비스 제미나이를 활용한 학업·연구 지원과 대학...",
+      "articleCount": 162,
+      "link": "https://www.yna.co.kr/view/AKR20260821139900017"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "삼성전자 올해 최대 110조 주주환원",
       "sentence": "삼성전자가 올해 국내 기업 사상 최고 규모인 최대 110조원에 달하는 주주환원을 실시하기로 했다.",
-      "articleCount": 123,
+      "articleCount": 114,
       "link": "https://www.yna.co.kr/view/AKR20260821153353003"
     },
     {
@@ -332,47 +332,47 @@
       "name": "증시",
       "phrase": "美찬바람에도 삼전닉스 강세에 코스피 상승",
       "sentence": "미국 국채 금리 재상승과 글로벌 소비둔화 우려, 중동 위기 등 악재 속에 21일 국내 주식시장에서는 삼성전자[...",
-      "articleCount": 111,
+      "articleCount": 103,
       "link": "https://www.yna.co.kr/view/AKR20260821084851008"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "대학생에 제미나이 1년 무료",
-      "sentence": "구글이 국내 대학생과 대학원생을 대상으로 자사 인공지능(AI) 서비스 제미나이를 활용한 학업·연구 지원과 대학...",
-      "articleCount": 100,
-      "link": "https://www.yna.co.kr/view/AKR20260821139900017"
+      "phrase": "Epiphany 를 열창하는 대학·일반부 이세중",
+      "sentence": "경향신문 주최, 스포츠경향 주관으로 22일 서울 강동구 호원아트홀에서 열린 제9회 경향뮤지컬콩쿠르 본선에서 대학·일반부 이세중이 뮤지컬 의 ‘Epiphany’를…",
+      "articleCount": 91,
+      "link": "https://www.khan.co.kr/article/202608221717001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "드라마 참교육 현실됐다",
       "sentence": "넷플릭스 드라마 ‘참교육'에서 악성 민원을 담당하던 ‘교권보호국’이 경기도에서 현실이 됐다.…",
-      "articleCount": 92,
+      "articleCount": 88,
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005160"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "통상교섭본부장에 박정성·소방청장에 최용철 임명",
-      "sentence": "이재명 대통령은 21일 산업통상부 통상교섭본부장에 박정성 현 산업통상부 통상차관보를 임명했다고 강유정 청와대 ...",
-      "articleCount": 89,
-      "link": "https://www.yna.co.kr/view/AKR20260821124200001"
     },
     {
       "id": "industry",
       "name": "산업·기업",
       "phrase": "진에어·에어부산·에어서울 하나 된다",
       "sentence": "국내 저비용항공사(LCC) 진에어, 에어부산, 에어서울이 내년 3월 17일 '통합 진에어'로 출범한다.",
-      "articleCount": 89,
+      "articleCount": 84,
       "link": "https://www.yna.co.kr/view/AKR20260821150600003"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "통상교섭본부장에 박정성·소방청장에 최용철 임명",
+      "sentence": "이재명 대통령은 21일 산업통상부 통상교섭본부장에 박정성 현 산업통상부 통상차관보를 임명했다고 강유정 청와대 ...",
+      "articleCount": 83,
+      "link": "https://www.yna.co.kr/view/AKR20260821124200001"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "용산공원 주택공급 두고 평행선",
       "sentence": "더불어민주당 서울시당 위원장인 김영배 의원이 22일 오세훈 서울시장을 만나 용산공원 주택공급 방안을 논...",
-      "articleCount": 76,
+      "articleCount": 73,
       "link": "https://www.yna.co.kr/view/AKR20260822034251001"
     },
     {
@@ -380,79 +380,79 @@
       "name": "가상자산",
       "phrase": "비트코인 다시 1억원",
       "sentence": "비트코인이 약 두 달 만에 국내 시장에서 1억원선을 회복했다.…",
-      "articleCount": 68,
+      "articleCount": 72,
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005129"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "휘발유 1천784원·경유 1천773원",
-      "sentence": "중동 정세의 불확실성이 지속되는 가운데 정부가 9차 석유 최고가격을 동결한다.",
-      "articleCount": 63,
-      "link": "https://www.yna.co.kr/view/AKR20260821143900003"
     },
     {
       "id": "game",
       "name": "게임",
       "phrase": "방준혁 넷마블 의장",
       "sentence": "방준혁 넷마블·코웨이 의장이 중국 텐센트가 보유한 넷마블[251270] 지분 상당수를 인수했다.",
-      "articleCount": 63,
+      "articleCount": 60,
       "link": "https://www.yna.co.kr/view/AKR20260821146900017"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "최고 금리 연 12%",
-      "sentence": "KB국민은행은 KB국민카드와 함께 카드 이용·은행 거래 실적에 따라 최고 연 12.0%의 금리를 제공하는 'K...",
-      "articleCount": 62,
-      "link": "https://www.yna.co.kr/view/AKR20260821081700002"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "美선거 앞 물가 민심에",
-      "sentence": "도널드 트럼프 미국 대통령이 향후 90일간 최대 30만t의 다진 소고기용 제품에 대해 할당량 초과 관세를 ...",
-      "articleCount": 59,
-      "link": "https://www.yna.co.kr/view/AKR20260822001851071"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "서귀포 하예포구서 70대 남성 물에 빠져 숨져",
-      "sentence": "서귀포의 한 포구에서 물에 빠진 70대 남성이 발견돼 병원으로 이송했으나 끝내 숨졌다.",
-      "articleCount": 58,
-      "link": "https://www.yna.co.kr/view/AKR20260822029300056"
     },
     {
       "id": "climate",
       "name": "환경·기후",
       "phrase": "폭염 속 바닷가 고양이들",
       "sentence": "길고양이는 사는 일이 고단해도 계절을 건너는 법을 안다.",
-      "articleCount": 57,
+      "articleCount": 58,
       "link": "https://www.nocutnews.co.kr/news/6566408"
     },
     {
-      "id": "labor",
-      "name": "노동",
-      "phrase": "26일 판교역 광장서 공동행동",
-      "sentence": "카카오[035720] 노조가 오는 26일 오후 1시 판교역 광장에서 카카오 공동체 공동교섭 선포식과 카카오뱅크...",
-      "articleCount": 49,
-      "link": "https://www.yna.co.kr/view/AKR20260821166700017"
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "휘발유 1천784원·경유 1천773원",
+      "sentence": "중동 정세의 불확실성이 지속되는 가운데 정부가 9차 석유 최고가격을 동결한다.",
+      "articleCount": 57,
+      "link": "https://www.yna.co.kr/view/AKR20260821143900003"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "서귀포 하예포구서 70대 남성 물에 빠져 숨져",
+      "sentence": "서귀포의 한 포구에서 물에 빠진 70대 남성이 발견돼 병원으로 이송했으나 끝내 숨졌다.",
+      "articleCount": 53,
+      "link": "https://www.yna.co.kr/view/AKR20260822029300056"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "美선거 앞 물가 민심에",
+      "sentence": "도널드 트럼프 미국 대통령이 향후 90일간 최대 30만t의 다진 소고기용 제품에 대해 할당량 초과 관세를 ...",
+      "articleCount": 52,
+      "link": "https://www.yna.co.kr/view/AKR20260822001851071"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "美국채금리 상승에도 저가 매수세에 반등",
+      "sentence": "21일(현지시간) 미국 뉴욕 증시는 미 국채 금리의 상승세에도 저가 매수세가 유입되면서 3대 주요 지수가 일...",
+      "articleCount": 48,
+      "link": "https://www.yna.co.kr/view/AKR20260822006200072"
     },
     {
       "id": "science",
       "name": "우주·과학",
       "phrase": "인천 백령도·대청도 호우주의보 해제",
       "sentence": "(인천=연합뉴스) 기상청은 백령도·대청도에 발령했던 호우주의보를 22일 오후 1시 20분을 기해 해제했다고 밝혔다.",
-      "articleCount": 49,
+      "articleCount": 46,
       "link": "https://www.yna.co.kr/view/AKR20260822028500527"
+    },
+    {
+      "id": "labor",
+      "name": "노동",
+      "phrase": "26일 판교역 광장서 공동행동",
+      "sentence": "카카오[035720] 노조가 오는 26일 오후 1시 판교역 광장에서 카카오 공동체 공동교섭 선포식과 카카오뱅크...",
+      "articleCount": 45,
+      "link": "https://www.yna.co.kr/view/AKR20260821166700017"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "평양 백화점에 명품 즐비해도",
       "sentence": "북한이 우크라이나 파병을 통한 러시아와 밀착으로 유례없는 호황을 누리고 있지만 근본적인 경제변화에는 한계가 있...",
-      "articleCount": 31,
+      "articleCount": 33,
       "link": "https://www.yna.co.kr/view/AKR20260822017000009"
     },
     {
@@ -466,10 +466,10 @@
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "투수들이 지친 것 같아서",
-      "sentence": "[고척=스포츠조선 이종서 기자] 키움 히어로즈의 이강준(25)이 군 복무를 마치고 돌아왔다.",
-      "articleCount": 20,
-      "link": "https://www.chosun.com/sports/baseball/2026/08/22/HEZTCMBXHEZDKZBRMJRTKYRRMM/"
+      "phrase": "충격 국내 유일 돔구장인데 물이 또 샌다",
+      "sentence": "[고척=스포츠조선 이종서 기자] 고척돔에서 물이 새기 시작했다.",
+      "articleCount": 18,
+      "link": "https://www.chosun.com/sports/baseball/2026/08/22/GZRGKYZSMVRDEZBYGVRGGMJSHE/"
     }
   ],
   "topicCatalog": [
@@ -567,7 +567,31 @@
     }
   ],
   "lottery": {
-    "lotto": null,
-    "pension": null
+    "lotto": {
+      "round": 1238,
+      "drawDate": "2026-08-22",
+      "numbers": [
+        2,
+        13,
+        18,
+        32,
+        38,
+        42
+      ],
+      "bonus": 22,
+      "firstPrizeWinners": 23,
+      "firstPrizeAmount": 1197258718,
+      "link": "https://www.dhlottery.co.kr/lt645/result"
+    },
+    "pension": {
+      "round": 329,
+      "drawDate": "2026-08-20",
+      "group": "3",
+      "number": "642752",
+      "bonus": "214026",
+      "firstPrizeWinners": 1,
+      "firstPrizeAmount": 0,
+      "link": "https://www.dhlottery.co.kr/pt720/result"
+    }
   }
 }
