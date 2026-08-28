@@ -1,47 +1,50 @@
 {
-  "generatedAt": "2026-08-28T15:05:04+09:00",
+  "generatedAt": "2026-08-29T06:49:20+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "\"손봉기 임명동의안 제출 않기로…대법원장에 재제청 요청\"",
-          "summary": "청와대가 노태악 전 대법관 후임으로 임명제청한 손봉기 대구지법 부장판사에 대한 임명동의안을 국회에 제출하지 않기로 했습니다.자세한 내용, 영상으…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726790",
-          "publishedAt": "2026-08-28T05:28:00+00:00",
-          "sourceCount": 5,
+          "title": "靑 \"손봉기 대법관 후보자 임명동의안 제출않기로…재제청 요청\"",
+          "summary": "청와대는 28일 노태악 전 대법관의 후임으로 제청된 손봉기 대구지방법원 부장판사에 대한 임명동의안을 국...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260828102151001",
+          "publishedAt": "2026-08-28T06:29:26+00:00",
+          "sourceCount": 6,
           "otherSources": [
+            "SBS",
             "경향신문",
             "동아일보",
-            "연합뉴스",
-            "조선일보"
+            "조선일보",
+            "한겨레"
           ]
         },
         {
-          "title": "한미일, 내달 7일 연합연습 ‘프리덤 에지’ 개시…“방어 성격 훈련”",
-          "summary": "한국, 미국, 일본이 내달 7일부터 11일까지 다영역 연합연습 ‘프리덤 에지’(Freedom Edge)를 실시한다.합동참모본부는 28일 “한미일 삼국은 9월 7일부터 11일까지 제주 동·남방 공해상에서 2026년 프리덤 에지 훈련을 시행할 예정”이라고 밝혔다.이어 “이번 훈련은 북한의 핵·미사일 위협에 대응하고 지역의 평화와 안정을 수호하기 위해 삼국이 연례적으로 시행하는 방어적 성격의 훈련”이라고 설명했다.프리덤 에지는 한미일 3국이 지난 2023년 캠프데이비드 정상회의에서 ‘다영역 훈련 시행’에 합의함에 따라 2024년 6월 첫 훈련을 시작으로 같은 해 11월, 지난해 9월 진행됐다.한미일은 수색구조, 미사일경보, 전략폭격기 호위 등 해상 혹은 공중에서 일회성 연합 군사훈련을 다수 실시했으나, 다영역 정례 훈련은 프리덤 에지가 처음이었다.삼국은 지난해 훈련에서 △해상미사일 방어 훈련 △대잠전 훈련 △공중 훈련 △방공 훈련 △대해적 훈련 △사이버 방어 훈련 등을 진행했다",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260828/134561589/1",
-          "publishedAt": "2026-08-28T00:40:41+00:00",
-          "sourceCount": 4,
+          "title": "광주 군 공항 이전 후보지 '무안군 망운면' 확정",
+          "summary": "광주 군 공항 이전 후보지로 전남광주 무안군 망운면 일대가 확정됐습니다.정부는 주민투표를 거쳐 올해 안에 최종 이전지를 확정하고, 오는 2032…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727350",
+          "publishedAt": "2026-08-28T14:07:00+00:00",
+          "sourceCount": 6,
           "otherSources": [
-            "SBS",
+            "경향신문",
+            "동아일보",
+            "서울신문",
             "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "위성락 “북·미 대화 재개 과정서 ‘한국 패싱’ 없도록 유의···미국과 공조”",
-          "summary": "지난 10일 청와대에서 열린 메가프로젝트 제2차 민관합동 점검회의에서 김정관 산업통상부장관이 위성락 안보실장과 이야기를 나누고 있다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608281441001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-08-28T05:41:00+00:00",
+          "title": "외교부 “고립 한국인 1명·대사관 직원 1명 네팔 군헬기로 안전지역 이송”",
+          "summary": "네팔 홍수 현장 부근에서 자발적으로 잔류해 고립됐던 한국인 직원 1명이 네팔 군당국의 도움으로 피신했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20260828/134566491/1",
+          "publishedAt": "2026-08-28T10:57:38+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "동아일보",
-            "조선일보",
+            "SBS",
+            "연합뉴스",
             "한겨레"
           ]
         }
@@ -52,44 +55,39 @@
       "name": "경제",
       "items": [
         {
-          "title": "‘모두의 AI’ 수행기관에 SKT·카카오·KT 최종 선정",
-          "summary": "전 국민 대상 인공지능(AI) 서비스 구축 사업인 ‘모두의 AI’ 프로젝트 수행기관으로 SK텔레콤, 카카오, KT 3개 컨소시엄이 최종 선정됐다고 과학기술정보통신부가 28일 밝혔다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260828500069",
-          "publishedAt": "2026-08-28T01:26:56+00:00",
-          "sourceCount": 7,
+          "title": "SKT·카카오·KT, ‘모두의 AI’ 사업자 선정…전 국민 무료 AI 만든다",
+          "summary": "연합뉴스전 국민이 무료로 사용할 수 있는 인공지능(AI) 서비스 ‘모두의 AI’ 사업자로 SK텔레콤·카카오·KT가 선정됐다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608281601001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-08-28T07:01:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "SBS",
-            "경향신문",
             "동아일보",
-            "머니투데이",
             "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "9월 전국 입주 예정 아파트 1만4천여가구…6년여 만에 최저",
-          "summary": "다음달 가을 이사철이 본격화하는 가운데 전국의 새 아파트 입주 물량이 연중 최저를 기록할 전망이다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260828051200003",
-          "publishedAt": "2026-08-28T00:56:33+00:00",
-          "sourceCount": 4,
+          "title": "내년부터 결혼하면 100만원...아이 낳으면 최대 2000만원 받는다",
+          "summary": "정부가 내년부터 혼인신고한 부부에게 100만원의 ‘혼인지원금’을 지급한다. 또 태어난 아이 1명당 거주지역 등에 따라 최대 2000만원을 준다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/economy_general/2026/08/28/HE3DCNJWGIZWKOLBGBRGGMBVG4/",
+          "publishedAt": "2026-08-28T09:13:05+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "동아일보",
-            "서울신문"
+            "경향신문",
+            "동아일보"
           ]
         },
         {
-          "title": "IPARK현대산업개발, 서울 신목초에 '심포니 교실숲' 조성",
-          "summary": "IPARK현대산업개발이 굿네이버스와 함께 서울 양천구 서울신목초등학교에 친환경 교육공간인 '심포니 교실숲'을 조성했다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/estate/2026/08/28/2026082814004475414",
-          "publishedAt": "2026-08-28T05:19:37+00:00",
-          "sourceCount": 3,
+          "title": "코로나 소상공인 빚 탕감 … 3년 이상 연체자가 대상",
+          "summary": "정부가 코로나19 피해 소상공인의 장기 연체 채무를 소각·조정하는 내용을 담은 '금리 상승기 대비 취약차주 지원 방안'을 추진한다고 28일 밝혔다. 금리 인하나 한도 상향, 이자 ..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/economy/12139053",
+          "publishedAt": "2026-08-28T08:45:43+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "서울신문",
-            "연합뉴스"
+            "동아일보"
           ]
         }
       ]
@@ -99,46 +97,43 @@
       "name": "사회",
       "items": [
         {
-          "title": "‘헌법재판관 미임명’ 한덕수 징역 5년 구형…\"국민 신뢰 배반\"",
-          "summary": "내란특검이 ‘헌법재판관 미임명’ 의혹으로 재판에 넘겨진 한덕수 전 국무총리에 대해 징역 5년을 구형했다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007066",
-          "publishedAt": "2026-08-28T03:54:00+00:00",
-          "sourceCount": 8,
+          "title": "노웅래 前의원 무죄 확정…검찰, 상고 포기",
+          "summary": "검찰이 뇌물과 불법 정치자금 수수 혐의로 기소했지만 1심과 2심에서 모두 무죄를 받은 노웅래 전 더불어민주당 의원에 대해 상고하지 않기로 했다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6569996",
+          "publishedAt": "2026-08-28T18:28:14+00:00",
+          "sourceCount": 7,
           "otherSources": [
             "SBS",
-            "경향신문",
-            "노컷뉴스",
+            "동아일보",
+            "매일경제",
+            "서울신문",
             "연합뉴스",
-            "오마이뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "천안 페인트 원료 생산 공장서 불… 3명 사망",
-          "summary": "28일 오전 11시 44분께 충남 천안시 동남구의 한 페인트 원료 생산 공장에서 원인 미상의 폭발과 함께 화재가 발생했다. 신고를 받고 출동한 소방 당국은 20여분 만인 이날 낮 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12138809",
-          "publishedAt": "2026-08-28T05:43:00+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
-            "국민일보",
-            "동아일보",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "천안 공장 화재현장서 실종 2명 숨진 채 발견…사망 총 3명",
-          "summary": "충남 천안의 한 공장에서 원인 미상의 폭발로 불이 나 3명이 숨졌다.…",
-          "source": "노컷뉴스",
-          "link": "https://www.nocutnews.co.kr/news/6569721",
-          "publishedAt": "2026-08-28T13:47:10+00:00",
-          "sourceCount": 5,
+          "title": "조희대 대법원장 \"심려끼쳐 국민께 죄송…내주 공식입장 낼 것\"",
+          "summary": "조희대 대법원장은 28일 청와대의 대법관 후보 재제청 요구에 \"국민 여러분께 심려를 끼쳐 송구하다\"며 내주 공...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260828163200004",
+          "publishedAt": "2026-08-28T09:26:29+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
             "매일경제",
-            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "조희대, 31일 법사위 불출석…\"삼권분립·사법부 독립 반해\"",
+          "summary": "조희대 대법원장이 다음 주로 예정된 국회 법제사법위원회 긴급현안질의에 불출석하겠다는 의사를 밝혔다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6570021",
+          "publishedAt": "2026-08-28T20:12:45+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "동아일보",
             "조선일보"
           ]
         }
@@ -149,25 +144,11 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프, 온타리오호 명칭 ‘아메리카호’ 변경 행정명령 서명",
-          "summary": "도널드 트럼프 미국 대통령이 27일(현지시각) 미국과 캐나다 국경에 자리한 온타리오호 명칭을 아메리카호로 바꾸는 행정명령에 서명했다.…",
+          "title": "‘네팔·중국 대홍수’ 사망자 584명, 실종자 2482명",
+          "summary": "네팔과 중국 경계인 히말라야 산악 지대에서 대규모 홍수가 발생한 지 사흘째인 28일(현지 시각) 파악된 사망자는 584명인 것으로 집계됐다.…",
           "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/08/28/MY4DIMDEMJTDMNDEGE2DGMBZMI/",
-          "publishedAt": "2026-08-27T21:00:33+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "동아일보",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "이란 안보수장 “호르무즈 재개방 조건 작성 중…역내 종전 포함”",
-          "summary": "이란이 중재국의 요청에 따라 호르무즈 해협 재개방을 위한 조건 목록을 작성 중이며, 여기에는 역내 전쟁 종식이 포함된다고 이란 안보 수장이 27일(현지 시간) 밝혔다.타임스오브이스라엘(TOI) 등 외신에 따르면 모흐센 레자이 이란 최고국가안보회의(SNSC) 사무총장은 이날 레바논 알마나르TV 인터뷰에서 “이란은 오만과 호르무즈 해협을 통과하는 선박 운항 통로에 합의했다”며 “항로 일부는 오만 영해를, 나머지는 이란 영해를 통과하게 된다”고 말했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260828/134561238/1",
-          "publishedAt": "2026-08-27T23:47:32+00:00",
+          "link": "https://www.chosun.com/international/international_general/2026/08/29/MIYWCYJSGFSDGZBYHBQWMOBQMY/",
+          "publishedAt": "2026-08-28T15:05:15+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
@@ -176,15 +157,27 @@
           ]
         },
         {
-          "title": "‘네팔 대홍수’ 사망자 359명으로 급증…실종자도 823명",
-          "summary": "실종 외국인 30여개국 500여명 교량 80개·도로 40㎞ 파손중국 국경 인근에 있는 네팔 히말라야 산악지대에서 대규모 홍수가 발생한 지 이틀째인 27일(현지시간) 사망자 수가 3..",
+          "title": "워시 연준의장, 미국 물가상승률에 “우려스럽다”",
+          "summary": "‘젝슨홀 데뷔’ 워시, 매파적 발언 물가 안정 강조…미국 증시 혼조향후 미국 연방준비제도(Fed·연준)의 금리경로를 예측하는 잭슨홀 회의에서 케빈 워시 연준의장은 28일(현지시간)..",
           "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12138309",
-          "publishedAt": "2026-08-27T12:54:05+00:00",
+          "link": "https://www.mk.co.kr/news/world/12139231",
+          "publishedAt": "2026-08-28T14:12:49+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "네팔 대홍수 실종자 977명→1924명 급증…사망 579명",
+          "summary": "네팔 대홍수로 발생한 실종자가 사흘째 접어든 현재까지 1924명에 이른다고 외신들이 네팔 당국자를 인용해 28일(현지시간) 보도했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20260828/134567237/1",
+          "publishedAt": "2026-08-28T14:57:00+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "연합뉴스",
+            "한겨레"
           ]
         }
       ]
@@ -194,37 +187,35 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "SK하이닉스 \"HBM, 메이드인 USA\"...美 인디애나 팹 기공식 개최",
-          "summary": "SK하이닉스가 미국 메모리반도체 생산거점(팹) 구축을 본격화했다. 미국 인디애나 팹 기공식을 개최했다. 40억달러(약 5조5300억원)를 투자한다.…",
+          "title": "삼성·SK·LG, 집중호우 피해 복구 지원 '한 마음 한 뜻'",
+          "summary": "삼성 SK LG가 집중호우 피해 복구를 위해 팔을 걷었다.…",
           "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=154713",
-          "publishedAt": "2026-08-28T07:19:24+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "전자신문"
-          ]
-        },
-        {
-          "title": "AI 수요에 파운드리 시장 29% 성장⋯TSMC 점유율 73% '독주'",
-          "summary": "인공지능(AI) 반도체 수요가 급증하면서 올해 2분기 글로벌 순수 파운드리 시장이 두 자릿수 성장세를 기록했다.…",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/1999415",
-          "publishedAt": "2026-08-28T04:13:40+00:00",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154729",
+          "publishedAt": "2026-08-28T15:33:27+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
           ]
         },
         {
-          "title": "SK하이닉스, 2029년 첫 미국산 HBM 양산…인디애나 팹 착공",
-          "summary": "SK하이닉스가 고대역폭메모리(HMB) 생산거점이 될 미국 인디애나주 첨단 패키징 공장 건설을 본격화한다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=672032",
-          "publishedAt": "2026-08-28T03:53:18+00:00",
+          "title": "YTN·연합뉴스TV 승인기간 3개월 단축…사장추천위 구성 재명령",
+          "summary": "[지디넷코리아]방송미디어통신위원회가 사장추천위원회를 구성하지 않아 방송법 위반 상태가 이어지고 있는 YTN과 연합뉴스TV에 승인 유효기간을 각각 3개월 단축하는 처분을 내렸다.방미통위는 28일 제31차 전체회의를 열고 YTN과 연합뉴스TV에 대해 승인 유효기간 3개월 단축을 의결했다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20260828191219",
+          "publishedAt": "2026-08-28T10:12:19+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "아이뉴스24"
+            "연합뉴스"
           ]
+        },
+        {
+          "title": "빙하, 산악 주민 ‘젖줄’서 ‘온난화 시한폭탄’으로…누구의 책임인가",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/science/science_general/1275167.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -233,34 +224,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "두나무, 비자와 스테이블코인 결제·송금 서비스 협력",
-          "summary": "가상자산 거래소 업비트를 운영하는 두나무는 글로벌 결제기업 비자(Visa)와 스테이블코인·인공지능(AI) 기반...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260828044200002",
-          "publishedAt": "2026-08-28T00:37:50+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "동아일보",
-            "아시아경제"
-          ]
+          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 3억9446만달러 청산",
+          "summary": "지난 24시간 암호화폐 시장에서 3억9446만달러(약 5449억8017만원) 규모의 레버리지 포지션이 청산됐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/briefing/400078",
+          "publishedAt": "2026-08-28T19:56:53+00:00",
+          "sourceCount": 1,
+          "otherSources": []
         },
         {
-          "title": "2억4200만달러 비트코인 ETF, 9일째 순유입",
-          "summary": "미국 비트코인(BTC) 현물 상장지수펀드(ETF)에 27일 거래분 기준 2억4200만 달러(약 3340억원)가 순유입됐다.…",
+          "title": "비트코인 7만6877달러 후퇴, 8만4000달러 베팅 우위",
+          "summary": "비트코인(BTC)이 케빈 워시(Kevin Warsh) 미국 연방준비제도(Fed·연준) 의장의 잭슨홀 발언 뒤 장중 7만6877달러(약 1억624만원)까지 밀렸다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/399537",
-          "publishedAt": "2026-08-28T04:28:00+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "블록미디어"
-          ]
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/400105",
+          "publishedAt": "2026-08-28T21:33:32+00:00",
+          "sourceCount": 1,
+          "otherSources": []
         },
         {
-          "title": "앤셈 \"2017년 알트코인도 밈코인 성격\"",
-          "summary": "암호화폐 트레이더 앤셈(Ansem)이 2017년 알트코인과 현재 밈코인은 본질적으로 다르지 않다고 주장했다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/399549",
-          "publishedAt": "2026-08-28T04:38:20+00:00",
+          "title": "‘워시 잭슨홀 쇼크’ 코인 급락… 비트코인 8만달러 붕괴",
+          "summary": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장이 일제히 하락했다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1133601?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-08-28T21:13:33+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -271,38 +257,37 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "초대박! 韓 축구 에이스 또또또 격돌…이강인vs김민재, UCL '코리안 더비' 3연속 성사",
-          "summary": "[스포츠조선 김가을 기자]유럽 '별들의 무대'에서 또 한번 '코리안 더비'가 펼쳐진다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/world-football/2026/08/28/MU2TEZLBMVRDKYJWG4ZDSYTGGU/",
-          "publishedAt": "2026-08-28T04:57:00+00:00",
-          "sourceCount": 3,
+          "title": "여자배구 정관장 고희진 감독 자진 사퇴…\"후임자 신속히 선임\"",
+          "summary": "여자 프로배구 정관장 고희진 감독이 올해 1월 선수단 회식 자리에서 일어난 사건에 책임지고 스스로 지휘봉을 반...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260828126651007",
+          "publishedAt": "2026-08-28T07:25:46+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "동아일보",
-            "연합뉴스"
+            "조선일보",
+            "한겨레"
           ]
         },
         {
-          "title": "'4연패 끊은 멀티골' 안양 마테우스, K리그1 25라운드 MVP",
-          "summary": "프로축구 FC안양의 마테우스가 팀의 연패를 끊고 라운드 최우수선수(MVP)로 뽑혔다.",
+          "title": "프로야구 부산·광주·대전·대구 경기 우천 취소",
+          "summary": "28일 오후 6시 30분 부산 사직구장에서 열릴 예정이던 프로야구 LG 트윈스-롯데 자이언츠 경기와 대전 NC...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260828064500007",
-          "publishedAt": "2026-08-28T01:36:56+00:00",
-          "sourceCount": 3,
+          "link": "https://www.yna.co.kr/view/AKR20260828140552007",
+          "publishedAt": "2026-08-28T08:04:08+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "동아일보",
             "조선일보"
           ]
         },
         {
-          "title": "조규성, 또 헤더로 시즌 2호골…미트윌란 UECL 본선 진출",
-          "summary": "축구 국가대표 공격수 조규성(미트윌란)이 헤더로 2호골을 터트리며 소속팀의 유럽축구연맹(UEFA) 콘퍼런스리그(UECL) 본선 진출을 견인했다.미트윌란은 28일(한국 시간) 크로아티아 리예카의 스타디온 HNK 리예카에서 열린 2026~2027시즌 UECL 플레이오프(PO) 2차전 리예카(크로아티아)와의 원정 경기에서 4-1 대승을 거뒀다.벤치에서 경기를 시작한 조규성은 팀이 3-1로 앞서던 후반 12분 스탠리 이헤아나초와 교체 투입돼 그라운드를 밟았다.그리고 후반 33분 4-1 승리에 쐐기를 박는 득점포를 가동했다.코너킥 찬스에서 날아올라 헤더로 마무리했다.지난 21일 1차전 홈 경기에서 헤더로 시즌 마수걸이 골을 터트렸던 조규성은 또 머리로 시즌 2호골을 터트렸다.조규성의 활약 속에 미트윌란은 1, 2차전 합계 점수 6-1 대승을 거둬 UECL 본선으로 향했다.UECL 본선은 총 36개 팀이 경쟁한다.최근 K리그1 전북 현대를 떠나 츠르베나 즈베즈다(세르비아)에 입",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260828/134561129/1",
-          "publishedAt": "2026-08-27T23:11:41+00:00",
-          "sourceCount": 3,
+          "title": "'오디세이' 800만명 돌파…'스파이더맨 4'·'왕사남'보다 빨라",
+          "summary": "크리스토퍼 놀런 감독의 영화 '오디세이'가 28일 '스파이더맨: 브랜드 뉴 데이'(이하 '스파이더맨 4')와 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260828169600005",
+          "publishedAt": "2026-08-28T10:27:05+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "조선일보",
             "한겨레"
           ]
         }
@@ -321,178 +306,178 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "헌법재판관 미임명 한덕수 징역 5년 구형",
-      "sentence": "내란특검이 ‘헌법재판관 미임명’ 의혹으로 재판에 넘겨진 한덕수 전 국무총리에 대해 징역 5년을 구형했다.…",
+      "phrase": "노웅래 상고 포기해 무죄 확정",
+      "sentence": "뇌물·불법 정치자금 수수 혐의로 재판에 넘겨졌다가 1·2심에서 무죄를 선고받은 더불어민주당 노웅래 전 의원에 ...",
       "articleCount": 250,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007066"
+      "link": "https://www.yna.co.kr/view/AKR20260828119851004"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "네팔 대홍수 사망자 359명으로 급증",
-      "sentence": "실종 외국인 30여개국 500여명 교량 80개·도로 40㎞ 파손중국 국경 인근에 있는 네팔 히말라야 산악지대에서 대규모 홍수가 발생한 지 이틀째인 27일(현지시간…",
+      "phrase": "네팔·중국 대홍수 사망자 584명",
+      "sentence": "네팔과 중국 경계인 히말라야 산악 지대에서 대규모 홍수가 발생한 지 사흘째인 28일(현지 시각) 파악된 사망자는 584명인 것으로 집계됐다.…",
       "articleCount": 250,
-      "link": "https://www.mk.co.kr/news/world/12138309"
+      "link": "https://www.chosun.com/international/international_general/2026/08/29/MIYWCYJSGFSDGZBYHBQWMOBQMY/"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "PGA 투어 플레이오프 최종전 첫날 공동 15위",
-      "sentence": "김주형이 시즌 최강자를 가리는 미국프로골프(PGA) 투어 플레이오프 최종전 투어 챔피언십(총상금 4천만달러) ...",
-      "articleCount": 179,
-      "link": "https://www.yna.co.kr/view/AKR20260828020300007"
+      "phrase": "잠실구장을 비롯 프로야구 5개 전 구장 우천",
+      "sentence": "[OSEN=잠실, 민경훈 기자] 28일 서울 잠실야구장에서 ‘2026 신한 SOL Bank KBO리그’ 두산 베어스와 키움 히어로즈의 경기가 열릴 예정이었으나 우…",
+      "articleCount": 156,
+      "link": "https://www.chosun.com/sports/sports_photo/2026/08/28/GRTDOYJVHEZTCMZRGBSTKNZQGI/"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "메이드 인 USA HBM 만든다",
-      "sentence": "SK하이닉스가 미국에 차세대 HBM(고대역폭메모리) 생산거점을 구축한다.SK하이닉스는 27일(현지시간) 인디애나주 웨스트 라피엣의 퍼듀대학교 할로웨이 체육관에서…",
-      "articleCount": 149,
-      "link": "https://www.donga.com/news/Economy/article/all/20260828/134561712/1"
-    },
-    {
-      "id": "semiconductor",
-      "name": "반도체",
-      "phrase": "인디애나서 年수십만장 메이드인 USA HBM",
-      "sentence": "인공지능(AI) 산업의 핵심 요소인 첨단 고대역폭 메모리(HBM)가 우리 기업...",
-      "articleCount": 134,
-      "link": "https://www.yna.co.kr/view/AKR20260827025551071"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "코로나 피해 소상공인 채무조정",
-      "sentence": "정부가 본격적인 금리 상승기에 직격탄을 맞을 우려가 있는 '코로나 피해 소상공인'의 3년 넘는 연체 채무를 소...",
-      "articleCount": 123,
-      "link": "https://www.yna.co.kr/view/AKR20260827174900002"
+      "phrase": "유학생 살해 혐의 중국인 사이코패스 검사",
+      "sentence": "경산 중국인 유학생 살해 피의자가 지난 27일 영장실질심사를 받은 뒤 대구지방법원을 나서고 있다.…",
+      "articleCount": 153,
+      "link": "https://www.khan.co.kr/article/202608280912001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "9월 전국 입주 예정 아파트 1만4천여가구",
-      "sentence": "다음달 가을 이사철이 본격화하는 가운데 전국의 새 아파트 입주 물량이 연중 최저를 기록할 전망이다.",
-      "articleCount": 115,
-      "link": "https://www.yna.co.kr/view/AKR20260828051200003"
+      "phrase": "초등생 사망 이삿짐차 사다리 작업자 2명 구속",
+      "sentence": "아파트 단지 내에서 이삿짐 운반용 사다리차를 작동하다 넘어뜨려 등교하던 초등학생을 숨지게 한 작업자 2명이 구...",
+      "articleCount": 110,
+      "link": "https://www.yna.co.kr/view/AKR20260828163000063"
     },
     {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "나스닥 1.57%↑",
-      "sentence": "뉴욕증시는 27일(현지시간) 엔비디아 호실적과 그에 따른 기술주 랠리로 일제히 상승했다.",
-      "articleCount": 109,
-      "link": "https://www.yna.co.kr/view/AKR20260828005952072"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "천안 페인트 원료 생산공장 화재",
-      "sentence": "충남 천안의 한 페인트 원료 생산 공장에서 불이나 3명의 사망자가 발생했다.",
-      "articleCount": 105,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007092"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "트랜스포머 옵티머스 프라임 성우 피터 컬런 별세",
-      "sentence": "영화·애니메이션 ‘트랜스포머’ 시리즈에서 주연 캐릭터 옵티머스 프라임의 목소리를 연기했던 성우 피터 컬런이 26일(현지 시간) 별세했다.…",
-      "articleCount": 105,
-      "link": "https://www.donga.com/news/Culture/article/all/20260828/134562229/1"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "캐나다 도발 행정명령",
-      "sentence": "최우방 캐나다와 무역전쟁에 돌입한 도널드 트럼프 미국 대통령이 미국과 캐나다 사이의 온타리오호를 '아메리카...",
-      "articleCount": 104,
-      "link": "https://www.yna.co.kr/view/AKR20260828003252071"
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "후보지로 무안군 망운면 일대 확정",
+      "sentence": "호남권 반도체 클러스터가 들어설 광주 군공항 이전 후보지로 전남 무안이 확정됐다.",
+      "articleCount": 107,
+      "link": "https://www.yna.co.kr/view/AKR20260828160900504"
     },
     {
       "id": "industry",
       "name": "산업·기업",
-      "phrase": "폴리펩타이드 인수·시설 투자",
-      "sentence": "삼성바이오로직스[207940]는 타법인증권취득자금 등 약 3조원을 조달하고자 주주배정 후 실권주 일반공모 유상...",
-      "articleCount": 88,
-      "link": "https://www.yna.co.kr/view/AKR20260828020851008"
+      "phrase": "도요타 레벨 2++ 자율주행 자체 개발",
+      "sentence": "세계 1위 완성차 업체인 도요타자동차가 운전자의 조작이 거의 없이 주행하는 '레벨 2++' 기술을 자체 개발...",
+      "articleCount": 100,
+      "link": "https://www.yna.co.kr/view/AKR20260828108200073"
     },
     {
-      "id": "game",
-      "name": "게임",
-      "phrase": "트레이닝 카드 게임 스태커배틀 개발사",
-      "sentence": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] 크릿벤처스가 오리지널 트레이딩 카드 게임…",
-      "articleCount": 84,
-      "link": "https://www.mt.co.kr/future/2026/08/28/2026082809540650813"
+      "id": "stock",
+      "name": "증시",
+      "phrase": "워시 매파 연설에 하락",
+      "sentence": "뉴욕증시는 28일(현지시간) 케빈 워시 미국 연방준비제도(연준·Fed) 의장의 매파적(통화긴축 선호) 발언들...",
+      "articleCount": 96,
+      "link": "https://www.yna.co.kr/view/AKR20260829007000072"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "기준금리 연 2.75%→3.00%",
-      "sentence": "성장·근원물가 강세에 긴축 기조 유지 올해 성장률 전망 2.6%→3.3% 상향한국은행이 기준금리를 두 달 연속 인상하며 1년 9개월 만에 기준금리 3%대 시대를…",
-      "articleCount": 81,
-      "link": "https://www.mk.co.kr/news/economy/12137506"
+      "phrase": "연준 의장 물가 상승 우려",
+      "sentence": "미국 중앙은행인 연방준비제도 의장이 지금의 물가 지표가 우려스러운 상황이라고 말했습니다.…",
+      "articleCount": 90,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727554"
     },
     {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "OPEC 탈퇴 도미노 오나",
-      "sentence": "세계 최대 원유 매장량을 가진 베네수엘라도 석유수출국기구(OPEC) 탈퇴를 검토하고 있다고 블룸버그통신이 28...",
-      "articleCount": 73,
-      "link": "https://www.yna.co.kr/view/AKR20260828033600009"
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "고강도 반도체 관세 카드 만지작···대미 투자",
+      "sentence": "AP연합뉴스도널드 트럼프 미국 행정부가 반도체에 고율 관세를 부과해 해외 반도체 기업들의 생산기지를 미국으로 이전하도록 압박하는 방안을 검토 중이라고 미 정치전문…",
+      "articleCount": 88,
+      "link": "https://www.khan.co.kr/article/202608281237001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "전 국민 잡아라 SKT·KT·카카오 모두의",
-      "sentence": "정부의 '전 국민 AI 서비스 보편적 활용 지원(모두의 AI)' 사업자로 선정된 SK텔레콤과 KT, 카카오가 전 국민 AI 서비스 경쟁에 나선다.…",
-      "articleCount": 71,
-      "link": "https://www.mt.co.kr/tech/2026/08/28/2026082811102032086"
-    },
-    {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "태풍 사우델 중국 남동부 상륙",
-      "sentence": "제18호 태풍 '사우델'이 28일 중국 남동부에 상륙하면서 저장성과 푸젠성 등 중국 9개 성·자치구에 강한...",
-      "articleCount": 64,
-      "link": "https://www.yna.co.kr/view/AKR20260828082900083"
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "올림픽공원시위로 박재범 등 공연 줄취소",
+      "sentence": "서울 올림픽공원 핸드볼경기장 개표소 시위로 예정됐던 공연이 잇따라 취소되면서 지금까지 10억원이 넘는 대관료가...",
+      "articleCount": 87,
+      "link": "https://www.yna.co.kr/view/AKR20260828171200004"
     },
     {
       "id": "science",
       "name": "우주·과학",
       "phrase": "靑 북미대화 재개때 한국 패싱 없도록",
       "sentence": "위성락 청와대 국가안보실장이 28일 최근 북한과 미국의 대화 기류와 관련해 “우리는 한반도 평화의 당사자이자 ‘페이스메이커’로서, 도널드 트럼프 미국 대통령의 노…",
-      "articleCount": 62,
+      "articleCount": 85,
       "link": "https://www.donga.com/news/Politics/article/all/20260828/134562488/1"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "홈플러스 공익채권 분할상환 동의 절실",
+      "sentence": "홈플러스는 회생절차 수행을 위해 공익채권자들에게 분할상환 동의를 요청했다고 28일 밝혔다.",
+      "articleCount": 83,
+      "link": "https://www.yna.co.kr/view/AKR20260828110900030"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "인천 연수구 다가구주택서 화재",
+      "sentence": "인천의 한 다가구 주택에서 불이 나 1명이 심정지 상태로 병원에 이송되고 4명이 크고 작은 부상을 입었다.",
+      "articleCount": 80,
+      "link": "https://www.yna.co.kr/view/AKR20260829007200065"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "블룸버그 베네수엘라 OPEC 탈퇴",
+      "sentence": "오스트리아 빈에 있는 석유수출국기구(OPEC) 본부.…",
+      "articleCount": 73,
+      "link": "https://www.khan.co.kr/article/202608280943001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "SBS 골때녀 핸드볼컵 아시안게임 기간 4회",
+      "sentence": "SBS 인기 예능프로그램인 '골(Goal) 때리는 그녀들'(이하 '골때녀')이 축구에서 핸드볼로 영역을 넓힌다...",
+      "articleCount": 66,
+      "link": "https://www.yna.co.kr/view/AKR20260828045900007"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "SKT 종합 1위",
+      "sentence": "과기정통부, 독파모 2차 단계평가 세부점수 공개…SK텔레콤 1위, 모티프는 공식 이의신청",
+      "articleCount": 56,
+      "link": "https://www.donga.com/news/It/article/all/20260828/134562184/2"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "태풍 사우델 중국 남동부 상륙",
+      "sentence": "제18호 태풍 '사우델'이 28일 중국 남동부에 상륙하면서 저장성과 푸젠성 등 중국 9개 성·자치구에 강한...",
+      "articleCount": 55,
+      "link": "https://www.yna.co.kr/view/AKR20260828082900083"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "비자와 스테이블코인 결제·송금 서비스 협력",
-      "sentence": "가상자산 거래소 업비트를 운영하는 두나무는 글로벌 결제기업 비자(Visa)와 스테이블코인·인공지능(AI) 기반...",
-      "articleCount": 49,
-      "link": "https://www.yna.co.kr/view/AKR20260828044200002"
+      "phrase": "게임스컴서 만난 DMCC·넥써쓰",
+      "sentence": "[지디넷코리아][쾰른(독일)=진성우 기자] 세계 최대 게임 전시회 '게임스컴 2026'이 열린 독일 쾰른 전시장, 두바이 복합상품센터(DMCC)와 넥써쓰가 한자리…",
+      "articleCount": 44,
+      "link": "https://zdnet.co.kr/view/?no=20260828170531"
     },
     {
       "id": "retail",
       "name": "유통·소비",
-      "phrase": "레일플러스 교통카드 901세트 한정 판매",
-      "sentence": "다음달 1일 KTX와 SRT의 통합 운영 개시를 맞아 한국철도공사(코레일)와 코레일유통이 기념 이벤트를 선보인다.코레일은 9월 1일부터 ‘고속철도 통합 기념 레일…",
-      "articleCount": 44,
-      "link": "https://www.donga.com/news/Economy/article/all/20260828/134562251/1"
-    },
-    {
-      "id": "fx",
-      "name": "환율",
-      "phrase": "외환위기 이후 최대 감소폭",
-      "sentence": "지난해 건설업체 시공 실적이 1998년 외환위기 이후 가장 큰 폭으로 뒷걸음질쳤다.…",
-      "articleCount": 37,
-      "link": "https://www.donga.com/news/Economy/article/all/20260828/134562098/1"
+      "phrase": "6월에도 이해충돌 논란 쿠팡 주식 매매",
+      "sentence": "도널드 트럼프 미국 대통령이 올해 6월에도 미 뉴욕증시에 상장된 쿠팡 주식을 거래한 것으로 확인됐다.",
+      "articleCount": 39,
+      "link": "https://www.yna.co.kr/view/AKR20260829002600071"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "인천공항 보안검색요원들 X레이 판독시간 지켜져야",
-      "sentence": "인천국제공항 보안검색 노동자들이 엑스레이(X-ray) 판독 시간 운영에 문제점이 있다며 실태 점검을 촉구하고 ...",
-      "articleCount": 34,
-      "link": "https://www.yna.co.kr/view/AKR20260828088100065"
+      "phrase": "500명 통합노조 적법 노조 지위 확인",
+      "sentence": "SK하이닉스가 최근 출범한 '하이닉스 통합노동조합'을 적법한 노동조합으로 공식 인정했습니다.현재 기존 노동조합과 임금·단체협약 교…",
+      "articleCount": 26,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008726260"
+    },
+    {
+      "id": "fx",
+      "name": "환율",
+      "phrase": "13개월 만에 최저",
+      "sentence": "원/달러 환율이 1,371원대로 내려가며 13개월 만에 최저치를 기록했다.",
+      "articleCount": 19,
+      "link": "https://www.yna.co.kr/view/AKR20260828135000002"
     }
   ],
   "topicCatalog": [
