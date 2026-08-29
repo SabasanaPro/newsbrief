@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-29T19:47:21+09:00",
+  "generatedAt": "2026-08-29T21:18:11+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "신속대응팀 9명 추가 파견…헬기 허가는 아직",
-          "summary": "네팔에서 연락이 두절된 우리 국민 9명을 찾기 위한 수색이 본격화하고 있습니다.…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727897",
-          "publishedAt": "2026-08-29T06:12:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "서울신문",
-            "연합뉴스",
-            "조선일보"
-          ]
-        },
-        {
           "title": "정의당 신임 당대표에 양경규 전 의원...“대중적 진보정당 만들겠다”",
           "summary": "연합뉴스정의당은 29일 신임 당대표로 양경규 전 정의당 의원을 선출했다.…",
           "source": "경향신문",
           "link": "https://www.khan.co.kr/article/202608291916001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
           "publishedAt": "2026-08-29T10:16:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "신속대응팀 9명 추가 파견…헬기 허가는 아직",
+          "summary": "네팔에서 연락이 두절된 우리 국민 9명을 찾기 위한 수색이 본격화하고 있습니다.…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727897",
+          "publishedAt": "2026-08-29T06:12:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "연합뉴스",
@@ -49,18 +49,6 @@
       "name": "경제",
       "items": [
         {
-          "title": "박정원 두산 회장 네팔로 출국… 실종 직원 수색·구조 지원",
-          "summary": "네팔 대홍수로 두산에너빌리티 직원 6명이 실종된 가운데 박정원 두산그룹 회장이 현지 수색·구조 활동을 지원하기 위해 29일 네팔로 향한다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/industry-company/2026/08/29/MJTDAOJRMI3WGYZUMM2WEOBVMU/",
-          "publishedAt": "2026-08-29T05:25:22+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "한겨레"
-          ]
-        },
-        {
           "title": "주유소 기름값 15주 연속 하락… 휘발유·경유 1800원대",
           "summary": "전국 주유소의 휘발유와 경유 가격이 소폭 내리면서 15주 연속 하락세를 이어갔다.…",
           "source": "조선일보",
@@ -70,6 +58,18 @@
           "otherSources": [
             "SBS",
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "박정원 두산 회장 네팔로 출국… 실종 직원 수색·구조 지원",
+          "summary": "네팔 대홍수로 두산에너빌리티 직원 6명이 실종된 가운데 박정원 두산그룹 회장이 현지 수색·구조 활동을 지원하기 위해 29일 네팔로 향한다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/industry-company/2026/08/29/MJTDAOJRMI3WGYZUMM2WEOBVMU/",
+          "publishedAt": "2026-08-29T05:25:22+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "한겨레"
           ]
         },
         {
@@ -160,15 +160,15 @@
           ]
         },
         {
-          "title": "뉴욕증시, 워시 연준 의장 매파 발언에 하락 마감",
-          "summary": "뉴욕증시가 케빈 워시 미국 연방준비제도(Fed·연준) 의장의 매파적 발언에 일제히 하락 마감했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/08/29/G44GIYRRGM4DOZBTHAZGCNZXGU/",
-          "publishedAt": "2026-08-28T22:14:16+00:00",
+          "title": "마을 옆 탄약창고? 러, 키이우 인근 공격…최소 27명 사망",
+          "summary": "우크라이나 수도 키이우 인근 부차 지역이 러시아의 드론 공격을 받아 최소 27명이 사망했다고 우크라이나 당...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260829044400079",
+          "publishedAt": "2026-08-29T09:38:16+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "연합뉴스"
+            "한겨레"
           ]
         }
       ]
@@ -233,11 +233,11 @@
           ]
         },
         {
-          "title": "비트코인 강세에 발맞춰 상승한 알트장⋯뚜렷해진 과열장 신호",
-          "summary": "코생지는 가격 흐름 뒤에 가려진 디지털자산 시장의 내부 움직임을 데이터로 관찰하는 블록미디어의 분석 리포트입니다.…",
-          "source": "블록미디어",
-          "link": "https://www.blockmedia.co.kr/archives/1133206?utm_source=general&utm_medium=rss",
-          "publishedAt": "2026-08-29T10:30:16+00:00",
+          "title": "리플, 런던금속거래소 재무 임원 영입 예정",
+          "summary": "리플(Ripple)이 런던금속거래소(LME) 재무 부문 임원을 영입할 예정이다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/400377",
+          "publishedAt": "2026-08-29T12:15:12+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -248,14 +248,14 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "광주 역대 최소경기 100만 관중 돌파",
-          "summary": "[OSEN=광주, 이대선 기자] 29일 광주-기아 챔피언스필드에서 2026 신한 SOL KBO리그 KIA 타이거즈와 SSG 랜더스의 경기가 열렸다.이날 KIA는 올러, SSG은 아빌라를 선발로 내세웠다.2회말 공수교대 때 광주 역대 최소경기 100만 관중 돌파를 알리는 문구가 전광판에 표시되고 있다.…",
+          "title": "두산,'키움 잡고 2연패 탈출'",
+          "summary": "[OSEN=잠실, 민경훈 기자] 29일 서울 잠실야구장에서 ‘2026 신한 SOL Bank KBO리그’ 두산 베어스와 키움 히어로즈의 경기가 열렸다.이 경기에서 두산이 키움에 7-2로 승리했다.…",
           "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/GZSDQOJYMY3TCYTBGMZTGNBWHE/",
-          "publishedAt": "2026-08-29T09:55:00+00:00",
+          "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/HE3WMMDBME3TIOBZMM2GEYTFMM/",
+          "publishedAt": "2026-08-29T11:47:00+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "한겨레"
+            "연합뉴스"
           ]
         },
         {
@@ -270,11 +270,11 @@
           ]
         },
         {
-          "title": "페덱, 타선 압도하는 투구",
-          "summary": "[OSEN=대구, 이석우 기자] 29일 대구삼성라이온즈파크에서 2026 신한 SOL KBO 리그 삼성 라이온즈와 KT 위즈의 경기가 열렸다.…",
+          "title": "KIA 나성범-SSG 아빌라, 부상은 피했다",
+          "summary": "29일 광주 기아챔피언스필드에서 열린 KIA와 SSG의 경기. 4회말 2사 KIA 나성범이 강습 타구에 맞은 SSG 선발 아빌라를 걱정하고 있다.…",
           "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/GRTGGMRXGM4TGN3CMUYDGYJYGE/",
-          "publishedAt": "2026-08-29T10:29:00+00:00",
+          "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/G42GGYRVMUZWKODDGU3DEN3EMI/",
+          "publishedAt": "2026-08-29T11:27:09+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -303,7 +303,7 @@
       "name": "AI·인공지능",
       "phrase": "모두의 AI 수행기관에 SKT·카카오·KT",
       "sentence": "전 국민 대상 인공지능(AI) 서비스 구축 사업인 ‘모두의 AI’ 프로젝트 수행기관으로 SK텔레콤, 카카오, KT 3개 컨소시엄이 최종 선정됐다고 과학기술정보통신…",
-      "articleCount": 190,
+      "articleCount": 184,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260828500069"
     },
     {
@@ -311,39 +311,47 @@
       "name": "스포츠",
       "phrase": "대관료 환불만 10억",
       "sentence": "서울 송파구 올림픽공원 핸드볼경기장 일대 개표소 봉쇄 시위로 인해 현재까지 10억 원 이상의 대관료가 환불된 것으로 나타났다.…",
-      "articleCount": 165,
+      "articleCount": 166,
       "link": "https://www.donga.com/news/Society/article/all/20260828/134567215/1"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "中유학생 살해 중국인 강사 데리고 전국 돌며",
-      "sentence": "경북 경산에서 자신의 수업을 수강한 중국인 유학생을 살해한 혐의(살인 등)로 구속된 중국인 대학 강사...",
-      "articleCount": 135,
-      "link": "https://www.yna.co.kr/view/AKR20260828175300053"
+      "phrase": "동포 유학생 살해한 20대 베트남 남성 구속",
+      "sentence": "부산에서 같은 대학에 다니는 베트남 국적 20대 여대생을 살해한 20대 베트남인 남성이 구속됐다.…",
+      "articleCount": 130,
+      "link": "https://www.nocutnews.co.kr/news/6570058"
     },
     {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "워시 연준의장 美 물가지표 더욱 우려",
-      "sentence": "케빈 워시 미국 연방준비제도(Fed·연준) 의장은 28일(현지시간) 최근 미국의...",
-      "articleCount": 100,
-      "link": "https://www.yna.co.kr/view/AKR20260828180453072"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "KIA 나성범-SSG 아빌라",
+      "sentence": "29일 광주 기아챔피언스필드에서 열린 KIA와 SSG의 경기.",
+      "articleCount": 116,
+      "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/G42GGYRVMUZWKODDGU3DEN3EMI/"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "오세훈 시장 정부 부동산 정책 목적이 오세훈",
       "sentence": "오세훈 서울시장이 탄천 물재생센터 부지에 청년주택을 공급하자는 자신의 제안을 적극 검토하겠다던 정부가 돌연 미...",
-      "articleCount": 99,
+      "articleCount": 102,
       "link": "https://www.yna.co.kr/view/AKR20260828079900004"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "추가 긴축 시사에 뉴욕증시 하락세",
+      "sentence": "로이터·연합뉴스케빈 워시 미국 연방준비제도(Fed) 의장은 28일(현지시간) “기조적 물가상승률이 분명하고 충분히 빠른 속도로 목표를 향해 움직이고 있다는 확신이…",
+      "articleCount": 97,
+      "link": "https://www.khan.co.kr/article/202608290728001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "경기 중 지소연에 예민해",
       "sentence": "여자 실업축구 WK리그 경기 중 심판이 리그 간판스타 지소연(수원FC 위민)에 대해 판정에 예민하다는 이유로 ...",
-      "articleCount": 95,
+      "articleCount": 93,
       "link": "https://www.yna.co.kr/view/AKR20260828182400007"
     },
     {
@@ -351,7 +359,7 @@
       "name": "증시",
       "phrase": "6월에도 이해충돌 논란 쿠팡 주식 매매",
       "sentence": "도널드 트럼프 미국 대통령이 올해 6월에도 미 뉴욕증시에 상장된 쿠팡 주식을 거래한 것으로 확인됐다.",
-      "articleCount": 92,
+      "articleCount": 91,
       "link": "https://www.yna.co.kr/view/AKR20260829002600071"
     },
     {
@@ -359,7 +367,7 @@
       "name": "연예·문화",
       "phrase": "포르노배우 입막음 돈 사건 법원 바꾸려다 실패",
       "sentence": "도널드 트럼프 미국 대통령이 주법원에서 유죄판결을 받은 '포르노 배우 입막음 돈 사건'의 담당 법원을 연방법원...",
-      "articleCount": 92,
+      "articleCount": 90,
       "link": "https://www.yna.co.kr/view/AKR20260829031100009"
     },
     {
@@ -367,40 +375,24 @@
       "name": "반도체",
       "phrase": "후보지로 무안군 망운면 일대 확정",
       "sentence": "호남권 반도체 클러스터가 들어설 광주 군공항 이전 후보지로 전남 무안이 확정됐다.",
-      "articleCount": 90,
+      "articleCount": 86,
       "link": "https://www.yna.co.kr/view/AKR20260828160900504"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "광주 역대 최소 100만 관중",
-      "sentence": "29일 광주 기아챔피언스필드에서 열린 KIA와 SSG의 경기.",
-      "articleCount": 88,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/GIZDOYTDHE2TCMLFMI2TIOLDMU/"
     },
     {
       "id": "health",
       "name": "건강·의료",
-      "phrase": "인천 연수구 다가구주택서 화재",
-      "sentence": "인천의 한 다가구 주택에서 불이 나 1명이 심정지 상태로 병원에 이송되고 4명이 크고 작은 부상을 입었다.",
+      "phrase": "국민의 왕 노르웨이 하랄 5세 89세로 별세",
+      "sentence": "향년 89세.…",
       "articleCount": 76,
-      "link": "https://www.yna.co.kr/view/AKR20260829007200065"
+      "link": "https://www.donga.com/news/Inter/article/all/20260828/134565245/2"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "휘발유·경유 1천800원대 유지",
       "sentence": "전국 주유소 기름값이 전주 대비 소폭 내리며 15주 연속 하락세를 이어갔다.",
-      "articleCount": 74,
+      "articleCount": 75,
       "link": "https://www.yna.co.kr/view/AKR20260828142200003"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "타선 압도하는 투구",
-      "sentence": "[OSEN=대구, 이석우 기자] 29일 대구삼성라이온즈파크에서 2026 신한 SOL KBO 리그 삼성 라이온즈와 KT 위즈의 경기가 열렸다.…",
-      "articleCount": 69,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/GRTGGMRXGM4TGN3CMUYDGYJYGE/"
     },
     {
       "id": "trade",
@@ -411,11 +403,19 @@
       "link": "https://www.khan.co.kr/article/202608280943001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
     },
     {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "SKT·카카오·KT가 만들 국민 AI 모습은",
+      "sentence": "28일 정부의 대국민 인공지능(AI) 서비스 구축 프로젝트 '모두의 AI'의 사업자로 선정된 SK텔레콤(SKT)·카카오·KT는 범용 AI 챗봇과 공공서비스 신청을…",
+      "articleCount": 58,
+      "link": "https://www.bloter.net/news/articleView.html?idxno=672073"
+    },
+    {
       "id": "science",
       "name": "우주·과학",
       "phrase": "靑 북미대화 재개때 한국 패싱 없도록",
       "sentence": "위성락 청와대 국가안보실장이 28일 최근 북한과 미국의 대화 기류와 관련해 “우리는 한반도 평화의 당사자이자 ‘페이스메이커’로서, 도널드 트럼프 미국 대통령의 노…",
-      "articleCount": 55,
+      "articleCount": 51,
       "link": "https://www.donga.com/news/Politics/article/all/20260828/134562488/1"
     },
     {
@@ -423,31 +423,31 @@
       "name": "게임",
       "phrase": "SBS 골때녀 핸드볼컵 아시안게임 기간 4회",
       "sentence": "SBS 인기 예능프로그램인 '골(Goal) 때리는 그녀들'(이하 '골때녀')이 축구에서 핸드볼로 영역을 넓힌다...",
-      "articleCount": 54,
+      "articleCount": 47,
       "link": "https://www.yna.co.kr/view/AKR20260828045900007"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "아시아 산악 빙하 9만5천개",
+      "sentence": "네팔에서 발생한 대규모 홍수의 원인이 기후변화에 따른 빙하 붕괴로 지목되고 있는 가운데 아시아 산악지역에 이처...",
+      "articleCount": 47,
+      "link": "https://www.yna.co.kr/view/AKR20260829044700009"
     },
     {
       "id": "crypto",
       "name": "가상자산",
       "phrase": "비트코인 단기 보유자 손익지표 1.03에 근접",
       "sentence": "비트코인(BTC) 단기 보유자의 실현손익 지표가 1.03 수준에 다가섰다.",
-      "articleCount": 44,
+      "articleCount": 40,
       "link": "https://www.tokenpost.kr/news/cryptocurrency/400342"
-    },
-    {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "좋은 시대 흐름 맞닿아",
-      "sentence": "가수 겸 배우 이준호가 K-문화의 국내외 위상을 끌어올린 공을 인정받아 문화체육관광부 장관상을 받았다.…",
-      "articleCount": 41,
-      "link": "https://www.nocutnews.co.kr/news/6570096"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "서경덕 굿즈 만든다고 일본땅 되나",
       "sentence": "일본 다케시마 쌀(왼쪽) 로소쿠 섬 소금(오른쪽).…",
-      "articleCount": 36,
+      "articleCount": 40,
       "link": "https://www.khan.co.kr/article/202608290836001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news"
     },
     {
@@ -455,7 +455,7 @@
       "name": "환율",
       "phrase": "베선트 엔화 불안시 美 금리상승",
       "sentence": "스콧 베선트 미국 재무장관이 지난달 미국의 이례적인 엔화 매수 개입과 관련해 엔화 시장의 급격한...",
-      "articleCount": 27,
+      "articleCount": 25,
       "link": "https://www.yna.co.kr/view/AKR20260829011451072"
     },
     {
@@ -463,7 +463,7 @@
       "name": "노동",
       "phrase": "이주노동자 인신매매성 각서 폐지 구두 약속",
       "sentence": "우즈베키스탄 국무총리실 산하 대외노동청이 한국에 송출된 자국 노동자와 체결해 온 '인신매매성 벌금 각서'를 폐지하겠다고 밝혔다.…",
-      "articleCount": 23,
+      "articleCount": 20,
       "link": "https://www.pressian.com/pages/articles/2026082823160244190&ref=rss"
     }
   ],
@@ -563,19 +563,19 @@
   ],
   "lottery": {
     "lotto": {
-      "round": 1238,
-      "drawDate": "2026-08-22",
+      "round": 1239,
+      "drawDate": "2026-08-29",
       "numbers": [
-        2,
+        11,
         13,
-        18,
+        22,
         32,
-        38,
-        42
+        33,
+        36
       ],
-      "bonus": 22,
-      "firstPrizeWinners": 23,
-      "firstPrizeAmount": 1197258718,
+      "bonus": 8,
+      "firstPrizeWinners": 13,
+      "firstPrizeAmount": 2214789375,
       "link": "https://www.dhlottery.co.kr/lt645/result"
     },
     "pension": {
