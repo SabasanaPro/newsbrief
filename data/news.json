@@ -1,44 +1,48 @@
 {
-  "generatedAt": "2026-08-30T07:46:06+09:00",
+  "generatedAt": "2026-08-30T19:47:04+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "정의당 신임 당대표에 양경규 전 의원...“대중적 진보정당 만들겠다”",
-          "summary": "연합뉴스정의당은 29일 신임 당대표로 양경규 전 정의당 의원을 선출했다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608291916001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-08-29T10:16:00+00:00",
+          "title": "신임 법무장관 후보에 김승원 지명…재경 이형일·국방 강신철",
+          "summary": "이재명 대통령이 기재, 법무, 국토 등 6개 부처 장관 교체 등 중폭 개각 인사를 단행했습니다.애초 법무장관과 중소벤처기업부 장관의 공석만 채우…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008728516",
+          "publishedAt": "2026-08-30T04:36:00+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "경향신문",
+            "동아일보",
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "李 “망국적 부동산 투기 타파…투기 부추기는 조세 시정”",
+          "summary": "이재명 대통령은 30일 “서울 수도권의 주택 조기 대량 공급은 양수겸장 정책이라 반드시 시행한다”며 수도권 주택 공급을 조기에 확대하고 부동산 투기를 억제하겠다는 정부의 정책 방향을 거듭 강조했다.이 대통령은 이날 자신의 엑스(X·옛 트위터)에 글로벌 투자은행 모건스탠리가 한국의 올해 국내총생산(GDP) 성장률 전망치를 기존보다 0.6%포인트 올린 3.4%, 2027년 전망치를 0.4%포인트 상향한 2.7%로 제시했다는 내용의 기사를 공유한 글을 재공유하며 이같이 밝혔다.이 대통령은 “부동산 투기 관심 가진 분들은 아래 기사 중 6개월 후인 ‘내년 1분기 한은 금리 3.5% 예상’, 이 부분을 특히 유의하셔야 한다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20260830/134569791/2",
+          "publishedAt": "2026-08-30T04:50:00+00:00",
           "sourceCount": 4,
           "otherSources": [
+            "SBS",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "김민석, 부산서 국힘에 \"이진숙 내쫓든지 아니면 YS사진 내려라\"",
-          "summary": "더불어민주당 김민석 대표는 29일 \"국민의힘은 김영삼(YS) 전 대통령의 정신을 계승한 것이 맞는다면 이진숙을...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260829041300001",
-          "publishedAt": "2026-08-29T08:21:23+00:00",
-          "sourceCount": 3,
+          "title": "‘네팔 대홍수’ 실종 한국인 9명, 헬기 띄워도 수색 난항···정부, 드론 투입 검토",
+          "summary": "신속대응팀·네팔군 헬기 수색, 생존자 못찾아험준한 지형·기상 악화로 지상 아닌 상공 수색만정부, 수색 범위 확대 및 드론 투입 나설 예정29일(현지시간) 네팔 비두르의 건물들이 대홍수로 인한 토사에 묻혀 있다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608301448001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-08-30T05:48:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
+            "조선일보",
             "한겨레"
-          ]
-        },
-        {
-          "title": "신속대응팀 9명 추가 파견…헬기 허가는 아직",
-          "summary": "네팔에서 연락이 두절된 우리 국민 9명을 찾기 위한 수색이 본격화하고 있습니다.…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727897",
-          "publishedAt": "2026-08-29T06:12:00+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "연합뉴스"
           ]
         }
       ]
@@ -48,47 +52,24 @@
       "name": "경제",
       "items": [
         {
-          "title": "박정원 두산 회장 네팔로 출국… 실종 직원 수색·구조 지원",
-          "summary": "네팔 대홍수로 두산에너빌리티 직원 6명이 실종된 가운데 박정원 두산그룹 회장이 현지 수색·구조 활동을 지원하기 위해 29일 네팔로 향한다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/industry-company/2026/08/29/MJTDAOJRMI3WGYZUMM2WEOBVMU/",
-          "publishedAt": "2026-08-29T05:25:22+00:00",
-          "sourceCount": 3,
+          "title": "삼전닉스 상반기 법인세 11.2조…세금도 역대 최고 수순",
+          "summary": "올해 상반기 삼성전자와 SK하이닉스의 법인세 납부액이 총 11조원을 넘어서 반기 기준 역대 2번째로 많았던 것...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260828161500003",
+          "publishedAt": "2026-08-29T21:05:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
+            "동아일보",
             "한겨레"
           ]
         },
         {
-          "title": "전국 흐리고 비…충청·전북 최대 200㎜ 이상 '폭우'",
-          "summary": "8월의 마지막 주말인 내일(30일)은 전국이 대체로 흐리고 비가 내리겠다. 충청권과 전북에는 200㎜가 넘는 비가 내릴 것으로 예상된다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/society/2026/08/29/2026082917413085928",
-          "publishedAt": "2026-08-29T09:20:03+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "한성숙, 장위 재개발 구역 찾아 “최대한 속도 낼 방안 마련”",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/economy/economy_general/1275241.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
-        }
-      ]
-    },
-    {
-      "id": "society",
-      "name": "사회",
-      "items": [
-        {
-          "title": "제주 야자수 농장 ‘사인’ 의혹에 경찰 재연 실험",
-          "summary": "연합뉴스경찰이 제주 실종신고 허위 종결 뒤 숨진 채 발견된 장모씨 사인에 대해 의혹이 계속되자, 직접 재연 실험까지 진행한 뒤 목을 매 숨지는 것이 가능하다는 결론을 내놨다.29일 연합뉴스에 따르면, 제주경찰청은 지난 27일 장씨가 숨···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202608291819001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-08-29T09:19:00+00:00",
+          "title": "구윤철 부총리, 개각 소식에 G20 출국 취소하려 했나... “예정대로 출국”",
+          "summary": "구윤철 부총리 겸 재정경제부 장관이 미국 주요 20개국(G20) 재무장관·중앙은행 총재회의 참석을 위해 인천국제공항까지 갔다가 출국을 취소하고 발길을 돌린 것으로 알려지는 해프닝이 발생했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/economy_general/2026/08/30/MFSWCM3EGY4WIODGGI3DIMLEMI/",
+          "publishedAt": "2026-08-30T05:53:18+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
@@ -97,27 +78,62 @@
           ]
         },
         {
-          "title": "경기 남양주서 아내 살해한 80대 남편 검거…\"수십 년 간병\"",
-          "summary": "경기 남양주시에서 70대 아내를 살해한 혐의로 80대 남편이 경찰에 붙잡혔습니다.남양주남부경찰서는 오늘 70대 아내 A 씨를 살해한 혐의로 80…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008727955",
-          "publishedAt": "2026-08-29T07:43:00+00:00",
+          "title": "수은, 네팔 대홍수 피해 복구에 성금 2억원 지원",
+          "summary": "한국수출입은행은 지난 26일 네팔 바그마티주 지역에서 발생한 대홍수로 큰 피해를 입은 이재민 구호를 위해 대한적십자사에 2억원을 후원했다고 30일 밝혔다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026083014200713071",
+          "publishedAt": "2026-08-30T05:20:06+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "서울신문",
-            "연합뉴스"
+            "연합뉴스",
+            "조선일보"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "사회",
+      "items": [
+        {
+          "title": "中대학강사에 살해된 中유학생 시신 추가 수습",
+          "summary": "경북 경산에서 중국인 대학 강사에 살해된 중국인 유학생의 시신을 수색 중인 경찰이 피해자 시신 일부를 추가로 수습했다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007407",
+          "publishedAt": "2026-08-30T09:44:00+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "동아일보",
+            "매일경제"
           ]
         },
         {
-          "title": "‘네팔 대홍수’ 사망자 633명으로 늘어… 실종자도 3000명",
-          "summary": "네팔과 중국을 덮친 대홍수로 인한 사망자가 633명까지 늘었다. 실종자는 양국을 합쳐 3000명에 육박한다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007257",
-          "publishedAt": "2026-08-29T06:57:00+00:00",
-          "sourceCount": 3,
+          "title": "과천시민회관 빙상장서 일산화탄소 추정 가스 누출···이용객 140명 대피",
+          "summary": "경향신문 자료사진경기 과천시민회관 내 빙상장(아이스링크)에서 가스가 누출되는 사고가 발생해 이용객들이 대피했다.30일 경기도소방재난본부에 따르면 이날 오후 1시33분쯤 과천시 과천시민회관 지하 2층 빙상장(아이스링크)에서 일산화탄소로 추정되는 가스가 누출됐다.소방당국은 “한 학생이 가스 냄새가 난다며 누워있다”는 건물 관계자의 신고를 받고 ···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608301548001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-08-30T06:48:00+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "노컷뉴스",
-            "오마이뉴스"
+            "SBS",
+            "서울신문",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "전남광주특별시, 국립의대 신설 후보대학에 ‘순천대’ 추천",
+          "summary": "전남 국립의대 신설 후보대학으로 국립순천대가 선정됐다. 민형배 전남광주통합특별시장은 30일 기자회견을 열고 “국립 의과대학 신설 후보대학으로 국립순천대학교를 선정·추천하기로 결정했다”고 밝혔다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260830500069",
+          "publishedAt": "2026-08-30T06:33:12+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "국민일보",
+            "연합뉴스",
+            "조선일보"
           ]
         }
       ]
@@ -127,40 +143,38 @@
       "name": "국제",
       "items": [
         {
-          "title": "러 드론에 키이우 인근 마을 창고 연쇄 폭발…최소 37명 사망",
-          "summary": "우크라이나 수도 키이우 일대에 사흘 연속 무더기 드론 공습이 쏟아진 가운데, 주거지 인근의 한 창고(탄약고...",
+          "title": "아이슬란드, EU 가입 협상 재개 불발…국민투표서 53% 반대",
+          "summary": "아이슬란드 국민들이 유럽연합(EU) 가입 협상 재개 찬반을 묻는 국민투표에서 '반대'를 택했다고 현지 공영방...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260829044451079",
-          "publishedAt": "2026-08-29T12:19:45+00:00",
-          "sourceCount": 4,
+          "link": "https://www.yna.co.kr/view/AKR20260830048351085",
+          "publishedAt": "2026-08-30T10:37:59+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "SBS",
             "경향신문",
             "한겨레"
           ]
         },
         {
-          "title": "“美국방, 차기 대선 출마 검토”…헤그세스 “100% 거짓”",
-          "summary": "피트 헤그세스 미국 국방 장관이 2028년 미국 대통령 선거 출마 가능성을 비공개적으로 논의하고 있다고 28일(현지 시간) 미국 NBC 방송이 보도했다.NBC는 복수의 소식통을 인용해 헤그세스 장관 부부가 지난 몇 달 동안 지인들에게 차기 대권 도전 가능성을 시사했다고 전했다.헤그세스 장관은 도널드 트럼프 미국 대통령의 ‘마가(MAGA·미국을 다시 위대하게)’ 지지층을 사로잡을 만한 여러 면모를 갖췄다고 보는 것으로 알려졌다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260829/134568203/1",
-          "publishedAt": "2026-08-29T12:35:25+00:00",
+          "title": "네팔 대홍수 닷새째 사망자 768명·실종자 3048명",
+          "summary": "AP연합뉴스네팔과 중국 국경을 잇는 히말라야 산악지대에서 대규모 산사태·홍수가 발생한 지 닷새째인 30일(현지시간) 전체 사망자 수가 768명으로 늘었다···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202608301118001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-08-30T02:18:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "연합뉴스",
-            "조선일보"
+            "한겨레"
           ]
         },
         {
-          "title": "네팔 홍수 피해 복구에 최대 7조원 추산…GDP의 10% 규모",
-          "summary": "네팔에서 발생한 대규모 홍수 피해를 복구하는 데 최대 약 7조원이 필요할 것으로 추산됐다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/08/29/MMZGEZJXGFQTENTDHBSTGZRQGY/",
-          "publishedAt": "2026-08-29T09:22:21+00:00",
-          "sourceCount": 3,
+          "title": "100여명 갇힌 네팔 발전소 터널에 공기 주입",
+          "summary": "(서울=연합뉴스) 네팔·중국 국경의 히말라야 산악지대에서 발생한 대규모 홍수로 작업자 100여명이 고립된 것으로 추정되는 수력발전소 터널에 공기...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260830042100704",
+          "publishedAt": "2026-08-30T07:32:38+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "SBS",
-            "연합뉴스"
+            "SBS"
           ]
         }
       ]
@@ -170,33 +184,37 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "신세계인터 어뮤즈, 美 노드스트롬 백화점·타겟 입점",
-          "summary": "[지디넷코리아]신세계인터네셔날의 뷰티 브랜드 어뮤즈가 미국 주요 유통업체인 노드스트롬과 타겟에 잇달아 입점한다.…",
+          "title": "李대통령, AI미래기획수석에 이해민 조국혁신당 의원 발탁",
+          "summary": "[지디넷코리아]이재명 대통령이 신임 대통령실 인공지능(AI)미래기획수석비서관에 이해민 조국혁신당 의원을 발탁했다.30일 청와대는 이 의원은 대통령실 AI미래기획수석으로 선임했다.…",
           "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20260828162553",
-          "publishedAt": "2026-08-29T21:00:03+00:00",
+          "link": "https://zdnet.co.kr/view/?no=20260830114110",
+          "publishedAt": "2026-08-30T02:41:59+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "블로터"
+          ]
+        },
+        {
+          "title": "29CM, 고객 개인정보 약 16만건 유출",
+          "summary": "무신사가 운영하는 패션 플랫폼 29CM에서 10만건이 넘는 고객 개인정보가 유출됐다. 외부에서 주문정보를 조회하는 연동 기능(API)에 비정상적인 접근이 발생하면서다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154755",
+          "publishedAt": "2026-08-30T15:57:48+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "블로터"
+          ]
+        },
+        {
+          "title": "삼성전자, 게임스컴 2026서 '플레이갤럭시 컵' 월드 파이널 개최",
+          "summary": "[지디넷코리아]삼성전자가 독일 쾰른메쎄에서 열린 '게임스컴 2026'에서 글로벌 모바일 게임 대회인 '플레이갤럭시 컵(#PlayGalaxy Cup) 월드 파이널'을 개최했다고 30일 밝혔다.올해로 6회째를 맞은 플레이갤럭시 컵은 처음으로 지역 예선과 월드 파이널로 이어지는 정규 리그 방식으로 운영됐다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20260830090222",
+          "publishedAt": "2026-08-30T07:47:43+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
           ]
-        },
-        {
-          "title": "녹아내리는 ‘제3의 극지’…네팔 히말라야 참사가 드러낸 ‘기후 불평등’",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/science_general/1275167.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "대홍수 히말라야 강 ‘평정’ 잃었다…2배속 해빙이 헤집어 상처투성이",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/science_general/1275140.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
         }
       ]
     },
@@ -216,20 +234,20 @@
           ]
         },
         {
-          "title": "리플 1.35달러 지지 시험, 1.86달러가 단기 관문",
-          "summary": "이 구간은 최근 거래 물량이 집중된 가격대로, 단기 흐름을 가르는 기술적 기준선으로 제시됐다.…",
+          "title": "이더리움 2800달러 전망, 추세선 돌파 전제",
+          "summary": "이더리움(ETH)이 비트코인(BTC) 대비 가격 흐름에서 좁은 삼각형 구간에 들어서며 단기 변동성 확대 가능성이 거론됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/400491",
-          "publishedAt": "2026-08-29T22:03:40+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/400640",
+          "publishedAt": "2026-08-30T07:31:04+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "미 지역은행 “타협 없다”…스테이블코인 예외 폐지 촉구",
-          "summary": "[멕시코=심영재 특파원] 미국 지역은행들이 스테이블코인 보상 허용에 강하게 반대하며 디지털자산(가상자산) 시장 구조 법안인 클래리티법(CLARITY Act)에 제동을 걸고 있다.…",
-          "source": "블록미디어",
-          "link": "https://www.blockmedia.co.kr/archives/1133810?utm_source=general&utm_medium=rss",
-          "publishedAt": "2026-08-29T21:59:27+00:00",
+          "title": "이더리움 2400달러 지지선 다시 시험대 올랐다",
+          "summary": "이더리움(ETH)이 2400달러 안팎에서 버티는지가 알트코인 시장의 단기 흐름을 가늠할 기술적 기준으로 떠올랐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/400676",
+          "publishedAt": "2026-08-30T10:26:46+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -240,223 +258,227 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "'K리그 100번째 경기→기자회견 불참' 유병훈 감독, 이대로 안양 떠나나...이우형 디렉터 뒤따라 '동반 사퇴설'",
-          "summary": "[OSEN=부천, 고성환 기자] FC안양의 승격을 이끈 유병훈 감독이 팀을 떠나게 될 것으로 보인다.FC안양은 29일 오후 7시 30분 부천종합운동장에서 열린 하나은행 K리그1 2026 26라운드에서 부천FC1995와 1-1로 비겼다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/football/2026/08/30/G5QWMYZQGA2TQZJUGEYTENTEMQ/",
-          "publishedAt": "2026-08-29T20:01:00+00:00",
-          "sourceCount": 2,
+          "title": "'최종일 버디쇼' 신다인, KG 레이디스 오픈 '역대 첫 2연패'",
+          "summary": "'디펜딩 챔피언' 신다인이 한국여자프로골프(KLPGA) 투어 KG 레이디스 오픈(총상금 10억원)에서 2년 연...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260830042900007",
+          "publishedAt": "2026-08-30T06:46:33+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "연합뉴스"
+            "조선일보",
+            "한겨레"
           ]
         },
         {
-          "title": "‘푸른거탑’ 배우 이용주 심장마비로 사망…향년 44세",
-          "summary": "tvN 군대 시트콤 ‘푸른거탑’으로 친숙한 배우 이용주가 세상을 떠났다. 향년 44세.29일 방송가에 따르면, 이용주는 이날 사망했다.…",
+          "title": "‘오디세이’, ‘스파이더맨 4’ 넘고 올해 개봉 외화 최고 흥행작",
+          "summary": "크리스토퍼 놀런 감독의 신작 ‘오디세이’가 올해 개봉한 외화 중 최고 흥행작에 등극했다.30일 영화관입장권 통합전산망에 따르면 ‘오디세이’ 누적 관객 수는 이날 오전 7시 기준 847만1099명이다.‘오디세이’보다 일주일 먼저 개봉한 ‘스파이더맨: 브랜드 뉴 데이’(이하 ‘스파이더맨 4’) 누적 관객 수는 845만4121명을 기록했다.이로써 ‘오디세이’는 지난 28일 누적 관객 800만 돌파에 성공한 데 이어 ‘스파이더맨 4‘를 꺾고 올해 개봉 외화 최고 흥행작이 됐다.올해 국내에 공개된 영화 중 800만명 이상 본 작품은 장항준 감독의 ’왕과 사는 남자‘(1691만명)와 ’스파이더맨 4‘ 두 편이다.’오디세이‘는 트로이 전쟁을 승리로 이끈 영웅 오디세우스가 자신의 왕국 이타카로 돌아가는 여정을 그렸다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Culture/article/all/20260829/134568233/1",
-          "publishedAt": "2026-08-29T14:52:18+00:00",
-          "sourceCount": 2,
+          "link": "https://www.donga.com/news/Culture/article/all/20260830/134569694/1",
+          "publishedAt": "2026-08-30T04:34:31+00:00",
+          "sourceCount": 3,
           "otherSources": [
+            "SBS",
             "연합뉴스"
           ]
         },
         {
-          "title": "연장 10회말 끝내기 박정우, 환호",
-          "summary": "29일 광주 기아챔피언스필드에서 열린 KIA와 SSG의 경기. 10회말 1사 만루 KIA 박정우가 끝내기 안타를 날린 뒤 환호하고 있다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/HBQTOZDGMIYGMN3GGUYTAZTFMM/",
-          "publishedAt": "2026-08-29T13:58:50+00:00",
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "메시, MLS서 첫 한 경기 4골…리그 득점 선두",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/sports/soccer/1275328.html",
+          "publishedAt": null,
+          "sourceCount": 2,
+          "otherSources": [
+            "조선일보"
+          ]
         }
       ]
     }
   ],
   "topics": [
     {
-      "id": "world",
-      "name": "국제정세",
-      "phrase": "네팔·중국 대홍수 사망자 682명으로 늘어",
-      "sentence": "네팔·중국 국경의 히말라야 산악지대에서 대규모 홍수가 발생한 지 나흘째인 29일(현지시간) 양국에서 파악...",
-      "articleCount": 224,
-      "link": "https://www.yna.co.kr/view/AKR20260829033351104"
-    },
-    {
       "id": "politics",
       "name": "정치",
-      "phrase": "헤그세스 美국방 대선출마 검토설",
-      "sentence": "피트 헤그세스 미국 국방부(전쟁부) 장관이 2028년 대통령 선거 출마를 검토하고 있다고 NBC 방송이 복수의...",
-      "articleCount": 162,
-      "link": "https://www.yna.co.kr/view/AKR20260829043900009"
+      "phrase": "신임 법무장관 후보에 김승원 지명",
+      "sentence": "신임 법무부 장관 후보자로 더불어민주당 재선 김승원 의원이 30일 발탁됐다.",
+      "articleCount": 250,
+      "link": "https://www.yna.co.kr/view/AKR20260830026351001"
+    },
+    {
+      "id": "world",
+      "name": "국제정세",
+      "phrase": "대홍수 사망자 750명으로",
+      "sentence": "네팔·중국 국경의 히말라야 산악지대를 휩쓴 대규모 홍수 발생 닷새째인 30일(현지시간) 양국 당국이 3천 ...",
+      "articleCount": 250,
+      "link": "https://www.yna.co.kr/view/AKR20260830043600084"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "대관료 환불만 10억",
-      "sentence": "서울 송파구 올림픽공원 핸드볼경기장 일대 개표소 봉쇄 시위로 인해 현재까지 10억 원 이상의 대관료가 환불된 것으로 나타났다.…",
-      "articleCount": 147,
-      "link": "https://www.donga.com/news/Society/article/all/20260828/134567215/1"
+      "phrase": "KG 레이디스 오픈 역대 첫 2연패",
+      "sentence": "'디펜딩 챔피언' 신다인이 한국여자프로골프(KLPGA) 투어 KG 레이디스 오픈(총상금 10억원)에서 2년 연...",
+      "articleCount": 197,
+      "link": "https://www.yna.co.kr/view/AKR20260830042900007"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "모두의 AI 사업자에 SKT-KT-카카오 선정",
-      "sentence": "전 국민을 대상으로 무료 인공지능(AI) 서비스를 제공하는 ‘모두의 AI’ 프로젝트 사업자로 SK텔레콤, KT, 카카오가 선정됐다.…",
-      "articleCount": 106,
-      "link": "https://www.donga.com/news/Economy/article/all/20260828/134566748/2"
+      "phrase": "이해민 AI 미래기획수석",
+      "sentence": "이재명 정부 청와대 AI 미래기획수석비서관에 30일 임명된 조국혁신당 이해민(53) 의원은 구글 출신의 초선 ...",
+      "articleCount": 165,
+      "link": "https://www.yna.co.kr/view/AKR20260830031400001"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "중국인 대학 강사에 살해된 中유학생 시신 추가",
-      "sentence": "경북 경산에서 중국인 대학 강사에 살해된 중국인 유학생의 시신을 수색 중인 경찰이 피해자 시신 일부를 추가로 ...",
-      "articleCount": 91,
-      "link": "https://www.yna.co.kr/view/AKR20260829043500053"
-    },
-    {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "푸른거탑 배우 이용주 별세",
-      "sentence": "tvN '푸른거탑', '막돼먹은 영애씨' 등에 출연한 배우 이용주가 29일 별세했다.",
-      "articleCount": 75,
-      "link": "https://www.yna.co.kr/view/AKR20260829048800005"
+      "phrase": "경북 경산 피살 유학생 시신 일부 추가 수습",
+      "sentence": "경북 경산에서 중국인 대학 강사에게 살해된 20대 중국인 여성 유학생의 시신 일부가 추가로 발견됐습니다.경북 경산경찰서는 어제 중국인 남성 30…",
+      "articleCount": 114,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008728503"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "인천 연수구 아파트서 화재",
-      "sentence": "29일 오후 5시 13분께 인천 연수구 동춘동 한 아파트 2층에서 불이 났다는 신고가 접수됐다.",
-      "articleCount": 71,
-      "link": "https://www.yna.co.kr/view/AKR20260829047100065"
+      "phrase": "李대통령 망국적 투기 반드시 타파",
+      "sentence": "이재명 대통령은 30일 \"국민주권 정부는 망국적 부동산 투기를 무슨 수를 써서라도 반드시 타파할 것\"이라며 \"...",
+      "articleCount": 107,
+      "link": "https://www.yna.co.kr/view/AKR20260830034400001"
     },
     {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "연장 10회말 끝내기 박정우",
-      "sentence": "29일 광주 기아챔피언스필드에서 열린 KIA와 SSG의 경기.",
-      "articleCount": 69,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/08/29/HBQTOZDGMIYGMN3GGUYTAZTFMM/"
+      "id": "stock",
+      "name": "증시",
+      "phrase": "새임차인에 월세 3배올려 계약무산",
+      "sentence": "건물주가 새 임차인에게 기존 월세의 3배 수준을 제시해 임대차 계약이 결렬되고 임차인 간 권리금 계약도 해제됐...",
+      "articleCount": 89,
+      "link": "https://www.yna.co.kr/view/AKR20260829044200004"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "트럼프 포르노 배우 입막음 돈 사건 연방법원",
-      "sentence": "도널드 트럼프 미국 대통령이 뉴욕주 법원에서 유죄판결을 받은 ‘포르노 배우 입막음 돈 사건’을 연방법원으로 이송하려던 시도가 또다시 좌절됐다.…",
-      "articleCount": 69,
-      "link": "https://www.chosun.com/international/international_general/2026/08/29/MUYGIOBVGFRWMZJTGRRDOZDCMY/"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "워시 연준의장 美 물가지표 더욱 우려",
-      "sentence": "케빈 워시 미국 연방준비제도(Fed·연준) 의장은 28일(현지시간) 최근 미국의...",
-      "articleCount": 65,
-      "link": "https://www.yna.co.kr/view/AKR20260828180453072"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "경기 중 지소연에 예민해",
-      "sentence": "여자 실업축구 WK리그 경기 중 심판이 리그 간판스타 지소연(수원FC 위민)에 대해 판정에 예민하다는 이유로 ...",
-      "articleCount": 64,
-      "link": "https://www.yna.co.kr/view/AKR20260828182400007"
-    },
-    {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "달성 북부·대구시 중부에 호우주의보 해제",
-      "sentence": "(대구=연합뉴스) 기상청은 달성 북부·대구시 중부에 발령했던 호우주의보를 30일 오전 6시를 기해 해제한다고 밝혔다.",
-      "articleCount": 61,
-      "link": "https://www.yna.co.kr/view/AKR20260830004800527"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "푸른거탑 배우 이용주 심장마비로 사망",
-      "sentence": "tvN 군대 시트콤 ‘푸른거탑’으로 친숙한 배우 이용주가 세상을 떠났다.",
-      "articleCount": 53,
-      "link": "https://www.donga.com/news/Culture/article/all/20260829/134568233/1"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "휘발유·경유 1천800원대 유지",
-      "sentence": "전국 주유소 기름값이 전주 대비 소폭 내리며 15주 연속 하락세를 이어갔다.",
-      "articleCount": 52,
-      "link": "https://www.yna.co.kr/view/AKR20260828142200003"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "아시안게임 앞둔 3×3 남자농구 대표팀",
-      "sentence": "아시안게임 앞둔 ‘3×3 남자농구 대표팀’ 프라임리그 5차 대회 출전",
-      "articleCount": 50,
-      "link": "https://www.hani.co.kr/arti/sports/basketball/1275116.html"
+      "phrase": "푸른거탑 배우 이용주 별세",
+      "sentence": "tvN '푸른거탑', '막돼먹은 영애씨' 등에 출연한 배우 이용주가 29일 별세했다.",
+      "articleCount": 78,
+      "link": "https://www.yna.co.kr/view/AKR20260829048800005"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "아시아 산악 빙하 9만5천개",
-      "sentence": "네팔에서 발생한 대규모 홍수의 원인이 기후변화에 따른 빙하 붕괴로 지목되고 있는 가운데 아시아 산악지역에 이처...",
-      "articleCount": 43,
-      "link": "https://www.yna.co.kr/view/AKR20260829044700009"
+      "phrase": "과천시민회관 빙상장서 가스 누출로 140여명",
+      "sentence": "30일 오후 1시 33분께 경기 과천시 과천시민회관 지하 2층 빙상장(아이스링크)에서 일산화탄소로 추정...",
+      "articleCount": 77,
+      "link": "https://www.yna.co.kr/view/AKR20260830041900061"
     },
     {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "영국 암호화폐 이익 절반",
-      "sentence": "영국에서 신고된 암호화폐 자본이득 13억8000만파운드 가운데 절반 이상이 240명에게 집중된 것으로 나타났다.…",
-      "articleCount": 42,
-      "link": "https://www.tokenpost.kr/news/policy/400471"
+      "id": "rate",
+      "name": "금리",
+      "phrase": "최대 5억·금리 1.5%",
+      "sentence": "삼성전자가 무주택 임직원을 위한 주택대출을 내달 1일부터 시작한다.",
+      "articleCount": 73,
+      "link": "https://www.donga.com/news/Economy/article/all/20260830/134569390/1"
     },
     {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "영국 집단 소송에 2억6000만파운드로 합의",
-      "sentence": "구글이 영국에서 진행된 집단 소송을 마무리하기 위해 약 2억6000만파운드(약 4880억원)를 지급하기로 합의했습니다.지난 28일(현지시간) 블룸버그 등 외신에…",
-      "articleCount": 39,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=154750"
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "우주 콘퍼런스서 한국판 스페이스X 필요 공감대",
+      "sentence": "한화그룹은 지난 29일 서울 마포구 상암동 큐브컨벤션센터에서 '한화 우주 콘퍼런스(Space, with us)...",
+      "articleCount": 73,
+      "link": "https://www.yna.co.kr/view/AKR20260830020500003"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "삼전닉스 상반기 법인세 11.2조",
-      "sentence": "올해 상반기 삼성전자와 SK하이닉스의 법인세 납부액이 총 11조원을 넘어서 반기 기준 역대 2번째로 많았던 것...",
-      "articleCount": 37,
-      "link": "https://www.yna.co.kr/view/AKR20260828161500003"
+      "phrase": "삼전닉스 상반기 법인세만 11조 원 냈다",
+      "sentence": "올 상반기(1~6월) 삼성전자와 SK하이닉스의 합계 법인세 납부액이 11조 원을 넘어섰다.",
+      "articleCount": 71,
+      "link": "https://www.donga.com/news/Economy/article/all/20260830/134570215/1"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "2030 새 일자리 역대 최소",
+      "sentence": "2030세대 청년층의 임금근로 새 일자리가 역대 가장 작은 규모로 쪼그라들었다.",
+      "articleCount": 66,
+      "link": "https://www.yna.co.kr/view/AKR20260829039900002"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "에너지 전문 관료",
+      "sentence": "30일 신설된 청와대 메가프로젝트 보좌관에 임명된 이원주기후에너지환경부 에너지전환정책실장은 정통 산업 관료로,...",
+      "articleCount": 63,
+      "link": "https://www.yna.co.kr/view/AKR20260830028900530"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "전남광주 국립의대 신설 후보 선정",
+      "sentence": "순천대학교가 30일 전남광주 국립의과대학 신설 후보대학으로 선정됐다.…",
+      "articleCount": 62,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000007406"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "포니AI 200대 서울서 달린다",
+      "sentence": "로보택시 10대 우선 들여와 인증 2028년 서울 전역 총 200대 운행 주행·이용자 데이터는 국내 관리 남경필 “경쟁 통해 경쟁력 확보” 중국 로보택시 경쟁력…",
+      "articleCount": 61,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260831031001"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "네팔 대홍수 피해 구호에 2억원 후원",
+      "sentence": "한국수출입은행은 네팔에서 발생한 대홍수 피해 이재민 구호를 위해 대한적십자사에 2억원을 후원했다고 30일 밝혔...",
+      "articleCount": 45,
+      "link": "https://www.yna.co.kr/view/AKR20260829033800002"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "연준의장 매파 발언에 다시 8만달러 아래로",
+      "sentence": "케빈 워시 미국 연방준비제도 의장이 물가상승률을 목표 수준으로 낮추겠다고 28일(현지시간) 발언한 후 비트코인...",
+      "articleCount": 41,
+      "link": "https://www.yna.co.kr/view/AKR20260829017100009"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "미국 오프라인 시장 본격 공략",
       "sentence": "뷰티 브랜드 어뮤즈는 다음 달 미국 프리미엄 백화점 노드스트롬과 대형 유통업체 타겟에 연이어 입점하며 현지 오...",
-      "articleCount": 36,
+      "articleCount": 37,
       "link": "https://www.yna.co.kr/view/AKR20260829031900030"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "게임스컴서 플레이갤럭시 월드 파이널 개최",
+      "sentence": "삼성전자[005930]는 27~28일(현지시간) 독일 쾰른 메세에서 열린 '게임스컴 2026' 내 전시 부스에...",
+      "articleCount": 35,
+      "link": "https://www.yna.co.kr/view/AKR20260830018100017"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "SKT·카카오·KT가 만들 국민 AI 모습은",
-      "sentence": "28일 정부의 대국민 인공지능(AI) 서비스 구축 프로젝트 '모두의 AI'의 사업자로 선정된 SK텔레콤(SKT)·카카오·KT는 범용 AI 챗봇과 공공서비스 신청을…",
-      "articleCount": 34,
-      "link": "https://www.bloter.net/news/articleView.html?idxno=672073"
+      "phrase": "갑자기 내린 폭우에 가려버린 라팍",
+      "sentence": "[OSEN=대구, 이석우 기자] 30일 대구삼성라이온즈파크에서 2026 신한 SOL KBO 리그 삼성 라이온즈와 KT 위즈의 경기가 열린다.…",
+      "articleCount": 28,
+      "link": "https://www.chosun.com/sports/sports_photo/2026/08/30/HFTDAMTEGRTDCZDEMU2TONRRHA/"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "원하청 실교섭 102곳",
-      "sentence": "지난 3월 노란봉투법(개정 노동조합법)이 시행된 지 반년이 다 돼가지만, 하청노조의 교섭요구를 받은 원청 사업...",
-      "articleCount": 9,
-      "link": "https://www.yna.co.kr/view/AKR20260828104400530"
+      "phrase": "헌재 노조 교섭 부당하게 거부하는 사업주",
+      "sentence": "사업주가 노조와의 단체교섭을 정당한 이유 없이 거부하거나 태만히하면 처벌토록한 노동조합법 조항이 합헌이라는 헌법재판소 결정이 나왔다.헌법재판소는 이달 27일 ‘노…",
+      "articleCount": 22,
+      "link": "https://www.donga.com/news/Society/article/all/20260830/134570279/1"
     },
     {
       "id": "fx",
       "name": "환율",
-      "phrase": "베선트 엔화 불안시 美 금리상승",
-      "sentence": "스콧 베선트 미국 재무장관이 지난달 미국의 이례적인 엔화 매수 개입과 관련해 엔화 시장의 급격한...",
-      "articleCount": 8,
-      "link": "https://www.yna.co.kr/view/AKR20260829011451072"
+      "phrase": "환율에 부담 안 돼",
+      "sentence": "신현송 한국은행 총재는 최근 원화가 대외 충격에 대한 면역력을 갖춘 상태라고 평가했다.",
+      "articleCount": 14,
+      "link": "https://www.yna.co.kr/view/AKR20260830008400072"
     }
   ],
   "topicCatalog": [
