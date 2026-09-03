@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T19:47:44+09:00",
+  "generatedAt": "2026-09-03T20:22:34+09:00",
   "categories": [
     {
       "id": "politics",
@@ -122,15 +122,15 @@
           ]
         },
         {
-          "title": "울산 샤힌 프로젝트 현장서 50대 노동자 추락사",
-          "summary": "경향신문 자료사진3일 울산 한 석유화학 공사 현장에서 50대 노동자가 사망하는 사고가 발생했다.경찰에 따르면 이날 오후 3시50분쯤 울산 울주군 온산읍 샤힌 프로젝트 1현장에서 노동자 A씨가 10여m 높이 구조물에서 추락했다.샤힌 현장 시공을 맡은 현대건설 하청업체 소속 도장공인 A씨는 심정지 상태로 병원에 옮겨졌으나 오후 4시10분쯤 숨졌다.···…",
+          "title": "혀 깨물려던 취객 제지하려 입에 수건 넣었다 사망···경찰·소방관 “무죄”",
+          "summary": "경찰 2인, 만취 여성에 귀가 요구했다 폭행 당해 “수갑 풀라” 혀 깨무는 자해하자 입에 수건 넣어소방관 2인, 심폐소생 등 응급구호 했지만 숨져국민참여재판 배심원, 만장일치로 “무죄” 의견법원 이미지.…",
           "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609031730001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-09-03T08:30:00+00:00",
+          "link": "https://www.khan.co.kr/article/202609031700011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-09-03T08:00:01+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
-            "조선일보"
+            "매일경제",
+            "연합뉴스"
           ]
         }
       ]
@@ -198,26 +198,25 @@
           ]
         },
         {
-          "title": "삼성전자, 2분기 HBM 점유율 33%로 급등…SK하이닉스와 격차 축소",
-          "summary": "[지디넷코리아]삼성전자가 고대역폭메모리(HBM) 시장에서 업계 1위 SK하이닉스와 격차를 좁혔다.…",
-          "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20260903162217",
-          "publishedAt": "2026-09-03T07:43:39+00:00",
-          "sourceCount": 3,
+          "title": "롯데이노베이트, 40MW급 안산 데이터센터 운영 맡는다...\"DBO 사업 확대\"",
+          "summary": "롯데이노베이트가 이지스자산운용의 안산 데이터센터 위탁운영 사업을 수주하며 데이터센터 설계·구축·운영(DBO) 사업 영역을 확대한다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=154909",
+          "publishedAt": "2026-09-03T16:04:32+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "아이뉴스24",
             "연합뉴스"
           ]
         },
         {
-          "title": "롯데이노베이트, 이지스운용 안산 40MW급 데이터센터 운영 수주",
-          "summary": "롯데이노베이트[286940]가 이지스자산운용의 안산 데이터센터 위탁운영 사업을 수주하며 데이터센터 설계·구축·...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260903153200017",
-          "publishedAt": "2026-09-03T07:49:47+00:00",
+          "title": "코넥스협회, 화우·린과 맞손…회원사 법률 세무 지원",
+          "summary": "코넥스협회가 법무법인 화우, 법무법인 린과 손잡고 회원사의 법률과 세무 지원을 강화한다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=672636",
+          "publishedAt": "2026-09-03T15:48:50+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "테크M"
+            "연합뉴스"
           ]
         }
       ]
@@ -238,20 +237,20 @@
           ]
         },
         {
+          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 1억1038만달러 청산",
+          "summary": "지난 24시간 암호화폐 시장에서 1억1038만달러(약 1502억5264만원) 규모의 레버리지 포지션이 청산됐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/briefing/402139",
+          "publishedAt": "2026-09-03T11:08:20+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
           "title": "\"달러 스테이블코인 커지면 환율도 흔든다\"…한은의 경고",
           "summary": "달러 스테이블코인 시장이 커지고 법인·외국인의 국내 디지털자산 시장 참여가 확대되면 원·달러 환율 변동성이 지금보다 커질 수 있다는 한국은행의 분석이 나왔다.…",
           "source": "테크M",
           "link": "https://www.techm.kr/news/articleView.html?idxno=154893",
           "publishedAt": "2026-09-03T12:24:13+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "\"'비트코인 매매·스테이킹' 같은 세금 매긴다?\" 2027년 디지털자산 과세 '수술론' 힘 실린 이유는",
-          "summary": "내년 1월 시행을 앞둔 디지털자산 과세 체계를 전면적으로 손봐야 한다는 주장이 학계에서 나왔다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=154886",
-          "publishedAt": "2026-09-03T11:04:24+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -262,14 +261,14 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "배우 곽시양·러블리즈 유지애, 11월 결혼…“미래 약속해”",
-          "summary": "9아토엔터테인먼트·케이플러스 제공배우 곽시양(39)과 그룹 러블리즈 유지애(33)가 오는 11월 28일 결혼한다.곽시양 소속사 9아토엔터테인먼트는 3일 “두 사람은 서로에 대한 깊은 신뢰와 사랑을 바탕으로 미래를 약속하게 됐다”고 밝혔다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609031620001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
-          "publishedAt": "2026-09-03T07:20:00+00:00",
+          "title": "배우 곽시양·러블리즈 유지애, 11월 28일 결혼…\"미래 약속\"",
+          "summary": "배우 곽시양(본명 곽명진·39)과 그룹 러블리즈 유지애(33)가 11월 28일 결혼한다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260903131800005",
+          "publishedAt": "2026-09-03T06:35:36+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
+            "경향신문",
             "한겨레"
           ]
         },
@@ -286,14 +285,14 @@
           ]
         },
         {
-          "title": "조계종 총무원장에 진우스님…자승 이후 13년 만에 연임 수장",
-          "summary": "한국 불교 최대 종단인 대한불교조계종의 제38대 총무원장 선거에서 진우스님이 승리했다. 제37대 총무원장을 지...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260903109700005",
-          "publishedAt": "2026-09-03T06:05:19+00:00",
+          "title": "조계종 총무원장에 진우 스님···자승 이후 13년만에 연임",
+          "summary": "제 38대 총무원장에 당선된 진우 스님대한불교조계종 제38대 총무원장에 현 총무원장 진우 스님이 당선돼 연임에 성공했다.진우 스님은 3일 서울 종로구 한국불교역사문화기념관에서 치러진 총무원장 선거에서 전체 선거인단 321명 중 183표를 얻어 138표를 얻은 경우 스님을 제쳤다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609031511001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
+          "publishedAt": "2026-09-03T06:11:00+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "경향신문"
+            "연합뉴스"
           ]
         }
       ]
@@ -329,7 +328,7 @@
       "name": "스포츠",
       "phrase": "홍명보 선임 의혹 정몽규",
       "sentence": "홍명보 전 축구 국가대표팀 감독 선임 과정에 부당하게 개입했다는 의혹을 받는 정몽규 전 대한축구협회장이 2일 약 11시간 30분 동안 경찰 조사를 받았다.서울경찰…",
-      "articleCount": 228,
+      "articleCount": 206,
       "link": "https://www.donga.com/news/Society/article/all/20260903/134595575/1"
     },
     {
@@ -337,16 +336,16 @@
       "name": "반도체",
       "phrase": "러트닉 미국서 반도체 안 만들면 대가",
       "sentence": "美 생산시설 연계 관세 부과 방침 TSMC ‘애리조나 투자 모델’ 강조 미국 행정부가 자국 내 생산 여부에 따라 관세를 차등 부과하는 ‘반도체 표적 관세’를 예고…",
-      "articleCount": 154,
+      "articleCount": 141,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260904001001"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "이희학 AI 소프트파워 대학 전환",
-      "sentence": "“인공지능(AI) 기반으로 교육과 연구, 학생 지원과 대학 행정의 체질을 바꾸며 목원의 미래를 다시 설계하겠습니다.” 3일 취임한 이희학 목원대 총장은 ‘정답을…",
-      "articleCount": 148,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260903500260"
+      "phrase": "초·중학교 AI 금지",
+      "sentence": "미국 뉴욕시가 이번 학기부터 유아에서 초등학생·중학생까지 교실 내 인공지능(AI) 사용을 1년간 금지하고 스크린 타임(전자기기 이용시간)도 제한하기로 했다.",
+      "articleCount": 137,
+      "link": "https://www.mk.co.kr/news/world/12143699"
     },
     {
       "id": "entertain",
@@ -361,7 +360,7 @@
       "name": "증시",
       "phrase": "내사 착수 21개월 만에 檢송치",
       "sentence": "하이브 전현직 임원 등 5명 포함 법원은 2631억원 추징보전 결정 경찰이 하이브 상장 계획을 숨긴 채 기존 주주들에게 지분을 팔도록 유도해 수천억원의 부당이득을…",
-      "articleCount": 124,
+      "articleCount": 118,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260904008002"
     },
     {
@@ -369,7 +368,7 @@
       "name": "부동산",
       "phrase": "LH 17년만에 다시 쪼갠다",
       "sentence": "정부가 한국토지주택공사(LH)를 택지개발·주택건설과 주거복지·자산비축을 각각 담당하는 두 개 공사로 분리하는 방안을 추진한다.…",
-      "articleCount": 122,
+      "articleCount": 115,
       "link": "https://www.donga.com/news/Economy/article/all/20260903/134598609/1"
     },
     {
@@ -377,7 +376,7 @@
       "name": "유가·에너지",
       "phrase": "김종철 경찰청장 직무대행",
       "sentence": "김종철 신임 경찰청장 직무대행이 취임 첫날인 3일 허위 종결 사건으로 논란이 된 제주를 찾아 유가족에게 사과하고 실종 수사 쇄신을 강조했다.…",
-      "articleCount": 117,
+      "articleCount": 112,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260903500344"
     },
     {
@@ -385,7 +384,7 @@
       "name": "수출·관세",
       "phrase": "수출 달러 매도·엔화 강세",
       "sentence": "수출업체의 달러화 매도(네고) 물량 출회와 일본 외환 당국의 개입 경계감이 형성되면서 원/달러 환율은 3일 1...",
-      "articleCount": 116,
+      "articleCount": 106,
       "link": "https://www.yna.co.kr/view/AKR20260903139100002"
     },
     {
@@ -393,15 +392,23 @@
       "name": "산업·기업",
       "phrase": "새만금 투자 등 논의한 듯",
       "sentence": "이재명 대통령이 2일 정의선 현대차그룹 회장과 비공개로 만난 것으로 3일 알려졌다.",
-      "articleCount": 115,
+      "articleCount": 97,
       "link": "https://www.yna.co.kr/view/AKR20260903145900001"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "700B급 보안 특화 AI 개발",
+      "sentence": "네이버클라우드가 정부의 사이버 보안 분야 ‘특화 인공지능(AI) 파운데이션 모델 개발’ 사업을 맡아 700B(7000억 파라미터)급 초거대 모델 구축에 나선다고…",
+      "articleCount": 82,
+      "link": "https://www.chosun.com/economy/tech_it/2026/09/03/G5QTGYTFHAYGGMRQGJTDIMRSMQ/"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "수도권 공공기관 350곳 짐 싼다",
       "sentence": "[앵커] 정부가 공공기관을 대대적으로 손보기로 했습니다.",
-      "articleCount": 87,
+      "articleCount": 80,
       "link": "https://www.nocutnews.co.kr/news/6572835"
     },
     {
@@ -409,71 +416,63 @@
       "name": "금리",
       "phrase": "국고채 금리 하락",
       "sentence": "국고채, 국채오늘 국고채 금리는 일제히 하락했습니다.지난주 목요일 한국은행의 8월 금융통화위원회 이후 일주일 만에 하락세입니다.외…",
-      "articleCount": 79,
+      "articleCount": 73,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008736791"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "SKT 모두의 AI 컨소시엄 합류",
-      "sentence": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 ‘데이터랩’에서 볼 수 있습니다.] 인공지능(AI) 보안 전문기업 에임인텔리…",
-      "articleCount": 77,
-      "link": "https://www.mt.co.kr/future/2026/09/03/2026090314061885832"
     },
     {
       "id": "climate",
       "name": "환경·기후",
       "phrase": "40도 폭염 일상된 지난여름",
       "sentence": "'40도 폭염'이 '뉴노멀'이 됐다고 평가되는 이번 여름의 전국 평균기온이 작년과 재작년에 이어 역대 3위로 ...",
-      "articleCount": 74,
+      "articleCount": 69,
       "link": "https://www.yna.co.kr/view/AKR20260903132400530"
     },
     {
       "id": "health",
       "name": "건강·의료",
-      "phrase": "대전서 30대 공무원 숨진 채 발견",
-      "sentence": "대전시청 소속 공무원이 한 건물 인근에서 숨진 채 발견돼 경찰이 조사에 나섰다.…",
-      "articleCount": 72,
-      "link": "https://www.mt.co.kr/society/2026/09/03/2026090319340699277"
+      "phrase": "전기 통하는 플라스틱 발견 日 노벨화학상",
+      "sentence": "2000년 노벨화학상 수상자인 시라카와 히데키 쓰쿠바대 명예교수가 지난달 24일 암으로 세상을 떠났다.",
+      "articleCount": 66,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260903500293"
     },
     {
       "id": "game",
       "name": "게임",
       "phrase": "아시안게임 앞둔 양현준·이영준",
       "sentence": "아시안게임 남자축구 대표팀의 양현준과 이영준이 소속팀에서 나란히 골을 터뜨리며 득점 감각을 끌어올렸다.",
-      "articleCount": 60,
+      "articleCount": 61,
       "link": "https://www.yna.co.kr/view/AKR20260903012700007"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "한은 해외 거래소 스테이블코인 거래",
-      "sentence": "글로벌 가상자산 거래소에서 특정 국가의 법정통화와 스테이블코인 거래가 지원되면 외환시장에도 영향을 미칠 수 있...",
-      "articleCount": 57,
-      "link": "https://www.yna.co.kr/view/AKR20260903084800002"
     },
     {
       "id": "labor",
       "name": "노동",
       "phrase": "서울 시내버스 노조 조정 성립 안 되면 16일",
       "sentence": "서울 시내버스 노동조합이 무기한 전면파업에 돌입한 지난 1월13일 서울역 버스환승센터 전광판에 시내버스가 출발대기 상태로 표시돼 있다.…",
-      "articleCount": 54,
+      "articleCount": 56,
       "link": "https://www.khan.co.kr/article/202609031427001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "넥써쓰 원체인 밸리데이터에 블록체인 보안기업",
+      "sentence": "넥써쓰는 글로벌 블록체인 보안 기업 서틱(CertiK)이 블록체인 플랫폼 ‘원체인(ONEchain)’의 밸리데이터로 합류했다고 3일 밝혔다.밸리데이터는 블록체인에…",
+      "articleCount": 55,
+      "link": "https://www.inews24.com/view/2001639"
     },
     {
       "id": "retail",
       "name": "유통·소비",
-      "phrase": "에이피알 수단레드 검출 메디큐브 제품",
-      "sentence": "[지디넷코리아]에이피알이 싱가포르 보건과학청(HSA)이 메디큐브 일부 제품에서 수단레드(Sudan Red)가 미량 검출됐다고 밝힌 것과 관련해 해당 제품의 싱가포…",
-      "articleCount": 49,
-      "link": "https://zdnet.co.kr/view/?no=20260903170555"
+      "phrase": "디지털 회계·공시체계 고도화",
+      "sentence": "최우수상 / LG이노텍·현대백화점·호텔롯데·포스코홀딩스회계시스템 자동화와 디지털 전환을 지속해온 LG이노텍이 3일 매경미디어 주최로 열린 ‘제9회 대한민국 회계대…",
+      "articleCount": 48,
+      "link": "https://www.mk.co.kr/news/stock/12143911"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "李대통령 외환위기 마지막 빚 갚아",
       "sentence": "이재명 대통령은 \"30년 만에 외환위기의 마지막 빚을 갚는다\"며 3일 국민들에게 감사를 표했다.",
-      "articleCount": 43,
+      "articleCount": 41,
       "link": "https://www.yna.co.kr/view/AKR20260903127300001"
     },
     {
@@ -481,7 +480,7 @@
       "name": "우주·과학",
       "phrase": "위성락 왕이 두 국가 표현",
       "sentence": "왕이 중국공산당 중앙외사판공실 주임 겸 외교부장이 최근 남북을 '두 개의 국가'(兩個國家)라고 표현한 것을 두...",
-      "articleCount": 41,
+      "articleCount": 37,
       "link": "https://www.yna.co.kr/view/AKR20260903168700001"
     }
   ],
