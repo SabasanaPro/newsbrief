@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-05T19:47:03+09:00",
+  "generatedAt": "2026-09-05T21:27:23+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "\"우연히 마주쳐\" 김승원 해명하자…\"보고 싶어 눈물 나네\" '김승원-브로커 통화 녹취록' 한동훈 주장",
-          "summary": "무소속 한동훈 의원이 오늘 오전 자신의 소셜미디어에 올린 글입니다.김승원 법무부 장관 후보자를 향해 \"2022년 2월경 양 모 씨를 우연…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008739180",
-          "publishedAt": "2026-09-05T06:41:00+00:00",
+          "title": "\"김승원, 브로커에 '보고 싶어 눈물'·'복지부에도 푸시해줄까'\"",
+          "summary": "무소속 한동훈 의원은 5일 김승원 법무부 장관 후보자가 신약 임상시험 승인 청탁 사건에 연루된 브로커 양 모씨...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260905021252001",
+          "publishedAt": "2026-09-05T10:59:32+00:00",
           "sourceCount": 4,
           "otherSources": [
+            "SBS",
             "경향신문",
-            "연합뉴스",
             "조선일보"
           ]
         },
@@ -89,6 +89,20 @@
       "name": "사회",
       "items": [
         {
+          "title": "“파도 너무 세다”…인천서 모터보트 전복돼 2명 사망",
+          "summary": "인천 영종도 왕산마리나 인근 해상에서 모터보트 전복 사고가 발생해 2명이 숨졌다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000009309",
+          "publishedAt": "2026-09-05T08:38:00+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "노컷뉴스",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
           "title": "자전거 탄 노인 차로 치어 숨지게 하고 도주한 20대 외국인 유학생 긴급체포",
           "summary": "자전거를 탄 노인을 차로 치어 숨지게 하고 달아난 외국인 유학생이 경찰 조사를 받고 있다.…",
           "source": "서울신문",
@@ -115,20 +129,6 @@
             "매일경제",
             "연합뉴스"
           ]
-        },
-        {
-          "title": "“휘발유 넣었는데 경유가 섞였다”…부산 주유소 180대 ‘혼유 사고’ 피해",
-          "summary": "부산의 한 주유소에서 직원 실수로 휘발유 저장탱크에 경유가 들어가는 혼유 사고가 발생했다. 이곳에서 기름을 넣은 차량 180여 대가 피해를 본 것으로 파악돼 관할 지자체가 행정처분..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12145022",
-          "publishedAt": "2026-09-05T00:41:35+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "동아일보",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
-          ]
         }
       ]
     },
@@ -137,42 +137,41 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프 “이란 전쟁은 사소한 것…‘핵시설’ 곡괭이산 곧 칠 수도”",
-          "summary": "도널드 트럼프 미국 대통령이 이란 전쟁을 ‘사소한 것’(small potatoes)이라고 표현하며 이란 ‘곡괭이산’(픽액스산)을 곧 공격할 수 있다고 말했다.트럼프 대통령은 4일(현지시간) 워싱턴DC 백악관에서 소고기 가공 및 사육 농가 관련 행정명령 서명 행사에서 “많은 사람이 이를 전쟁이라고 부르지 않는다”며 “이는 사소한 것이기 때문에 나는 이를 ‘군사적 분쟁’이라고 부른다”고 말했다.그는 이란 전쟁이 “큰일이 아니다”라며 “우리는 베네수엘라에서 (군사 작전을) 했고 이제 이 일(이란)을 했다”고 말했다.트럼프 대통령은 미군이 호르무즈 해협을 완전히 통제하고 있다는 주장을 재차 꺼내면서 이란 전쟁은 다른 전쟁에 비해 기간도 짧고 사상자가 적다는 점을 강조했다.그는 또 이 전쟁을 통해 “이란이 핵무기를 갖지 않게 될 것”이라며 미군이 “픽액스산에서 무슨 일이 벌어지면 픽액스산을 곧 칠 수 있다”고 말했다.곡괭이산은 이란이 중부 나탄즈 핵시설 인근 자그로스산맥 지하 깊숙한",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260905/134610347/1",
-          "publishedAt": "2026-09-04T22:26:14+00:00",
+          "title": "트럼프 “시진핑 부부, 이달 24일 미 방문…국빈만찬 열 것”",
+          "summary": "도널드 트럼프 미국 대통령이 시진핑 중국 국가주석의 미국 방문 일정을 재확인했다. 시 주석은 부인 펑리위안 여사와 함께 오는 24일 미국을 찾을 예정이다. 트럼프 대통령은 4일(현..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12144992",
+          "publishedAt": "2026-09-04T21:47:32+00:00",
           "sourceCount": 5,
           "otherSources": [
             "SBS",
             "경향신문",
-            "매일경제",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "트럼프 “시진핑 부부, 9월 24일 방미…국빈만찬 열 것”",
-          "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609051327001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
-          "publishedAt": "2026-09-05T04:27:00+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
             "동아일보",
-            "매일경제",
             "연합뉴스"
           ]
         },
         {
-          "title": "이란 매체 “하르그섬 인근 폭발음…원인 미상\"",
-          "summary": "이란의 최대 석유 수출 기지인 하르그섬 인근에서 5일(현지 시각) 오전 폭발음이 들렸다고 이란 파르스통신이 보도했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/09/05/GNSDSN3CMU3TCZTBGRRDGMDCGY/",
-          "publishedAt": "2026-09-05T07:44:53+00:00",
+          "title": "이란 “韓, 호르무즈 관여시 전쟁 직접 참여로 간주”",
+          "summary": "이란이 한국을 향해 호르무즈 해협의 미국 작전에 관여할 경우 이란을 향한 직접적 군사 행동으로 간주하겠다고 공개 경고했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20260905/134611163/2",
+          "publishedAt": "2026-09-05T09:52:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "트럼프 “이란 핵시설 ‘곡괭이산’ 곧 공격할 수도”···이란전은 “별거아닌 사소한 일”",
+          "summary": "AP연합뉴스도널드 트럼프 미국 대통령은 4일(현지시간) 이란의 지하 핵시설이 있는 것으로 의심되는 ‘곡괭이산’을 조만간 공격할 수도 있다고 말했다.AFP통신에 따르면 트럼프 대통령은 이날 백악관에서 열린 행정명령 서명식에서 기자들의 질문에 “이란은 핵무기를 갖지 못할 것”이라며 “우리는 곧 곡괭이산(Pickaxe)을 타격할 수도···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609051450001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-09-05T05:50:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "동아일보",
             "매일경제",
             "연합뉴스"
           ]
@@ -193,19 +192,19 @@
           "otherSources": []
         },
         {
-          "title": "개미도 하는 키스…2150만년 전 인간에게도 왔다",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/science_general/1276380.html",
-          "publishedAt": null,
+          "title": "61일간 '섬의 향연'…2026 여수세계섬박람회 대장정 돌입",
+          "summary": "2026 여수세계섬박람회가 5일 공식 개막식과 함께 61일간 대장정에 돌입했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260904116551054",
+          "publishedAt": "2026-09-05T11:08:47+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "여태 온난화도 못 막았는데…기온 낮춰야 달성 가능한 ‘1.5도 목표’",
+          "title": "개미도 하는 키스…2150만년 전 인간에게도 왔다",
           "summary": "",
           "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/science_general/1276358.html",
+          "link": "https://www.hani.co.kr/arti/science/science_general/1276380.html",
           "publishedAt": null,
           "sourceCount": 1,
           "otherSources": []
@@ -217,31 +216,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "비트코인 8만 달러 돌파에 관련주 강세",
-          "summary": "비트코인이 8만 달러 선을 돌파하면서 국내 증시에서도 4일 가상 화폐 관련주가 강세를 보였다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260904036051008",
-          "publishedAt": "2026-09-04T06:48:34+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "매일경제"
-          ]
-        },
-        {
-          "title": "리플 1.40달러 약세, BIS 실험은 검증용",
-          "summary": "리플(XRP)이 9월 5일 1.40달러 안팎에서 약세를 보인 가운데, 국제결제은행(BIS)의 XRP 레저 활용 실험이 가격 재료보다 기술 검증 사례로 해석되고 있다.…",
+          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 3억1581만달러 청산",
+          "summary": "지난 24시간 암호화폐 시장에서 3억1581만달러(약 4260억3020만원) 규모의 레버리지 포지션이 청산됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/blockchain/402993",
-          "publishedAt": "2026-09-05T10:35:52+00:00",
+          "link": "https://www.tokenpost.kr/news/briefing/402948",
+          "publishedAt": "2026-09-05T06:56:50+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "코인베이스, 머스크 계열 재무통 이사회 영입",
-          "summary": "코인베이스(Coinbase·$COIN)가 앤서니 암스트롱(Anthony Armstrong)을 새 이사로 선임하고 이사회를 10명 체제로 확대했다.…",
+          "title": "디파이 담보 차입, 대출풀 신용리스크 논의 확산",
+          "summary": "가상자산을 팔지 않고 담보로 맡겨 스테이블코인을 빌리는 방식이 디파이(DeFi) 대출 풀에 숨은 신용리스크를 쌓을 수 있다는 분석이 나왔다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/402990",
-          "publishedAt": "2026-09-05T10:27:43+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/403016",
+          "publishedAt": "2026-09-05T12:26:57+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
+          "title": "비트코인·금 90일 상관 6년 고점 근접",
+          "summary": "비트코인(BTC)과 금의 가격 흐름이 2020년 이후 가장 강하게 맞물린 것으로 나타났다. 장기 국채 금리와 달러 흐름이 흔들린 8월 말 BTC가 주식보다 금에 가까운 움직임을 보였다는 분석이다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/403008",
+          "publishedAt": "2026-09-05T11:49:55+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -251,6 +248,17 @@
       "id": "culture",
       "name": "문화·스포츠",
       "items": [
+        {
+          "title": "한화, 오늘도 롯데전 11-6 대승",
+          "summary": "[OSEN=부산, 이석우 기자] 5일 부산 사직야구장에서 2026 신한 SOL KBO 리그 롯데 자이언츠와 한화 이글스의 경기가 열렸다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/sports_photo/2026/09/05/MNRDAZRZMEZDCNBVMQ4DMNJRMU/",
+          "publishedAt": "2026-09-05T11:29:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
         {
           "title": "704일 만에 1군 복귀한 NC 이재학, 4이닝 1실점 호투",
           "summary": "프로야구 NC 다이노스의 '원조 에이스' 이재학이 704일 만에 부활을 알렸다.",
@@ -263,22 +271,15 @@
           ]
         },
         {
-          "title": "고승민, 위풍당당 동점 3점 홈런",
-          "summary": "[OSEN=부산, 이석우 기자] 5일 부산 사직야구장에서 2026 신한 SOL KBO 리그 롯데 자이언츠와 한화 이글스의 경기가 열렸다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/09/05/MNTDCMZXHE3DEOLDGNSDSZLGG4/",
-          "publishedAt": "2026-09-05T09:03:00+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "전의산, 역전에 신나",
-          "summary": "2026.09.05 / jpnews@osen.co.k…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/09/05/MU3GINZXGRRDGOLFGVSTGYLBGQ/",
-          "publishedAt": "2026-09-05T09:13:00+00:00",
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "프로야구 롯데, 11일 경기서 최동원 15주기 추모행사",
+          "summary": "프로야구 롯데 자이언츠는 오는 11일 부산 사직구장에서 열리는 2026 프로야구 kt wiz와 홈 경기에서 고...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260905027600007",
+          "publishedAt": "2026-09-05T03:29:31+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "한겨레"
+          ]
         }
       ]
     }
@@ -295,33 +296,41 @@
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "트럼프 이란 곡괭이산 곧 공격할 수도 있다",
-      "sentence": "도널드 트럼프 미국 대통령은 4일(현지시간) 이란의 지하 핵시설이 있는 것으로 의심되는 '곡괭이산'을 공격...",
+      "phrase": "중국인 1명 구조",
+      "sentence": "대홍수 10일만 5일(현지시간) 네팔 구조대가 어퍼트리슐리(UT)-1 수력발전소 터널에서 중국인 1명을 구조해서 데리고 나오고 있다.…",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260905004151071"
+      "link": "https://www.khan.co.kr/article/202609051809001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠",
+      "phrase": "오늘도 롯데전 11-6 대승",
+      "sentence": "[OSEN=부산, 이석우 기자] 5일 부산 사직야구장에서 2026 신한 SOL KBO 리그 롯데 자이언츠와 한화 이글스의 경기가 열렸다.…",
+      "articleCount": 203,
+      "link": "https://www.chosun.com/sports/sports_photo/2026/09/05/MNRDAZRZMEZDCNBVMQ4DMNJRMU/"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
       "phrase": "1GW AI 팩토리 본격화",
       "sentence": "이해진 네이버 의장과 브루스 플랫 브룩필드자산운용 회장이 네이버의 1기가와트(GW)급 인공지능(AI) 팩토리 ...",
-      "articleCount": 203,
+      "articleCount": 199,
       "link": "https://www.yna.co.kr/view/AKR20260904131000017"
     },
     {
-      "id": "sports",
-      "name": "스포츠",
-      "phrase": "위풍당당 동점 3점 홈런",
-      "sentence": "[OSEN=부산, 이석우 기자] 5일 부산 사직야구장에서 2026 신한 SOL KBO 리그 롯데 자이언츠와 한화 이글스의 경기가 열렸다.…",
-      "articleCount": 199,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/09/05/MNTDCMZXHE3DEOLDGNSDSZLGG4/"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "심사 평균보다 더 걸려",
+      "sentence": "김승원 법무부 장관 후보자가 '신약 임상시험 청탁로비 의혹'에 연루된 제약사 제넨셀의 임상시험계획 승인 속도가...",
+      "articleCount": 119,
+      "link": "https://www.yna.co.kr/view/AKR20260905044100004"
     },
     {
       "id": "stock",
       "name": "증시",
       "phrase": "코스피200 변동성지수",
       "sentence": "'한국형 공포지수'로 불리는 코스피200 변동성 지수(VKOSPI)가 4일 40선 아래로 마감하며 반년여 만에...",
-      "articleCount": 118,
+      "articleCount": 112,
       "link": "https://www.yna.co.kr/view/AKR20260904100851008"
     },
     {
@@ -333,67 +342,59 @@
       "link": "https://www.yna.co.kr/view/AKR20260905010200055"
     },
     {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "심사 평균보다 더 걸려",
-      "sentence": "김승원 법무부 장관 후보자가 '신약 임상시험 청탁로비 의혹'에 연루된 제약사 제넨셀의 임상시험계획 승인 속도가...",
-      "articleCount": 111,
-      "link": "https://www.yna.co.kr/view/AKR20260905044100004"
-    },
-    {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "삼성전자 노조가 뉴욕 타임스퀘어 광고에 띄운",
-      "sentence": "삼성전자 노동조합이 미국 뉴욕 한복판 타임스퀘어 전광판에 인력 감축에 반대하는 광고를 띄웠다.",
-      "articleCount": 108,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000009312"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "前소속사 정산금 소송 또 승소",
-      "sentence": "가수 겸 배우 이승기가 전 소속사 후크엔터테인먼트(현 초록뱀미디어)를 상대로 전속계약 종료 후 발생한 ...",
-      "articleCount": 102,
-      "link": "https://www.yna.co.kr/view/AKR20260904166800004"
+      "phrase": "삼성전자 DX노조",
+      "sentence": "삼성전자의 완제품 사업을 맡고 있는 디바이스경험(DX) 부문 중심의 삼성전자 노동조합 동행(이하 동행노조)이 ...",
+      "articleCount": 100,
+      "link": "https://www.yna.co.kr/view/AKR20260905037600003"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "관광객 몰리는 유럽 주택난",
       "sentence": "밀려드는 관광객 수요에 맞춘 단기 임대가 성행하며 유럽의 집값이 급등, 원주민들의 원성이 높아지자 유럽연합...",
-      "articleCount": 98,
+      "articleCount": 96,
       "link": "https://www.yna.co.kr/view/AKR20260905044900098"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "前소속사 정산금 소송 또 승소",
+      "sentence": "가수 겸 배우 이승기가 전 소속사 후크엔터테인먼트(현 초록뱀미디어)를 상대로 전속계약 종료 후 발생한 ...",
+      "articleCount": 96,
+      "link": "https://www.yna.co.kr/view/AKR20260904166800004"
     },
     {
       "id": "trade",
       "name": "수출·관세",
-      "phrase": "이란 매체 하르그섬 인근 폭발음",
-      "sentence": "이란의 최대 석유 수출 기지인 하르그섬 인근에서 5일(현지 시각) 오전 폭발음이 들렸다고 이란 파르스통신이 보도했다.…",
-      "articleCount": 95,
-      "link": "https://www.chosun.com/international/international_general/2026/09/05/GNSDSN3CMU3TCZTBGRRDGMDCGY/"
+      "phrase": "미군이 이란 유조선 공격",
+      "sentence": "이란의 최대 석유 수출 기지인 하르그섬 인근에서 5일(현지시간) 오전 폭발음이 들렸다고...",
+      "articleCount": 94,
+      "link": "https://www.yna.co.kr/view/AKR20260905038352009"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "미국 고용시장 호조",
+      "sentence": "지난달 미국 고용시장 지표가 예상보다 훨씬 좋았던 것으로 나타났습니다.",
+      "articleCount": 88,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738788"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "어린이집서 낮잠 자던 3세 남아 숨져",
       "sentence": "충북 청주의 한 어린이집에서 3세 남아가 심정지 상태로 발견돼 경찰이 수사에 나섰다.…",
-      "articleCount": 89,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260904500352"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "美 8월 고용 16만2천명 깜짝 증가",
-      "sentence": "미 노동부 노동통계국은 8월 미국의 비농업 일자리가 전월 대비 16만2천명 증가했다고 4일(현지시간) 밝혔다...",
       "articleCount": 86,
-      "link": "https://www.yna.co.kr/view/AKR20260904176000072"
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260904500352"
     },
     {
       "id": "rate",
       "name": "금리",
       "phrase": "트럼프 연준 금리인하 안하면 美가 적자보는",
       "sentence": "도널드 트럼프 미국 대통령은 4일(현지시간) 연방준비제도(Fed·연준)가 기준금리를 인하하지 않으면 미국이...",
-      "articleCount": 78,
+      "articleCount": 76,
       "link": "https://www.yna.co.kr/view/AKR20260905000652071"
     },
     {
@@ -401,7 +402,7 @@
       "name": "유가·에너지",
       "phrase": "주유소 실수로 휘발유 탱크에 경유 혼입",
       "sentence": "부산의 한 주유소에서 휘발유와 경유가 섞인 기름이 차량에 주입되는 혼유 사고가 발생해 관할 지자체가 행정처분을...",
-      "articleCount": 74,
+      "articleCount": 73,
       "link": "https://www.yna.co.kr/view/AKR20260904122800051"
     },
     {
@@ -409,32 +410,32 @@
       "name": "가상자산",
       "phrase": "다단계 코인사기 변호",
       "sentence": "금융사기 피해자들의 연대체인 금융피해자연대가 초대 중대범죄수사청장 후보로 추천된 김관정 변호사의 가상화폐 사기...",
-      "articleCount": 72,
+      "articleCount": 68,
       "link": "https://www.yna.co.kr/view/AKR20260905032400004"
-    },
-    {
-      "id": "labor",
-      "name": "노동",
-      "phrase": "삼성전자 DX 노조",
-      "sentence": "삼성전자의 가전 등 완제품을 담당하는 디바이스경험(DX) 부문 직원 중심으로 구성된 삼성전자 노동조합 ...",
-      "articleCount": 63,
-      "link": "https://www.yna.co.kr/view/AKR20260903152600003"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "나고야AG 대비 컨테이너 생활",
-      "sentence": "2026 아이치·나고야 아시안게임에 출전하는 인도 국가대표 선수들이 컨테이너를 개조한 임시 숙소에서 적응 훈련...",
-      "articleCount": 61,
-      "link": "https://www.yna.co.kr/view/AKR20260905021100007"
     },
     {
       "id": "telecom",
       "name": "통신",
       "phrase": "SKT·카카오·KT 올해 500만 사용 목표",
       "sentence": "질문에 답하는 것을 넘어 정보 탐색부터 신청·예약·결제까지 이용자를 대신해 처리하는 '실행형 AI' 서비스가 ...",
-      "articleCount": 58,
+      "articleCount": 63,
       "link": "https://www.yna.co.kr/view/AKR20260904048351017"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "한화생명 꺾고 LCK 결승 진출",
+      "sentence": "'디펜딩 챔피언' 젠지가 오랜 적수 한화생명e스포츠를 꺾고 2026 LCK 결승 무대의 문을 먼저 열었다.",
+      "articleCount": 62,
+      "link": "https://www.yna.co.kr/view/AKR20260905050000017"
+    },
+    {
+      "id": "labor",
+      "name": "노동",
+      "phrase": "삼성전자 DX 노조",
+      "sentence": "삼성전자 디바이스경험(DX) 부문 직원 중심의 노동조합이 오는 18일부터 이재용 삼성전자 회장 자택 인근에서 장기 집회에 돌입한다.…",
+      "articleCount": 60,
+      "link": "https://www.chosun.com/economy/industry-company/2026/09/05/GNQWIYZXMU3TIN3GMZSGCNZQGE/"
     },
     {
       "id": "climate",
@@ -449,7 +450,7 @@
       "name": "우주·과학",
       "phrase": "다음주 서울안보대화 日방위상 불참",
       "sentence": "국방부가 개최하는 연례 다자 안보 회의체인 ‘서울안보대화’(SDD)에 지난해와 달리 일본 방위상이 참석하지 않는 것으로 4일 확인됐다.…",
-      "articleCount": 52,
+      "articleCount": 53,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260904500066"
     },
     {
@@ -465,7 +466,7 @@
       "name": "유통·소비",
       "phrase": "디지털과 AI 기술로 안경산업 혁신하는 브리즘",
       "sentence": "[지디넷코리아]인공지능(AI)이 단순한 업무 효율화를 넘어 정확도를 높이고 의사결정을 돕는 핵심 기술로 자리 잡고 있다.…",
-      "articleCount": 23,
+      "articleCount": 21,
       "link": "https://zdnet.co.kr/view/?no=20260904141636"
     }
   ],
@@ -565,19 +566,19 @@
   ],
   "lottery": {
     "lotto": {
-      "round": 1239,
-      "drawDate": "2026-08-29",
+      "round": 1240,
+      "drawDate": "2026-09-05",
       "numbers": [
         11,
         13,
-        22,
-        32,
-        33,
-        36
+        19,
+        20,
+        31,
+        44
       ],
-      "bonus": 8,
-      "firstPrizeWinners": 13,
-      "firstPrizeAmount": 2214789375,
+      "bonus": 27,
+      "firstPrizeWinners": 16,
+      "firstPrizeAmount": 1791817758,
       "link": "https://www.dhlottery.co.kr/lt645/result"
     },
     "pension": {
