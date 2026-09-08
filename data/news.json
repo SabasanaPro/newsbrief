@@ -1,36 +1,35 @@
 {
-  "generatedAt": "2026-09-08T19:51:04+09:00",
+  "generatedAt": "2026-09-09T07:47:32+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "靑, 김승원·용혜인 지명철회 선그어…“인사청문회 거쳐야”",
-          "summary": "청와대가 김승원 법무부 장관 후보자와 용혜인 성평등가족부 장관 후보자 관련 논란에 대해 “인사위원장의 책임 하에 인사 시스템을 거쳐 지명된 후보이므로 인사청문회를 거쳐야 한다”고 말했다.청와대 관계자는 7일(현지 시간) 프랑스 파리 현지에서 기자들과 만나 “김 후보자와 용 후보자에 대해 청와대는 인사청문회까지 가겠다는 입장이냐”는 질문에 이같이 말했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20260908/134623875/1",
-          "publishedAt": "2026-09-07T20:42:00+00:00",
-          "sourceCount": 6,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "IAEA “韓, 핵잠 건조 위한 협의의향 공식 통보…관련 신고자료 냈다”",
-          "summary": "그로시 사무총장, IAEA 이사회서 밝혀 “韓과 투명성에 입각한 협의지속 기대” ‘핵무기 아닌 핵물질 군사적 용도 관련 별도협정 체결통해 국제사회 우려 불식정부가 핵추진 잠수함 건..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/politics/12146987",
-          "publishedAt": "2026-09-08T05:03:14+00:00",
+          "title": "국방부 \"호르무즈 현지 상황파악 위해 현지조사단 파견\"",
+          "summary": "국방부가 미국이 요구해온 '호르무즈 파병' 결정을 앞두고 중동으로 현지조사단을 보냈다고 8일 밝혔다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260908167800504",
+          "publishedAt": "2026-09-08T12:26:14+00:00",
           "sourceCount": 5,
           "otherSources": [
             "SBS",
             "동아일보",
+            "서울신문",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "한·프랑스 정상회담…\"호르무즈 해협 긴밀히 공조\"",
+          "summary": "프랑스를 국빈 방문 중인 이재명 대통령이 마크롱 대통령과 60여 분간 회담을 했습니다. 두 정상은 호르무즈 해협 문제를 두고 긴밀한 공조를 이어…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008743812",
+          "publishedAt": "2026-09-08T15:43:00+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "경향신문",
             "연합뉴스",
+            "조선일보",
             "한겨레"
           ]
         },
@@ -54,45 +53,41 @@
       "name": "경제",
       "items": [
         {
-          "title": "이성훈 LH 사장 “3년간 서울 매입임대 2만가구 공급… 부천대장지구급”",
-          "summary": "이성훈 한국토지주택공사(LH) 사장이 향후 3년간 서울 도심에 청년·신혼부부 등을 위한 매입임대주택 2만가구를 공급하겠다는 계획을 8일 밝혔다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/real_estate/2026/09/08/G44GGODFGVRDCNBWMU3DCNRXHE/",
-          "publishedAt": "2026-09-08T07:36:48+00:00",
-          "sourceCount": 6,
+          "title": "서울 도심 매입임대 3년간 2만채 공급",
+          "summary": "한국토지주택공사(LH)가 앞으로 3년간 서울 도심에 매입임대주택 2만 채를 공급한다. 3기 신도시인 부천대장지구 공급 물량에 맞먹는 규모다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20260908/134629933/2",
+          "publishedAt": "2026-09-08T15:30:00+00:00",
+          "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "동아일보",
             "서울신문",
             "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "2분기 명목 GDP 성장률 47년 만에 최고…\"1인당 4만 달러 가능성\"",
-          "summary": "올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했습니다.한국은행은 2분기 실질 국내총생산 성장률이 0.6%로 집계…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742350",
-          "publishedAt": "2026-09-08T02:43:00+00:00",
-          "sourceCount": 5,
+          "title": "올해 1인당 국민총소득 4만달러 확실시…2분기 명목GDP 26.4% 성장, 47년 만에 최고",
+          "summary": "연합뉴스반도체 호황에 따른 국내총생산(GDP) 증가에 힘입어 올해 1인당 국민총소득(GNI)이 4만달러 돌파가 확실시 되고 있다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609081654001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-09-08T07:54:00+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "경향신문",
             "매일경제",
-            "서울신문",
-            "아시아경제"
+            "서울신문"
           ]
         },
         {
-          "title": "성과급만 6억인데 ‘월 70만원’ 더 챙기려 서류 위조?···삼성전자, 일부 직원 주거지원금 부정수급 의혹 조사 착수",
-          "summary": "서울 서초구 삼성전자 사옥 앞으로 직원들이 오가고 있다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609081840001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-09-08T09:40:00+00:00",
-          "sourceCount": 4,
+          "title": "2차 국민성장펀드 30일 출시… 6000억원 규모 선착순 판매",
+          "summary": "반도체, 이차전지 등 첨단전략산업 기업에 투자하는 2차 국민 참여형 국민성장펀드(국민 참여 성장펀드)가 이달 30일 선보인다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20260908/134629819/2",
+          "publishedAt": "2026-09-08T15:30:00+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "연합뉴스",
-            "조선일보"
+            "경향신문",
+            "한겨레"
           ]
         }
       ]
@@ -102,43 +97,39 @@
       "name": "사회",
       "items": [
         {
-          "title": "검찰, 주식 차명거래 의혹 이춘석 의원 불구속 기소",
-          "summary": "서울남부지검 금융조사2부(부장검사 김태겸)는 보좌관 명의로 주식거래를 한 이춘석 무소속 의원을 금융실명법·전자금융거래법·청탁금지법·공직자윤리법 위반 혐의로 8일 불구속 기소했다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010280",
-          "publishedAt": "2026-09-08T10:03:01+00:00",
-          "sourceCount": 8,
+          "title": "'학내 성폭력 해결하려다 부당해임' 지혜복 교사, 713일만에 학교로",
+          "summary": "학내 성폭력을 해결하려다 전보·해임 처분을 받은 지혜복 교사가 부당 해임 713일 만에 학교로 돌아간다.…",
+          "source": "프레시안",
+          "link": "https://www.pressian.com/pages/articles/2026090820123622947&ref=rss",
+          "publishedAt": "2026-09-09T04:07:39+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "경향신문",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "부천 베르네천서 물고기 집단 폐사…행정 당국 조사 나서",
+          "summary": "경기 부천 하천에서 물고기가 집단으로 폐사해 행정 당국이 원인 조사에 나섰다. 조용익 경기 부천시장은 8일 자신의 페이스북을 통해 “베르네천 물고기 폐사 및 거품 유입 상황을 보고..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12147627",
+          "publishedAt": "2026-09-08T13:30:35+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "경향신문",
-            "동아일보",
-            "매일경제",
-            "연합뉴스",
-            "조선일보"
+            "연합뉴스"
           ]
         },
         {
-          "title": "‘황정민 스토킹’ 40대 여성 벌금 600만원",
-          "summary": "배우 황정민에게 반복적으로 연락해 스토킹한 혐의로 기소된 40대 여성이 1심에서 벌금 600만원을 선고받았다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260908500360",
-          "publishedAt": "2026-09-08T10:44:42+00:00",
+          "title": "\"믿고 보냈는데\"…발달센터서 228차례 폭행당한 장애인",
+          "summary": "검찰이 인천 한 장애인 발달센터에서 중증 장애인을 200차례 넘게 폭행한 시설 종사자에게 중형을 구형했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260908141500065",
+          "publishedAt": "2026-09-08T07:53:53+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "경향신문",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "김지용 중수청장 후보자 첫 출근",
-          "summary": "김 후보자는 “이른 시일 안에 조직을 안착시켜 중대범죄 대응에 한 치의 빈틈이 없도록 하겠다”며 “수사 과정에서 억울해하는 국민이 없도록 최선을 다하겠다”고 밝혔다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010290",
-          "publishedAt": "2026-09-08T10:36:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "동아일보",
-            "조선일보"
+            "SBS",
+            "매일경제"
           ]
         }
       ]
@@ -148,11 +139,24 @@
       "name": "국제",
       "items": [
         {
-          "title": "예멘 후티 반군 \"사우디 아람코·공군기지 등에 대규모 공격\"",
-          "summary": "예멘의 친이란 반군 후티가 8일(현지시간) 사우디아라비아의 국영 석유회사인 아람코 시설과 공군 기지 등을 ...",
+          "title": "트럼프, 캐나다산 제품 美 정부 조달서 퇴출 지시",
+          "summary": "도널드 트럼프 미국 대통령이 연방정부 조달 시장에서 캐나다산 제품을 퇴출하라고 지시했다. 캐나다가 미국산 제품에 최대 50%의 보복 관세를 발효하자 곧바로 추가 대응에 나선 것이다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/09/09/MQYTONBZGYZWIOJQMUYGKYZQHA/",
+          "publishedAt": "2026-09-08T21:29:06+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "이란 혁명수비대 \"호르무즈서 美 최신형 무인 잠수함 나포\"",
+          "summary": "이란 이슬람혁명수비대(IRGC) 해군이 8일(현지시간) 호르무즈 해협에서 미군의 최신형 무인 잠수함을 나포...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260908146300079",
-          "publishedAt": "2026-09-08T08:07:44+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20260909000851079",
+          "publishedAt": "2026-09-08T19:44:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
@@ -160,23 +164,11 @@
           ]
         },
         {
-          "title": "캐나다, 美 제품에 최대 50% ‘맞불 관세’… 트럼프와 무역전쟁 격화",
-          "summary": "캐나다가 도널드 트럼프 미국 행정부의 관세 조치에 맞서 미국산 제품에 최대 50%의 보복 관세를 부과했다.…",
+          "title": "美, 이란 원유 수출로 정조준…하르그섬 유조선 공습",
+          "summary": "미군이 이란의 원유 수출 중심지인 하르그섬 인근 해역과 자스크를 공습하면서 이란 유조선 1척이 피격됐다.…",
           "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/09/08/GY4WEYLFGBRGGZLFGFTDGMTEMM/",
-          "publishedAt": "2026-09-08T07:34:49+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "“여성은 비켜라” 힌두교 단체 요구 받아들인 에펠탑···성차별 논란에 파업",
-          "summary": "성차별 논란에 파업이 이뤄진 프랑스 파리의 에펠탑 입구에 7일(현지시간) “운영상의 이유로 에펠탑 개장이 지연되었습니다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609081503001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
-          "publishedAt": "2026-09-08T06:03:00+00:00",
+          "link": "https://www.chosun.com/international/international_general/2026/09/09/GMYGCNLBGBRDKNLFMEYTMOBXGY/",
+          "publishedAt": "2026-09-08T21:18:36+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
@@ -190,17 +182,6 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "삼성전자, ASML과 12인치 포토마스크 개발…차세대 EUV 협력 확대",
-          "summary": "삼성전자가 네덜란드 반도체 노광장비 기업 ASML이 주도하는 '대형 마스크 컨소시엄(Large Size Mask Consortium)'에 참여해 차세대 12인치 포토마스크를 공동 개발한다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=673087",
-          "publishedAt": "2026-09-08T15:27:38+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "테크M"
-          ]
-        },
-        {
           "title": "인텔-ASML, 하이 NA EUV 업계 도입 확대 '맞손'",
           "summary": "인텔 파운드리와 ASML이 차세대 반도체 제조 기술인 하이 NA(고개구율) 극자외선(EUV) 리소그래피의 업계 도입 확대를 위해 협력을 이어간다.…",
           "source": "테크M",
@@ -212,14 +193,25 @@
           ]
         },
         {
-          "title": "한컴, NPU 기반 AX 시장 공략 나선다",
-          "summary": "한컴은 계열사 한컴이노스트림, AI 반도체 기업 퓨리오사AI와 함께 NPU(신경망처리장치) 기반 AX(AI Transformation) 시장 공략에 나선다고 8일 밝혔다.한컴은 한컴이노스트림, 퓨리오사AI와 AX 사업 협력을 위한 3자 업무협약(MOU)을 체결",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2003301",
-          "publishedAt": "2026-09-08T06:27:32+00:00",
+          "title": "삼성전자, ASML과 12인치 포토마스크 개발…차세대 EUV 협력 확대",
+          "summary": "삼성전자가 네덜란드 반도체 노광장비 기업 ASML이 주도하는 '대형 마스크 컨소시엄(Large Size Mask Consortium)'에 참여해 차세대 12인치 포토마스크를 공동 개발한다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=673087",
+          "publishedAt": "2026-09-08T15:27:38+00:00",
           "sourceCount": 2,
           "otherSources": [
             "테크M"
+          ]
+        },
+        {
+          "title": "삼성전자, 프랑스 미스트랄 AI에 지분 투자…반도체 특화 AI 공동 개발",
+          "summary": "[지디넷코리아]삼성전자가 프랑스 대표 인공지능(AI) 기업 '미스트랄 AI'에 투자하고, 반도체 특화 인공지능(AI) 모델을 공동 개발한다.한국·프랑스 정상회담에 맞춰 성사된 이번 협력에서 삼성전자는 미스트랄 AI와 전략 파트너십을 체결했다고 8일 밝혔다.삼성전자는 미스트랄 AI와 전략적 협력관계를 강화하기 위해 지분을 투자했다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20260908192706",
+          "publishedAt": "2026-09-08T16:00:01+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
           ]
         }
       ]
@@ -229,32 +221,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "美 법원, 北 IT 해외 노동자 관련 가상자산 일부 몰수 명령",
-          "summary": "미국 법원이 북한 해외 정보기술(IT) 노동자의 자금세탁과 연루된 가상자산 일부를 몰수하도록 명령했다고 미국 ...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260908068200009",
-          "publishedAt": "2026-09-08T02:08:02+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "주간 3.45% 오른 비트코인…ETF 9억8700만달러 순유입",
-          "summary": "비트코인(BTC)이 미국 금리 인상 우려 속에서도 지난주 3.45% 상승하며 8만달러 선을 지켰다. 주식과 금에 머물던 일부 자금이 암호화폐 시장으로 이동했다는 분석이다.…",
+          "title": "비트코인 100만달러 가능성 거론한 캐시 우드",
+          "summary": "캐시 우드(Cathie Wood) 아크인베스트(ARK Invest) 최고경영자(CEO)는 지크립토가 8일 보도한 팟캐스트에서 비트코인(BTC)이 장기적으로 100만달러(약 13억원)에 이를 가능성을 거론했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/404377",
-          "publishedAt": "2026-09-08T10:45:52+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/404618",
+          "publishedAt": "2026-09-08T22:40:48+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "94억달러 프랑스 잠재 과세형 암호화폐 활동…DAC8 적용 시작",
-          "summary": "프랑스에서 2025년 발생한 잠재 과세형 암호화폐 활동이 94억달러(약 12조6000억원)로 추산됐다. 이는 미신고 세금이나 실제 납부세액이 아니라 온체인에서 포착된 과세 가능 활동 규모다.…",
+          "title": "암호화폐 시장 혼조세… 비트코인 78,501달러, 이더리움 2,483달러",
+          "summary": "암호화폐 시장이 혼조세를 보이는 가운데 비트코인은 내렸지만 이더리움은 올랐다. 비트코인 점유율은 축소되고 이더리움 점유율은 높아졌고, 파생상품 거래량은 늘어 단기 매매 수요도 함께 확대됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/policy/404376",
-          "publishedAt": "2026-09-08T10:44:37+00:00",
+          "link": "https://www.tokenpost.kr/news/briefing/404617",
+          "publishedAt": "2026-09-08T22:39:54+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
+          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 1억8281만달러 청산",
+          "summary": "지난 24시간 암호화폐 시장에서 1억8281만달러(약 2459억5723만원) 규모의 레버리지 포지션이 청산됐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/briefing/404615",
+          "publishedAt": "2026-09-08T22:38:03+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -265,34 +254,33 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "‘런던 동메달 주역’ 지동원 현역 은퇴…“축구 선수로 여정 마무리”",
-          "summary": "2012 런던 올림픽 동메달을 포함해 오랜 시간 축구대표팀에서 활약했던 지동원(35)이 현역 은퇴를 선언했다.지동원은 7일 자신의 SNS를 통해 “2010년부터 시작된 행복했던 축구 선수로서의 여정을 마무리하려 한다”고 밝혔다.그는 “여러 나라와 여러 팀에서의 시간, 영광스러웠던 국가대표팀에서의 경험까지 잊을 수 없는 수많은 순간이 머릿속을 스쳐 지나간다”면서 “축구를 시작하고 그라운드에 섰을 때의 설렘과 뜨거웠던 마음을 간직하며 앞으로의 삶도 잘 살아가겠다”고 했다.이어 “긴 시간 저와 함께해주시고, 응원하고 사랑해 주신 모든 분께 진심으로 감사드린다”면서 “이제 축구선수 지동원이 아닌 새로운 삶을 살아가는 지동원도 많은 응원 부탁드린다”고 덧붙였다.188㎝의 큰 신장을 앞세운 지동원은 최전방 스트라이커로 활약했다.그는 2010년 프로축구 전남 드래곤즈에 입단해 프로 생활을 시작했고, 데뷔 시즌 22경기에 출전해 7골 3도움으로 활약했다.지동원은 2011년에도 11경기에",
+          "title": "한국 여자 농구, 독일에 38점 차 대배…월드컵 8강 진출 실패",
+          "summary": "박수호 감독이 이끄는 한국 여자 농구 대표팀이 2026 국제농구연맹(FIBA) 여자 월드컵 8강에 오르지 못했다.한국은 9일(한국 시간) 독일 베를린에서 열린 대회 8강 결정전에서 독일에 56-94로 패배했다.38점 차 대패를 당한 한국은 17회 연속 월드컵 본선 일정을 조기에 마무리했다.한국이 여자 월드컵 8강에 진출한 건 지난 2010년 체코 대회가 마지막이다.박수호호는 조별리그 1차전에서 나이지리아를 대파하면서 기분 좋은 출발을 보였으나, 프랑스, 헝가리에 연패했다.이후 B조 3위로 8강 결정전에 올랐지만, A조 2위 독일에 패배하면서 토너먼트 진출에 실패했다.대한민국농구협회에 따르면 선수단은 오는 10일 귀국한다.이후 일본으로 이동해 2026 아이치·나고야 아시안게임을 준비한다.18일 말레이시아전을 시작으로, 21일 몽골, 22일 대만을 상대한다.[서울=뉴시스]",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260908/134624025/1",
-          "publishedAt": "2026-09-07T22:48:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "K리그2 부산 크리스찬, 음주운전 적발…프로연맹 60일 활동 정지",
-          "summary": "선두 경쟁을 벌이다 6위까지 밀려난 프로축구 K리그2 부산 아이파크가 간판 공격수인 크리스찬(26·본명 크리스...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260908130951007",
-          "publishedAt": "2026-09-08T08:17:37+00:00",
+          "link": "https://www.donga.com/news/Sports/article/all/20260909/134631883/1",
+          "publishedAt": "2026-09-08T22:45:35+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "동아일보"
+            "연합뉴스"
           ]
         },
         {
-          "title": "‘여자농구 간판’ 박지현, 신생 농구리그 프로젝트 B 합류",
-          "summary": "한국 여자 농구 간판 박지현(26)이 내년 처음 출범하는 투어형 글로벌 프로농구 리그 ‘프로젝트B’에 합류한다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260908/134628159/1",
-          "publishedAt": "2026-09-08T08:46:00+00:00",
+          "title": "'89일이나 기다렸다' 류현진 마침내 9승! 한화, 갈 길 바쁜 두산 6-1 잡고 4연승 질주…강백호 30홈런-100타점 완성",
+          "summary": "[OSEN=대전, 조은혜 기자] 프로야구 한화 이글스가 류현진의 호투와 허인서, 강백호의 홈런을 앞세워 4연승에 성공했다.김경문 감독이 이끄는 한화는 8일 대전 한화생명 볼파크에서 열린 2026 신한 SOL KBO리그 두산 베어스와의 홈경기에서 6-1로 승리했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/baseball/2026/09/08/HA2WEZRUGUZDMNRWHFRTIM3BGA/",
+          "publishedAt": "2026-09-08T15:05:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "LG, 최하위 키움에 발목 3연패",
+          "summary": "[OSEN=잠실, 지형준 기자] 프로야구 LG 트윈스가 최하위 키움 히어로즈에 발목이 잡히며 3연패에 빠졌다.키움은 8일 서울 잠실구장에서 열린 2026 KBO리그 LG와 경기에서 8-3 완승을 거뒀다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/sports_photo/2026/09/08/GFRWGODBMQ2WCYRQGJQTAOJVGU/",
+          "publishedAt": "2026-09-08T12:47:00+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
@@ -303,147 +291,155 @@
   ],
   "topics": [
     {
-      "id": "ai",
-      "name": "AI·인공지능",
-      "phrase": "삼성전자가 찜한 佛 AI기업 미스트랄",
-      "sentence": "프랑스 인공지능(AI) 스타트업 미스트랄이 삼성전자 주도로 30억 유로(약 4조 6840억 원) 규모의 투자를 유치했다.…",
-      "articleCount": 250,
-      "link": "https://www.donga.com/news/Economy/article/all/20260908/134628114/1"
-    },
-    {
       "id": "politics",
       "name": "정치",
-      "phrase": "필리핀 국방장관 만난 HD현대 정기선",
-      "sentence": "HD현대가 필리핀 정부와 해군 현대화 및 현지 조선·방산산업 발전을 위한 협력을 확대한다.",
+      "phrase": "호르무즈 해협 항행 자유 회복에 긴밀히 공조",
+      "sentence": "프랑스를 국빈 방문 중인 이재명 대통령은 8일(현지시간) \"대한민국과 프랑스는 호르무즈 해협에서의 항행...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260908062100003"
+      "link": "https://www.yna.co.kr/view/AKR20260908172700001"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "2028년 D램에 하이 NA EUV 적용",
-      "sentence": "삼성전자가 2028년 첨단 D램 생산에 차세대 노광 장비인 ‘하이(High) NA 극자외선(EUV)’을 적용한다.…",
+      "phrase": "9·11 추모행사서 미국은 어떤 테러로도 파괴",
+      "sentence": "도널드 트럼프 미국 대통령은 8일(현지시간) 25년 전 9·11 테러 참사와 관련, \"우리나라는 그 어느 ...",
       "articleCount": 250,
-      "link": "https://www.chosun.com/economy/tech_it/2026/09/08/MI4WGYJTMI2TAY3BG4YGIZBWHE/"
+      "link": "https://www.yna.co.kr/view/AKR20260909003200071"
+    },
+    {
+      "id": "ai",
+      "name": "AI·인공지능",
+      "phrase": "삼성전자가 찜한 佛 AI기업 미스트랄",
+      "sentence": "프랑스 인공지능(AI) 스타트업 미스트랄이 삼성전자 주도로 30억 유로(약 4조 6840억 원) 규모의 투자를 유치했다.…",
+      "articleCount": 227,
+      "link": "https://www.donga.com/news/Economy/article/all/20260908/134628114/1"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "프로연맹 60일 활동 정지",
-      "sentence": "선두 경쟁을 벌이다 6위까지 밀려난 프로축구 K리그2 부산 아이파크가 간판 공격수인 크리스찬(26·본명 크리스...",
-      "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260908130951007"
+      "phrase": "95일만에 열린 올림픽공원",
+      "sentence": "6·3 지방선거 투표용지 부족 사태를 규탄하는 집회 참가자가 점거해 온 서울 송파구 올림픽공원 핸드볼경기장에 8일 대한체육회와 입주 체육단체가 충돌 없이 진입했다…",
+      "articleCount": 191,
+      "link": "https://www.donga.com/news/Society/article/all/20260909/134630947/2"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "명목 GDP 성장 47년 만에 최고",
       "sentence": "올해 2분기 우리 경제의 몸집을 보여주는 명목 국내총생산(GDP)이 1년 전보다 26% 넘게 커졌다.",
-      "articleCount": 158,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260909031001"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "3년간 서울 도심에 매입임대 2만호 공급",
-      "sentence": "한국토지주택공사(LH)가 서울 도심 청년 주거난 해소를 위해 향후 3년간 매입임대주택 2만호를 공급한다.…",
-      "articleCount": 158,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260908500286"
+      "articleCount": 140,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260909031002"
     },
     {
       "id": "trade",
       "name": "수출·관세",
-      "phrase": "미국에 50% 맞불 관세",
-      "sentence": "캐나다가 도널드 트럼프 미국 행정부의 관세 부과에 맞선 '맞불 관세'를 8일(현지시간) 공식 발효했다.",
-      "articleCount": 144,
-      "link": "https://www.yna.co.kr/view/AKR20260908128700009"
+      "phrase": "캐나다 관세에 보복",
+      "sentence": "도널드 트럼프 미국 대통령은 8일(현지시간) 미국 조달 시장에 다수공급자계약제도(MAS·Multiple A...",
+      "articleCount": 132,
+      "link": "https://www.yna.co.kr/view/AKR20260909009051071"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "713일만에 학교로",
+      "sentence": "학내 성폭력을 해결하려다 전보·해임 처분을 받은 지혜복 교사가 부당 해임 713일 만에 학교로 돌아간다.…",
+      "articleCount": 132,
+      "link": "https://www.pressian.com/pages/articles/2026090820123622947&ref=rss"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "코스피 0.58%↓ 마감",
-      "sentence": "8일 7000선을 탈환하며 상승 출발했던 코스피가 장 후반 하락 전환하며 6900대에 약세 마감했다.",
-      "articleCount": 139,
-      "link": "https://www.mk.co.kr/news/stock/12147129"
+      "phrase": "중동 정세 격화·유가 상승에 하락",
+      "sentence": "8일(현지시간) 미국 뉴욕증시의 주요 3대 지수가 중동 긴장 고조에 따른 국제유가 상승과 인플레이션 우려 속...",
+      "articleCount": 126,
+      "link": "https://www.yna.co.kr/view/AKR20260909007200072"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "황정민 스토킹 40대 여성 벌금 600만원",
-      "sentence": "배우 황정민에게 반복적으로 연락해 스토킹한 혐의로 기소된 40대 여성이 1심에서 벌금 600만원을 선고받았다.…",
-      "articleCount": 136,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260908500360"
+      "phrase": "CNN과 인터뷰한 AI 배우 저는 여러분의",
+      "sentence": "\"저기요, 저는 (인간의) 적이 아니에요.",
+      "articleCount": 112,
+      "link": "https://www.yna.co.kr/view/AKR20260909008900075"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "서울 도심에 3년간 매입임대 2만가구 공급",
       "sentence": "한국토지주택공사(LH)가 향후 3년간 서울 도심에 매입임대주택 2만가구를 공급한다.",
-      "articleCount": 106,
+      "articleCount": 105,
       "link": "https://www.yna.co.kr/view/AKR20260908132500003"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "국내 44호 신약 등극",
-      "sentence": "8일 국내 개발 최초 안구건조증 신약(라티카점안액5%)…창립 이후 첫 신약 상용화 성과 공동개발∙오픈이노베이션 기반 신약 임상개발·허가 역량 입증…R＆D 중심 혁…",
-      "articleCount": 106,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260908500329"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "웹3 게임도 재미가 먼저",
-      "sentence": "마브렉스가 웹3 게임 사업에서 모처럼 흥행 신호를 켰다.",
-      "articleCount": 102,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155010"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
-      "phrase": "엔화 강세에도 유가 상승 등에 환율 상승",
-      "sentence": "엔화가 강세를 보였지만 국제유가가 뛰고 수입 업체의 달러 매수세가 뒷받침되면서 원/달러 환율은 8일 상승 압력...",
-      "articleCount": 100,
-      "link": "https://www.yna.co.kr/view/AKR20260908128900002"
+      "phrase": "이란 원유 수출로 정조준",
+      "sentence": "미군이 이란의 원유 수출 중심지인 하르그섬 인근 해역과 자스크를 공습하면서 이란 유조선 1척이 피격됐다.…",
+      "articleCount": 104,
+      "link": "https://www.chosun.com/international/international_general/2026/09/09/GMYGCNLBGBRDKNLFMEYTMOBXGY/"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "마브렉스 웹3 신작 픽셀 테이머즈",
+      "sentence": "[지디넷코리아]블록체인 전문 기업 마브렉스가 퍼블리싱을 맡은 신작 모바일 RPG가 출시 약 3주 만에 애플 앱스토어 인기 순위 정상에 올랐다.마브렉스는 리턴픽셀이…",
+      "articleCount": 94,
+      "link": "https://zdnet.co.kr/view/?no=20260908173811"
     },
     {
       "id": "health",
       "name": "건강·의료",
-      "phrase": "이번 주 유행주의보 발령 예상",
-      "sentence": "최근 소아·청소년을 중심으로 인플루엔자(독감) 환자가 늘어나면서 방역당국이 이번 주 안에 독감 유행주의보가 발...",
-      "articleCount": 100,
-      "link": "https://www.yna.co.kr/view/AKR20260908150900530"
+      "phrase": "강남 언니 22만 명 정보 유출",
+      "sentence": "국내 최대 미용의료 정보 플랫폼 '강남언니' 이용자 22만 명의 정보가 유출됐습니다.",
+      "articleCount": 86,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008743821"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "이란 27개 항공사 제재",
+      "sentence": "미국 도널드 트럼프 행정부는 8일(현지시간) 이란에 대한 '경제적 왕따 작전'의 일환으로 이란의 민간 항공...",
+      "articleCount": 82,
+      "link": "https://www.yna.co.kr/view/AKR20260909001900071"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "김영훈 노동 삼성전자 N% 성과급 파업",
-      "sentence": "김영훈 고용노동부 장관은 최근 발표한 개정 노조법(노란봉투법) 시행지침에 따르면 지난 5월 삼성전자 노동조합의 ‘영업이익 N%’ 성과급 요구 파업은 불법에 해당한…",
-      "articleCount": 94,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010276"
+      "phrase": "중동 정세 격화에 다우 1.2%↓",
+      "sentence": "8일(현지시간) 미국 뉴욕증시의 주요 3대 지수가 중동 긴장 고조에 따른 국제유가 상승과 인플레이션 우려 속...",
+      "articleCount": 76,
+      "link": "https://www.yna.co.kr/view/AKR20260909007251072"
     },
     {
       "id": "rate",
       "name": "금리",
       "phrase": "2분기 명목 GDP 성장률 47년 만에 최고",
       "sentence": "올해 2분기 한국 경제는 수출과 민간 소비가 함께 늘면서 견조한 성장세를 지속했습니다.한국은행은 2분기 실질 국내총생산 성장률이 0.6%로 집계…",
-      "articleCount": 57,
+      "articleCount": 55,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742350"
     },
     {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "세계 주요 도시서 옥외 광고 진행",
-      "sentence": "또한 코엑스 케이팝 라이브(K-POP LIVE), 일본 도쿄 시부야역, 영국 런던 피카딜리 서커스와 아우터넷 등 6개 주요 랜드마크에서 순차적으로 진행 중이다.디…",
-      "articleCount": 56,
-      "link": "https://www.donga.com/news/It/article/all/20260908/134627055/1"
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "현직 경찰관 낀 코인 사기 일당 수사",
+      "sentence": "현직 경찰관을 포함한 일당이 코인 채굴 사업을 내세워 20억원이 넘는 투자금을 받아 챙긴 혐의로 경찰 수사를 ...",
+      "articleCount": 46,
+      "link": "https://www.yna.co.kr/view/AKR20260908156000061"
+    },
+    {
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "허블보다 100배 큰 눈 로먼우주망원경 장도에",
+      "sentence": "‘허블보다 100배 큰 눈’ 로먼우주망원경 장도에 올랐다",
+      "articleCount": 46,
+      "link": "https://www.hani.co.kr/arti/science/science_general/1275376.html"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "납품업체에 상품 반품 갑질 의혹 다이소 현장",
       "sentence": "공정거래위원회가 생활용품점 다이소를 운영하는 아성다이소의 대규모유통업법 위반 혐의와 관련해 현장 조사에 나섰다...",
-      "articleCount": 50,
+      "articleCount": 43,
       "link": "https://www.yna.co.kr/view/AKR20260908142400002"
     },
     {
@@ -451,39 +447,31 @@
       "name": "노동",
       "phrase": "힌두교 단체 방문에 여성 직원은 빠져라 지시",
       "sentence": "에펠탑 직원들이 힌두교 단체 방문으로 여성이 업무에서 배제된 것에 항의하는 파업을 벌여 7일(현지시간) 에펠탑...",
-      "articleCount": 48,
+      "articleCount": 40,
       "link": "https://www.yna.co.kr/view/AKR20260908114800009"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "현직 경찰관 낀 코인 사기 일당 수사",
-      "sentence": "현직 경찰관을 포함한 일당이 코인 채굴 사업을 내세워 20억원이 넘는 투자금을 받아 챙긴 혐의로 경찰 수사를 ...",
-      "articleCount": 43,
-      "link": "https://www.yna.co.kr/view/AKR20260908156000061"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "기후위기 시대 제주 숲 의 미래를 말한다",
-      "sentence": "제주 숲의 지속가능한 관리 방향을 모색하는 제3회 나무가치포럼(로고)이 10일 제주도 서귀포시 제주국제컨벤션센터 삼다홀에서 개최된다.…",
-      "articleCount": 39,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010259"
+      "phrase": "기후극단주의자 추정",
+      "sentence": "대규모 정전을 노리고 독일 여러 지역 전력망을 공격한 용의자가 체포됐다고 dpa통신 등이 8일(현지시간) ...",
+      "articleCount": 40,
+      "link": "https://www.yna.co.kr/view/AKR20260908166700082"
     },
     {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "브라질 가다랑어 기생충 득실",
-      "sentence": "브라질 남부 해역에서 잡힌 식용 가다랑어에서 기생충이 대거 발견됐다.",
-      "articleCount": 37,
-      "link": "https://www.donga.com/news/Inter/article/all/20260907/134623432/1"
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "KT 노조탄압 등 1043건도 조사개시",
+      "sentence": "3기 진화위 1호 직권조사로 ‘납북귀환어부’… KT 노조탄압 등 1043건도 조사개시",
+      "articleCount": 35,
+      "link": "https://www.hani.co.kr/arti/society/society_general/1276887.html"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "장중 152엔대로 하락",
       "sentence": "엔-달러 환율이 장중 152엔대로 내리며 7개월 만에 가장 낮은 수준으로 하락했다.…",
-      "articleCount": 35,
+      "articleCount": 31,
       "link": "https://www.donga.com/news/Economy/article/all/20260908/134626778/1"
     }
   ],
