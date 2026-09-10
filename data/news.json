@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T19:50:40+09:00",
+  "generatedAt": "2026-09-10T20:24:00+09:00",
   "categories": [
     {
       "id": "politics",
@@ -77,16 +77,16 @@
           ]
         },
         {
-          "title": "공정위 사무처, 대한항공·아시아나 “의무 좌석 줄여달라” 요청에 ‘기각’ 의견",
-          "summary": "지난 8일 김포공항 계류장에서 이동하는 대한항공과 아시아나 항공기 모습.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609101633001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-09-10T07:33:00+00:00",
+          "title": "KB금융, 블룸버그와 '글로벌 자본시장' 분야 파트너십 확대",
+          "summary": "KB금융그룹이 9일 서울 여의도 KB국민은행 신관에서 글로벌 금융정보·기술 기업 블룸버그(Bloomberg)와 글로벌 자본시장 사업과 해외 고객·투자자 네트워크 확대를 위해 '전략적 협력 확대를 위한 업무협약'을 체결했다고 10일 밝혔다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026091014072201868",
+          "publishedAt": "2026-09-10T05:07:23+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "SBS",
-            "연합뉴스",
-            "한겨레"
+            "경향신문",
+            "동아일보",
+            "연합뉴스"
           ]
         }
       ]
@@ -125,16 +125,17 @@
           ]
         },
         {
-          "title": "노란봉투법 6개월 만에… 현대제철, 원·하청 교섭 ‘1호 타결’",
-          "summary": "지난 3월 개정 노동조합법(노란봉투법)이 시행된 지 6개월 만에 원청과 자회사 노동조합이 교섭을 통해 단체협약을 맺은 첫 사례가 나왔다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010983",
-          "publishedAt": "2026-09-10T10:01:02+00:00",
-          "sourceCount": 4,
+          "title": "파주 아파트서 탈북 여성 시신 발견…용의자 연인은 출국",
+          "summary": "경기 파주시의 한 아파트에서 30대 북한이탈주민 여성의 시신이 발견됐다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Society/article/all/20260910/134646022/1",
+          "publishedAt": "2026-09-10T09:12:00+00:00",
+          "sourceCount": 5,
           "otherSources": [
+            "SBS",
             "경향신문",
-            "서울신문",
-            "한겨레"
+            "매일경제",
+            "조선일보"
           ]
         }
       ]
@@ -144,14 +145,14 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프 “이란 더는 못버텨…11월 중간선거 직후 전쟁 끝날 것”",
-          "summary": "도널드 트럼프 미국 대통령이 올 11월 중간선거 직후 이란과의 전쟁이 종료되고 국제유가 역시 급격히 안정될 것이라고 했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260910/134639906/1",
-          "publishedAt": "2026-09-09T21:16:00+00:00",
+          "title": "트럼프 “이란 더는 못 버텨···중간선거 직후 전쟁 끝나고 유가도 급락할 것”",
+          "summary": "AFP연합뉴스도널드 트럼프 미국 대통령은 9일(현지시간) 이란 전쟁이 미국 중간선거 직후에 끝날 것이며, 같은 시점에 유가도 급락할 것이라고 주장했다고 AP통신 등이 이날 보도했다.트럼프 대통령은 이날 공화당 중간선거 전당대회가 열리는 텍사스주 댈러스로 출발하기 전 워싱턴DC 인근 앤드루스 합동기지에서 기자들과 만나 이같이 말했···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609100724001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-09-09T22:24:00+00:00",
           "sourceCount": 5,
           "otherSources": [
-            "경향신문",
+            "동아일보",
             "매일경제",
             "조선일보",
             "한겨레"
@@ -190,6 +191,17 @@
       "name": "IT·과학",
       "items": [
         {
+          "title": "넥써쓰, KT·LG유플러스·서틱 대상 38억원 규모 3자배정 유상증자 결정",
+          "summary": "[지디넷코리아]넥써쓰가 국내 주요 통신사와 보안 기업을 주주로 영입하며 원스토어 기반 플랫폼 사업 협력을 강화한다.넥써쓰는 10일 이사회를 열고 KT, LG유플러스, 서틱(HCIC LLC)을 대상으로 하는 제3자배정 유상증자를 결의했다고 공시했다.증자 규모는 총 215만 1443주로 발행주식총수의 2.51%에 해당하며, 조달 자금은 약 37억 9730만원이다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20260910163201",
+          "publishedAt": "2026-09-10T07:35:01+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "매일경제"
+          ]
+        },
+        {
           "title": "SK스퀘어, 'AI 네이티브' 투자회사 전환 속도…전사 AX 추진",
           "summary": "SK스퀘어가 인공지능 전환(AX)을 통해 기존 투자 업무와 포트폴리오 회사의 사업모델을 빠르게 혁신하며 'AI 네이티브' 투자회사로 거듭나고 있다.SK스퀘어는 10일 올해 신설한 'AI 혁신' 조직을 중심으로 본사의 투자 업무와 포트폴리오 회사의 AX를 추진하고 있다고 밝혔다.'AI 네이티브'는 AI를 중심에 두고 조직의 업무방식, 의사결정구조를 처음부터 다시 설계하고 경영하는 개념이다.…",
           "source": "블로터",
@@ -201,25 +213,14 @@
           ]
         },
         {
-          "title": "SK쉴더스 ADT캡스, 하나은행과 소상공인 디지털 전환 지원",
-          "summary": "SK쉴더스의 물리보안 브랜드 ADT캡스는 하나은행과 소상공인 지원 프로그램 ‘하나 파워 온 스토어’를 통해 전국 소상공인 500개 사업장에 디지털 솔루션을 지원한다고 10일 밝혔다.ADT캡스는 선정된 사업장에 AI CCTV와 사물인터",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2004182",
-          "publishedAt": "2026-09-10T04:43:22+00:00",
+          "title": "ADT캡스-하나은행, 소상공인 500곳에 디지털 솔루션 지원",
+          "summary": "SK쉴더스의 물리보안 브랜드 ADT캡스는 하나은행과 함께 소상공인 지원 프로그램 '하나 파워 온 스토어'를 통해 전국 소상공인 500개 사업장에 디지털 솔루션을 지원한다고 10일 밝혔다.지원 대상은 ▲AI CCTV ▲IoT 매장관리 솔루션 ▲키오스크 ▲QR오더 ▲클린케어 서비스 등이다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155106",
+          "publishedAt": "2026-09-10T12:44:48+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "테크M"
-          ]
-        },
-        {
-          "title": "메가존소프트, 씨앤씨인터내셔널 전사 AX 시스템 구축",
-          "summary": "메가존클라우드(대표 염동훈) 관계사 메가존소프트는 글로벌 화장품 ODM 기업 씨앤씨인터내셔널의 구글 워크스페이스 기반 AX 시스템 구축을 완료했다고 10일 밝혔다.씨앤씨인터내셔널은 전통적인 제조업의 업무방식을 넘어서",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2004185",
-          "publishedAt": "2026-09-10T04:41:13+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "테크M"
+            "아이뉴스24"
           ]
         }
       ]
@@ -229,29 +230,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "캐피털B, 비트코인 3521개 보유…거래량 9위 제시",
-          "summary": "프랑스 상장사 캐피털B(Capital B·ALCPB)가 유로넥스트 상장사 가운데 시가총액 대비 거래량 기준 9위에 올랐다고 밝혔다.…",
+          "title": "바이낸스, 알파 토큰 연구 도구에 보유자·유동성 정보 추가",
+          "summary": "바이낸스가 알파 토큰 분석 도구 디와이오알(DYOR)에 상위 보유자와 유동성, 거래소 지갑 집계 정보를 추가했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/405774",
-          "publishedAt": "2026-09-10T10:28:59+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/405792",
+          "publishedAt": "2026-09-10T11:05:31+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "'AI가 알아서 코인 투자' 믿었다간 지갑 털린다…빗썸 '가짜 프로그램 주의보'",
-          "summary": "인공지능(AI)을 활용한 가상자산 투자 서비스가 확산하면서 이를 미끼로 개인정보와 가상자산을 노리는 사이버 범죄에 대한 경고음이 커지고 있다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155087",
-          "publishedAt": "2026-09-10T09:50:23+00:00",
+          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 1억9548만달러 청산",
+          "summary": "지난 24시간 암호화폐 시장에서 1억9548만달러(약 2617억5821만원) 규모의 레버리지 포지션이 청산됐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/briefing/405788",
+          "publishedAt": "2026-09-10T11:01:03+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "비트코인 7만8000달러선 횡보…유가 100달러·美 국채금리 급등 '이중고'",
-          "summary": "비트코인이 7만8000달러선에서 약세를 보이고 있다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155086",
-          "publishedAt": "2026-09-10T09:48:23+00:00",
+          "title": "비트코인 7만6600달러 기준선, 8만5000달러 저항대 맞선다",
+          "summary": "비트코인(BTC)이 7만8000달러 안팎에서 거래되는 가운데 7만6600달러 기준선과 8만3000~8만6000달러 저항대 사이의 가격 움직임이 이어지고 있다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/405787",
+          "publishedAt": "2026-09-10T11:00:01+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -286,11 +287,11 @@
           ]
         },
         {
-          "title": "박준현, 시즌 2승 도전",
-          "summary": "2026.09.10 / jpnews@osen.co.kr…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/09/10/GAZTKOBTGJSWMNRQMZSGKZDDMI/",
-          "publishedAt": "2026-09-10T09:53:00+00:00",
+          "title": "FC서울, 서포터스의 ‘인천 비하 걸개’로 800만원 제재금",
+          "summary": "프로축구연맹 상벌위 “의견 제시 넘어 상대 모욕 땐 충돌 위험”FC서울 “재발 방지 위해 해당 팬모임 대표의 홈경기 출입 제한”지난 5일 서울월드컵경기장에서 열린 FC서울-인천 유나이티드전 도중 서울 서포터스석에 ‘전달水+조건盜=人賤 UTD’라고 적힌 걸개가 내걸려 있다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609102013025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_sports",
+          "publishedAt": "2026-09-10T11:13:02+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
@@ -321,7 +322,7 @@
       "name": "AI·인공지능",
       "phrase": "하나은행과 소상공인 500곳 디지털 전환 지원",
       "sentence": "SK쉴더스의 물리보안 브랜드 ADT캡스가 하나은행과 함께 전국 소상공인의 디지털 전환 지원에 나선다.…",
-      "articleCount": 239,
+      "articleCount": 238,
       "link": "https://www.chosun.com/economy/tech_it/2026/09/10/GE3WENDBG43TGMZVHBRDEMRYGQ/"
     },
     {
@@ -329,7 +330,7 @@
       "name": "스포츠",
       "phrase": "일본프로야구 최다안타왕 장훈 별세",
       "sentence": "일본프로야구(NPB) 최다 안타 기록을 세운 장훈(일본명 하리모토 이사오) 해설위원이 86세를 일기로 ...",
-      "articleCount": 212,
+      "articleCount": 221,
       "link": "https://www.yna.co.kr/view/AKR20260910076552007"
     },
     {
@@ -337,56 +338,40 @@
       "name": "반도체",
       "phrase": "첫 폴더블 아이폰 아이폰 듀오 공개",
       "sentence": "애플이 9일(현지시간) 회사 최초의 폴더블(접이식) 스마트폰 ‘아이폰 듀오’(iPhone Duo)를 공개했다.애플은 이날 미국 캘리포니아주 쿠퍼티노 애플파크에서…",
-      "articleCount": 114,
+      "articleCount": 113,
       "link": "https://www.donga.com/news/Inter/article/all/20260910/134639848/1"
+    },
+    {
+      "id": "stock",
+      "name": "증시",
+      "phrase": "케이티 등에 3자 배정",
+      "sentence": "(서울=연합뉴스) 코스닥 상장사 넥써쓰[205500]는 운영자금 등 약 37억9천700만원을 조달하고자 제3자배정 유상증자를 결정했다고 10일 ...",
+      "articleCount": 113,
+      "link": "https://www.yna.co.kr/view/AKR20260910136200008"
     },
     {
       "id": "education",
       "name": "교육",
       "phrase": "경영대학 후학에 써달라",
       "sentence": "이진규 고려대학교 경영대학 명예교수가 모교 후학들을 위해 써달라며 발전기금 1억원을 기부했다.…",
-      "articleCount": 114,
+      "articleCount": 113,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260910500216"
     },
     {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "2분기 불장 에 증권사 순익 5조",
-      "sentence": "상반기 9조5000억…지난해 1년치 벌어서울 여의도 증권가.",
-      "articleCount": 112,
-      "link": "https://www.khan.co.kr/article/202609101638001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "파주 아파트서 탈북 여성 시신 발견",
+      "sentence": "경기 파주시의 한 아파트에서 30대 북한이탈주민 여성의 시신이 발견됐다.…",
+      "articleCount": 110,
+      "link": "https://www.donga.com/news/Society/article/all/20260910/134646022/1"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "11월 중간선거 직후 전쟁 끝날 것",
       "sentence": "도널드 트럼프 미국 대통령이 올 11월 중간선거 직후 이란과의 전쟁이 종료되고 국제유가 역시 급격히 안정될 것이라고 했다.…",
-      "articleCount": 111,
-      "link": "https://www.donga.com/news/Inter/article/all/20260910/134639906/1"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "넥슨재단·아이디어스 맞손",
-      "sentence": "백패커가 운영하는 아이디어스가 넥슨재단과 손잡고 '바람의나라' 30주년 기념 전통 공예를 선보였다.…",
-      "articleCount": 111,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155111"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "딸 장윤정 팔아 3100만원 사기",
-      "sentence": "가수 장윤정 씨와 절연하고도 화해한 것처럼 꾸며 수천만 원대 투자 사기를 벌인 혐의를 받는 육모 씨(70)가 1심에서 실형을 선고받았다.10일 서울동부지법 형사2…",
       "articleCount": 109,
-      "link": "https://www.donga.com/news/Society/article/all/20260910/134643810/1"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "사업자대출로 부동산 매수",
-      "sentence": "사업자 대출을 받아 부동산을 사는 등 다른 용도로 썼다 적발된 건수가 최근 5년 동안 1000건을 넘겼다.…",
-      "articleCount": 108,
-      "link": "https://www.donga.com/news/Economy/article/all/20260910/134642705/1"
+      "link": "https://www.donga.com/news/Inter/article/all/20260910/134639906/1"
     },
     {
       "id": "price",
@@ -401,15 +386,31 @@
       "name": "수출·관세",
       "phrase": "중국 미국과 300억달러 상호관세 인하 협의 중",
       "sentence": "미국과 중국이 지난 5월 베이징 정상회담을 계기로 합의한 양국 각각 300억달러(약 45조원) 규모의 상호 관세 인하 협의를 하고 있다고 중국 정부가 밝혔다.황링…",
-      "articleCount": 107,
+      "articleCount": 106,
       "link": "https://www.khan.co.kr/article/202609101837001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "넥슨재단·아이디어스 맞손",
+      "sentence": "백패커가 운영하는 아이디어스가 넥슨재단과 손잡고 '바람의나라' 30주년 기념 전통 공예를 선보였다.…",
+      "articleCount": 105,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155111"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "딸 장윤정 팔아 3100만원 사기",
+      "sentence": "가수 장윤정 씨와 절연하고도 화해한 것처럼 꾸며 수천만 원대 투자 사기를 벌인 혐의를 받는 육모 씨(70)가 1심에서 실형을 선고받았다.10일 서울동부지법 형사2…",
+      "articleCount": 105,
+      "link": "https://www.donga.com/news/Society/article/all/20260910/134643810/1"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "기후에너지환경부 外",
       "sentence": "기후에너지환경부◎승진[고위공무원]△전북지방환경청장 차은철◎전보·신규 보임[과장급]△운영지원과장 한준욱△감사관실 감사담당관 권병철△물이용정책관실 물산업협력과장 김보…",
-      "articleCount": 101,
+      "articleCount": 98,
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000010997"
     },
     {
@@ -417,7 +418,7 @@
       "name": "산업·기업",
       "phrase": "SK바이오팜 도입예정 뇌전증약 오파칼림 임상",
       "sentence": "SK바이오팜[326030]은 미국 바이오헤이븐으로부터 도입할 예정인 뇌전증 신약 후보물질 '오파칼림'의 미국 ...",
-      "articleCount": 91,
+      "articleCount": 87,
       "link": "https://www.yna.co.kr/view/AKR20260910160400017"
     },
     {
@@ -425,15 +426,23 @@
       "name": "금리",
       "phrase": "시중은행 정기예금 금리 줄인상",
       "sentence": "주요 시중은행이 예금 금리를 잇달아 인상하고 있다.",
-      "articleCount": 79,
+      "articleCount": 80,
       "link": "https://www.yna.co.kr/view/AKR20260910024553002"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "KT·LG유플러스·서틱 대상 38억원 규모",
+      "sentence": "[지디넷코리아]넥써쓰가 국내 주요 통신사와 보안 기업을 주주로 영입하며 원스토어 기반 플랫폼 사업 협력을 강화한다.넥써쓰는 10일 이사회를 열고 KT, LG유플러…",
+      "articleCount": 59,
+      "link": "https://zdnet.co.kr/view/?no=20260910163201"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "납품업체에 갑질 혐의 CJ올리브영 현장 조사",
       "sentence": "공정거래위원회가 납품업체에 대한 갑질 등 대규모유통업법 위반 혐의로 CJ올리브영에 대한 현장 조사에 착수한 것으로 10일 전해졌다.…",
-      "articleCount": 58,
+      "articleCount": 59,
       "link": "https://www.chosun.com/economy/economy_general/2026/09/10/MUYWKZRRGZTGINRZGFRDKNJWMI/"
     },
     {
@@ -441,32 +450,24 @@
       "name": "가상자산",
       "phrase": "고객·신판 1위 이끈 본업",
       "sentence": "비용 효율화 과정에서 나타난 실적 둔화는 업계 최대 규모의 고객 기반과 결제 취급액을 앞세워 돌파했다.…",
-      "articleCount": 57,
+      "articleCount": 58,
       "link": "https://www.bloter.net/news/articleView.html?idxno=673297"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "KT·LG유플러스·서틱 대상 38억원 규모",
-      "sentence": "[지디넷코리아]넥써쓰가 국내 주요 통신사와 보안 기업을 주주로 영입하며 원스토어 기반 플랫폼 사업 협력을 강화한다.넥써쓰는 10일 이사회를 열고 KT, LG유플러…",
-      "articleCount": 47,
-      "link": "https://zdnet.co.kr/view/?no=20260910163201"
     },
     {
       "id": "labor",
       "name": "노동",
       "phrase": "현대제철 원·하청 교섭 타결",
       "sentence": "원청의 하청 노동자에 대한 책임을 강화한 노란봉투법(개정 노동조합법) 시행 이후 처음으로 원·하청 노사 간 교...",
-      "articleCount": 44,
+      "articleCount": 43,
       "link": "https://www.yna.co.kr/view/AKR20260910100900530"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "최근 1년간 암표 최다 신고 공연은 BTS",
-      "sentence": "최근 1년 동안 암표 신고가 가장 많이 이뤄진 공연은 그룹 방탄소년단(BTS)의 월드투어 '아리랑'(ARIRA...",
-      "articleCount": 42,
-      "link": "https://www.yna.co.kr/view/AKR20260910074300005"
+      "phrase": "美 대형 스타디움 4곳서 역대 최고 흥행 기록",
+      "sentence": "그룹 방탄소년단(BTS)이 미국 주요 대형 스타디움에서 잇달아 역대 최고 흥행 콘서트 기록을 세우며 티켓 파워...",
+      "articleCount": 43,
+      "link": "https://www.yna.co.kr/view/AKR20260910151700005"
     },
     {
       "id": "science",
