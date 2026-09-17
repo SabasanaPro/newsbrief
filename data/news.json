@@ -1,43 +1,49 @@
 {
-  "generatedAt": "2026-09-17T09:52:13+09:00",
+  "generatedAt": "2026-09-17T20:24:02+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "\"140억 배럴, 0.0002% 확률\"…윤석열 '대왕고래' 실체",
-          "summary": "'대왕고래 프로젝트'로 불린 '동해 심해 가스전 사업'에 대한 감사원 감사 결과가 나왔습니다.…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008756799",
-          "publishedAt": "2026-09-16T12:34:00+00:00",
-          "sourceCount": 3,
+          "title": "김승원 법무장관 후보자 인사청문보고서 與주도 채택…국힘 퇴장",
+          "summary": "김승원 법무부 장관 후보자 인사청문경과보고서가 17일 국회 법제사법위원회에서 더불어민주당 주도로 채택됐...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260917105800001",
+          "publishedAt": "2026-09-17T03:22:37+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "경향신문",
+            "SBS",
+            "동아일보",
+            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "김민석 '교섭단체 15석 완화' 제안에 엇갈린 소수정당 셈법",
-          "summary": "더불어민주당 김민석 대표가 16일 원내 교섭단체 구성요건 완화 기준으로 15석을 제시한 뒤 진보 성향 ...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260916156000001",
-          "publishedAt": "2026-09-16T08:17:15+00:00",
-          "sourceCount": 3,
+          "title": "김성수 대법관 후보자 임명동의안 국회 본회의 통과",
+          "summary": "17일 국회에서 열린 정기국회 제9차 본회의에서 김성수 대법관 임명동의안이 통과되고 있다.",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260917500181",
+          "publishedAt": "2026-09-17T06:10:48+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "경향신문",
-            "동아일보"
+            "SBS",
+            "동아일보",
+            "연합뉴스",
+            "한겨레"
           ]
         },
         {
-          "title": "김성수 대법관 후보자 청문보고서 채택…野는 ‘부적격 의견’",
-          "summary": "국회가 김성수 대법관 후보자(58·사법연수원 24기)에 대한 인사청문 경과보고서를 채택했다.국회 대법관 인사청문특별위원회는 16일 전체회의를 열고 여야 합의로 이같이 의결했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20260916/134681329/1",
-          "publishedAt": "2026-09-16T10:22:00+00:00",
-          "sourceCount": 2,
+          "title": "'김승원 청문보고서' 단독 채택…국힘, 상임위 취소 맞불",
+          "summary": "김승원 법무장관 후보자 인사청문보고서가 민주당 주도로 채택됐습니다.…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758981",
+          "publishedAt": "2026-09-17T11:03:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "연합뉴스"
+            "동아일보",
+            "연합뉴스",
+            "한겨레"
           ]
         }
       ]
@@ -47,38 +53,40 @@
       "name": "경제",
       "items": [
         {
-          "title": "하이닉스, 인텔과 손잡고 미국서 메모리 반도체 생산 검토",
-          "summary": "성사되면 SK하이닉스가 미국에서 메모리 칩을 직접 생산하는 첫 사례다.16일 로이터통신은 복수 소식통의 말을 인용해 SK하이닉스와 인···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609162032035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-09-16T11:32:03+00:00",
+          "title": "서울 아파트값, 84주 연속 상승…강남 3구는 6주째 하락",
+          "summary": "강남3구는 동반 하락했지만 중저가 아파트가 많은 지역은 오름세를 이어갔다.17일 한국부동산원이 발표한 9월 둘째 주 주간 아파트 가격 동향(14일 조사)에 따르면 서울 아파트 매매가격은 0.16% 올랐다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20260917/134689351/1",
+          "publishedAt": "2026-09-17T07:10:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "토지거래허가구역 내 실거주 의무 유예 신청 내년말까지 연장",
+          "summary": "무주택자가 토지거래허가구역(이하 토허구역) 내 세입자를 낀 주택을 구입할 때 적용되는 실거주 의무 유예조치가 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260917076651003",
+          "publishedAt": "2026-09-17T06:12:53+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "동아일보"
+            "조선일보"
           ]
         },
         {
-          "title": "美기준금리 0.25%p 인상, 3년만에 긴축…연내 추가인상 시사",
-          "summary": "미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 연 3.75∼4.00%로 0.25%포인트(p) 인상...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260917002453071",
-          "publishedAt": "2026-09-16T21:19:44+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "경향신문"
-          ]
-        },
-        {
-          "title": "대미투자 MOU 돌연 연기… 韓美, 막판까지 '샅바싸움'",
-          "summary": "산업통상부가 17일로 예정됐던 대미투자 사업 국회 보고를 돌연 연기했다. 18일로 잠정 결정됐던 한미 대미투자 양해각서(MOU) 서명이 한국 측 요청으로 미뤄졌기 때문인 것으로 전..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/economy/12154563",
-          "publishedAt": "2026-09-16T08:53:46+00:00",
+          "title": "기업 61% “추석 상여금 지급”…작년보다 소폭 줄어",
+          "summary": "올해 추석 연휴 기간 기업 10곳 중 8곳이 4일간 휴무를 실시하는 것으로 나타났다. 추석 상여금을 지급하겠다는 비중은 소폭 줄어들었다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20260917/134689495/1",
+          "publishedAt": "2026-09-17T07:20:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "아시아경제",
-            "조선일보"
+            "SBS",
+            "연합뉴스"
           ]
         }
       ]
@@ -88,42 +96,42 @@
       "name": "사회",
       "items": [
         {
-          "title": "검찰, ‘1억 공천헌금’ 강선우·김경 징역 4년·2년 구형",
-          "summary": "강선우 무소속 의원이 지난해 6월26일 여성가족부 장관 후보자로 지명된 뒤 소감을 밝히고 있다.…",
+          "title": "휘문고 감독 시절 방송 이유로 ‘근무지 무단이탈’ 현주엽···법원 “감봉 처분 정당”",
+          "summary": "사진공동취재단휘문고 농구 감독으로 재직하며 근무지를 무단으로 이탈한 방송인 현주엽씨에 대한 교육청의 징계가 정당하다는 법원 판단이 나왔다.…",
           "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609161950001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-09-16T10:50:00+00:00",
+          "link": "https://www.khan.co.kr/article/202609171753001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-09-17T08:53:00+00:00",
           "sourceCount": 5,
           "otherSources": [
+            "SBS",
+            "동아일보",
             "매일경제",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "'수시 먹통' 354건 구제…경쟁률 확인 3건은 취소 권고",
+          "summary": "2027학년도 대입 수시모집 원서접수 '먹통' 사태로 원서를 접수하지 못해 구제 대상으로 인정된 414건 가운데 354건이 최종 원서접수를 마친 것으로 나타났다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6580110",
+          "publishedAt": "2026-09-17T17:56:26+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "경향신문",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "선관위 특검, 중앙선관위·지방선관위 등 9개소 압수수색",
-          "summary": "지난 6·3 지방선거에서 발생한 투표용지 부족 사태 등을 수사하는 이태한 특별검사팀이 출범 열흘 만에 첫 강제수사에 착수했다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000012899",
-          "publishedAt": "2026-09-17T00:20:00+00:00",
+          "title": "58억원 횡령해 부동산·고급차 구매…김포FC 회계담당 직원 구속",
+          "summary": "김포FC의 공금 수십억원을 빼돌린 회계 담당 직원이 구속됐다. 경기 김포경찰서는 특정경제범죄 가중처벌 등에 관한 법률상 업무상 횡령 혐의로 김포FC 직원 A씨를 구속했다고 17일 밝혔다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260917500295",
+          "publishedAt": "2026-09-17T09:30:06+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "매일경제",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "“7000만원 왜 안 갚나” 채무자에 김칫국물 뿌린 70대女",
-          "summary": "돈을 갚지 않는다는 이유로 김칫국물을 던지고 채무자를 폭행한 70대 여성이 1심에서 벌금형을 선고받았다.전주지법 형사8단독(판사 박성수)은 폭행치상 등 혐의로 기소된 70대 여성에게 벌금 300만 원을 선고했다고 17일 밝혔다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Society/article/all/20260917/134686130/2",
-          "publishedAt": "2026-09-17T00:34:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "매일경제",
+            "경향신문",
             "연합뉴스"
           ]
         }
@@ -134,11 +142,11 @@
       "name": "국제",
       "items": [
         {
-          "title": "후티 반군 \"사우디 F-15 전투기 격추\"…영상도 공개",
-          "summary": "예멘의 친이란 반군 후티가 예멘 북동부 마리브주 상공에서 사우디아라비아의 F-15 전투기를 격추했다고 16...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260916158951079",
-          "publishedAt": "2026-09-16T15:17:50+00:00",
+          "title": "美 연준, 3년 2개월 만에 금리 인상… 연내 추가 인상 시사",
+          "summary": "미국 중앙은행인 연방준비제도(Fed·연준)가 16일(현지 시각) 기준금리를 0.25%포인트(p) 인상해 3.75~4.00%로 결정했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/09/17/MQ2DIMBUGZSWGZRTHEZWKYLGHE/",
+          "publishedAt": "2026-09-16T22:18:03+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
@@ -147,28 +155,28 @@
           ]
         },
         {
-          "title": "美연준, 만장일치로 기준금리 인상… 워시 “인플레 너무 높고 너무 오래 지속”",
-          "summary": "미 연방준비제도(Fed·연준)가 16일(현지 시간) 열린 연방공개시장위원회(FOMC)에서 기준금리를 0.25%포인트 인상했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260917/134685523/1",
-          "publishedAt": "2026-09-16T18:09:00+00:00",
+          "title": "트럼프, 중동 6개국과 이란전 머리 맞댄다",
+          "summary": "도널드 트럼프 미국 대통령이 다음 주 뉴욕에서 열리는 유엔 총회를 계기로 걸프 지역 정상들과 회동해 이란과의 종전 및 전후 구상을 논의할 예정이라는 관측이 나왔다. 이번 회담이 이..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12155657",
+          "publishedAt": "2026-09-17T08:39:09+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "매일경제",
+            "경향신문",
             "연합뉴스"
           ]
         },
         {
-          "title": "트럼프, 연준 결정 비판… “美 금리 1% 이하로 서둘러 낮춰야”",
-          "summary": "도널드 트럼프 미국 대통령은 연방준비제도(Fed·연준)가 기준금리를 올린 결정에 대해 “미국의 금리는 1%이거나 그보다 낮아야 한다”고 비판했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/09/17/GJSWEYTFHE4DMZJUGIYDEOLGGQ/",
-          "publishedAt": "2026-09-16T22:32:08+00:00",
+          "title": "‘휴일 다리미질’ 자랑하는 여성총리…일본, 성평등 ‘최하위권’ 굴욕",
+          "summary": "일본이 세계경제포럼(WEF)이 발표한 성평등 국가 순위에서 ‘최하위권’이라는 최악의 성적표를 받으면서 첫 여성 총리인 다카이치 사나에 총리의 여성 정책에 대한 우려의 목소리가 나오..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12155605",
+          "publishedAt": "2026-09-17T08:29:28+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "연합뉴스"
+            "연합뉴스",
+            "한겨레"
           ]
         }
       ]
@@ -178,33 +186,33 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "미 연준 3년 2개월 만에 0.25%p 금리 인상…백악관 대변인 \"유감\"",
-          "summary": "[지디넷코리아]미국 연방준비제도(연준)이 2023년 7월 이후 3년 2개월 만에 금리 인상을 단행한 가운데, 백악관은 유감을 표명하고 뉴욕 주요 증시는 하락 마감했다.15~16일(현지시간) 열린 연준 공개시장위원회(FOMC)에서 연방기금금리 범위를 종전보다 0.25%p 올린 3.75~4.00%로 운영하기로 결정했다.…",
-          "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20260917055551",
-          "publishedAt": "2026-09-16T20:55:51+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "전자신문"
-          ]
-        },
-        {
-          "title": "로이터 “SK하이닉스, 인텔과 협력해 美서 메모리 생산”…SK하이닉스 “결정된 바 없다”",
-          "summary": "SK하이닉스가 인텔과 협력해 메모리 반도체를 미국 현지에서 생산하는 방안을 협상 중이라고 로이터가 16일(현지시간) 보도했다.…",
-          "source": "전자신문",
-          "link": "https://www.etnews.com/20260916000377",
-          "publishedAt": "2026-09-16T08:52:57+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "ZDNet코리아"
-          ]
-        },
-        {
-          "title": "\"휴대폰 유통점 추가지원금 공개…요금제 유지기간 끝나면 알림\"",
-          "summary": "휴대폰 판매점에서 단말기 지원금이나 고가요금제·부가서비스 가입 조건을 제대로 알리지 않는 불완전판매에 대한 관리가 강화된다.…",
+          "title": "삼성디스플레이 이청, 中 폴더블 추격에 \"우리가 최고죠\"",
+          "summary": "\"우리가 최고죠.\"이청 삼성디스플레이 대표이사 사장이 중국 디스플레이 업체들과의 폴더블 디스플레이 기술 경쟁에서 자신감을 나타냈다.이 사장은 17일 서울 송파구 롯데호텔월드에서 열린 '제17회 디스플레이의 날' 기념행",
           "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2006461",
-          "publishedAt": "2026-09-16T10:34:02+00:00",
+          "link": "https://www.inews24.com/view/2006944",
+          "publishedAt": "2026-09-17T10:56:25+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "애플 '아이폰 듀오' 공개, 갤럭시Z폴드8 판매 기름 부은 이유는?",
+          "summary": "삼성전자 '갤럭시 Z폴드8 시리즈' 판매가 순항 중이다. 애플이 첫 폴더블(접는)폰 '아이폰 듀오' 공개가 기름을 부었다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155318",
+          "publishedAt": "2026-09-17T09:59:57+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "동아일보"
+          ]
+        },
+        {
+          "title": "LFP 양극재 선두 엘앤에프, 삼성SDI 이어 SK온도 수주…1617억 규모",
+          "summary": "[지디넷코리아]국내 양극재 기업 중 리튬인산철(LFP) 제품을 가장 먼저 생산 중인 엘앤에프가 삼성SDI에 이어 SK온으로부터도 수주를 따냈다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20260917183510",
+          "publishedAt": "2026-09-17T09:49:31+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
@@ -217,31 +225,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "“암호화폐 지갑 업데이트 됐어요”…26만명에 스미싱 문자 발송, 경찰 수사중",
-          "summary": "신원 불상의 인물이 문자 발송 대행업체 계정에 무단 접속해 약 26만명에게 악성 사기 문자를 발송해 경찰이 수사에 나섰다. 16일 부산경찰청에 따르면 지난 12일 오전 10시 48..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12154609",
-          "publishedAt": "2026-09-16T09:08:45+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "SBS"
-          ]
-        },
-        {
-          "title": "WLFI 2억4800만개, 한 달간 바이낸스에 입금",
-          "summary": "월드리버티파이낸셜(WLFI) 다중서명 지갑이 최근 한 달 동안 바이낸스로 2억4800만개를 옮겼다. 누적 이동 물량의 가치는 약 1355만달러(약 186억원)다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/409379",
-          "publishedAt": "2026-09-17T00:44:39+00:00",
+          "title": "업비트, 페이팔·엔화 스테이블코인 품었다…달러·유로 이어 3종 통화 확보",
+          "summary": "국내 최대 가상자산거래소 업비트가 페이팔이 발행한 달러 스테이블코인 페이팔유에스디(PYUSD)와 일본 엔화 기반 제이피와이코인(JPYC)을 신규 상장한다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155331",
+          "publishedAt": "2026-09-17T11:26:59+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "교보생명, SBI그룹과 스테이블코인 기반 한·일 자금이전 실증",
-          "summary": "교보생명이 SBI그룹과 '한일 스테이블코인 기반 크로스보더 실증 프로젝트'를 마쳤다고 17일 밝혔다.…",
-          "source": "아시아경제",
-          "link": "https://view.asiae.co.kr/article/2026091709405971302",
-          "publishedAt": "2026-09-17T00:40:59+00:00",
+          "title": "5195ETH 출금에도 이더리움 ETF 2억2410만달러 순유출",
+          "summary": "이더리움(ETH) 대형 지갑 두 곳이 거래소에서 총 5195ETH를 출금한 가운데 미국 현물 이더리움 ETF에서는 이틀 연속 순유출이 발생했다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/409664",
+          "publishedAt": "2026-09-17T11:06:28+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
+          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 2억7493만달러 청산",
+          "summary": "지난 24시간 암호화폐 시장에서 2억7493만달러(약 3766억763만원) 규모의 레버리지 포지션이 청산됐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/briefing/409659",
+          "publishedAt": "2026-09-17T11:00:58+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -252,38 +258,36 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "한국 축구, 아르헨티나 1-0 꺾고 12년만에 U-20 여자 월드컵 8강",
-          "summary": "한국 20세 이하(U-20) 여자 축구대표팀이 2026 국제축구연맹(FIFA) U-20 여자 월드컵에서 12년...",
+          "title": "여자배구, 카타르 3-0 완파…8강 진출 확정",
+          "summary": "차상현 감독이 이끄는 한국 여자 배구대표팀(세계랭킹 28위)이 카타르(106위)를 꺾고 2026 아이...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260916191400007",
-          "publishedAt": "2026-09-16T14:55:58+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "동아일보",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "한국 장애인사격, 세계선수권서 金 10개…中 제치고 종합 우승",
-          "summary": "한국 장애인 사격 대표팀이 안방에서 열린 세계선수권대회에서 종합 우승을 차지했다.한국은 16일 경남 창원국제사격장에서 막을 내린 2026 세계선수권에서 금 10개, 은 4개, 동메달 7개를 따냈다.종합 2위 중국(금 3개, 은 8개, 동메달 3개)과 비교해도 금메달이 7개 많았다.지난해 장애인전국체육대회 때 최우수선수(MVP)로 뽑혔던 김정남(48·BDH파라스) 혼자서만 이번 대회서 금 4개, 은 1개, 동메달 1개를 따내 중국보다 성적이 더 좋았다.한국은 전 세계 53개국에서 선수 595명이 참가한 이번 대회를 통해 2028 로스앤젤레스(LA) 패럴림픽(장애인올림픽) 출전권 5장도 확보했다.대회 첫날 혼성 권총 25m 문애경(58·경남도장애인체육회)을 시작으로 남자 10m 공기권총 조정두(39·BDH파라스), 혼성 10m 공기소총 복사 박진호(49·강릉시청), 여자 50m 소총 3자세 이윤리(52·한전MCS), 남자 50m 소총 3자세 김수완(44·경기도장애인체육회)이 각",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260916/134684738/1",
-          "publishedAt": "2026-09-16T12:25:00+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20260917122651007",
+          "publishedAt": "2026-09-17T09:05:32+00:00",
           "sourceCount": 2,
           "otherSources": [
             "조선일보"
           ]
         },
         {
-          "title": "'2-0→2-3' 맨유, 브라이튼에 충격 역전패... '50년 만의 굴욕'→카라바오컵 탈락",
-          "summary": "[OSEN=정승우 기자] 맨체스터 유나이티드가 홈에서 두 골을 먼저 넣고도 무너졌다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/world-football/2026/09/17/MU3TKYRWMU2TEMZRHA4DKNZQGU/",
-          "publishedAt": "2026-09-16T21:17:00+00:00",
+          "title": "이준석, 테크볼 남자 단식 준결승 진출…‘무실세트’ 6연승 질주",
+          "summary": "무실세트로 파죽의 5연승 질주한국 테크볼(Teqball) 국가대표 이준석이 새롭게 정식 종목으로 합류한 테크볼 남자 단식에서 5전 전승을 거두며 8강에 진출했다.이준석은 17일 일본 나고야 히가시 스포츠센터에서 열린 2026 아이치·나고야 아시안게임 테크볼 남자 단식 B조 조별리그에서 5경기를 모두 승리, 조 상위 4명까지 주는 8강행 티켓을 거머쥐었다.이어 8강에서 쿠다이베르디 아브딜아지조비치 아이다르베코프(키르기스스탄)까지 세트 점수 2-0(12-2 12-1)으로 물리쳤다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20260917/134690272/1",
+          "publishedAt": "2026-09-17T07:52:52+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "한국 여자축구, 방글라데시 6-0 제압…조별리그 2연승",
+          "summary": "한국 여자 축구 대표팀이 방글라데시를 완파하고 2026 아이치·나고야 아시안게임 조별리그 2연승을 달렸다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260917184000007",
+          "publishedAt": "2026-09-17T08:57:59+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "한겨레"
           ]
         }
       ]
@@ -293,186 +297,186 @@
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "MS AI수장 AI에 권리 가르치면 통제불능",
-      "sentence": "마이크로소프트(MS)의 인공지능(AI) 부문 수장이 앤트로픽의 AI모델 정책이 인류에 재앙적 위험을 ...",
+      "phrase": "모두의 AI 카카오 컨소시엄에 참여",
+      "sentence": "신한은행은 과학기술정보통신부가 주관하는 '모두의 AI(인공지능)' 사업에 카카오[035720] 컨소시엄의 금융...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260917002800091"
+      "link": "https://www.yna.co.kr/view/AKR20260917145700002"
     },
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "트럼프 美금리 1% 이하여야",
-      "sentence": "도널드 트럼프 미국 대통령은 16일(현지시간) 미 연방준비제도(Fed·연준)가 기준금리를 올린 데 대해 \"...",
+      "phrase": "국회 본회의 통과",
+      "sentence": "김성수(57·사법연수원 24기) 대법관 후보자 임명동의안이 17일 국회를 통과했다.",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260917012151071"
+      "link": "https://www.yna.co.kr/view/AKR20260917135100001"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "446억 원 배상",
-      "sentence": "6년 전 남북공동연락사무소를 폭파했던 북한이 우리 정부에게 446억 원을 배상해야 한다는 법원 판결이 나왔습니다.",
+      "phrase": "EU 27개국 13세 미만 SNS 전면 금지",
+      "sentence": "유럽연합(EU)이 27개 회원국 전역에서 13세 미만 아동의 소셜미디어(SNS) 이용을 전면 금지하는 일명 ‘EU 키즈법’ 제정을 추진한다.…",
       "articleCount": 250,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008757227"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "美 긴축 전환에 한은도 연내 추가 금리인상",
-      "sentence": "미국 연방준비제도(연준·Fed)가 3년 2개월 만에 기준금리를 올리면서 한국은행의 연내 추가 금리 인상 가능성...",
-      "articleCount": 159,
-      "link": "https://www.yna.co.kr/view/AKR20260917015800002"
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260918010003"
     },
     {
       "id": "game",
       "name": "게임",
-      "phrase": "日 아이치·나고야 아시안게임 참가 보도",
-      "sentence": "북한이 일본에서 열리는 2026 아이치·나고야 아시안게임 참가 소식을 16일 대내외에 알렸다.",
-      "articleCount": 159,
-      "link": "https://www.yna.co.kr/view/AKR20260916013000504"
+      "phrase": "테크볼 남자 단식 준결승 진출",
+      "sentence": "무실세트로 파죽의 5연승 질주한국 테크볼(Teqball) 국가대표 이준석이 새롭게 정식 종목으로 합류한 테크볼 남자 단식에서 5전 전승을 거두며 8강에 진출했다.…",
+      "articleCount": 209,
+      "link": "https://www.donga.com/news/Sports/article/all/20260917/134690272/1"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "아르헨티나 1-0 꺾고 12년만에 U-20",
-      "sentence": "한국 20세 이하(U-20) 여자 축구대표팀이 2026 국제축구연맹(FIFA) U-20 여자 월드컵에서 12년...",
-      "articleCount": 137,
-      "link": "https://www.yna.co.kr/view/AKR20260916191400007"
+      "phrase": "법원 근무지 무단이탈 현주엽 前휘문고 농구감독",
+      "sentence": "법원이 휘문고 농구 감독 재직 시절 근무지를 무단으로 이탈한 방송인 현주엽 씨에 대한 교육청의 징계가 정당하다...",
+      "articleCount": 195,
+      "link": "https://www.yna.co.kr/view/AKR20260917161000004"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
-      "phrase": "기준금리 0.25%p 올렸다",
-      "sentence": "미국 중앙은행인 연방준비제도(Fed·연준)가 기준금리를 0.25% 포인트(p) 인상했다.",
-      "articleCount": 130,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000012868"
+      "phrase": "에너지 안보 논의",
+      "sentence": "이재명 대통령은 17일 오후 청와대에서 파티 비롤 국제에너지기구(IEA) 사무총장을 접견한다.",
+      "articleCount": 144,
+      "link": "https://www.yna.co.kr/view/AKR20260917050000001"
     },
     {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "연준 금리인상·워시 매파발언에 뉴욕증시 하락",
-      "sentence": "16일(현지시간) 미국 뉴욕증시는 연방준비제도(Fed·연준)의 기준금리 인상과 케빈 워시 연준 의장의 매파적...",
-      "articleCount": 128,
-      "link": "https://www.yna.co.kr/view/AKR20260917010851072"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "교육부 수시 먹통 구제대상 388건",
-      "sentence": "2027학년도 대입 수시모집 원서 접수 과정에서 발생한 ‘먹통 사태’와 관련, 388건이 구제 대상으로 확정됐다.",
+      "id": "rate",
+      "name": "금리",
+      "phrase": "3년 2개월 만에 금리 인상",
+      "sentence": "미국 중앙은행이 3년 2개월 만에 기준금리를 인상하고, 추가 인상 가능성도 열어뒀습니다.",
       "articleCount": 123,
-      "link": "https://www.mk.co.kr/news/society/12154703"
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758985"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "BTS 암표 적발에 끝까지 추적",
-      "sentence": "이재명 대통령이 “정당한 관람 기회를 빼앗는 암표 거래, 끝까지 추적해 부당하게 챙긴 수익까지 반드시 환수하겠다”고 밝혔다.…",
-      "articleCount": 102,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000012906"
+      "phrase": "나나 강도상해 30대 2심도 징역10년 구형",
+      "sentence": "배우 나나(본명 임진아)의 집에 침입해 흉기로 위협한 혐의로 재판에 넘겨진 30대 남성이 항소심에서도 징역 1...",
+      "articleCount": 122,
+      "link": "https://www.yna.co.kr/view/AKR20260917183500004"
     },
     {
-      "id": "semiconductor",
-      "name": "반도체",
-      "phrase": "인텔과 미국서 메모리 생산 협상중",
-      "sentence": "SK하이닉스가 인텔과 협력해 메모리 칩을 미국에서 처음으로 생산하는 방안을 협상 중이라고 로이터...",
-      "articleCount": 100,
-      "link": "https://www.yna.co.kr/view/AKR20260916122752009"
+      "id": "education",
+      "name": "교육",
+      "phrase": "경쟁률 보고 접수한 3건은 취소 권고",
+      "sentence": "2027학년도 대입 수시모집 원서 접수 ‘먹통’ 사태로 원서를 제대로 내지 못한 수험생 가운데 354건은 구제가 확정됐다.…",
+      "articleCount": 112,
+      "link": "https://www.donga.com/news/Society/article/all/20260917/134690350/2"
     },
     {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "물가안정 달성할 것",
-      "sentence": "케빈 워시 미국 연방준비제도(Fed·연준) 의장은 16일(현지시간) \"인플레이션이 계속해서 높은 수준에 머물...",
-      "articleCount": 96,
-      "link": "https://www.yna.co.kr/view/AKR20260917007800072"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "강원대병원 노조",
-      "sentence": "강원대학교병원 노조의 올해 입금 교섭 관련 파업안이 16일 조합원 투표에서 가결됐다.",
-      "articleCount": 86,
-      "link": "https://www.yna.co.kr/view/AKR20260916183700062"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "LH 매입임대 보수·하자 매년 16만건",
-      "sentence": "정부가 주거 취약계층 지원을 위해 시세보다 저렴하게 임대하는 매입임대주택에서 매년 16만건 안팎의 시설보수 및...",
-      "articleCount": 81,
-      "link": "https://www.yna.co.kr/view/AKR20260916175200003"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "저비용항공사 알짜노선 대거 취항",
-      "sentence": "국토교통부가 중국 노선을 중심으로 25개 국제항공 노선의 운수권을 10개 국적 항공사에 배분했다고 16일 밝혔...",
-      "articleCount": 80,
-      "link": "https://www.yna.co.kr/view/AKR20260915166151003"
+      "id": "stock",
+      "name": "증시",
+      "phrase": "연준 금리 인상에도 선방한 코스피",
+      "sentence": "미국 연방준비제도(Fed·연준)가 기준금리를 3년 만에 인상한 가운데, 코스피 지수는 약보합으로 6700선을 사수하는 데 성공했다.…",
+      "articleCount": 103,
+      "link": "https://www.chosun.com/economy/stock-finance/2026/09/17/MUYDCZRUMY2DSN3EMYZDMMZTMI/"
     },
     {
       "id": "trade",
       "name": "수출·관세",
-      "phrase": "美기업 특허 침해 주장에 삼성·애플·구글 조사",
-      "sentence": "미국 국제무역위원회(ITC)는 16일(현지시간) 특정 오디오기술 특허 침해를 주장하는 미국 업체의 요구에 ...",
-      "articleCount": 71,
-      "link": "https://www.yna.co.kr/view/AKR20260917000751071"
+      "phrase": "트럼프는 관세 부과 경고",
+      "sentence": "유럽연합(EU)이 캐나다에 ‘EU 준회원국’을 제안했다.",
+      "articleCount": 99,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013109"
     },
     {
-      "id": "retail",
-      "name": "유통·소비",
-      "phrase": "정보유출 1인당 10만원 배상 거부",
-      "sentence": "소비자 50명 상대 조정안 불수용시민단체 “집단소송법 제정해야”쿠팡이 지난해 말 개인정보 유출 피해를 입은 소비자들에게 10만원씩 배상하라는 한국소비자원 소비자분…",
-      "articleCount": 65,
-      "link": "https://www.khan.co.kr/article/202609162032015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "강남3구 약세에도 서울 아파트값 84주째 상승",
+      "sentence": "서울 아파트 매매가격이 84주째 상승, 역대 최장 기록에 바짝 다가섰다.",
+      "articleCount": 95,
+      "link": "https://www.yna.co.kr/view/AKR20260917095700003"
     },
     {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "넥써스 원체인 밸리데이터에 엠블록 합류",
-      "sentence": "블록체인 네트워크인 원체인(ONEchain)을 운영중인 넥써쓰는 엠블록컴퍼니가 원체인의 밸리데이터로 합류했다고 16일 밝혔다.",
-      "articleCount": 51,
-      "link": "https://www.mk.co.kr/news/stock/12154086"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "엘앤에프와 3년간 LFP 양극재 공급 계약",
+      "sentence": "SK온이 글로벌 에너지저장장치(ESS) 수요 증가에 맞춰 리튬인산철(LFP) 배터리의 핵심 소재인 양극재 국내...",
+      "articleCount": 94,
+      "link": "https://www.yna.co.kr/view/AKR20260917154700003"
     },
     {
-      "id": "labor",
-      "name": "노동",
-      "phrase": "러 드론공장 등 노동자 10만명 보내 작년",
-      "sentence": "북한이 중국과 러시아 등 최소 17개국에 최대 10만 명이 넘는 해외 노동자를 파견해 지난해 최대 1조 원 이상의 수익을 거둔 것으로 파악됐다.…",
-      "articleCount": 51,
-      "link": "https://www.donga.com/news/Politics/article/all/20260917/134685042/2"
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "인텔과 美서 메모리 생산 검토",
+      "sentence": "SK하이닉스가 미국 현지 메모리 반도체 생산을 위해 인텔과 협력하는 방안을 검토 중이라고 로이터가 보도했다.…",
+      "articleCount": 91,
+      "link": "https://www.donga.com/news/Economy/article/all/20260917/134684842/2"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "싱가포르 3조 원 규모 종합병원 단독 수주",
+      "sentence": "쌍용건설이 싱가포르 보건부가 발주한 약 3조 원 규모 뜽아 종합병원 공사를 단독으로 수주했다고 17일 밝혔다.…",
+      "articleCount": 83,
+      "link": "https://www.donga.com/news/Economy/article/all/20260917/134689389/1"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "강원 의료계 노사 갈등 최고조",
+      "sentence": "각 노조는 처우 개선을 비롯한 요구 사안이 받아들여지지 않을 시 총파업 등 강경 대응에 나서겠다고 밝히면서 의료 현장의 긴장감이 높아지고 있다.…",
+      "articleCount": 80,
+      "link": "https://www.nocutnews.co.kr/news/6579701"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "탄소중립포인트 연 10억원꼴 미지급",
-      "sentence": "전기와 가스, 물을 절약해 받은 탄소중립포인트 가운데 최근 5년간 연평균 10억원 넘게 지급되지 못한 것으로 ...",
-      "articleCount": 49,
-      "link": "https://www.yna.co.kr/view/AKR20260916145700530"
+      "phrase": "李대통령 중동위기로 재생에너지 중심 에너지체계",
+      "sentence": "이재명 대통령은 17일 오후 청와대에서 파티 비롤 국제에너지기구(IEA) 사무총장을 접견했다.",
+      "articleCount": 54,
+      "link": "https://www.yna.co.kr/view/AKR20260917136400001"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비",
+      "phrase": "출시 11년 만에 1위",
+      "sentence": "셀트리온은 대표 자가면역질환 치료제 ‘램시마’(성분명 인플릭시맙)가 일본에서 시장 점유율 1위에 올랐다고 17일 밝혔다.의약품 시장조사기관 아이큐비아(IQVIA)…",
+      "articleCount": 50,
+      "link": "https://www.donga.com/news/It/article/all/20260917/134687559/1"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "이정욱 매드엔진 대표 승부수는 글로벌 원빌드",
+      "sentence": "매드엔진이 '새로운 경험'을 앞세운 차기작으로 글로벌 게임 시장 변화에 대응한다.…",
+      "articleCount": 48,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155363"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "요금제 유지기간 지나면 알림 문자",
-      "sentence": "이동통신사가 가입자에게 약정한 요금제 유지 기간이 지나면 알림 문자를 보내고, 유통점의 추가지원금 정보도 표준...",
-      "articleCount": 43,
-      "link": "https://www.yna.co.kr/view/AKR20260916173400017"
+      "phrase": "호주서 2.16GW 데이터센터 확보",
+      "sentence": "앤트로픽이 호주에서 처음으로 대규모 데이터센터 용량을 확보했다.…",
+      "articleCount": 44,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155365"
     },
     {
       "id": "science",
       "name": "우주·과학",
       "phrase": "중·러 의식한 우주 군사화 새 지평",
       "sentence": "미국이 지구 궤도를 넘어 지구와 달 사이 우주 공간을 미래 전쟁터로 지목하며 군사전략의 새 지평을 열었다.",
-      "articleCount": 33,
+      "articleCount": 37,
       "link": "https://www.yna.co.kr/view/AKR20260917037700009"
+    },
+    {
+      "id": "labor",
+      "name": "노동",
+      "phrase": "LH노조 LH 분사 강행시 총파업",
+      "sentence": "한국토지주택공사(LH) 노동조합이 정부가 LH 분리·해체 방안을 강행할 경우 8천여명의 조합원이 총파업에 돌입...",
+      "articleCount": 33,
+      "link": "https://www.yna.co.kr/view/AKR20260917105100003"
     },
     {
       "id": "fx",
       "name": "환율",
-      "phrase": "9.7원 오른 1378.3원",
-      "sentence": "미 달러화 대비 원화 환율(원·달러 환율)은 17일 오전 9시 1378.3원이다.",
-      "articleCount": 32,
-      "link": "https://www.chosun.com/economy/economy_general/2026/09/17/MM3TKNZUGI2DSYJYGZSGCYJQGI/"
+      "phrase": "달러 환율 3주만에 1",
+      "sentence": "원/달러 환율은 17일 미 연방준비제도(Fed·연준)가 기준금리를 올리고 추가 인상을 시사하는 등 매파(통화긴...",
+      "articleCount": 31,
+      "link": "https://www.yna.co.kr/view/AKR20260917059451002"
     }
   ],
   "topicCatalog": [
@@ -587,13 +591,13 @@
       "link": "https://www.dhlottery.co.kr/lt645/result"
     },
     "pension": {
-      "round": 332,
-      "drawDate": "2026-09-10",
+      "round": 333,
+      "drawDate": "2026-09-17",
       "group": "4",
-      "number": "698740",
-      "bonus": "833539",
-      "firstPrizeWinners": 2,
-      "firstPrizeAmount": 1680000000,
+      "number": "008973",
+      "bonus": "050305",
+      "firstPrizeWinners": 1,
+      "firstPrizeAmount": 0,
       "link": "https://www.dhlottery.co.kr/pt720/result"
     }
   }
