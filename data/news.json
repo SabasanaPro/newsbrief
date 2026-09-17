@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:24:02+09:00",
+  "generatedAt": "2026-09-18T00:18:00+09:00",
   "categories": [
     {
       "id": "politics",
@@ -78,14 +78,14 @@
           ]
         },
         {
-          "title": "기업 61% “추석 상여금 지급”…작년보다 소폭 줄어",
-          "summary": "올해 추석 연휴 기간 기업 10곳 중 8곳이 4일간 휴무를 실시하는 것으로 나타났다. 추석 상여금을 지급하겠다는 비중은 소폭 줄어들었다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Economy/article/all/20260917/134689495/1",
-          "publishedAt": "2026-09-17T07:20:00+00:00",
+          "title": "신한은행, 인천시 1금고 지켰다…'24년 금고지기'",
+          "summary": "신한은행이 인천광역시의 제1금고를 지키는 데 성공했다. 인천시는 17일 '인천광역시 금고지정심의위원회'를 개최하고 제1금고에 신한은행, 제2금고에 NH농협은행을 선정했다고 밝혔다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026091719502530400",
+          "publishedAt": "2026-09-17T10:50:25+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "SBS",
+            "머니투데이",
             "연합뉴스"
           ]
         }
@@ -96,16 +96,32 @@
       "name": "사회",
       "items": [
         {
-          "title": "휘문고 감독 시절 방송 이유로 ‘근무지 무단이탈’ 현주엽···법원 “감봉 처분 정당”",
-          "summary": "사진공동취재단휘문고 농구 감독으로 재직하며 근무지를 무단으로 이탈한 방송인 현주엽씨에 대한 교육청의 징계가 정당하다는 법원 판단이 나왔다.…",
+          "title": "“노동권 후퇴 막아야”…민주노총, 메가특구법 ‘사회적 대화’ 참여 결정",
+          "summary": "“노동 규제 완화 조항 저지 위해직접 반대 입장 표명 필요 판단”코로나 ‘노사정 대화’ 6년 만에민주노총이 메가특구특별법(가칭)의 노동규제 완화 문제를 논의하자며 정부가 제안한 ‘원 포인트 사회적 대화’에 참여하기로 결정했다.…",
           "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609171753001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-09-17T08:53:00+00:00",
+          "link": "https://www.khan.co.kr/article/202609172224005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-09-17T13:24:00+00:00",
+          "sourceCount": 7,
+          "otherSources": [
+            "동아일보",
+            "매일경제",
+            "연합뉴스",
+            "조선일보",
+            "프레시안",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "58억원 횡령해 부동산·고급차 구매…김포FC 회계담당 직원 구속",
+          "summary": "김포FC의 공금 수십억원을 빼돌린 회계 담당 직원이 구속됐다. 경기 김포경찰서는 특정경제범죄 가중처벌 등에 관한 법률상 업무상 횡령 혐의로 김포FC 직원 A씨를 구속했다고 17일 밝혔다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260917500295",
+          "publishedAt": "2026-09-17T09:30:06+00:00",
           "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "동아일보",
-            "매일경제",
+            "경향신문",
+            "노컷뉴스",
             "연합뉴스"
           ]
         },
@@ -120,19 +136,6 @@
             "경향신문",
             "연합뉴스",
             "한겨레"
-          ]
-        },
-        {
-          "title": "58억원 횡령해 부동산·고급차 구매…김포FC 회계담당 직원 구속",
-          "summary": "김포FC의 공금 수십억원을 빼돌린 회계 담당 직원이 구속됐다. 경기 김포경찰서는 특정경제범죄 가중처벌 등에 관한 법률상 업무상 횡령 혐의로 김포FC 직원 A씨를 구속했다고 17일 밝혔다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260917500295",
-          "publishedAt": "2026-09-17T09:30:06+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "연합뉴스"
           ]
         }
       ]
@@ -168,11 +171,11 @@
           ]
         },
         {
-          "title": "‘휴일 다리미질’ 자랑하는 여성총리…일본, 성평등 ‘최하위권’ 굴욕",
-          "summary": "일본이 세계경제포럼(WEF)이 발표한 성평등 국가 순위에서 ‘최하위권’이라는 최악의 성적표를 받으면서 첫 여성 총리인 다카이치 사나에 총리의 여성 정책에 대한 우려의 목소리가 나오..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12155605",
-          "publishedAt": "2026-09-17T08:29:28+00:00",
+          "title": "다카이치 첫 개각, 핵심 각료 대부분 유임…유신회 첫 입각",
+          "summary": "다카이치 사나에(高市早苗) 일본 총리가 17일 취임 11개월 만에 첫 개각을 단행했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20260917/134689530/1",
+          "publishedAt": "2026-09-17T11:42:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "연합뉴스",
@@ -185,6 +188,17 @@
       "id": "tech",
       "name": "IT·과학",
       "items": [
+        {
+          "title": "네이버, 인수설 4개월 만에 배민 인수 최종 철회",
+          "summary": "네이버가 배달의민족(배민) 지분을 인수하지 않기로 결정했다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=673946",
+          "publishedAt": "2026-09-17T21:42:44+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "전자신문"
+          ]
+        },
         {
           "title": "삼성디스플레이 이청, 中 폴더블 추격에 \"우리가 최고죠\"",
           "summary": "\"우리가 최고죠.\"이청 삼성디스플레이 대표이사 사장이 중국 디스플레이 업체들과의 폴더블 디스플레이 기술 경쟁에서 자신감을 나타냈다.이 사장은 17일 서울 송파구 롯데호텔월드에서 열린 '제17회 디스플레이의 날' 기념행",
@@ -206,17 +220,6 @@
           "otherSources": [
             "동아일보"
           ]
-        },
-        {
-          "title": "LFP 양극재 선두 엘앤에프, 삼성SDI 이어 SK온도 수주…1617억 규모",
-          "summary": "[지디넷코리아]국내 양극재 기업 중 리튬인산철(LFP) 제품을 가장 먼저 생산 중인 엘앤에프가 삼성SDI에 이어 SK온으로부터도 수주를 따냈다.…",
-          "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20260917183510",
-          "publishedAt": "2026-09-17T09:49:31+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "연합뉴스"
-          ]
         }
       ]
     },
@@ -225,29 +228,31 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "업비트, 페이팔·엔화 스테이블코인 품었다…달러·유로 이어 3종 통화 확보",
-          "summary": "국내 최대 가상자산거래소 업비트가 페이팔이 발행한 달러 스테이블코인 페이팔유에스디(PYUSD)와 일본 엔화 기반 제이피와이코인(JPYC)을 신규 상장한다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155331",
-          "publishedAt": "2026-09-17T11:26:59+00:00",
+          "title": "비트코인 5만8000달러 바닥 판단…그레이스케일 ‘청신호’",
+          "summary": "그레이스케일이 비트코인(BTC)의 이번 약세장 저점을 5만8000달러(약 7946만원)로 판단하고 고객 자산 배분 기준이 충족됐다고 밝혔다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/409798",
+          "publishedAt": "2026-09-17T14:44:37+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "블록미디어"
+          ]
+        },
+        {
+          "title": "암호화폐 시장 혼조세… 비트코인 76,379달러, 이더리움 2,453달러",
+          "summary": "암호화폐 시장이 혼조세를 보이는 가운데 비트코인과 이더리움은 모두 24시간 기준 상승했다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/briefing/409818",
+          "publishedAt": "2026-09-17T15:03:59+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "5195ETH 출금에도 이더리움 ETF 2억2410만달러 순유출",
-          "summary": "이더리움(ETH) 대형 지갑 두 곳이 거래소에서 총 5195ETH를 출금한 가운데 미국 현물 이더리움 ETF에서는 이틀 연속 순유출이 발생했다.…",
+          "title": "비트코인·이더리움 ETF 5.2억달러 유출 外",
+          "summary": "비트코인(BTC)·이더리움(ETH) ETF에서 5억2009만달러가 빠져나갔다. 미국 비트코인·이더리움 ETF에서 16일(현지시간) 5억2009만달러(약 7125억원)가 유출됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/409664",
-          "publishedAt": "2026-09-17T11:06:28+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 2억7493만달러 청산",
-          "summary": "지난 24시간 암호화폐 시장에서 2억7493만달러(약 3766억763만원) 규모의 레버리지 포지션이 청산됐다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/briefing/409659",
-          "publishedAt": "2026-09-17T11:00:58+00:00",
+          "link": "https://www.tokenpost.kr/news/briefing/409817",
+          "publishedAt": "2026-09-17T15:03:35+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -258,6 +263,28 @@
       "name": "문화·스포츠",
       "items": [
         {
+          "title": "한국 여자축구, 방글라데시 6-0 제압…2연승·8강 확정",
+          "summary": "한국 여자 축구 대표팀이 방글라데시를 완파하고 2026 아이치·나고야 아시안게임 조별리그 2연승으로 8강 진...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260917184051007",
+          "publishedAt": "2026-09-17T13:26:48+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "한겨레"
+          ]
+        },
+        {
+          "title": "'韓 첫 금메달 후보!' 女 근대5종 성승민, 조 2위로 파이널 진출",
+          "summary": "[스포츠조선 김가을 기자]대한민국 여자 근대5종의 간판 성승민(한국체대)이 조 2위로 아시안게임 결승에 진출했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/sports_general/2026/09/17/MZRDOM3FGYYWKNDDMMZTSMJRHE/",
+          "publishedAt": "2026-09-17T14:48:19+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
+        {
           "title": "여자배구, 카타르 3-0 완파…8강 진출 확정",
           "summary": "차상현 감독이 이끄는 한국 여자 배구대표팀(세계랭킹 28위)이 카타르(106위)를 꺾고 2026 아이...",
           "source": "연합뉴스",
@@ -267,28 +294,6 @@
           "otherSources": [
             "조선일보"
           ]
-        },
-        {
-          "title": "이준석, 테크볼 남자 단식 준결승 진출…‘무실세트’ 6연승 질주",
-          "summary": "무실세트로 파죽의 5연승 질주한국 테크볼(Teqball) 국가대표 이준석이 새롭게 정식 종목으로 합류한 테크볼 남자 단식에서 5전 전승을 거두며 8강에 진출했다.이준석은 17일 일본 나고야 히가시 스포츠센터에서 열린 2026 아이치·나고야 아시안게임 테크볼 남자 단식 B조 조별리그에서 5경기를 모두 승리, 조 상위 4명까지 주는 8강행 티켓을 거머쥐었다.이어 8강에서 쿠다이베르디 아브딜아지조비치 아이다르베코프(키르기스스탄)까지 세트 점수 2-0(12-2 12-1)으로 물리쳤다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260917/134690272/1",
-          "publishedAt": "2026-09-17T07:52:52+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "한국 여자축구, 방글라데시 6-0 제압…조별리그 2연승",
-          "summary": "한국 여자 축구 대표팀이 방글라데시를 완파하고 2026 아이치·나고야 아시안게임 조별리그 2연승을 달렸다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260917184000007",
-          "publishedAt": "2026-09-17T08:57:59+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "한겨레"
-          ]
         }
       ]
     }
@@ -297,10 +302,10 @@
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "모두의 AI 카카오 컨소시엄에 참여",
-      "sentence": "신한은행은 과학기술정보통신부가 주관하는 '모두의 AI(인공지능)' 사업에 카카오[035720] 컨소시엄의 금융...",
+      "phrase": "구광모 AI는 미래 경쟁력의 핵심 축",
+      "sentence": "구광모 LG 대표, 사장단회의서LG는 지난 16일 경기 이천시 LG인화원에서 사장단회의를 열고 인공지능(AI) 시대 산업·기술 패러다임 변화에 대응하기 위한 투자…",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260917145700002"
+      "link": "https://www.khan.co.kr/article/202609172023005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
       "id": "politics",
@@ -313,49 +318,41 @@
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "EU 27개국 13세 미만 SNS 전면 금지",
-      "sentence": "유럽연합(EU)이 27개 회원국 전역에서 13세 미만 아동의 소셜미디어(SNS) 이용을 전면 금지하는 일명 ‘EU 키즈법’ 제정을 추진한다.…",
+      "phrase": "EU 준회원국 제안에 화답",
+      "sentence": "마크 카니 캐나다 총리는 17일(현지시간) \"캐나다와 유럽은 각자 강하다.",
       "articleCount": 250,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260918010003"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "테크볼 남자 단식 준결승 진출",
-      "sentence": "무실세트로 파죽의 5연승 질주한국 테크볼(Teqball) 국가대표 이준석이 새롭게 정식 종목으로 합류한 테크볼 남자 단식에서 5전 전승을 거두며 8강에 진출했다.…",
-      "articleCount": 209,
-      "link": "https://www.donga.com/news/Sports/article/all/20260917/134690272/1"
+      "link": "https://www.yna.co.kr/view/AKR20260917195951082"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "법원 근무지 무단이탈 현주엽 前휘문고 농구감독",
-      "sentence": "법원이 휘문고 농구 감독 재직 시절 근무지를 무단으로 이탈한 방송인 현주엽 씨에 대한 교육청의 징계가 정당하다...",
-      "articleCount": 195,
-      "link": "https://www.yna.co.kr/view/AKR20260917161000004"
+      "phrase": "골프연습장 불법전대 혐의 검찰 송치",
+      "sentence": "'슈퍼 땅콩'으로 불리던 유명 골퍼 김미현의 이름을 내건 대형 골프연습장의 법인 대표가 불법 전대 혐의로 검찰...",
+      "articleCount": 202,
+      "link": "https://www.yna.co.kr/view/AKR20260917184900065"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "선수촌 도요토미 공연 관련 조직위에 항의",
+      "sentence": "2026 아이치·나고야 아시안게임 선수촌 환영 행사에 도요토미 히데요시를 등장시킨 공연에 대해 대한체육회가 ...",
+      "articleCount": 187,
+      "link": "https://www.yna.co.kr/view/AKR20260917178500007"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "에너지 안보 논의",
       "sentence": "이재명 대통령은 17일 오후 청와대에서 파티 비롤 국제에너지기구(IEA) 사무총장을 접견한다.",
-      "articleCount": 144,
+      "articleCount": 163,
       "link": "https://www.yna.co.kr/view/AKR20260917050000001"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "3년 2개월 만에 금리 인상",
-      "sentence": "미국 중앙은행이 3년 2개월 만에 기준금리를 인상하고, 추가 인상 가능성도 열어뒀습니다.",
-      "articleCount": 123,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758985"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "나나 강도상해 30대 2심도 징역10년 구형",
       "sentence": "배우 나나(본명 임진아)의 집에 침입해 흉기로 위협한 혐의로 재판에 넘겨진 30대 남성이 항소심에서도 징역 1...",
-      "articleCount": 122,
+      "articleCount": 130,
       "link": "https://www.yna.co.kr/view/AKR20260917183500004"
     },
     {
@@ -363,64 +360,72 @@
       "name": "교육",
       "phrase": "경쟁률 보고 접수한 3건은 취소 권고",
       "sentence": "2027학년도 대입 수시모집 원서 접수 ‘먹통’ 사태로 원서를 제대로 내지 못한 수험생 가운데 354건은 구제가 확정됐다.…",
-      "articleCount": 112,
+      "articleCount": 126,
       "link": "https://www.donga.com/news/Society/article/all/20260917/134690350/2"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "BOE 총재 금리 인상 가능성 시사",
+      "sentence": "영국 중앙은행인 잉글랜드은행(BOE)이 17일(현지시간) 기준금리를 연 3.75%로 동결했다.",
+      "articleCount": 122,
+      "link": "https://www.yna.co.kr/view/AKR20260917195852085"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "연준 금리 인상에도 선방한 코스피",
-      "sentence": "미국 연방준비제도(Fed·연준)가 기준금리를 3년 만에 인상한 가운데, 코스피 지수는 약보합으로 6700선을 사수하는 데 성공했다.…",
-      "articleCount": 103,
-      "link": "https://www.chosun.com/economy/stock-finance/2026/09/17/MUYDCZRUMY2DSN3EMYZDMMZTMI/"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "트럼프는 관세 부과 경고",
-      "sentence": "유럽연합(EU)이 캐나다에 ‘EU 준회원국’을 제안했다.",
-      "articleCount": 99,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013109"
+      "phrase": "유가 하락에 상승 출발",
+      "sentence": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 유가 하락에 힘입어 상승 출발했다.",
+      "articleCount": 110,
+      "link": "https://www.yna.co.kr/view/AKR20260917202200009"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "강남3구 약세에도 서울 아파트값 84주째 상승",
-      "sentence": "서울 아파트 매매가격이 84주째 상승, 역대 최장 기록에 바짝 다가섰다.",
-      "articleCount": 95,
-      "link": "https://www.yna.co.kr/view/AKR20260917095700003"
+      "phrase": "58억 횡령해 부동산·고급차 구입 김포FC",
+      "sentence": "프로축구 K리그2 김포FC 자금 수십억원을 빼돌려 부동산과 고급 차량을 산 30대 직원이 구속됐다.",
+      "articleCount": 104,
+      "link": "https://www.yna.co.kr/view/AKR20260917185351065"
     },
     {
       "id": "industry",
       "name": "산업·기업",
       "phrase": "엘앤에프와 3년간 LFP 양극재 공급 계약",
       "sentence": "SK온이 글로벌 에너지저장장치(ESS) 수요 증가에 맞춰 리튬인산철(LFP) 배터리의 핵심 소재인 양극재 국내...",
-      "articleCount": 94,
+      "articleCount": 102,
       "link": "https://www.yna.co.kr/view/AKR20260917154700003"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "美 갈등 캐나다에 첫 준회원국 지위 제안",
+      "sentence": "유럽연합(EU)이 사상 처음으로 '준회원국' 지위를 신설해 캐나다에 부여하는 방안을 제안했다.",
+      "articleCount": 101,
+      "link": "https://www.mk.co.kr/news/world/12154661"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "인텔과 美서 메모리 생산 검토",
-      "sentence": "SK하이닉스가 미국 현지 메모리 반도체 생산을 위해 인텔과 협력하는 방안을 검토 중이라고 로이터가 보도했다.…",
-      "articleCount": 91,
-      "link": "https://www.donga.com/news/Economy/article/all/20260917/134684842/2"
+      "phrase": "협력사 가족 3만명 서울랜드 초청",
+      "sentence": "SK하이닉스가 다음달 15일 경기 과천 서울랜드에서 130여개 주요 협력사 구성원 8000여명과 가족 등 약 3만명을 초청해 ‘땡스풀 데이’(ThanksFULL…",
+      "articleCount": 94,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260918023003"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "싱가포르 3조 원 규모 종합병원 단독 수주",
       "sentence": "쌍용건설이 싱가포르 보건부가 발주한 약 3조 원 규모 뜽아 종합병원 공사를 단독으로 수주했다고 17일 밝혔다.…",
-      "articleCount": 83,
+      "articleCount": 86,
       "link": "https://www.donga.com/news/Economy/article/all/20260917/134689389/1"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "강원 의료계 노사 갈등 최고조",
-      "sentence": "각 노조는 처우 개선을 비롯한 요구 사안이 받아들여지지 않을 시 총파업 등 강경 대응에 나서겠다고 밝히면서 의료 현장의 긴장감이 높아지고 있다.…",
-      "articleCount": 80,
-      "link": "https://www.nocutnews.co.kr/news/6579701"
+      "phrase": "3년 2개월 만에 금리 인상",
+      "sentence": "미국 중앙은행이 3년 2개월 만에 기준금리를 인상하고, 추가 인상 가능성도 열어뒀습니다.",
+      "articleCount": 85,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008758985"
     },
     {
       "id": "climate",
@@ -431,36 +436,36 @@
       "link": "https://www.yna.co.kr/view/AKR20260917136400001"
     },
     {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "비트코인 5만8000달러 바닥 판단",
+      "sentence": "그레이스케일이 비트코인(BTC)의 이번 약세장 저점을 5만8000달러(약 7946만원)로 판단하고 고객 자산 배분 기준이 충족됐다고 밝혔다.…",
+      "articleCount": 51,
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/409798"
+    },
+    {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "출시 11년 만에 1위",
       "sentence": "셀트리온은 대표 자가면역질환 치료제 ‘램시마’(성분명 인플릭시맙)가 일본에서 시장 점유율 1위에 올랐다고 17일 밝혔다.의약품 시장조사기관 아이큐비아(IQVIA)…",
-      "articleCount": 50,
+      "articleCount": 44,
       "link": "https://www.donga.com/news/It/article/all/20260917/134687559/1"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "이정욱 매드엔진 대표 승부수는 글로벌 원빌드",
-      "sentence": "매드엔진이 '새로운 경험'을 앞세운 차기작으로 글로벌 게임 시장 변화에 대응한다.…",
-      "articleCount": 48,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155363"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "호주서 2.16GW 데이터센터 확보",
-      "sentence": "앤트로픽이 호주에서 처음으로 대규모 데이터센터 용량을 확보했다.…",
-      "articleCount": 44,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155365"
+      "phrase": "스마트폰 한 대로 업무·개인망 분리",
+      "sentence": "KT가 스마트폰에서 업무·개인용 앱의 네트워크 접속을 분리하는 '앱 슬라이싱' 서비스를 연내 선보인다.…",
+      "articleCount": 42,
+      "link": "https://www.bloter.net/news/articleView.html?idxno=673942"
     },
     {
       "id": "science",
       "name": "우주·과학",
-      "phrase": "중·러 의식한 우주 군사화 새 지평",
-      "sentence": "미국이 지구 궤도를 넘어 지구와 달 사이 우주 공간을 미래 전쟁터로 지목하며 군사전략의 새 지평을 열었다.",
-      "articleCount": 37,
-      "link": "https://www.yna.co.kr/view/AKR20260917037700009"
+      "phrase": "아시아 제패한 대전고 우주로middot;한규민",
+      "sentence": "제14회 아시아청소년야구선수권대회 결승에서 한국이 일본을 2-0으로 눌렀다.",
+      "articleCount": 35,
+      "link": "https://www.pressian.com/pages/articles/2026091716451107035&ref=rss"
     },
     {
       "id": "labor",
@@ -475,7 +480,7 @@
       "name": "환율",
       "phrase": "달러 환율 3주만에 1",
       "sentence": "원/달러 환율은 17일 미 연방준비제도(Fed·연준)가 기준금리를 올리고 추가 인상을 시사하는 등 매파(통화긴...",
-      "articleCount": 31,
+      "articleCount": 27,
       "link": "https://www.yna.co.kr/view/AKR20260917059451002"
     }
   ],
