@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:27:41+09:00",
+  "generatedAt": "2026-09-19T22:58:56+09:00",
   "categories": [
     {
       "id": "politics",
@@ -66,6 +66,19 @@
           ]
         },
         {
+          "title": "삼성전자 초기업노조, 반도체 노조로 전환…DX 소속 간부 2명 불신임",
+          "summary": "삼성그룹 초기업노동조합 삼성전자지부가 반도체 사업을 담당하는 디바이스솔루션(DS) 부문 노조로 전환한다.초기업노조가 19일 발표한 ‘2026년 5차 총회 결과’에 따르면 DS 부문 소속 근로자만 가입할 수 있도록 하는 규약 개정안에 대해 총선거인 5만 1350명 중 2만 8680명이 투표에 참여, 찬성 2만 7618명, 반대 1062명으로 가결됐다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20260919/134700629/1",
+          "publishedAt": "2026-09-19T02:52:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "머니투데이"
+          ]
+        },
+        {
           "title": "한은, 이창용 전 총재에게 매달 700만원… “자문 기록은 관리 안 해”",
           "summary": "이창용 전 한국은행 총재가 퇴임 후 한국은행의 비상근 고문으로 위촉돼 매달 700만원의 자문료를 받는 것으로 나타났다.…",
           "source": "조선일보",
@@ -76,18 +89,6 @@
             "SBS",
             "경향신문",
             "연합뉴스"
-          ]
-        },
-        {
-          "title": "삼성전자 초기업노조, 반도체 노조로 전환…DX 소속 간부 2명 불신임",
-          "summary": "삼성그룹 초기업노동조합 삼성전자지부가 반도체 사업을 담당하는 디바이스솔루션(DS) 부문 노조로 전환한다.초기업노조가 19일 발표한 ‘2026년 5차 총회 결과’에 따르면 DS 부문 소속 근로자만 가입할 수 있도록 하는 규약 개정안에 대해 총선거인 5만 1350명 중 2만 8680명이 투표에 참여, 찬성 2만 7618명, 반대 1062명으로 가결됐다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Economy/article/all/20260919/134700629/1",
-          "publishedAt": "2026-09-19T02:52:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "경향신문"
           ]
         }
       ]
@@ -144,6 +145,20 @@
       "name": "국제",
       "items": [
         {
+          "title": "“폭발음 들리고 경보 발령하고”…수도까지 공습한 후티, 사우디 ‘발칵’",
+          "summary": "친이란 예멘 반군 후티의 공격 수위가 시간이 갈수록 높아지고 있다. 사우디아라비아 수도 리야드에 첫 공습 경보가 발령된 것. 19일(현지 시간) 영국 BBC 방송에 따르면 사우디 ..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12157125",
+          "publishedAt": "2026-09-19T08:03:48+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
           "title": "눈덩이처럼 불어난 이란전쟁 비용… 美 국방부 “기지 수리비 빼고도 62조원”",
           "summary": "미국이 이란과의 전쟁에 쓴 비용이 62조원을 넘어섰다. 이란의 공격으로 파손된 미군 기지 등의 수리비는 포함되지 않아 실제 부담은 더 클 것으로 보인다.…",
           "source": "조선일보",
@@ -167,18 +182,6 @@
             "SBS",
             "조선일보",
             "한겨레"
-          ]
-        },
-        {
-          "title": "트럼프 “덴마크와 그린란드 미군 증강 합의… 안보 영구 통제권 확보”",
-          "summary": "도널드 트럼프 미국 대통령이 덴마크 자치령인 그린란드에 미군 주둔을 확대하기로 합의했다고 밝혔다. 이번 합의로 그린란드 안보에 대한 미국의 영구적 통제권을 확보했다고 주장했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/09/19/GA3GMYRXGQ3GEMDDMQ2TEMBUMI/",
-          "publishedAt": "2026-09-19T11:40:57+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "연합뉴스"
           ]
         }
       ]
@@ -230,20 +233,20 @@
           "otherSources": []
         },
         {
-          "title": "비트코인 50주선 회복…플랜B, 8만9000달러 가능성",
-          "summary": "비트코인(BTC)이 약 7만9000달러인 50주 이동평균선을 회복한 가운데, 플랜B(PlanB) 분석가는 다음 목표로 약 8만9000달러인 100주 이동평균선을 제시했다.…",
+          "title": "비트코인 시총 1조6300억달러, 테슬라 다시 앞섰다",
+          "summary": "비트코인(BTC)이 시가총액 1조6300억달러(약 2262조원)로 테슬라($TSLA)를 다시 앞섰다. 테슬라의 시가총액은 1조4380억달러(약 1995조원)로 집계됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/410802",
-          "publishedAt": "2026-09-19T12:07:07+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/410828",
+          "publishedAt": "2026-09-19T13:33:57+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "블랙록, “비트코인 금융화…담보 · 대출 활용성 높아졌다”",
-          "summary": "[블록미디어 이정화 기자] 블랙록은 비트코인 현물 ETF가 안착하면서 가격 변동성이 낮아지고, 비트코인의 금융화가 본격화되고 있다는 분석을 내놨다.…",
+          "title": "비트코인, 테슬라 시가총액 재추월…글로벌 자산 순위 15위권 복귀",
+          "summary": "[블록미디어 이정화 기자] 디지털자산 대장주 비트코인이 전기차 기업 테슬라의 시가총액을 다시 넘어섰다. 비트코인이 글로벌 자산 순위 15위권 내로 복귀했다.…",
           "source": "블록미디어",
-          "link": "https://www.blockmedia.co.kr/archives/1141967?utm_source=general&utm_medium=rss",
-          "publishedAt": "2026-09-19T12:05:13+00:00",
+          "link": "https://www.blockmedia.co.kr/archives/1141962?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-09-19T13:17:42+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -314,47 +317,47 @@
       "name": "게임",
       "phrase": "아이치·나고야 AG 화려한 개막",
       "sentence": "32년 만에 일본에서 열리는 아시아 최대 스포츠 축제 하계 아시안게임이 나고야에서 화려하게 막을 올렸...",
-      "articleCount": 234,
+      "articleCount": 236,
       "link": "https://www.yna.co.kr/view/AKR20260919045151007"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠",
+      "phrase": "이재원 결승 솔로포 LG 6연승 질주",
+      "sentence": "LG 트윈스가 6연승을 거두며 가을야구를 향해 진격했다.",
+      "articleCount": 198,
+      "link": "https://www.yna.co.kr/view/AKR20260919054500007"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
       "phrase": "미중정상회담 의제로 AI·관세 오른다",
       "sentence": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 다음 주 정상회담에서 양국 간 이슈인 인공지능(AI)과...",
-      "articleCount": 174,
+      "articleCount": 170,
       "link": "https://www.yna.co.kr/view/AKR20260919019800071"
-    },
-    {
-      "id": "sports",
-      "name": "스포츠",
-      "phrase": "사상 첫 데이비스컵 8강 진출",
-      "sentence": "한국 남자 테니스가 에이스 면모를 한껏 과시한 권순우(157위·충남체육회)를 앞세워 사상 최초로 국가 대항전인 데이비스컵 파이널(8강)에 진출했다.…",
-      "articleCount": 142,
-      "link": "https://www.donga.com/news/Sports/article/all/20260919/134700791/1"
-    },
-    {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "美 국채금리 상승에도 반도체주 강세",
-      "sentence": "18일(현지시간) 미국 뉴욕증시는 혼조세로 마감했다.",
-      "articleCount": 93,
-      "link": "https://www.yna.co.kr/view/AKR20260919007451072"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "오세훈 부동산이 대통령 지지율 하락 원인",
       "sentence": "오세훈 서울시장은 \"부동산 문제가 이재명 대통령 지지율 하락의 주요 원인\"이라며 \"이 대통령은 전세 물량을 사...",
-      "articleCount": 92,
+      "articleCount": 94,
       "link": "https://www.yna.co.kr/view/AKR20260919053000004"
+    },
+    {
+      "id": "stock",
+      "name": "증시",
+      "phrase": "美 국채금리 상승에도 반도체주 강세",
+      "sentence": "18일(현지시간) 미국 뉴욕증시는 혼조세로 마감했다.",
+      "articleCount": 92,
+      "link": "https://www.yna.co.kr/view/AKR20260919007451072"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "최고가격제 영향에 1천800원대 지속",
       "sentence": "국제 유가가 상승세를 이어간 가운데 전국 주유소 기름값은 정부의 최고가격제 영향으로 전주 대비 소폭 내리며 1...",
-      "articleCount": 89,
+      "articleCount": 91,
       "link": "https://www.yna.co.kr/view/AKR20260918152000003"
     },
     {
@@ -362,7 +365,7 @@
       "name": "교육",
       "phrase": "어머니와 중학생 아들 사망",
       "sentence": "19일 오전 경기 안성시의 한 플리마켓 행사장에 1t 트럭이 돌진해 모자 관계인 40대 여성과 10대 중학생이...",
-      "articleCount": 88,
+      "articleCount": 87,
       "link": "https://www.yna.co.kr/view/AKR20260919037952061"
     },
     {
@@ -370,7 +373,7 @@
       "name": "건강·의료",
       "phrase": "안성 플리마켓 행사장서 트럭 돌진",
       "sentence": "경기 안성의 플리마켓 행사장에서 1t 트럭이 돌진해 모자 관계인 40대 여성과 10대 남성이 숨지고 5명이 다쳤다.…",
-      "articleCount": 79,
+      "articleCount": 80,
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013594"
     },
     {
@@ -378,7 +381,7 @@
       "name": "금리",
       "phrase": "3개월만에 또 금리인상",
       "sentence": "일본 중앙은행인 일본은행이 18일 3개월 만에 기준금리를 다시 인상했다．",
-      "articleCount": 76,
+      "articleCount": 79,
       "link": "https://www.yna.co.kr/view/AKR20260918089052073"
     },
     {
@@ -386,47 +389,47 @@
       "name": "연예·문화",
       "phrase": "경기도 DMZ다큐영화제 축소에 계약 파기",
       "sentence": "더불어민주당 김민석 대표는 청년의 날인 19일 광주에서 영화인들을 만나 \"지방 문화의 기초로서 독립영화가 많은...",
-      "articleCount": 75,
+      "articleCount": 79,
       "link": "https://www.yna.co.kr/view/AKR20260919050200001"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "스테이블코인 사업 확대",
-      "sentence": "비피엠지(BPMG)의 미국 자회사 아라코어가 팍소스(Paxos)가 주도하는 글로벌 달러 네트워크(GDN)에 공식 파트너로 참여한다.…",
-      "articleCount": 67,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155389"
     },
     {
       "id": "trade",
       "name": "수출·관세",
       "phrase": "미중정상회담 앞서 무역협상",
       "sentence": "미중 정상회담을 앞두고 중국의 경제·무역 협상을 총괄하는 허리펑 국무원 부총리가 19일 방미, 미국 측과 ...",
-      "articleCount": 67,
+      "articleCount": 68,
       "link": "https://www.yna.co.kr/view/AKR20260919026800083"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "112억 사기 혐의 제넨셀 창립자",
-      "sentence": "김승원 법무부 장관 후보자의 '신약 임상시험 승인 청탁 의혹'에 연루된 제약사 제넨셀의 창립자가 100억원대 ...",
-      "articleCount": 64,
-      "link": "https://www.yna.co.kr/view/AKR20260918187000061"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "삼성전자 초기업노조",
       "sentence": "삼성그룹 초기업노동조합 삼성전자[005930]지부(이하 초기업노조)가 반도체 사업을 담당하는 디바이스솔루션(D...",
-      "articleCount": 63,
+      "articleCount": 62,
       "link": "https://www.yna.co.kr/view/AKR20260919026700003"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "아부다비와 스테이블코인 동맹",
+      "sentence": "하나금융그룹이 아부다비 글로벌 마켓(ADGM), 한화자산운용과 손잡고 한국과 아부다비를 잇는 스테이블코인·디지털 금융 인프라 구축에 나선다.…",
+      "articleCount": 62,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155372"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "112억 사기 혐의 제넨셀 창립자",
+      "sentence": "김승원 법무부 장관 후보자의 '신약 임상시험 승인 청탁 의혹'에 연루된 제약사 제넨셀의 창립자가 100억원대 ...",
+      "articleCount": 60,
+      "link": "https://www.yna.co.kr/view/AKR20260918187000061"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "기초연금 하후상박·일자리 연계해야",
       "sentence": "65세 이상 노인의 상대빈곤율이 35.9%에 달하는 가운데 노인빈곤을 완화하려면 소득 하위 70%에 일률적으로...",
-      "articleCount": 42,
+      "articleCount": 45,
       "link": "https://www.yna.co.kr/view/AKR20260918117300530"
     },
     {
@@ -442,23 +445,23 @@
       "name": "우주·과학",
       "phrase": "최우수국제학술대회 Conference on",
       "sentence": "서강대 컴퓨터공학과 김영재 교수 연구팀, 최우수국제학술대회 Conference on EMNLP 2026 Findings 논문 채택",
-      "articleCount": 32,
+      "articleCount": 31,
       "link": "https://www.hani.co.kr/arti/economy/biznews/1278488.html"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "그런데 마운드가 파인다고?",
-      "sentence": "[도요카와=스포츠조선 이종서 기자] \"좋은 생각만 하자고 했습니다.\" 소형준(KT 위즈)은 19일 일본 도요카와에 위치한 실내야구장에서 불펜 피칭을 진행했다.…",
-      "articleCount": 25,
-      "link": "https://www.chosun.com/sports/baseball/2026/09/19/MM2TEMRVGY4TQMJWMM2WKYZZGI/"
+      "phrase": "2.5G 차 선두 경쟁엔 KT도 어쩔 수 없다",
+      "sentence": "최원준(29)이 4안타 4타점으로 자신의 할 일을 모두 끝내고도 마음 편히 쉬지 못했다.",
+      "articleCount": 26,
+      "link": "https://www.mt.co.kr/sports/2026/09/19/2026091914024822513"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "옛 마산 롯데백화점 대책 촉구",
       "sentence": "2024년 6월 문을 닫은 뒤 2년 넘게 방치된 옛 롯데백화점 마산점의 공실 문제를 해결하기 위해 지역 사회가...",
-      "articleCount": 25,
+      "articleCount": 26,
       "link": "https://www.yna.co.kr/view/AKR20260919050300052"
     },
     {
@@ -466,7 +469,7 @@
       "name": "노동",
       "phrase": "HD현대중공업 임단협 장기화",
       "sentence": "HD현대중공업 노동조합이 18일 올해 임금 및 단체협약 교섭 결렬을 선언했다.",
-      "articleCount": 25,
+      "articleCount": 26,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260918500286"
     },
     {
@@ -474,7 +477,7 @@
       "name": "환율",
       "phrase": "日 금리 올렸는데 엔화는 급락",
       "sentence": "일본은행의 기준금리 인상 직후 외환시장에서 엔화 가치가 하락하자 일본은행이 '레이트 체크'(rate chec...",
-      "articleCount": 20,
+      "articleCount": 21,
       "link": "https://www.yna.co.kr/view/AKR20260919042500073"
     }
   ],
