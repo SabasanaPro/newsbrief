@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T22:58:56+09:00",
+  "generatedAt": "2026-09-20T09:22:18+09:00",
   "categories": [
     {
       "id": "politics",
@@ -20,11 +20,11 @@
           ]
         },
         {
-          "title": "靑, 김승원 '성추행 등 추가 의혹 탄원서' 보도에 \"확인 어렵다\"",
-          "summary": "청와대는 19일 김승원 전 법무부 장관 후보자의 자진 사퇴와 관련, 김 전 후보자의 성추행 의혹 등이 담긴 탄...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260919044300001",
-          "publishedAt": "2026-09-19T06:18:04+00:00",
+          "title": "국힘 “김승원, 성추행 의혹 덮으려 사퇴쇼”…金 “과장 오류 있다”",
+          "summary": "국민의힘이 19일 법무부 장관 후보자직에서 사퇴한 더불어민주당 김승원 의원을 향해 “자진사퇴로 성추행 의혹을 덮으려 한 김 의원은 당장 의원직에서도 내려오라”고 비판했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20260919/134700882/1",
+          "publishedAt": "2026-09-19T08:38:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
@@ -33,16 +33,15 @@
           ]
         },
         {
-          "title": "한·미 국방협의체 “전작권 전환 가속화 위해 협력 강화”",
-          "summary": "지난해 5월23일 경기 평택시 주한미군기지 캠프 험프리스에 군용 차량이 주차돼 있다.…",
+          "title": "김승원, ‘성추행 등 청와대 탄원’ 보도에 “사실과 다르거나 과장”",
+          "summary": "15일 국회 법제사법위원회에서 열린 김승원 법무부 장관 후보자에 대한 인사청문회에서 의원들의 질의에 답변하던 김 후보자의 눈에 눈물이 고여있다.…",
           "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609191055001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-09-19T01:55:00+00:00",
-          "sourceCount": 4,
+          "link": "https://www.khan.co.kr/article/202609192002001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-09-19T11:02:00+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "연합뉴스",
-            "조선일보"
+            "연합뉴스"
           ]
         }
       ]
@@ -52,44 +51,35 @@
       "name": "경제",
       "items": [
         {
-          "title": "주유소 기름값 18주째 하락…최고가격제 영향에 1800원대 지속",
-          "summary": "제공국제 유가가 상승에도 전국 주유소 기름값이 정부의 최고가격제 영향으로 전주 대비 소폭 내리며 18주 연속 하락세를 이어갔다.19일 한국석유공사 유가정보시스템 오피넷에 따르면 9월 셋째 주(13∼17일) 전국 주유소 휘발유 평균 판매가는 지난주보다 L당 0.5원 내린 1858.6원이었다.가격이 가장 높은 서울은 전주보다 0.9원 내린 ···",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609191335001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-09-19T04:35:00+00:00",
-          "sourceCount": 5,
+          "title": "신한금융, 베트남 1위 빈그룹과 '금융동맹' 확대…자본시장 협업",
+          "summary": "신한금융그룹이 베트남 시가총액 1위 기업인 빈그룹(Vingroup)과 자동차금융을 중심으로 쌓아온 협력 관계를 자본시장 등으로 확대한다.…",
+          "source": "머니투데이",
+          "link": "https://www.mt.co.kr/finance/2026/09/20/2026091810172438140",
+          "publishedAt": "2026-09-20T00:18:22+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "SBS",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "삼성전자 초기업노조, 반도체 노조로 전환…DX 소속 간부 2명 불신임",
-          "summary": "삼성그룹 초기업노동조합 삼성전자지부가 반도체 사업을 담당하는 디바이스솔루션(DS) 부문 노조로 전환한다.초기업노조가 19일 발표한 ‘2026년 5차 총회 결과’에 따르면 DS 부문 소속 근로자만 가입할 수 있도록 하는 규약 개정안에 대해 총선거인 5만 1350명 중 2만 8680명이 투표에 참여, 찬성 2만 7618명, 반대 1062명으로 가결됐다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Economy/article/all/20260919/134700629/1",
-          "publishedAt": "2026-09-19T02:52:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "머니투데이"
-          ]
-        },
-        {
-          "title": "한은, 이창용 전 총재에게 매달 700만원… “자문 기록은 관리 안 해”",
-          "summary": "이창용 전 한국은행 총재가 퇴임 후 한국은행의 비상근 고문으로 위촉돼 매달 700만원의 자문료를 받는 것으로 나타났다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/economy_general/2026/09/19/GRRDQOBZMZRTCODBGY3DINRSHA/",
-          "publishedAt": "2026-09-19T00:13:19+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "경향신문",
             "연합뉴스"
           ]
+        },
+        {
+          "title": "수출입은행, 추석 맞아 사회복지시설에 3억6000만원 기부",
+          "summary": "한국수출입은행이 추석을 맞아 전국 17개 사회복지시설에 총 3억6000만원을 기부하고, 임직원들이 함께하는 봉사활동을 펼쳤다고 20일 밝혔다.…",
+          "source": "머니투데이",
+          "link": "https://www.mt.co.kr/finance/2026/09/20/2026092009050530162",
+          "publishedAt": "2026-09-20T00:07:45+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "지속가능한 농업의 미래, 한우의 가치를 알리다",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/economy/biznews/1278634.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -103,39 +93,35 @@
           "source": "SBS",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761538",
           "publishedAt": "2026-09-19T08:10:00+00:00",
-          "sourceCount": 5,
+          "sourceCount": 4,
           "otherSources": [
-            "국민일보",
             "동아일보",
             "매일경제",
             "연합뉴스"
           ]
         },
         {
-          "title": "트럭 돌진에 2명 심정지, 4명 부상…경기도 안성 행사장서 무슨 일이",
-          "summary": "19일 오전 11시 18분께 경기도 안성시 공도읍 도서관 앞 플리마켓 행사장에서 트럭이 인파를 향해 돌진해 6명을 들이받는 일이 벌어졌다. 이 사고로 30대 여성과 10대 남성이 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12157086",
-          "publishedAt": "2026-09-19T04:57:39+00:00",
-          "sourceCount": 5,
+          "title": "세종포천고속도서 화물차가 SUV 추돌…남매 부부 4명 사상",
+          "summary": "19일 오전 8시 45분께 경기도 용인시 세종포천고속도로 세종 방면 포곡1터널 부근 3차로에서 60대 A씨가 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260919028551061",
+          "publishedAt": "2026-09-19T06:55:48+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "노컷뉴스",
-            "동아일보",
-            "연합뉴스"
+            "경향신문"
           ]
         },
         {
-          "title": "“11일 오후 6시 이후 접수된 수시 원서 전면 취소하라”…뿔난 수험생·학부모",
-          "summary": "2027학년도 대입 수시모집 원서접수 ‘먹통 사태’와 관련해 수험생과 학부모들이 거리로 나와 “지난 11일 오후 6시 이후 접수된 원서를 전면 취소하라”고 촉구했다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013604",
-          "publishedAt": "2026-09-19T07:10:01+00:00",
-          "sourceCount": 4,
+          "title": "충남 아산 공장 건물서 공조설비 작업 중 60대 근로자 추락사",
+          "summary": "충남 아산의 한 공장에서 작업 중이던 근로자가 약 4ｍ 아래로 추락해 숨졌다. 19일 충남소방본부에 따르면 전날 오전 9시 55분께 아산시 음봉면 한 공장 건물 2층에서 에어컨 등..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12157110",
+          "publishedAt": "2026-09-19T06:45:12+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
+            "SBS",
+            "연합뉴스"
           ]
         }
       ]
@@ -145,43 +131,40 @@
       "name": "국제",
       "items": [
         {
-          "title": "“폭발음 들리고 경보 발령하고”…수도까지 공습한 후티, 사우디 ‘발칵’",
-          "summary": "친이란 예멘 반군 후티의 공격 수위가 시간이 갈수록 높아지고 있다. 사우디아라비아 수도 리야드에 첫 공습 경보가 발령된 것. 19일(현지 시간) 영국 BBC 방송에 따르면 사우디 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12157125",
-          "publishedAt": "2026-09-19T08:03:48+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "연합뉴스",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "눈덩이처럼 불어난 이란전쟁 비용… 美 국방부 “기지 수리비 빼고도 62조원”",
-          "summary": "미국이 이란과의 전쟁에 쓴 비용이 62조원을 넘어섰다. 이란의 공격으로 파손된 미군 기지 등의 수리비는 포함되지 않아 실제 부담은 더 클 것으로 보인다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/09/19/MI4TEMZSGFRDCYTCGQ3TGMBWHA/",
-          "publishedAt": "2026-09-19T10:40:36+00:00",
+          "title": "“사우디 수도 공습 경보 후 폭발음”···후티 반군 공세 강화",
+          "summary": "후티 당국은 지난 16일 사우디 F-15 전투기를 격추했다고 밝혔다./후티 당국 공개· UPI사우디아라비아 수도 리야드에 공습 경보가 발령됐다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609191632001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-09-19T07:32:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
             "매일경제",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "美 중부사령관 “호르무즈 원유 10억배럴 수송 지원”",
+          "summary": "최근 수개월간 호르무즈 해협을 통해 10억배럴 이상의 원유가 수송된 것으로 전해졌다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/09/20/GEYWKOBVGRSGINZSMZSWINDBMM/",
+          "publishedAt": "2026-09-20T00:01:44+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
             "연합뉴스"
           ]
         },
         {
-          "title": "미중정상회담 의제로 AI·관세 오른다…만찬에 美 AI CEO들 참석",
-          "summary": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 다음 주 정상회담에서 양국 간 이슈인 인공지능(AI)과...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260919019800071",
-          "publishedAt": "2026-09-18T23:45:30+00:00",
-          "sourceCount": 4,
+          "title": "사우디 수도 리야드에 첫 공습경보… 공항 인근 연료탱크서 화재",
+          "summary": "사우디아라비아 수도 리야드에 공습 경보가 내려졌다. 리야드 국제공항 인근 국영 석유회사 아람코의 연료 탱크에 화재가 발생하고 항공편 운항에도 차질이 빚어졌다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/09/19/BOKPSK5ZBJAQHI3C6FJXJYAXQ4/",
+          "publishedAt": "2026-09-19T14:54:24+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "조선일보",
-            "한겨레"
+            "연합뉴스"
           ]
         }
       ]
@@ -190,6 +173,17 @@
       "id": "tech",
       "name": "IT·과학",
       "items": [
+        {
+          "title": "“차례상도 간편하게”…이마트, 추석 제수 간편식 최대 30% 할인",
+          "summary": "이마트는 추석을 앞두고 피코크와 키친델리의 간편 제수용품 할인 행사를 진행한다고 20일 밝혔다.…",
+          "source": "전자신문",
+          "link": "https://www.etnews.com/20260918000290",
+          "publishedAt": "2026-09-19T21:00:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
         {
           "title": "‘달의 바다’ 찾아볼까…오늘은 ‘국제 달 관측의 날’",
           "summary": "",
@@ -207,15 +201,6 @@
           "publishedAt": null,
           "sourceCount": 1,
           "otherSources": []
-        },
-        {
-          "title": "AI에게 빼앗긴 ‘모방의 주권’…‘따라 하기’ 열풍은 설계돼 있다",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/future/1278444.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
         }
       ]
     },
@@ -224,29 +209,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 5억1904만달러 청산",
-          "summary": "지난 24시간 암호화폐 시장에서 5억1904만달러(약 7198억5874만원) 규모의 레버리지 포지션이 청산됐다.…",
+          "title": "이더리움 코인마진 포지션 5.72%p 급증...솔라나 달러 계좌 4.43%p 증가",
+          "summary": "주요 종목 롱 포지션 현황20일 오전 9시 15분 코인글래스에 따르면 포지션 기준 코인 담보에서는 이더리움 롱 비중이 79.63%로 전일보다 +5.72%p 급증했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/briefing/410738",
-          "publishedAt": "2026-09-19T06:56:44+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/410938",
+          "publishedAt": "2026-09-20T00:15:37+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "비트코인 시총 1조6300억달러, 테슬라 다시 앞섰다",
-          "summary": "비트코인(BTC)이 시가총액 1조6300억달러(약 2262조원)로 테슬라($TSLA)를 다시 앞섰다. 테슬라의 시가총액은 1조4380억달러(약 1995조원)로 집계됐다.…",
+          "title": "암호화폐 시장 혼조세… 비트코인 81,570달러, 이더리움 2,639달러",
+          "summary": "암호화폐 시장이 혼조세를 보이는 가운데 비트코인과 이더리움은 모두 24시간 기준 상승했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/410828",
-          "publishedAt": "2026-09-19T13:33:57+00:00",
+          "link": "https://www.tokenpost.kr/news/briefing/410850",
+          "publishedAt": "2026-09-19T15:03:30+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "비트코인, 테슬라 시가총액 재추월…글로벌 자산 순위 15위권 복귀",
-          "summary": "[블록미디어 이정화 기자] 디지털자산 대장주 비트코인이 전기차 기업 테슬라의 시가총액을 다시 넘어섰다. 비트코인이 글로벌 자산 순위 15위권 내로 복귀했다.…",
+          "title": "비트코인 안 옮기고 대출받는다…아베, 기관용 모델 검토",
+          "summary": "기관이 수탁업체에 맡긴 비트코인을 꺼내지 않고도 아베에서 스테이블코인을 빌릴 수 있도록 하는 구조다.…",
           "source": "블록미디어",
-          "link": "https://www.blockmedia.co.kr/archives/1141962?utm_source=general&utm_medium=rss",
-          "publishedAt": "2026-09-19T13:17:42+00:00",
+          "link": "https://www.blockmedia.co.kr/archives/1142028?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-09-19T22:37:41+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -270,14 +255,13 @@
           ]
         },
         {
-          "title": "신유빈-김동용 앞세워 16번째로 입장한 한국…AG 공식 개회",
-          "summary": "아시아인의 심장이 하나로 모여 뛰기 시작했다.2026 아이치-나고야 아시안게임 개회식이 19일 오후 6시 일본 아이치현 나고야 미즈호공원 육상 경기장에서 열렸다.…",
+          "title": "태극전사 ‘1호 금메달’ 주인공은…20일 골든선데이 도전",
+          "summary": "2026 아이치·나고야 아시안게임에서 태극전사 ‘1호 금메달’ 주인공은 누가 될까.종합 순위 3위 수성이 목표인 대한민국 선수단이 개회식 다음 날인 오늘부터 본격적인 메달 사냥을 시작한다.시선은 태극전사 1호 금메달 주인공이 누가 될 것인가에 쏠린다.개막 전 남자농구와 테크볼 이준석이 은메달을 확보한 가운데 대회 둘째 날인 20일 첫 금빛 낭보가 전해질 가능성이 크다.가장 유력한 후보는 이날 오전 10시 아이치현 안조 스포츠파크에서 열리는 근대5종 여자부다.간판 성승민과 함께 신수민, 김은주, 장하은이 개인전과 단체전 결승에 출격한다.성승민은 2024 파리 올림픽에서 아시아 선수로는 최초로 근대5종 여자부에서 입상(동메달)해 역사를 썼다.올림픽과 세계선수권 무대에서 정상급 기량을 뽐내 온 성승민은 개인전에서 첫 금메달은 물론 단체전까지 석권해 가장 먼저 2관왕을 노린다는 각오다.근대5종 남자부는 이날 오후 2시30분부터 시작되는 개인전 및 단체전 결승에서 전웅태와 서창",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260919/134701014/1",
-          "publishedAt": "2026-09-19T11:00:00+00:00",
-          "sourceCount": 3,
+          "link": "https://www.donga.com/news/Sports/article/all/20260920/134701348/1",
+          "publishedAt": "2026-09-19T22:10:02+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "연합뉴스",
             "조선일보"
           ]
         },
@@ -299,185 +283,185 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "李대통령 별도 청년정책 전담 조직 신설 고민",
-      "sentence": "이재명 대통령은 청년의 날인 19일 \"청년 정책을 총괄 전담할 별도의 전담 조직을 만들어야 되지 않을까 하는 ...",
+      "phrase": "추가의혹 靑탄원 보도에 사실 다르거나 과장 오류",
+      "sentence": "법무부 장관 후보직에서 사퇴한 더불어민주당 김승원 의원 측은 19일 추가 의혹이 담긴 탄원서가 청와대에 전달됐...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260919042951001"
+      "link": "https://www.yna.co.kr/view/AKR20260919051900001"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "트럼프 그린란드 내 미군주둔 강화 합의",
-      "sentence": "도널드 트럼프 미국 대통령은 18일(현지시간) 미국이 북극권의 전략적 요충지인 그린란드에 자국 병력을 증강...",
+      "phrase": "유엔총회에 백악관 미중회담",
+      "sentence": "이번 주 각국 정상이 집결하는 유엔 총회에 이어 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 백악관...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260919012451071"
+      "link": "https://www.yna.co.kr/view/AKR20260919004600071"
     },
     {
       "id": "game",
       "name": "게임",
       "phrase": "아이치·나고야 AG 화려한 개막",
       "sentence": "32년 만에 일본에서 열리는 아시아 최대 스포츠 축제 하계 아시안게임이 나고야에서 화려하게 막을 올렸...",
-      "articleCount": 236,
+      "articleCount": 157,
       "link": "https://www.yna.co.kr/view/AKR20260919045151007"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "이재원 결승 솔로포 LG 6연승 질주",
-      "sentence": "LG 트윈스가 6연승을 거두며 가을야구를 향해 진격했다.",
-      "articleCount": 198,
-      "link": "https://www.yna.co.kr/view/AKR20260919054500007"
+      "phrase": "사상 첫 데이비스컵 8강 진출",
+      "sentence": "한국 남자 테니스가 에이스 면모를 한껏 과시한 권순우(157위·충남체육회)를 앞세워 사상 최초로 국가 대항전인 데이비스컵 파이널(8강)에 진출했다.…",
+      "articleCount": 144,
+      "link": "https://www.donga.com/news/Sports/article/all/20260919/134700791/1"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
       "phrase": "미중정상회담 의제로 AI·관세 오른다",
       "sentence": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 다음 주 정상회담에서 양국 간 이슈인 인공지능(AI)과...",
-      "articleCount": 170,
+      "articleCount": 139,
       "link": "https://www.yna.co.kr/view/AKR20260919019800071"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "오세훈 부동산이 대통령 지지율 하락 원인",
-      "sentence": "오세훈 서울시장은 \"부동산 문제가 이재명 대통령 지지율 하락의 주요 원인\"이라며 \"이 대통령은 전세 물량을 사...",
-      "articleCount": 94,
-      "link": "https://www.yna.co.kr/view/AKR20260919053000004"
-    },
-    {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "美 국채금리 상승에도 반도체주 강세",
-      "sentence": "18일(현지시간) 미국 뉴욕증시는 혼조세로 마감했다.",
-      "articleCount": 92,
-      "link": "https://www.yna.co.kr/view/AKR20260919007451072"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "최고가격제 영향에 1천800원대 지속",
-      "sentence": "국제 유가가 상승세를 이어간 가운데 전국 주유소 기름값은 정부의 최고가격제 영향으로 전주 대비 소폭 내리며 1...",
-      "articleCount": 91,
-      "link": "https://www.yna.co.kr/view/AKR20260918152000003"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "어머니와 중학생 아들 사망",
-      "sentence": "19일 오전 경기 안성시의 한 플리마켓 행사장에 1t 트럭이 돌진해 모자 관계인 40대 여성과 10대 중학생이...",
-      "articleCount": 87,
-      "link": "https://www.yna.co.kr/view/AKR20260919037952061"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "안성 플리마켓 행사장서 트럭 돌진",
-      "sentence": "경기 안성의 플리마켓 행사장에서 1t 트럭이 돌진해 모자 관계인 40대 여성과 10대 남성이 숨지고 5명이 다쳤다.…",
-      "articleCount": 80,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013594"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "3개월만에 또 금리인상",
-      "sentence": "일본 중앙은행인 일본은행이 18일 3개월 만에 기준금리를 다시 인상했다．",
-      "articleCount": 79,
-      "link": "https://www.yna.co.kr/view/AKR20260918089052073"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "경기도 DMZ다큐영화제 축소에 계약 파기",
       "sentence": "더불어민주당 김민석 대표는 청년의 날인 19일 광주에서 영화인들을 만나 \"지방 문화의 기초로서 독립영화가 많은...",
-      "articleCount": 79,
+      "articleCount": 73,
       "link": "https://www.yna.co.kr/view/AKR20260919050200001"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "어머니와 중학생 아들 사망",
+      "sentence": "19일 오전 경기 안성시의 한 플리마켓 행사장에 1t 트럭이 돌진해 모자 관계인 40대 여성과 10대 중학생이...",
+      "articleCount": 71,
+      "link": "https://www.yna.co.kr/view/AKR20260919037952061"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "北지원 의료품 1천431개 선정",
+      "sentence": "정부가 대북 의료지원 사업을 추진하는 가운데 지원 물품이 의료용 소모품이 아닌 엑스레이(X-ray) 등 1천4...",
+      "articleCount": 66,
+      "link": "https://www.yna.co.kr/view/AKR20260919021900001"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "오세훈 부동산이 대통령 지지율 하락 원인",
+      "sentence": "오세훈 서울시장은 \"부동산 문제가 이재명 대통령 지지율 하락의 주요 원인\"이라며 \"이 대통령은 전세 물량을 사...",
+      "articleCount": 65,
+      "link": "https://www.yna.co.kr/view/AKR20260919053000004"
+    },
+    {
+      "id": "stock",
+      "name": "증시",
+      "phrase": "베트남 시총 1위 빈그룹과 협력 확대",
+      "sentence": "신한금융그룹은 베트남 시가총액 1위 민간 기업인 빈그룹과 협력을 확대하기로 했다고 20일 밝혔다.",
+      "articleCount": 62,
+      "link": "https://www.yna.co.kr/view/AKR20260919041200002"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "美중부사령관 호르무즈 원유 10억배럴 수송지원",
+      "sentence": "최근 수개월간 호르무즈 해협을 통해 10억 배럴 이상의 원유가 수송됐다고 미군 중부사령부가 19일(현지시간) ...",
+      "articleCount": 62,
+      "link": "https://www.yna.co.kr/view/AKR20260920006800009"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "한은 퇴임 뒤 月 700만원 자문료 꼬박꼬박",
+      "sentence": "이창용 전 한국은행 총재가 퇴임 후 한은의 비상근 고문으로 위촉돼 매달 700만 원의 자문료를 받은 것으로 알려졌다.…",
+      "articleCount": 48,
+      "link": "https://www.donga.com/news/Economy/article/all/20260919/134700774/1"
     },
     {
       "id": "trade",
       "name": "수출·관세",
-      "phrase": "미중정상회담 앞서 무역협상",
-      "sentence": "미중 정상회담을 앞두고 중국의 경제·무역 협상을 총괄하는 허리펑 국무원 부총리가 19일 방미, 미국 측과 ...",
-      "articleCount": 68,
-      "link": "https://www.yna.co.kr/view/AKR20260919026800083"
+      "phrase": "추석 맞아 사회복지시설에 3억6000만원 기부",
+      "sentence": "한국수출입은행이 추석을 맞아 전국 17개 사회복지시설에 총 3억6000만원을 기부하고, 임직원들이 함께하는 봉사활동을 펼쳤다고 20일 밝혔다.…",
+      "articleCount": 47,
+      "link": "https://www.mt.co.kr/finance/2026/09/20/2026092009050530162"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "삼성전자 초기업노조",
       "sentence": "삼성그룹 초기업노동조합 삼성전자[005930]지부(이하 초기업노조)가 반도체 사업을 담당하는 디바이스솔루션(D...",
-      "articleCount": 62,
-      "link": "https://www.yna.co.kr/view/AKR20260919026700003"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "아부다비와 스테이블코인 동맹",
-      "sentence": "하나금융그룹이 아부다비 글로벌 마켓(ADGM), 한화자산운용과 손잡고 한국과 아부다비를 잇는 스테이블코인·디지털 금융 인프라 구축에 나선다.…",
-      "articleCount": 62,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155372"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "112억 사기 혐의 제넨셀 창립자",
-      "sentence": "김승원 법무부 장관 후보자의 '신약 임상시험 승인 청탁 의혹'에 연루된 제약사 제넨셀의 창립자가 100억원대 ...",
-      "articleCount": 60,
-      "link": "https://www.yna.co.kr/view/AKR20260918187000061"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "기초연금 하후상박·일자리 연계해야",
-      "sentence": "65세 이상 노인의 상대빈곤율이 35.9%에 달하는 가운데 노인빈곤을 완화하려면 소득 하위 70%에 일률적으로...",
       "articleCount": 45,
-      "link": "https://www.yna.co.kr/view/AKR20260918117300530"
+      "link": "https://www.yna.co.kr/view/AKR20260919026700003"
     },
     {
       "id": "climate",
       "name": "환경·기후",
       "phrase": "BTS·블랙핑크 등 美 시상식 MTV VMA서",
       "sentence": "그룹 방탄소년단(BTS)과 걸그룹 블랙핑크 등이 미국 대중음악 시상식 '2026 MTV 비디오 뮤직 어워즈'(...",
-      "articleCount": 40,
+      "articleCount": 44,
       "link": "https://www.yna.co.kr/view/AKR20260919027300005"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "100억대 사기 혐의 제넨셀 창립자",
+      "sentence": "경향신문 자료사진김승원 법무부 장관 후보자의 식약처 로비 의혹에 연루된 제약사 제넨셀 창립자가 100억 원대 사기 혐의로 경찰 소환 조사를 받는다.경기남부경찰청…",
+      "articleCount": 43,
+      "link": "https://www.khan.co.kr/article/202609182256001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "이 대통령 아들 코인업자 친분 의혹에",
+      "sentence": "이 대통령 아들 ‘코인업자 친분’ 의혹에…최길수 “조사할 것”",
+      "articleCount": 36,
+      "link": "https://www.hani.co.kr/arti/society/society_general/1278508.html"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "존리 주식 전문가는 없습니다",
+      "sentence": "“증권사 애널리스트 보고서가 틀릴 거라는 생각은 안 해보죠.",
+      "articleCount": 30,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000013650"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비",
+      "phrase": "추석 제수용 간편식 최대 20% 할인",
+      "sentence": "(서울=연합뉴스）정수연 기자 = 이마트는 추석을 앞두고 제수용 간편식을 할인한다고 20일 밝혔다.",
+      "articleCount": 29,
+      "link": "https://www.yna.co.kr/view/AKR20260919006400030"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "8년간 24억 챙긴 암표상 검거",
+      "sentence": "경찰청 국가수사본부 암표매매 특별단속 157명 검거…범죄수익 20억원 몰수·추징보전 공연 암표 73명으로 최다…프로야구·KTX·SRT 암표도 적발 매크로 프로그램…",
+      "articleCount": 26,
+      "link": "https://www.mt.co.kr/society/2026/09/20/2026091920025570903"
     },
     {
       "id": "science",
       "name": "우주·과학",
       "phrase": "최우수국제학술대회 Conference on",
       "sentence": "서강대 컴퓨터공학과 김영재 교수 연구팀, 최우수국제학술대회 Conference on EMNLP 2026 Findings 논문 채택",
-      "articleCount": 31,
+      "articleCount": 25,
       "link": "https://www.hani.co.kr/arti/economy/biznews/1278488.html"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "2.5G 차 선두 경쟁엔 KT도 어쩔 수 없다",
-      "sentence": "최원준(29)이 4안타 4타점으로 자신의 할 일을 모두 끝내고도 마음 편히 쉬지 못했다.",
-      "articleCount": 26,
-      "link": "https://www.mt.co.kr/sports/2026/09/19/2026091914024822513"
-    },
-    {
-      "id": "retail",
-      "name": "유통·소비",
-      "phrase": "옛 마산 롯데백화점 대책 촉구",
-      "sentence": "2024년 6월 문을 닫은 뒤 2년 넘게 방치된 옛 롯데백화점 마산점의 공실 문제를 해결하기 위해 지역 사회가...",
-      "articleCount": 26,
-      "link": "https://www.yna.co.kr/view/AKR20260919050300052"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "HD현대중공업 임단협 장기화",
-      "sentence": "HD현대중공업 노동조합이 18일 올해 임금 및 단체협약 교섭 결렬을 선언했다.",
-      "articleCount": 26,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260918500286"
+      "phrase": "하청노조 교섭요구 공고하라",
+      "sentence": "법원 “중흥토건, 하청노조 교섭요구 공고하라”…집행정지 신청 또 기각",
+      "articleCount": 22,
+      "link": "https://www.hani.co.kr/arti/society/labor/1278530.html"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "日 금리 올렸는데 엔화는 급락",
       "sentence": "일본은행의 기준금리 인상 직후 외환시장에서 엔화 가치가 하락하자 일본은행이 '레이트 체크'(rate chec...",
-      "articleCount": 21,
+      "articleCount": 13,
       "link": "https://www.yna.co.kr/view/AKR20260919042500073"
     }
   ],
