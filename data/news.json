@@ -1,50 +1,45 @@
 {
-  "generatedAt": "2026-09-23T09:54:49+09:00",
+  "generatedAt": "2026-09-24T09:52:01+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "李대통령, 이소영 중기장관·이정현 대검차장 임명안 재가",
-          "summary": "이재명 대통령은 22일 이소영 중소벤처기업부 장관, 이정현 대검찰청 차장검사에 대한 임명안을 재가했다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260922198651001",
-          "publishedAt": "2026-09-22T18:31:39+00:00",
-          "sourceCount": 5,
+          "title": "이 대통령 \"농지전수조사 꼭 필요…방해 많아도 할일 해야\"",
+          "summary": "이재명 대통령이 농지 투기를 방지하고 농지를 제대로 활용하기 위해 농지전수조사는 꼭 필요하다면서 반발이 많아도 할 일은 해야 한다고 밝혔습니다.…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768618",
+          "publishedAt": "2026-09-23T22:24:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "SBS",
-            "동아일보",
-            "서울신문",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "靑, 조희대 ‘재제청 거부’에 “권한쟁의심판 청구 검토 안해”",
-          "summary": "청와대가 23일 조희대 대법원장의 대법관 후보자 재체청 요청 거부에 대해 헌법재판소 권한쟁의심판을 청구하는 것은 검토하진 않는다고 밝혔다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20260923/134724679/1",
-          "publishedAt": "2026-09-22T22:44:51+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
             "경향신문",
-            "조선일보",
+            "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "李대통령, 호주와 정상회담…에너지공급망·방산 협력방안 논의",
-          "summary": "유엔 총회 고위급 회기 참석차 방미 중인 이재명 대통령은 22일(현지시간) 뉴욕 주유엔대표부에서 앤서니...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260923005100001",
-          "publishedAt": "2026-09-22T19:21:19+00:00",
-          "sourceCount": 5,
+          "title": "정부, 젤렌스키 '북한군 포로 한국행' 발언 사실상 확인",
+          "summary": "우크라이나군에 생포된 북한군 포로 2명정부는 볼로디미르 젤렌스키 우크라이나 대통령이 우크라이나군에 생포된 북한군 포로 2명을 한국…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768918",
+          "publishedAt": "2026-09-24T00:45:00+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "동아일보",
-            "조선일보",
-            "한겨레"
+            "매일경제",
+            "서울신문"
+          ]
+        },
+        {
+          "title": "北 240㎜ 방사포 시험 사격 진행…“치명적·파괴적 공격 남부 국경 집중”",
+          "summary": "북한이 사거리를 최대 115㎞까지 늘린 개량형 240㎜ 방사포(다연장로켓포)의 시험 사격을 22일 진행했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20260924/134730928/1",
+          "publishedAt": "2026-09-23T22:59:07+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "연합뉴스",
+            "조선일보"
           ]
         }
       ]
@@ -54,38 +49,44 @@
       "name": "경제",
       "items": [
         {
-          "title": "신학기 vs 이형주…차기 수협은행장 최종 후보 선정 불발",
-          "summary": "차기 Sh수협은행장이 신학기 현 행장과 관료 출신인 이형주 금융위원회 금융정보분석원(FIU) 원장 두 사람으로 좁혀졌으나 끝내 최종 후보 선정이 불발됐다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260922500281",
-          "publishedAt": "2026-09-22T09:07:46+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "아시아경제",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "우버, 배민 인수 사전심사 착수···공정위 ‘택시·배달 결합’ 들여다본다",
-          "summary": "연합뉴스미국 차량공유 플랫폼 우버가 배달의민족 인수를 본격화하기 위해 공정거래위원회의 사전 심사를 받는다.공정위는 22일 우버테크놀로지스가 신청한 독일 배달 플랫폼 딜리버리히어로(DH) 기업결합 사전심사에 착수했다고 밝혔다.…",
+          "title": "올 한국 성장률 전망 3.7% ‘대폭 상향’",
+          "summary": "OECD, 3개월 만에 1.1%P 올려반도체 수출·생산 증가세 반영유가 상승에 물가 전망도 상향경제협력개발기구(OECD)가 올해 한국 경제성장률을 3개월 만에 1.1%포인트 올려 3.7%까지 대폭 상향 조정했다.…",
           "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609221722001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-09-22T08:22:00+00:00",
-          "sourceCount": 3,
+          "link": "https://www.khan.co.kr/article/202609231911025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-09-23T10:11:02+00:00",
+          "sourceCount": 8,
           "otherSources": [
+            "SBS",
+            "동아일보",
+            "매일경제",
+            "아시아경제",
             "연합뉴스",
-            "한겨레"
+            "조선일보"
           ]
         },
         {
-          "title": "코스피, 美 반도체 훈풍에 1%대 상승 출발…장 초반 7100선 회복",
-          "summary": "코스피가 미국 반도체 훈풍에 힘입어 장 초반 1%대 강세를 나타내고 있다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Economy/article/all/20260923/134725097/1",
-          "publishedAt": "2026-09-23T00:25:06+00:00",
-          "sourceCount": 2,
+          "title": "쿠팡 ‘공정위 현장조사 중단’ 신청 기각",
+          "summary": "공정거래위원회의 현장조사 효력을 정지해달라는 쿠팡 측 요청을 법원이 받아들이지 않았다. 집행정지 신청이 기각되면서 공정위의 현장조사 결정 효력은 즉시 되살아났다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260924032002",
+          "publishedAt": "2026-09-23T11:18:27+00:00",
+          "sourceCount": 4,
           "otherSources": [
+            "경향신문",
+            "동아일보",
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "포스코, 잭니클라우스GC 매각 추진… “비핵심 자산 정리”",
+          "summary": "포스코그룹이 인천 송도의 18홀 회원제 골프장 ‘잭니클라우스 골프클럽(GC)’ 매각에 착수했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/industry-company/2026/09/23/GQ3GMNJTMI2DAZBTGVQWEZBWGU/",
+          "publishedAt": "2026-09-23T07:56:23+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "동아일보",
+            "서울신문"
           ]
         }
       ]
@@ -95,45 +96,41 @@
       "name": "사회",
       "items": [
         {
-          "title": "이정현 대검 차장 “李대통령 공소취소, 진상조사 결과 살펴봐야”",
-          "summary": "이정현 신임 대검 차장검사가 23일 이재명 대통령의 형사사건 공소 취소에 대해 진상조사 결과를 봐야 한다며 가능성을 내비쳤다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000016789",
-          "publishedAt": "2026-09-23T00:07:00+00:00",
-          "sourceCount": 7,
+          "title": "연휴 첫날 새벽 서울 강서구 옥탑방 화재…60대 남성 사망",
+          "summary": "추석 연휴 첫날인 24일 오전 3시 19분께 서울 강서구 마곡동 주택의 옥탑방에서 불이 나 거주자인 60대 남...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260924011800004",
+          "publishedAt": "2026-09-23T21:53:34+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "경향신문",
-            "노컷뉴스",
-            "매일경제",
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "2호선 '이대역' 화재…무정차 통과에 퇴근길 불편",
-          "summary": "어제 저녁 서울 지하철 2호선 이대역에서 불이 났습니다. 다친 사람은 없었지만 열차가 2시간 정도 무정차 통과해 시민들이 퇴근길에 불편을 겪었습니다.동은영 기자입니다.",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766838",
-          "publishedAt": "2026-09-22T22:07:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "경향신문",
-            "매일경제",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "'뇌물 혐의' 기소 문재인… 내년 1월 국민참여재판",
-          "summary": "문재인 전 대통령 재판이 내년 1월 국민참여재판으로 진행된다. 문 전 대통령은 전 사위가 항공사에서 받은 급여와 주거비를 뇌물로 수수한 혐의로 기소된 바 있다. 재판부는 문 전 대..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12159866",
-          "publishedAt": "2026-09-22T14:01:29+00:00",
-          "sourceCount": 4,
-          "otherSources": [
             "동아일보",
+            "서울신문"
+          ]
+        },
+        {
+          "title": "제주 실종 유족, 국가와 경찰관 상대 1억원 손배소송 제기",
+          "summary": "연합뉴스경찰이 실종 사건을 허위 종결해 104일 만에 시신으로 발견된 장모씨의 유족이 23일 국가와 실종 은폐 경찰관을 상대로 1억원의 국가배상 청구 소송을 제기했다.장씨 유족 대리인단은 이날 “소송을 통해 국가가 국민의 생명과 안전을 ···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609231801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-09-23T09:01:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
             "조선일보",
             "한겨레"
+          ]
+        },
+        {
+          "title": "연휴 첫날 고속도로 정체 극심…서울→부산 최대 9시간 30분",
+          "summary": "추석 연휴 첫날인 24일 오전 귀성 행렬이 이어지며 고속도로 곳곳에서 극심한 정체가 빚어지고 있다. 이날 한국도로공사에 따르면 오전 9시 기준 서울 요금소에서 전국 주요 도시까지 ..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12160821",
+          "publishedAt": "2026-09-24T00:27:11+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "연합뉴스"
           ]
         }
       ]
@@ -143,40 +140,42 @@
       "name": "국제",
       "items": [
         {
-          "title": "'합의' '전멸' 양자택일 압박…미-이란 3시간 회담",
-          "summary": "트럼프 미국 대통령이 유엔 총회 연설에서 이란에게는 합의 아니면 전멸이라는 선택지가 주어졌다고 압박했습니다.…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766841",
-          "publishedAt": "2026-09-22T23:12:00+00:00",
-          "sourceCount": 4,
+          "title": "시진핑, 美 도착...2박 3일 국빈 방문 일정 시작",
+          "summary": "시진핑 중국 국가주석이 23일(현지시간) 도널드 트럼프 미국 대통령과의 정상회담을 위해 메릴랜드주 앤드류스 합동기지에 도착했다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260924500014",
+          "publishedAt": "2026-09-23T21:45:33+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "경향신문",
-            "매일경제",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "“트럼프, 조건 맞는다면 뉴욕서 이란과 회담하고 싶어”",
-          "summary": "EPA연합뉴스도널드 트럼프 미국 대통령이 22일(현지시간) 유엔총회가 열리는 뉴욕에서 이란 측과 회담하고 싶어 한다고 CNN이 미 당국자를 인용해 보도했다.트럼프 대통령은 이란과의 회담 개최에 “조건이 맞는다면”이라는 단서를···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609222248001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
-          "publishedAt": "2026-09-22T13:48:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "매일경제",
+            "SBS",
             "연합뉴스",
+            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "‘히어로즈’ 헤이든 패네티어, 사인은 사고사…“펜타닐 등 약물 중독”",
-          "summary": "미국 인기 시리즈 ‘히어로즈’에 출연했던 배우 헤이든 패네티어(36)의 사인이 펜타닐 등 여러 약물의 복합 작용에 따른 사고사로 결론났다. 22일(현지시간) 뉴욕타임스(NYT)에 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12159948",
-          "publishedAt": "2026-09-22T22:45:34+00:00",
-          "sourceCount": 3,
+          "title": "젤렌스키 “러시아서 생포한 북한군 2명 최근 한국 보내”",
+          "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 러시아를 위해 싸우다 우크라이나군에 생포된 북한군 병사 2명을 최근 한국으로 보냈다고 밝혔다.23일(현지 시간) CNN에 따르면 젤렌스키 대통령은 이날 미국 뉴욕 유엔본부에서 열린 제81차 유엔총회 연설에서 이같이 밝혔다.젤렌스키 대통령은 생포 당시 상황도 설명했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20260924/134730828/1",
+          "publishedAt": "2026-09-23T19:15:45+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "베선트 美재무장관 “미·중 무역 휴전 2개월 연장 합의”",
+          "summary": "미국과 중국이 오는 11월 만료 예정이었던 양국 간 무역 휴전을 내년 1월 10일까지 연장하기로 합의했다. 미·중 양국은 보다 포괄적인 무역 합의 가능성도 열어둔 채 후속 협상을 이어갈 전망이다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/09/24/MMYGEYLGGVSDGN3GG5RTAZDGME/",
+          "publishedAt": "2026-09-23T22:52:03+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "동아일보",
             "연합뉴스"
           ]
         }
@@ -187,36 +186,36 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "\"에이전틱 AI 시대 연다\"…퀄컴, 2나노 '스냅드래곤8 엘리트 6세대 익스트림' 공개",
-          "summary": "[지디넷코리아][마우이(미국)=전화평 기자] 퀄컴이 모바일 플래그십 프로세서 브랜드를 세분화하며 '멀티 플래그십' 전략을 가동했다.…",
+          "title": "'SM 시세조종 혐의' 카카오 김범수 항소심서 징역 15년 구형",
+          "summary": "SM엔터테인먼트(SM엔터) 주가 시세 조종 혐의로 기소돼 항소심 재판 중인 김범수 카카오 창업자 겸 미래이니셔티브센터장에 대해 검찰이 1심과 같이 징역 15년의 중형을 구형했다.검찰은 1심 재판부가 시세조종 공모와 목적을 뒷받침하는 증거를 충분히 판단하지 않았다며 무죄 판결을 뒤집어야 한다고 주장했다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=674401",
+          "publishedAt": "2026-09-23T17:25:09+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "테크M"
+          ]
+        },
+        {
+          "title": "카카오, 카카오모빌리티 美 ADR 상장 제동...인적분할 앞두고 주주가치 방어 나서나",
+          "summary": "카카오가 카카오모빌리티 미국 주식예탁증서(ADR) 상장 추진에 반대하며 주주가치를 우선에 두겠다는 입장을 분명히 보였다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155525",
+          "publishedAt": "2026-09-23T12:48:28+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "블로터"
+          ]
+        },
+        {
+          "title": "산업통상부",
+          "summary": "[지디넷코리아]◇과장급 승진 ▲세계무역기구과장 조성중",
           "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20260923053611",
-          "publishedAt": "2026-09-22T20:36:11+00:00",
+          "link": "https://zdnet.co.kr/view/?no=20260923174905",
+          "publishedAt": "2026-09-23T08:49:05+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "테크M"
-          ]
-        },
-        {
-          "title": "LG CNS 상암·부산 데이터센터, 소방청 '공간안전인증' 획득",
-          "summary": "LG CNS는 지능형 안전관리체계 구축, 미국 안전 표준 배터리 교체, 한국소방산업기술원 인증 소화 시설 구축 등을 통해 국내 2개 데이터센터의 '공간안전인증(Safety Zone Certification)'을 획득했다고 23일 밝혔다.공간안전인증은 한국",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2008641",
-          "publishedAt": "2026-09-23T00:34:09+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "ZDNet코리아"
-          ]
-        },
-        {
-          "title": "카카오, 카카오모빌리티 美 ADR 상장 제동⋯\"주주 실익 적어\"",
-          "summary": "카카오가 종합 이동 플랫폼 카카오T를 운영하는 계열사 카카오모빌리티의 미국 증시 상장 추진에 제동을 걸었다.…",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2008563",
-          "publishedAt": "2026-09-22T21:12:35+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "테크M"
+            "연합뉴스"
           ]
         }
       ]
@@ -226,31 +225,32 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "비트코인 8만6000달러선 숨고르기… 현물 ETF 10억달러 순유입",
-          "summary": "비트코인 가격이 8만6000달러대까지 치솟은 뒤 보합세를 이어가며 숨 고르기에 들어갔다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/stock-finance/2026/09/23/MJSTCMZYMIYDCMRXMU3TSMRRMQ/",
-          "publishedAt": "2026-09-23T00:26:44+00:00",
-          "sourceCount": 2,
+          "title": "금융당국, 가상자산 시세조종·임직원 부정거래 4건 고발·통보",
+          "summary": "금융위원회·금융감독원은 23일 정례회의에서 가상자산시장 불공정거래 사건 혐의자들에 고발·수사기관 통보 조치를 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260923147800002",
+          "publishedAt": "2026-09-23T06:54:16+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "블록미디어"
+            "SBS",
+            "아시아경제"
           ]
         },
         {
-          "title": "람다256, '180만 지갑' 데이터 품는다…스테이블코인 금융 솔루션 본격화",
-          "summary": "두나무의 블록체인 전문 자회사 람다256이 스테이블코인과 온체인 데이터를 결합한 금융 솔루션 개발에 나선다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155516",
-          "publishedAt": "2026-09-23T09:28:15+00:00",
+          "title": "美 국채 쇼크에 비트코인 84K로 후퇴…미결제약정 급감이 보내는 신호",
+          "summary": "[블록미디어 명정선 기자] 미국 국채 금리가 20년 만의 고점 수준으로 치솟으면서 디지털자산 시장이 약세를 보이고 있다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1143754?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-09-24T00:25:45+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "서클, 코인베이스 이어 바이낸스까지 품었다…USDC '제도권 금융' 확장 가속",
-          "summary": "세계 2위 스테이블코인 USDC를 발행하는 서클이 세계 최대 가상자산거래소 바이낸스와 자본 동맹을 맺었다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155514",
-          "publishedAt": "2026-09-23T09:20:26+00:00",
+          "title": "비트코인캐시 349달러…CME 선물 계획에 네 종목 엇갈려",
+          "summary": "비트코인캐시(BCH)가 CME그룹의 선물 출시 계획 이후 349달러 안팎까지 올랐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/413192",
+          "publishedAt": "2026-09-24T00:24:12+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -261,34 +261,34 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "수영 황선우 200ｍ·펜싱 오상욱 개인전 2연패 도전",
-          "summary": "한국 수영과 펜싱의 간판스타 황선우(강원특별자치도청)와 오상욱(대전광역시청)이 2회 연속 아시안게임 금메달 ...",
+          "title": "한국 여자 기계체조, 단체전 4위…북한은 동메달",
+          "summary": "20년 만에 단체전 메달에 도전한 한국 여자 기계체조 대표팀이 2026 아이치·나고야 아시안게임에서 입상에 ...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260922100600007",
-          "publishedAt": "2026-09-22T21:30:01+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20260923194900007",
+          "publishedAt": "2026-09-23T12:29:27+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "동아일보",
+            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "데뷔 이후 처음…유재석, 건강 문제로 녹화 취소",
-          "summary": "방송인 유재석 씨가 감기 몸살과 고열로 녹화를 취소했습니다.유재석 씨가 건강 문제로 녹화를 취소한 것은 데뷔하고 처음입니다.어제 유재석 씨는 S…",
+          "title": "추석 연휴 첫날 '안개 조심'…전국 구름 많아",
+          "summary": "본격적인 추석 연휴가 시작되면서 귀성길 오르시는 분들 많으실 텐데요.오전까지 안개에 유의하셔야겠습니다.오늘은 전국 구름만 많겠고 늦은 밤부터는 …",
           "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008766762",
-          "publishedAt": "2026-09-22T23:05:00+00:00",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008768627",
+          "publishedAt": "2026-09-23T23:16:00+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "경향신문"
+            "연합뉴스"
           ]
         },
         {
-          "title": "여자배구 태국에 0-3 완패… 두 대회 연속 노메달",
-          "summary": "한국 여자 배구가 아시안게임에서 2회 연속 노메달에 그쳤다. 아시안게임 출전 역사상 처음 있는 일이다.…",
+          "title": "“가족 곁으로”…심장마비로 또 쓰러졌던 에릭센, 소속팀 떠나",
+          "summary": "심장마비를 이겨냈던 덴마크 미드필더 크리스티안 에릭센(34)이 결국 소속팀 독일 프로축구 분데스리가.2(2부 리그) 볼프스부르크를 떠났다.영국 매체 ‘BBC’는 24일(한국 시간) “에릭센이 상호 합의 하에 볼프스부르크와 결별했다”고 알렸다.유로 2020 당시 핀란드와 맞대결 도중 심정지를 당했던 에릭센은 곧바로 실려 간 다음 가까스로 의식을 되찾았고 심장 제세동기를 삽입한 뒤 재활에 힘썼다.극적으로 돌아온 에릭센은 브렌트포드, 맨체스터 유나이티드(이상 잉글랜드)를 거쳐 지난 2025년부터 볼프스부르크에서 활약했다.애초 2027년 6월까지 계약이 체결돼 있었으나, 지난 6월 덴마크와 우크라이나의 친선 경기 도중 또 쓰러져 결국 팀을 떠나게 됐다.에릭센은 “지금 이 순간에는 덴마크에 있는 가족 곁에 있는 것이 중요하다”며 “(소속팀과) 함께 원만하게 해결책을 찾을 수 있게 되어 기쁘다”고 소감을 밝혔다.이어 “볼프스부르크에서의 시간은 많은 기쁨과 아쉬움으로 가득했다”며 “우",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260923/134723592/2",
-          "publishedAt": "2026-09-22T19:30:00+00:00",
+          "link": "https://www.donga.com/news/Sports/article/all/20260924/134731131/1",
+          "publishedAt": "2026-09-24T00:33:03+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
@@ -299,188 +299,188 @@
   ],
   "topics": [
     {
-      "id": "ai",
-      "name": "AI·인공지능",
-      "phrase": "前구글 안전담당 임원 AI",
-      "sentence": "구글에서 안전팀을 이끌었던 전직 임원이 인공지능(AI)이 사회관계망서비스(SNS)보다 아동·청소년에게...",
-      "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260923017100091"
-    },
-    {
       "id": "politics",
       "name": "정치",
-      "phrase": "이정현 대검 차장 李대통령 공소취소",
-      "sentence": "이정현 신임 대검 차장검사가 23일 이재명 대통령의 형사사건 공소 취소에 대해 진상조사 결과를 봐야 한...",
+      "phrase": "李대통령 농지전수조사 꼭 필요",
+      "sentence": "유엔총회 참석을 위해 미국 뉴욕을 방문한 이재명 대통령은 23일(현지시간) \"농지투기 방지와 제대로 된...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260923035252004"
+      "link": "https://www.yna.co.kr/view/AKR20260924003700001"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "조건 맞으면 뉴욕서 이란측과 회담하고 싶어해",
-      "sentence": "도널드 트럼프 미국 대통령이 22일(현지시간) 유엔총회가 열리는 뉴욕에서 이란 측과 회담하고 싶어 한다고 ...",
+      "phrase": "트럼프와 회담 위해 美도착",
+      "sentence": "시진핑 중국 국가주석이 도널드 트럼프 미국 대통령과의 정상회담을 위해 23일(현지시간) 미국에 도착했다.",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260922196951071"
+      "link": "https://www.yna.co.kr/view/AKR20260924011200071"
+    },
+    {
+      "id": "ai",
+      "name": "AI·인공지능",
+      "phrase": "젠슨 황 AI 종말론 예측 그만 좀 하라",
+      "sentence": "젠슨 황 엔비디아 최고경영자(CEO)는 23일(현지시간) 인공지능(AI)이 인류의 파괴를 초래할 수 있다는 경...",
+      "articleCount": 233,
+      "link": "https://www.yna.co.kr/view/AKR20260924014100009"
     },
     {
       "id": "game",
       "name": "게임",
-      "phrase": "33세에 첫 개인전 금빛 찌르기",
-      "sentence": "이미 펜싱 여자 에페 '월드 챔피언'인 송세라(33·부산광역시청)가 아시안게임에선 두 번째 도전 만...",
-      "articleCount": 218,
-      "link": "https://www.yna.co.kr/view/AKR20260922191300007"
+      "phrase": "수영 황선우 200ｍ·펜싱 오상욱 개인전",
+      "sentence": "한국 수영과 펜싱의 간판스타 황선우(강원특별자치도청)와 오상욱(대전광역시청)이 2회 연속 아시안게임 금메달 ...",
+      "articleCount": 202,
+      "link": "https://www.yna.co.kr/view/AKR20260922100600007"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "추석 앞두고 지역 사회에 5천만원 기탁",
-      "sentence": "올데이골프그룹(회장 최동호)은 추석 명절을 앞두고 지역 사회에 총 5천만원의 성금을 기탁했다고 22일 밝혔다....",
-      "articleCount": 158,
-      "link": "https://www.yna.co.kr/view/AKR20260922149400007"
-    },
-    {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "코스닥 시장 입성 첫날 250% 급등",
-      "sentence": "와이즈플래닛컴퍼니가 코스닥 시장 입성 첫날인 23일 250% 급등 중이다.…",
-      "articleCount": 131,
-      "link": "https://www.chosun.com/economy/stock-finance/2026/09/23/G5TDINLDMI3DQMTEMM3DAYJYMI/"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "에너지공급망·방산 협력방안 논의",
-      "sentence": "유엔 총회 고위급 회기 참석차 방미 중인 이재명 대통령은 22일(현지시간) 뉴욕 주유엔대표부에서 앤서니...",
-      "articleCount": 121,
-      "link": "https://www.yna.co.kr/view/AKR20260923005100001"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "실리콘밸리에 대학 대체할 AI 대안학교",
-      "sentence": "미국 실리콘밸리의 대표적인 벤처투자사가 대학을 대체하는 인공지능(AI) 인재 양성기관을 세운다.",
-      "articleCount": 101,
-      "link": "https://www.yna.co.kr/view/AKR20260923029500091"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "대미투자 1호 가스발전소 확정",
-      "sentence": "정부가 대미투자 1호 프로젝트로 223억 달러(약 31조 원) 규모의 텍사스주 엔시날 가스복합화력발전소 사업을 확정했다.…",
-      "articleCount": 97,
-      "link": "https://www.donga.com/news/Politics/article/all/20260923/134723642/2"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "데이터센터 업계 첫 공간안전인증 획득",
-      "sentence": "[지디넷코리아]LG CNS가 국내 데이터센터 업계 최초로 '공간안전인증'을 획득하며 재난 예방과 대응 역량을 공식 인정받았다.지난해 행정안전부의 '재해경감 우수기…",
-      "articleCount": 94,
-      "link": "https://zdnet.co.kr/view/?no=20260923083710"
+      "phrase": "골프장 최고가 깰까",
+      "sentence": "포스코그룹이 수도권 회원제 골프장인 '잭니클라우스골프클럽(GC)'을 매물로 내놨다.",
+      "articleCount": 149,
+      "link": "https://www.yna.co.kr/view/AKR20260923187000003"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "1심보다 줄었지만 목걸이·금거북이 등 유죄 유지",
-      "sentence": "영부인의 지위를 이용해 각종 고가 귀금속을 수수한 혐의를 받는 김건희 여사가 항소심에서 징역 5년을 선고받았다.…",
-      "articleCount": 93,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260922500247"
+      "phrase": "영화 실미도 자막 수정",
+      "sentence": "실미도 부대 북파공작원들을 사형수나 무기수 등 범죄자 출신으로 묘사했던 영화 '실미도'의 안내자막이 개봉 23...",
+      "articleCount": 115,
+      "link": "https://www.yna.co.kr/view/AKR20260923049500504"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "브렌트 3.9% 급등해 100달러선",
+      "sentence": "국제유가가 23일(현지시간) 미국과 이란 간 외교적 해결 가능성을 둘러싼 불확실성이 부각되면서 상승했다.",
+      "articleCount": 104,
+      "link": "https://www.yna.co.kr/view/AKR20260924007700072"
+    },
+    {
+      "id": "stock",
+      "name": "증시",
+      "phrase": "카카오모빌리티 미국 ADR 상장에 제동",
+      "sentence": "카카오모빌리티가 추진하던 1조4천억원 규모 미국 증시 상장에 모회사인 카카오[035720]가 제동을 걸고 나섰...",
+      "articleCount": 99,
+      "link": "https://www.yna.co.kr/view/AKR20260923113400017"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "집값 상승 기대 여전히 높아",
-      "sentence": "9월 소비심리가 한 달 만에 반등했다.",
+      "phrase": "연휴 첫날 새벽 서울 강서구 옥탑방 화재",
+      "sentence": "추석 연휴 첫날인 24일 오전 3시 19분께 서울 강서구 마곡동 주택의 옥탑방에서 불이 나 거주자인 60대 남...",
+      "articleCount": 97,
+      "link": "https://www.yna.co.kr/view/AKR20260924011800004"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "베선트 미 재무 미·중 무역 휴전 2개월",
+      "sentence": "스콧 베선트 미 재무장관이 23일(현지시간) 오는 11월 만료되는 미중 양국 간 '무역 휴전'을 2개월 연장하...",
+      "articleCount": 97,
+      "link": "https://www.yna.co.kr/view/AKR20260924013951009"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "교육부 / 행정안전부",
+      "sentence": "교육부 △전남광주통합특별시 제2부교육감 심민철 △세종특별자치시 부교육감 이윤홍 △인공지능인재지원국장 김도완 △교육콘텐츠정책과장 이상범 △교육보육과정지원과장 김민선…",
       "articleCount": 90,
-      "link": "https://www.yna.co.kr/view/AKR20260922176500002"
+      "link": "https://www.mk.co.kr/news/society/12160417"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "李 트럼프와 군함 건조 논의",
+      "sentence": "이재명 대통령은 23일(현지 시간) “어젯밤에 도널드 트럼프 미국 대통령과 여러가지 이야기를 나눴는데 그 중 하나가 군함 건설을 포함한 조선 분야 협력이었다”고…",
+      "articleCount": 86,
+      "link": "https://www.donga.com/news/Politics/article/all/20260923/134730631/1"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "반도체 강세에 장 초반 1%대 상승",
-      "sentence": "코스피가 23일 미국 기술주 강세에 4거래일 연속 상승세를 이어가고 있다.",
-      "articleCount": 82,
-      "link": "https://www.yna.co.kr/view/AKR20260923038451008"
+      "phrase": "석달만에 2.6%→3.7% 상향",
+      "sentence": "경제협력개발기구(OECD)가 올해 한국의 경제성장률 전망치를 기존보다 1.1%포인트 대폭 높인 3.7%로 제시했다.…",
+      "articleCount": 75,
+      "link": "https://www.donga.com/news/Economy/article/all/20260923/134730063/2"
     },
     {
       "id": "health",
       "name": "건강·의료",
-      "phrase": "가짜 코로나 백신 증명서 구매",
-      "sentence": "스위스 축구 대표팀 '캡틴' 그라니트 자카(선덜랜드)가 위조된 신종 코로나바이러스 감염증(코로나19) 백신 접...",
-      "articleCount": 81,
-      "link": "https://www.yna.co.kr/view/AKR20260922017900007"
+      "phrase": "독감 의심환자 8주째 증가",
+      "sentence": "영유아를 중심으로 인플루엔자(독감) 의심환자가 8주째 증가하는 등 '이른 독감' 확산세가 이어지고 있다.",
+      "articleCount": 71,
+      "link": "https://www.yna.co.kr/view/AKR20260923191600530"
     },
     {
       "id": "rate",
       "name": "금리",
-      "phrase": "美 연준 당국자들 잇단 인플레 경고",
-      "sentence": "미국 연방준비제도(Fed·연준) 인사들이 잇달아 인플레이션 고착화 위험을 경고하며 추가 기준금리 인상 가능성을 열어뒀다.…",
-      "articleCount": 57,
-      "link": "https://www.bloter.net/news/articleView.html?idxno=674288"
-    },
-    {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "도내 대기성분측정소 4곳 지난해 운영결과",
-      "sentence": "경기도보건환경연구원이 도내 대기성분측정소 4곳에서 측정한 초미세먼지(PM-2.5) 성분과 대기오염물질 분석 결과를 담은 ‘2025년 대기성분측정소 운영결과’ 보고…",
-      "articleCount": 54,
-      "link": "https://www.pressian.com/pages/articles/2026092309020376345&ref=rss"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "비트코인 8만6000달러선 숨고르기",
-      "sentence": "비트코인 가격이 8만6000달러대까지 치솟은 뒤 보합세를 이어가며 숨 고르기에 들어갔다.…",
-      "articleCount": 52,
-      "link": "https://www.chosun.com/economy/stock-finance/2026/09/23/MJSTCMZYMIYDCMRXMU3TSMRRMQ/"
-    },
-    {
-      "id": "retail",
-      "name": "유통·소비",
-      "phrase": "철도역 편의점 할인 확대",
-      "sentence": "한국철도공사(코레일) 산하 5개 자회사가 3개로 통합됐다.",
-      "articleCount": 48,
-      "link": "https://www.yna.co.kr/view/AKR20260922165500003"
+      "phrase": "한은 추석 앞두고 3조6천억원 규모 화폐 공급",
+      "sentence": "한국은행은 추석 전 10영업일동안 총 3조6천억원 규모의 화폐를 금융기관에 공급했다고 23일 밝혔다.",
+      "articleCount": 63,
+      "link": "https://www.yna.co.kr/view/AKR20260923061200002"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "유튜버 지원 회사 공짜노동 점검",
-      "sentence": "고용노동부가 유튜브·인스타그램 등에서 활동하는 크리에이터 지원 기업인 MCN(다중채널 네트워크) 사업장에서의 ...",
+      "phrase": "올 한국 성장률 전망 3.7% 대폭 상향",
+      "sentence": "OECD, 3개월 만에 1.1%P 올려반도체 수출·생산 증가세 반영유가 상승에 물가 전망도 상향경제협력개발기구(OECD)가 올해 한국 경제성장률을 3개월 만에 1…",
+      "articleCount": 55,
+      "link": "https://www.khan.co.kr/article/202609231911025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비",
+      "phrase": "쿠팡 공정위 현장조사 중단 신청 기각",
+      "sentence": "공정거래위원회의 현장조사 효력을 정지해달라는 쿠팡 측 요청을 법원이 받아들이지 않았다.",
+      "articleCount": 49,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20260924032002"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "가상자산 시세조종·임직원 부정거래 4건",
+      "sentence": "금융위원회·금융감독원은 23일 정례회의에서 가상자산시장 불공정거래 사건 혐의자들에 고발·수사기관 통보 조치를 ...",
       "articleCount": 47,
-      "link": "https://www.yna.co.kr/view/AKR20260922158800530"
+      "link": "https://www.yna.co.kr/view/AKR20260923147800002"
     },
     {
       "id": "science",
       "name": "우주·과학",
-      "phrase": "신청사 건립 타당성 재조사hellip;LOMAC",
-      "sentence": "고양특례시 주교동 신청사 건립사업이 타당성 재조사에 들어갔다.…",
-      "articleCount": 44,
-      "link": "https://www.pressian.com/pages/articles/2026092309140771288&ref=rss"
+      "phrase": "호르무즈서 화물선 발사체 피격",
+      "sentence": "영국 해사무역기구(UKMTO)는 23일(현지시간) 호르무즈 해협에서 화물선 피격 사건이 발생했다는 보고가 ...",
+      "articleCount": 47,
+      "link": "https://www.yna.co.kr/view/AKR20260923194651079"
     },
     {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "3천600억원 규모 자사주 매입·소각 결정",
-      "sentence": "KT&G[033780]는 22일 이사회를 열고 주주가치 제고를 위해 약 3천600억원 규모의 자사주 2...",
-      "articleCount": 40,
-      "link": "https://www.yna.co.kr/view/AKR20260922149500030"
-    },
-    {
-      "id": "fx",
-      "name": "환율",
-      "phrase": "6.3원 내린 1351.9원",
-      "sentence": "미 달러화 대비 원화 환율(원·달러 환율)은 23일 오전 9시 1351.9원이다.",
-      "articleCount": 30,
-      "link": "https://www.chosun.com/economy/economy_general/2026/09/23/GNTDSMDDMZRGKNBXGBRTMMDCME/"
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "폭염 덮친 지난 7월 사망자 역대 최다",
+      "sentence": "폭염 덮친 지난 7월 사망자 역대 최다…“초고령사회 기온 변화에 취약”",
+      "articleCount": 43,
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1279233.html"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "일 좀 열심히 해 이주노동자에 소화기 뿌린",
-      "sentence": "일을 열심히 하지 않는다는 이유로 베트남 국적 이주노동자들에게 소화기를 뿌린 사업주가 경찰에 입건돼 수사받고 ...",
-      "articleCount": 25,
-      "link": "https://www.yna.co.kr/view/AKR20260923036100054"
+      "phrase": "네이버제트 23일 하루 전면파업",
+      "sentence": "메타버스 플랫폼 제페토의 운영사인 네이버 자회사 네이버제트 노동자들이 경영진의 일방적인 임금 동결 조치와 소통 부재를 비판하며 23일 하루 전면파업을 벌이고 있다…",
+      "articleCount": 31,
+      "link": "https://www.nocutnews.co.kr/news/6582811"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "하루 거래량 134억4000만 달러",
+      "sentence": "이날 탈중앙화 거래소(DEX)에서 가장 주목받은 거래쌍은 장 필(JEANPHIL/SOL), 업토버(UPTOBER/SOL), 펌포 더 히포(PUMPPO/SOL)이다…",
+      "articleCount": 29,
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/413184"
+    },
+    {
+      "id": "fx",
+      "name": "환율",
+      "phrase": "340원대 찍고 반등해 1",
+      "sentence": "원/달러 환율은 23일 미국과 이란의 협상 소식에 장중 1,340원대까지 떨어졌지만, 오후 들어선 저가매수세 ...",
+      "articleCount": 17,
+      "link": "https://www.yna.co.kr/view/AKR20260923151000002"
     }
   ],
   "topicCatalog": [
