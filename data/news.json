@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:29:29+09:00",
+  "generatedAt": "2026-09-25T00:48:18+09:00",
   "categories": [
     {
       "id": "politics",
@@ -66,24 +66,26 @@
           ]
         },
         {
-          "title": "‘대통령이 국민 속여’ 유시민 발언에… 靑 “檢 개혁 의지, 사실과 다르게 왜곡”",
-          "summary": "검찰 개혁 관련, ‘이재명 대통령이 국민을 속였다’고 언급한 유시민 작가에 대해 청와대가 24일 “대통령의 검찰 개혁 의지를 사실과 다르게 왜곡하는 것에 유감”이라고 밝혔다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/economy_general/2026/09/24/GE4DKN3FG44WGOLCGZRTOZLCHA/",
-          "publishedAt": "2026-09-24T09:36:19+00:00",
+          "title": "\"이렇게 비싸지 않은데\"…집값 과하게 오르는 이유 '담합'",
+          "summary": "최근 5년간 집값 담합 관련 신고가 600건 넘게 접수된 것으로 집계됐다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260923084000003",
+          "publishedAt": "2026-09-23T23:05:00+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "머니투데이"
+            "SBS"
           ]
         },
         {
-          "title": "모레노 감독, 긴장하면 혀 빼꼼",
-          "summary": "대한민국 축국구가대표팀이 24일 수원월드컵경기장에서 에콰도르와 친선경기를 열었다. 모레노 감독이 벤치에 입장, 그라운드를 살피고 있다....",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/sports/2026/09/24/2026092420135523203",
-          "publishedAt": "2026-09-24T11:14:46+00:00",
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "LH, 수도권 주택용지 5000억 원 규모 매입…29일부터 접수",
+          "summary": "한국토지주택공사(LH)가 수도권 주택공급 확대를 위해 5000억 원 규모의 공공비축토지 매입에 나선다고 23일 밝혔다.LH는 오는 29일부터 수도권 내 주택 건설이 가능한 토지를 대상으로 ‘2026년 수급조절용 공공토지 비축매입’ 신청을 받는다.이번 매입은 수도권 주택공급 부족에 대응하고 토지시장을 안정시키기 위해 필요한 토지를 미리 확보하기 위한 것이다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20260923/134727534/1",
+          "publishedAt": "2026-09-24T00:00:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
         }
       ]
     },
@@ -93,16 +95,16 @@
       "items": [
         {
           "title": "연휴 첫날 고속도로 정체 극심…서울→부산 최대 9시간30분",
-          "summary": "추석 연휴 첫날인 24일 오전 귀성 행렬이 이어지며 고속도로 곳곳에서 극심한 정체가 빚어지고 있다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260924020500004",
-          "publishedAt": "2026-09-24T00:24:20+00:00",
+          "summary": "추석 연휴를 하루 앞둔 23일 경찰청 헬기에서 바라본 경기도 용인시 신갈 분기점 부근에서 귀성 차량 등이 오가고 있다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609241006001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-09-24T01:06:00+00:00",
           "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "경향신문",
             "동아일보",
-            "매일경제"
+            "매일경제",
+            "연합뉴스"
           ]
         },
         {
@@ -139,17 +141,17 @@
       "name": "국제",
       "items": [
         {
-          "title": "美재무 “미중 무역 휴전 2개월 연장 합의”",
-          "summary": "미국과 중국이 오는 11월 만료 예정이었던 양국 간 무역 휴전을 내년 1월 10일까지 연장하기로 합의했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20260924/134730997/2",
-          "publishedAt": "2026-09-23T23:26:00+00:00",
+          "title": "베선트 美재무장관 “미·중 무역 휴전 2개월 연장 합의”",
+          "summary": "미국과 중국이 오는 11월 만료 예정이었던 양국 간 무역 휴전을 내년 1월 10일까지 연장하기로 합의했다. 미·중 양국은 보다 포괄적인 무역 합의 가능성도 열어둔 채 후속 협상을 이어갈 전망이다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/09/24/MMYGEYLGGVSDGN3GG5RTAZDGME/",
+          "publishedAt": "2026-09-23T22:52:03+00:00",
           "sourceCount": 6,
           "otherSources": [
             "SBS",
             "경향신문",
+            "동아일보",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         },
@@ -167,15 +169,15 @@
           ]
         },
         {
-          "title": "시진핑, 백악관 도착…국빈 환영식 시작",
-          "summary": "11년 만에 미국을 국빈 방문한 시진핑 중국 국가주석이 도널드 트럼프 미국 대통령과의 정상회담을 위해 24...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260924054700071",
-          "publishedAt": "2026-09-24T14:11:18+00:00",
+          "title": "러 외무차관 “김정은 방러 초청…일정 조율 예정”",
+          "summary": "러시아가 김정은 북한 국무위원장의 러시아 방문을 공식 요청했다고 밝혔다. 러시아 관영 타스 통신에 따르면 안드레이 루덴코 러시아 외무차관은 24일(현지시간) “김정은 위원장이 우리..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12160997",
+          "publishedAt": "2026-09-24T10:33:42+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "서울신문"
+            "연합뉴스"
           ]
         }
       ]
@@ -196,22 +198,26 @@
           ]
         },
         {
-          "title": "‘마라톤 완주’ 로봇개, 어떻게 달렸나…답은 ‘에너지 다이어트’",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/science_general/1279346.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "앨버니지 호주 총리 \"오픈AI 에이전트가 호주 정부 웹사이트 해킹\"",
+          "summary": "[지디넷코리아]오픈AI의 인공지능(AI) 에이전트가 내부 평가 과정에서 호주 정부 웹사이트에 무단으로 접근한 사실이 드러났다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20260924101749",
+          "publishedAt": "2026-09-24T01:38:07+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "전자신문"
+          ]
         },
         {
-          "title": "‘인류세’ 논쟁 재점화…새로운 지질시대냐, 더 거대한 사건이냐",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/science_general/1279258.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "공항 대기시간·무료주차·특선영화까지…네이버 추석 정보 한곳에",
+          "summary": "네이버가 추석 연휴를 맞아 검색·플레이스·클립·치지직·네이버페이 등 주요 서비스에서 명절 생활정보와 여행·콘텐츠·결제 혜택을 제공한다.…",
+          "source": "전자신문",
+          "link": "https://www.etnews.com/20260924000021",
+          "publishedAt": "2026-09-24T01:25:48+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "ZDNet코리아"
+          ]
         }
       ]
     },
@@ -225,27 +231,26 @@
           "source": "연합뉴스",
           "link": "https://www.yna.co.kr/view/AKR20260923147800002",
           "publishedAt": "2026-09-23T06:54:16+00:00",
-          "sourceCount": 3,
+          "sourceCount": 2,
           "otherSources": [
-            "SBS",
-            "아시아경제"
+            "SBS"
           ]
         },
         {
-          "title": "영국 솔리헐 암호화폐 강탈 사건에 1만파운드 현상금",
-          "summary": "영국 버밍엄 동부 솔리헐의 한 가정집에 침입해 부부에게 암호화폐를 이체하도록 강요한 사건과 관련해 최대 1만파운드(약 1827만원)의 현상금이 걸렸다.…",
+          "title": "상위 20개 가상자산 재무기업, 4곳만 보유자산 웃돌아",
+          "summary": "상위 20개 가상자산 재무기업 가운데 주가가 보유 토큰 가치보다 높은 기업은 4곳에 그쳤다. 대부분 기업이 보유자산보다 낮은 평가를 받으면서 주식 발행을 통한 추가 매입 전략에도 제약이 생겼다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/413658",
-          "publishedAt": "2026-09-24T15:27:42+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/413678",
+          "publishedAt": "2026-09-24T15:43:04+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "도지코인 365일 MVRV -19.26%…머스크 ‘lol’은 과거 NFT 반응",
-          "summary": "도지코인(DOGE)이 최근 반등했지만 365일 기준 보유자 평균 손실 구간에 머물고 있다.…",
+          "title": "비트코인 낙폭 55%…다음 상승장 제한 가능성 거론",
+          "summary": "비트코인(BTC)은 2025년 10월 고점 이후 약 55% 하락했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/413656",
-          "publishedAt": "2026-09-24T15:25:06+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/413672",
+          "publishedAt": "2026-09-24T15:38:16+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -256,14 +261,14 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "0.255초 차로 중국 이겼다…韓 남자카약 500m 금메달",
-          "summary": "한국 카누 스프린트 대표팀이 8년 만에 아시안게임 금메달을 따냈다. 2026 아이치-나고야 아시안게임에 출전 중인 한국 선수단의 9번째 금메달이다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260924/134731485/1",
-          "publishedAt": "2026-09-24T04:35:00+00:00",
+          "title": "0.255초 차 짜릿한 우승…남자 카약 4인승 500ｍ 금메달",
+          "summary": "한국 카누 스프린트 대표팀이 2026 아이치·나고야 아시안게임에서 짜릿한 금빛 물살을 가르며 아시아 정상에 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260924030351007",
+          "publishedAt": "2026-09-24T03:31:36+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
+            "동아일보",
             "한겨레"
           ]
         },
@@ -315,128 +320,120 @@
       "name": "게임",
       "phrase": "아빠 여홍철과 어깨 나란히",
       "sentence": "'도마 여왕' 여서정(24·제천시청)이 한가위 연휴 첫날 아시안게임 기계체조 여자 도마 정상을 8년 만에 되...",
-      "articleCount": 240,
+      "articleCount": 224,
       "link": "https://www.yna.co.kr/view/AKR20260924047052007"
-    },
-    {
-      "id": "sports",
-      "name": "스포츠",
-      "phrase": "오현규·손흥민 연속골",
-      "sentence": "'모레노호'로 새 출발 한 한국 축구대표팀이 오현규(베식타시)와 손흥민(LAFC), 이동경(울산)의 연속골로 ...",
-      "articleCount": 228,
-      "link": "https://www.yna.co.kr/view/AKR20260924052451007"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
       "phrase": "오픈AI 불량 에이전트",
       "sentence": "인간의 명시적 지시 없이 외부 사이트를 무단 해킹해 논란이 된 오픈AI의 인공지능(AI) 에이전트가 ...",
-      "articleCount": 214,
+      "articleCount": 218,
       "link": "https://www.yna.co.kr/view/AKR20260924021700091"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠",
+      "phrase": "아버지처럼 AG 금메달 2개",
+      "sentence": "여서정이 24일 일본 아이치현 나고야 종합체육관에서 열린 2026 아이치·나고야 아시안게임 기계체조 도마에서 연기를 펼치고 있다.…",
+      "articleCount": 156,
+      "link": "https://www.khan.co.kr/article/202609241918001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "서울 아파트 매매가격 85주째 상승",
       "sentence": "서울 아파트 매매가격이 85주째 올라 역대 최장 상승 기간과 동률을 기록했다.",
-      "articleCount": 101,
+      "articleCount": 99,
       "link": "https://www.yna.co.kr/view/AKR20260924028000003"
     },
     {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "올 한국 성장률 전망 3.7% 대폭 상향",
-      "sentence": "OECD, 3개월 만에 1.1%P 올려반도체 수출·생산 증가세 반영유가 상승에 물가 전망도 상향경제협력개발기구(OECD)가 올해 한국 경제성장률을 3개월 만에 1…",
-      "articleCount": 94,
-      "link": "https://www.khan.co.kr/article/202609231911025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "스마트폰 밤새 충전해도 괜찮을까?",
+      "sentence": "일러스트 | 제미나이잠들기 전 스마트폰을 충전기에 연결해 두고 아침에 일어나는 것은 현대인에게 익숙한 하루 마무리 루틴이다.…",
+      "articleCount": 90,
+      "link": "https://www.khan.co.kr/article/202609241045001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
       "id": "education",
       "name": "교육",
       "phrase": "수시접수 일반대학 73％",
       "sentence": "대입 수시모집 '먹통' 사태로 마감 시간이 연장된 대학 중 일부가 경쟁률을 공개해 공정성 논란이 인 가운데 대...",
-      "articleCount": 91,
+      "articleCount": 90,
       "link": "https://www.yna.co.kr/view/AKR20260923185700001"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "올 한국 성장률 전망 3.7% 대폭 상향",
+      "sentence": "OECD, 3개월 만에 1.1%P 올려반도체 수출·생산 증가세 반영유가 상승에 물가 전망도 상향경제협력개발기구(OECD)가 올해 한국 경제성장률을 3개월 만에 1…",
+      "articleCount": 88,
+      "link": "https://www.khan.co.kr/article/202609231911025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
       "id": "stock",
       "name": "증시",
       "phrase": "카카오모빌리티 미국 ADR 상장에 제동",
       "sentence": "카카오모빌리티가 추진하던 1조4천억원 규모 미국 증시 상장에 모회사인 카카오[035720]가 제동을 걸고 나섰...",
-      "articleCount": 89,
+      "articleCount": 85,
       "link": "https://www.yna.co.kr/view/AKR20260923113400017"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "美 제재에도 태국행 등 국제선 계속 운항",
-      "sentence": "미국이 이란 항공사들의 국제선 운항을 중단시키기 위한 2차 제재를 시행하겠다고 한 23일(현지시간) 이란 항공...",
-      "articleCount": 83,
-      "link": "https://www.yna.co.kr/view/AKR20260924036900009"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "추석 연휴 K팝 공연·볼거리 풍성",
-      "sentence": "2026여수세계섬박람회에서 추석 연휴 온 가족이 즐길 수 있는 전시·체험 프로그램과 특별공연을 선보인다.",
-      "articleCount": 83,
-      "link": "https://www.yna.co.kr/view/AKR20260923046600054"
     },
     {
       "id": "trade",
       "name": "수출·관세",
       "phrase": "美재무 미중 무역휴전 2개월 연장 합의",
       "sentence": "스콧 베선트 미국 재무장관이 23일(현지시간) 오는 11월 만료되는 중국과...",
-      "articleCount": 81,
+      "articleCount": 79,
       "link": "https://www.yna.co.kr/view/AKR20260924013953009"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "추석 연휴 K팝 공연·볼거리 풍성",
+      "sentence": "2026여수세계섬박람회에서 추석 연휴 온 가족이 즐길 수 있는 전시·체험 프로그램과 특별공연을 선보인다.",
+      "articleCount": 79,
+      "link": "https://www.yna.co.kr/view/AKR20260923046600054"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "석달만에 2.6%→3.7% 상향",
       "sentence": "경제협력개발기구(OECD)가 올해 한국의 경제성장률 전망치를 기존보다 1.1%포인트 대폭 높인 3.7%로 제시했다.…",
-      "articleCount": 73,
+      "articleCount": 71,
       "link": "https://www.donga.com/news/Economy/article/all/20260923/134730063/2"
     },
     {
       "id": "health",
       "name": "건강·의료",
-      "phrase": "젤렌스키 푸틴은 0번 환자",
-      "sentence": "볼로디미르 젤렌스키 우크라이나 대통령은 23일(현지시간) 블라디미르 푸틴 러시아 대통령을 '0번...",
-      "articleCount": 65,
-      "link": "https://www.yna.co.kr/view/AKR20260924008100109"
+      "phrase": "앨버니지 호주 총리 오픈AI 에이전트가 호주",
+      "sentence": "[지디넷코리아]오픈AI의 인공지능(AI) 에이전트가 내부 평가 과정에서 호주 정부 웹사이트에 무단으로 접근한 사실이 드러났다.…",
+      "articleCount": 67,
+      "link": "https://zdnet.co.kr/view/?no=20260924101749"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "노동장관 플랫폼노동자 최저보수제 연구",
-      "sentence": "김영훈 고용노동부 장관은 약 800만명으로 추산되는 플랫폼 노동자 등에 최저임금 수준의 급여를 보장하는 '최저...",
-      "articleCount": 56,
-      "link": "https://www.yna.co.kr/view/AKR20260923103500530"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "美 30년물 금리 2004년 이후 최고치",
-      "sentence": "미국 연방준비제도(Fed·연준)의 추가 금리 인상 가능성이 부각되면서 미 국채금리가 연일 치솟아 수십 년 만...",
-      "articleCount": 51,
-      "link": "https://www.yna.co.kr/view/AKR20260924054300072"
+      "phrase": "quot;원주 인재",
+      "sentence": "박순호(더불어민주당·라 선거구) 원주시의회 의원이 원주시 직장운동경기부를 단순 성적 위주가 아닌 지역 인재를 육성하는 선순환 체계로 전환해야 한다고 강조했다.…",
+      "articleCount": 53,
+      "link": "https://www.pressian.com/pages/articles/2026092416284542417&ref=rss"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "가상자산 시세조종·임직원 부정거래 4건",
-      "sentence": "금융위원회·금융감독원은 23일 정례회의에서 가상자산시장 불공정거래 사건 혐의자들에 고발·수사기관 통보 조치를 ...",
+      "phrase": "하이퍼리퀴드 98달러 찍고 91달러대 조정",
+      "sentence": "하이퍼리퀴드(HYPE)가 98달러 부근에서 사상 최고가를 기록한 뒤 약 91달러로 조정받았다.",
       "articleCount": 51,
-      "link": "https://www.yna.co.kr/view/AKR20260923147800002"
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/413663"
     },
     {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "힐리어드 39호→KT 80승 선착!",
-      "sentence": "[OSEN=조형래 기자] 프로야구 KT 위즈가 연승이 끊기고 연패가 이어지는 후유증 없이 곧바로 승리를 챙겼다.…",
-      "articleCount": 44,
-      "link": "https://www.chosun.com/sports/baseball/2026/09/25/GMZTQZRVHFQTCM3CGVRDKMDCHE/"
+      "id": "rate",
+      "name": "금리",
+      "phrase": "금리 상승국면서 0.25%p 올리면 6개월후",
+      "sentence": "금리 상승국면에서 금리 인상에 따른 집값 하락 영향이 시차를 두고 나타날 수 있어 주택 가격에 미치는 영향과 ...",
+      "articleCount": 46,
+      "link": "https://www.yna.co.kr/view/AKR20260923103400003"
     },
     {
       "id": "retail",
@@ -447,11 +444,19 @@
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20260924032002"
     },
     {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "승리 지켰지만 아쉬워",
+      "sentence": "[OSEN=인천, 지형준 기자] 프로야구 2위 삼성 라이온즈가 연승에 성공하며 1위 KT 위즈와의 격차를 유지했다.…",
+      "articleCount": 39,
+      "link": "https://www.chosun.com/sports/sports_photo/2026/09/24/GBSWEMJXGE4TQOLCGNRDMMRYMQ/"
+    },
+    {
       "id": "science",
       "name": "우주·과학",
       "phrase": "우크라 돕는 폴란드 스타링크 기지에 불",
       "sentence": "우크라이나에 스타링크 위성통신 서비스를 지원하는 폴란드 통신망 시설에 불이 났다.",
-      "articleCount": 40,
+      "articleCount": 39,
       "link": "https://www.yna.co.kr/view/AKR20260924045700082"
     },
     {
@@ -467,7 +472,7 @@
       "name": "노동",
       "phrase": "일본서 열리는 아시안 게임hellip;그리고",
       "sentence": "\"1940년대 초반만 하더라도 일본 도시에서의 분뇨 수거 작업은 거의 조선인들의 몫이었다.…",
-      "articleCount": 30,
+      "articleCount": 27,
       "link": "https://www.pressian.com/pages/articles/2026092416554202533&ref=rss"
     },
     {
@@ -475,7 +480,7 @@
       "name": "환율",
       "phrase": "340원대 찍고 반등해 1",
       "sentence": "원/달러 환율은 23일 미국과 이란의 협상 소식에 장중 1,340원대까지 떨어졌지만, 오후 들어선 저가매수세 ...",
-      "articleCount": 14,
+      "articleCount": 16,
       "link": "https://www.yna.co.kr/view/AKR20260923151000002"
     }
   ],
