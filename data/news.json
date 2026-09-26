@@ -1,40 +1,49 @@
 {
-  "generatedAt": "2026-09-26T09:51:40+09:00",
+  "generatedAt": "2026-09-26T23:43:08+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "李대통령 “국제우편 마약밀수 투항이나 마찬가지…반드시 잡혀”",
-          "summary": "멕시코를 국빈 방문한 이재명 대통령은 25일(현지시간) “국제우편 마약밀수는 투항이나 마찬가지”라며 근절 의지를 드러냈다.이 대통령은 이날 X(옛 트위터)에 이종욱 관세청장의 마약 밀수범 검거 관련 게시글을 공유하며 “밀수제로, 반드시 잡힙니다”라고 말했다.이 대통령은 “국민주권정부는 한다면 한다”며 “우편밀수 이제 그만 하시기 바란다”고 덧붙였다.이 청장은 부산본부세관이 국제우편 ‘N차 저지선’에서 필로폰과 신종마약인 MDMA를 적발하고, 부산지방검찰청·우체국과 공조해 이틀 만에 피의자를 검거했다고 알렸다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20260926/134733632/1",
-          "publishedAt": "2026-09-25T22:19:39+00:00",
-          "sourceCount": 2,
+          "title": "李대통령 내외, 멕시코서 스트레이키즈 공연관람…\"K팝사랑에 감사\"",
+          "summary": "멕시코를 국빈 방문 중인 이재명 대통령 내외는 25일(현지시간) 멕시코 청소년들과 그룹 스트레이키...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260926034900001",
+          "publishedAt": "2026-09-26T06:47:31+00:00",
+          "sourceCount": 5,
           "otherSources": [
+            "SBS",
+            "동아일보",
+            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "합참의장, 'DMZ 지뢰폭발' 부대 방문…현장조사 준비 점검",
-          "summary": "진영승 합참의장은 25일 최근 서부전선 비무장지대(DMZ) 내 지뢰 추정 폭발사고가 발생한 육군 25사단을 방...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260925034700504",
-          "publishedAt": "2026-09-25T07:05:19+00:00",
-          "sourceCount": 2,
+          "title": "軍·유엔사, 지뢰 폭발 5일만에 DMZ 진입…합동 조사 준비",
+          "summary": "합동참모본부와 유엔군사령부 군사정전위원회(군정위)가 지뢰 추정 폭발 사고 합동 조사 전 사전 점검을 위해 비무장지대(DMZ)를 진입했다고 26일 밝혔다.이날 현장에는 사고의 합동 현장조사 태스크포스(TF)장인 권대원 합참차장과 군정위 비서장, 작전병력 20여명이 투입됐다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20260926/134734970/1",
+          "publishedAt": "2026-09-26T10:58:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "SBS"
+            "경향신문",
+            "조선일보",
+            "한겨레"
           ]
         },
         {
-          "title": "유용원 “북한군 포로 2명 한국 도착 확인”…젤렌스키도 유엔서 밝혀",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/politics/defense/1279385.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "‘북한군 포로 송환 공개’ 논란에…靑 “일관된 원칙에 따라 대응”",
+          "summary": "청와대는 북한군 포로 2명의 한국 송환 사실 공개를 둘러싼 논란에 대해 26일 “일관된 원칙에 따라 대응하는 것이 우리 정부의 입장”이라고 밝혔다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20260926500045",
+          "publishedAt": "2026-09-26T05:16:46+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "동아일보",
+            "연합뉴스"
+          ]
         }
       ]
     },
@@ -43,36 +52,38 @@
       "name": "경제",
       "items": [
         {
-          "title": "치솟은 유류할증료 동남아 직격…일본·중국 항공여객은 20%대↑",
-          "summary": "올해 들어 고유가로 여행심리가 위축됐는데도 국제선 항공 여객이 지난해보다 약 10% 증가한 것으로 나타났다.",
+          "title": "한국제품 수입규제 상반기 241건…작년 하반기보다 11건 늘어",
+          "summary": "보호무역주의가 확산하는 흐름 속에서 올해 상반기 한국 제품에 대한 수입규제 조치도 지난해 하반기보다 증가한 것...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260923162000003",
-          "publishedAt": "2026-09-25T23:05:01+00:00",
-          "sourceCount": 2,
+          "link": "https://www.yna.co.kr/view/AKR20260923164700003",
+          "publishedAt": "2026-09-26T02:31:00+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "SBS"
-          ]
-        },
-        {
-          "title": "\"엔비디아 138억·강남 아파트 2.9억\"...10년 전 1억 투자 '승자'는",
-          "summary": "용산서 GPU 팔았던 엔비디아, 10년 만에 AI '대장' 비트코인 135억·금 4억원…테슬라 25억·삼성전자 8억원 10년 전 1억원을 투자했다면 현재 가장 높은 이익을 거둔 자산은 엔비디아 주식인 것으로 나타났다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/stock/2026/09/26/2026092608170096601",
-          "publishedAt": "2026-09-25T23:42:00+00:00",
-          "sourceCount": 2,
-          "otherSources": [
+            "SBS",
             "동아일보"
           ]
         },
         {
-          "title": "美재무 \"일본 경제 여건 반영한 '엔화 강세' 바람직\"",
-          "summary": "스콧 베선트 미국 재무장관이 25일(현지시간) 가타야마 사쓰키 일본 재무상과 통화에서 일본의 경제 기초여건을 반영한 엔화 강세가 바람직하다는 데 대해 의견을 나눴다고 밝혔다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/world/2026/09/26/2026092603365688662",
-          "publishedAt": "2026-09-25T18:41:29+00:00",
+          "title": "신현송 한은 총재인 척 \"주식 투자법 알려주겠다\"…SNS 투자사기 주의보",
+          "summary": "최근 사회관계망서비스(SNS)에 신현송 한국은행 총재 등 유명인을 사칭하는 계정을 통해 투자를 권유하는 일이 반복되면서 주의가 요구된다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026092617035007230",
+          "publishedAt": "2026-09-26T08:03:50+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "김현지 靑 제1부속실장 부친상… 광주서 3일장",
+          "summary": "김현지 청와대 제1부속실장이 26일 부친상을 당했다. 정치권에 따르면 김 실장은 이날 광주 서구의 한 장례식장에 마련된 빈소에서 가족들과 장례를 치르고 있다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/economy_general/2026/09/26/MU4GMMJTGVRTAOJZGFQTKMZTGE/",
+          "publishedAt": "2026-09-26T07:08:41+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "연합뉴스"
+            "머니투데이"
           ]
         }
       ]
@@ -82,40 +93,42 @@
       "name": "사회",
       "items": [
         {
-          "title": "연휴 셋째날 고속도로 귀경길 정체 본격화…부산→서울 7시간 10분",
-          "summary": "추석 연휴 셋째 날인 26일은 귀경 방향을 중심으로 정체가 집중되는 등 평소 토요일보다 교통량이 증가하겠다.한국도로공사에 따르면 이날 전국 고속도로 이용 차량은 590만 대로 예상된다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Society/article/all/20260926/134733770/1",
-          "publishedAt": "2026-09-26T00:00:26+00:00",
+          "title": "“개막 이후 최다 인파 몰렸다”…여수섬박람회 추석 당일 6만7천명 방문",
+          "summary": "2026여수세계섬박람회 추석 당일 방문객이 6만7천명을 기록하며 개막 이후 일일 최다 기록을 세웠다. 26일 여수세계섬박람회 조직위원회에 따르면 추석 연휴를 맞아 체험·참여형 콘텐..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12161625",
+          "publishedAt": "2026-09-26T05:59:48+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "SBS",
-            "연합뉴스",
-            "한겨레"
+            "노컷뉴스",
+            "서울신문",
+            "조선일보"
           ]
         },
         {
-          "title": "고속도로 귀경길 정체 본격화…부산→서울 7시간 10분",
-          "summary": "추석 다음 날인 26일 귀경 방향을 중심으로 정체가 집중되고 있다. 본격적인 귀경길 차량에 평소 토요일보다 곳곳에서 극심한 정체가 빚어질 것으로 보인다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Society/article/all/20260926/134733785/1",
-          "publishedAt": "2026-09-26T00:32:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "\"술 취한 주민이 휘발유\" 신고했는데…1명 사망·6명 부상",
-          "summary": "오늘 낮 경기 양주의 한 빌라에서 방화로 추정되는 불이 났습니다. 이 불로 출동한 경찰관과 소방대원 등 6명이 다쳤습니다. 집 안에선 60대 남성이 숨진 채 발견됐습니다.배성재 기자가 취재했습니다.",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770120",
-          "publishedAt": "2026-09-25T13:33:00+00:00",
-          "sourceCount": 3,
+          "title": "남양주 별장서 70대 여성 흉기에…50대 운전기사 살인미수 혐의로 체포",
+          "summary": "경기 남양주시의 한 별장에서 70대 여성이 자신의 운전기사에게 흉기로 찔리는 사건이 발생해 경찰이 수사 중이라고 연합뉴스가 보도했다.26일 오전 11시쯤 남양주시 수동면의 한 별장에서 70대 여성 A씨가 흉기에 찔려 쓰러져 있다는 신고가 접수됐다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202609261440001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-09-26T05:40:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "동아일보",
+            "매일경제",
             "서울신문"
+          ]
+        },
+        {
+          "title": "추석 연휴의 비극…안산서 70대 노모 살해한 50대 딸",
+          "summary": "추석 연휴인 26일 경기 안산에서 50대 딸이 함께 살던 70대 모친에게 흉기를 휘둘러 살해한 혐의로 경찰에 붙잡혔다.안산상록경찰서는 이날 오전 1시경 안산시 상록구의 한 다세대주택에서 70대 어머니에게 흉기를 휘둘러 숨지게 한 혐의로 50대 여성을 체포해 조사하고 있다고 밝혔다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Society/article/all/20260926/134734219/2",
+          "publishedAt": "2026-09-26T05:10:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "서울신문",
+            "연합뉴스",
+            "조선일보"
           ]
         }
       ]
@@ -125,42 +138,40 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프 “시진핑과 11월 중국·12월 미국에서 또 볼 것”···시진핑, 국빈 방미 마치고 출국",
-          "summary": "2박 3일 간의 국빈 방미 일정을 마치고 출국하는 시진핑 중국 국가 주석 부부. EPA연합뉴스시진핑 중국 국가주석이 2박3일 간의 방미 일정을 마치고 출국했다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202609260357001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
-          "publishedAt": "2026-09-25T18:57:00+00:00",
-          "sourceCount": 5,
+          "title": "트럼프, '호르무즈→트럼프 해협' 이름 바꾼 지도 올려",
+          "summary": "도널드 트럼프 미국 대통령이 26일(현지시간) 트루스소셜에 호르무즈 해협을 트럼프 해협(TRUMP STRAIT...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260926040200009",
+          "publishedAt": "2026-09-26T08:23:28+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "SBS",
             "동아일보",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "\"트럼프, 이란 '7일 계획' 제안 거부…선거 후 폭격 가능성\"",
+          "summary": "월스트리트저널은 현지시간 25일 트럼프 미국 대통령이 호르무즈 해협 개방을 위해 이란이 제안한 '7일 계획'을 거부했다고 보도했습…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770809",
+          "publishedAt": "2026-09-26T08:35:00+00:00",
+          "sourceCount": 3,
+          "otherSources": [
             "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "‘우주전함 야마토’ 마스다 도시오 감독 별세…日 애니 붐 기폭제",
-          "summary": "액션과 전쟁영화부터 애니메이션까지 장르를 넘나들며 일본 대중영화의 전성기를 이끈 영화감독 마스다 도시오가 별세했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/09/25/ME2WGMRSHE2DEMZQHEYDQNBXGE/",
-          "publishedAt": "2026-09-25T09:21:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "경향신문",
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "이란 고위 관리 \"美 호르무즈 재개방 조건 수용해도 핵 양보 안해\"",
-          "summary": "미국이 호르무즈 해협 재개방을 위한 이란의 제안을 수용하더라도, 이란은 자국의 핵 프로그램에 대해서는 어떠...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260926004400079",
-          "publishedAt": "2026-09-25T18:17:45+00:00",
+          "title": "“최상위 AI 인재들, 美보다 中 많이 선택”",
+          "summary": "세계 AI 연구자 조사…한국은 4위 차지중국이 미국을 제치고 세계 최상위 인공지능(AI) 인재가 가장 많이 선택하는 지역으로 떠올랐다는 조사 결과가 나왔다. 카네기 국제평화재단 산..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/world/12161651",
+          "publishedAt": "2026-09-26T07:48:08+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "동아일보"
+            "연합뉴스"
           ]
         }
       ]
@@ -169,6 +180,17 @@
       "id": "tech",
       "name": "IT·과학",
       "items": [
+        {
+          "title": "\"AI면 AI라고 밝혀라\"⋯SNS 이용자 10명 중 8명 '표시 요구'",
+          "summary": "소셜미디어(SNS) 이용자 10명 중 8명 이상은 인공지능(AI)으로 만든 콘텐츠에 AI 활용 여부를 표시해야 한다고 생각하는 것으로 나타났다.…",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/2009131",
+          "publishedAt": "2026-09-26T06:54:35+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
         {
           "title": "‘마라톤 완주’ 로봇개, 어떻게 달렸나…답은 ‘에너지 다이어트’",
           "summary": "",
@@ -186,15 +208,6 @@
           "publishedAt": null,
           "sourceCount": 1,
           "otherSources": []
-        },
-        {
-          "title": "달에 ‘축구장 2개 크기’ 구덩이 생겨…132년 만에 한 번 생길 희귀 사례",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/science/science_general/1279194.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
         }
       ]
     },
@@ -203,29 +216,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "공포·탐욕 지수 74…비트코인 심리 ‘탐욕’ 유지",
-          "summary": "비트코인 중심의 공포·탐욕 지수가 26일 74로 집계돼 ‘탐욕’ 구간을 유지했다. 전날 71보다 3포인트 오른 수치다.…",
+          "title": "이더리움 3000달러 도달 확률 70%…연말 마감은 달랐다",
+          "summary": "이더리움(ETH)이 연말까지 3000달러를 한 번이라도 기록할 가능성이 70%로 제시됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/414347",
-          "publishedAt": "2026-09-26T00:36:00+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/414543",
+          "publishedAt": "2026-09-26T14:37:44+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "4년 잠자던 비트코인 4500개 이동…매도 여부는 미확인",
-          "summary": "[블록미디어 이혜연 기자] 4년 넘게 움직이지 않았던 비트코인 약 4500개가 새 주소로 옮겨진 가운데, 비트코인을 옮긴 목적이나 매도 여부는 확인되지 않았다.…",
-          "source": "블록미디어",
-          "link": "https://www.blockmedia.co.kr/archives/1144408?utm_source=general&utm_medium=rss",
-          "publishedAt": "2026-09-26T00:19:07+00:00",
+          "title": "비트코인, 기관 유동성 약화가 정점 신호 될 수 있나",
+          "summary": "비트코인(BTC)이 단기간 급등한 뒤 뚜렷한 정점을 형성하기보다 상승과 조정을 반복하며 점진적으로 신고점을 경신할 수 있다는 분석이 나왔다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/414539",
+          "publishedAt": "2026-09-26T14:02:17+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "이더리움 노드 동기화 빠르면 반나절…디스크 0.5TB 미만",
-          "summary": "이더리움(ETH) 노드 동기화에는 빠르면 반나절이 걸리며, 공격적인 설정에서는 디스크 사용량을 0.5TB 아래로 낮출 수 있다는 설명이 나왔다.…",
+          "title": "일부 가상자산 1250% 위험가중치…세일러, BTC 수탁·대출 제안",
+          "summary": "Saylor)는 비트코인(BTC)을 ‘디지털 자본’으로 보고 은행의 수탁과 담보대출을 허용해야 한다고 제안했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/blockchain/414336",
-          "publishedAt": "2026-09-26T00:15:20+00:00",
+          "link": "https://www.tokenpost.kr/news/policy/414530",
+          "publishedAt": "2026-09-26T13:24:17+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -236,37 +249,38 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "'이영준 멀티골' 이민성호, 베트남 4-0으로 꺾고 준결승 안착",
-          "summary": "아시안게임 4연패를 노리는 23세 이하(U-23) 남자 축구 대표팀이 베트남을 완파하고 준결승에 안착했다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260925044600007",
-          "publishedAt": "2026-09-25T12:20:27+00:00",
+          "title": "여자 농구, 일본 꺾고 12년 만 금메달",
+          "summary": "[OSEN=아이치현(일본), 박준형 기자] 남자 대표팀에 이어 여자 대표팀도 결승에서 일본을 꺾고 금메달을 목에 걸었다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/sports_photo/2026/09/26/GRQTMZRUGI4DQODEGM2WMM3CG4/",
+          "publishedAt": "2026-09-26T12:30:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "동아일보",
-            "한겨레"
+            "연합뉴스"
           ]
         },
         {
-          "title": "펜싱 여자 에페, 중국에 져 단체전 은메달…송세라 2관왕 불발",
-          "summary": "한국 펜싱 여자 에페 대표팀이 중국에 덜미를 잡히며 아시안게임 단체전 2회 연속 우승을 눈앞에서 놓...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260925043200007",
-          "publishedAt": "2026-09-25T11:17:08+00:00",
+          "title": "한국 야구, 슈퍼라운드 2위로 AG 결승 진출…0-5 완패 안겼던 일본과 27일 결승전",
+          "summary": "한국 야구가 일본에 설욕할 기회를 얻었다.한국은 26일 일본 아이치현 도요하시 시민구장에서 열린 2026 아이치-나고야 아시안게임 야구 슈퍼라운드 2차전에서 중국에 9-2로 승리했다.슈퍼라운드에서 2승 1패를 기록한 한국은 일본(3승)에 이어 2위로 결승 진출을 확정 지었다.일본은 이날 대만을 7-3으로 꺾고 슈퍼라운드를 전승으로 통과했다.한국은 전날 0-5 완패 굴욕을 안겼던 일본과 27일 결승전을 치른다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20260926/134735109/1",
+          "publishedAt": "2026-09-26T13:41:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "조선일보",
+            "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "아깝다! 44년 기다린 100m 메달, 단 0.06초로 놓쳤다...육상 단거리 희망된 '4위' 조엘진 \"너무 욕심냈다\", 비웨사는 5위",
-          "summary": "[나고야=스포츠조선 박찬준 기자]'한국 육상 단거리 에이스' 나마디 조엘진(예천군청)이 생애 첫 아시안게임에서 인상적인 결과를 만들었다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_general/2026/09/26/G43GGMZVGVRDMZTEGZSWKMDEME/",
-          "publishedAt": "2026-09-25T22:10:01+00:00",
-          "sourceCount": 2,
+          "title": "나마디 조엘진, 육상 200ｍ 예선 중도 포기…\"다리 근육 경련\"",
+          "summary": "육상 단거리 차세대 간판 나마디 조엘진(예천군청)이 2026 아이치·나고야 아시안게임 육상 남자 200ｍ 예...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260926028700007",
+          "publishedAt": "2026-09-26T03:37:35+00:00",
+          "sourceCount": 3,
           "otherSources": [
+            "동아일보",
             "한겨레"
           ]
         }
@@ -277,170 +291,170 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "시진핑 존중·공정·상호주의 바탕",
-      "sentence": "도널드 트럼프 미국 대통령은 25일(현지시간) 시진핑 중국 국가주석과의 미중 정상회담을 통해 \"우리는 엄청...",
+      "phrase": "멕시코서 스트레이키즈 공연관람",
+      "sentence": "멕시코를 국빈 방문 중인 이재명 대통령 내외는 25일(현지시간) 멕시코 청소년들과 그룹 스트레이키...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260926001300071"
+      "link": "https://www.yna.co.kr/view/AKR20260926034900001"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "주중 美대사 트럼프",
-      "sentence": "도널드 트럼프 미국 대통령이 시진핑 중국 국가주석과의 정상회담에서 중국이 이란에 군사 장비나 정보 등을 지원하는 것은 용납할 수 없다는 입장을 직접 전달했다고 데…",
+      "phrase": "호르무즈→트럼프 해협 이름 바꾼 지도 올려",
+      "sentence": "도널드 트럼프 미국 대통령이 26일(현지시간) 트루스소셜에 호르무즈 해협을 트럼프 해협(TRUMP STRAIT...",
       "articleCount": 250,
-      "link": "https://www.chosun.com/international/international_general/2026/09/25/MZQTKZRTGBRTGOBSGVSTGNRSMU/"
+      "link": "https://www.yna.co.kr/view/AKR20260926040200009"
     },
     {
       "id": "game",
       "name": "게임",
-      "phrase": "육상 남자 100ｍ 4위",
-      "sentence": "한국 육상 단거리 에이스 나마디 조엘진(예천군청)이 처음 출전한 아시안게임 남자 100ｍ에서 4위에 올랐다.",
-      "articleCount": 227,
-      "link": "https://www.yna.co.kr/view/AKR20260925046800007"
-    },
-    {
-      "id": "ai",
-      "name": "AI·인공지능",
-      "phrase": "트럼프 시진핑과 회담 생산적",
-      "sentence": "도널드 트럼프 미국 대통령이 시진핑 중국 국가주석과의 정상회담을 두고 “매우 생산적이었다”며 향후 미중 관계에 대한 기대감을 나타냈다.…",
-      "articleCount": 183,
-      "link": "https://www.chosun.com/international/international_general/2026/09/25/N4RCSGLO3BC4NN7BCDUOLJMEJE/"
+      "phrase": "12년 만에 남녀 동반 우승",
+      "sentence": "한국 여자농구 대표팀이 2026 아이치·나고야 아시안게임 결승전에서 일본을 물리치고 금메달을 획득했다.",
+      "articleCount": 250,
+      "link": "https://www.yna.co.kr/view/AKR20260926045300007"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "남자 축구 베트남 4-0 승리",
-      "sentence": "25일 일본 나고야 미즈호파크 럭비경기장에서 열린 2026 아이치·나고야 아시안게임 남자 축구 8강 대한민국과 베트남의 경기.…",
-      "articleCount": 180,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017271"
+      "phrase": "AG 금메달 여자농구",
+      "sentence": "[OSEN=아이치현(일본), 박준형 기자] 남자 대표팀에 이어 여자 대표팀도 결승에서 일본을 꺾고 금메달을 목에 걸었다.…",
+      "articleCount": 237,
+      "link": "https://www.chosun.com/sports/sports_photo/2026/09/26/MMZGEYZZHBSWKYRRGAZTQZRWMQ/"
     },
     {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "한-멕시코 무역협정은 경제협력 고도화 기반 될",
-      "sentence": "멕시코를 국빈 방문 중인 이재명 대통령이 양국 간 포괄적 무역 협정의 필요성을 역설했다.…",
-      "articleCount": 102,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017281"
+      "id": "ai",
+      "name": "AI·인공지능",
+      "phrase": "최상위 AI 인재들",
+      "sentence": "중국이 미국을 제치고 세계 최상위 인공지능(AI) 인재가 가장 많이 선택하는 지역으로 떠올랐다는 조사 결과...",
+      "articleCount": 158,
+      "link": "https://www.yna.co.kr/view/AKR20260926036500083"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "은중과 상연 박지현 국제에미상 여자 연기상 후보",
-      "sentence": "넷플릭스 시리즈 의 주연 배우 박지현이 한국 여배우 최초로 국제에미상 여자연기상 후보에 올랐다.국제텔레비전예술과학아카데미는 지난 23일(현지시간) 각 부문 후보를…",
-      "articleCount": 87,
-      "link": "https://www.khan.co.kr/article/202609251235001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news"
+      "phrase": "우주전함 야마토 도라! 도라! 도라! 감독",
+      "sentence": "애니메이션 영화 , 미일 합작영화 의 감독 마스다 도시오가 지난달 26일 일본 도쿄의 한 병원에서 노환으로 별세했다고 교도통신 등이 25일 보도했다.…",
+      "articleCount": 90,
+      "link": "https://www.khan.co.kr/article/202609251812001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
     },
     {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "인천 아파트 5층서 불",
-      "sentence": "추석인 25일 인천의 한 아파트에서 불이 나 20대 주민이 다쳤다.",
-      "articleCount": 80,
-      "link": "https://www.yna.co.kr/view/AKR20260925026800065"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "李대통령 멕시코와 원유·공급망 협력채널출범",
-      "sentence": "멕시코를 국빈 방문한 이재명 대통령은 24일(현지시간) \"(한국과 멕시코가) 공급망 분야와 관련해...",
-      "articleCount": 78,
-      "link": "https://www.yna.co.kr/view/AKR20260925006800001"
-    },
-    {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "시총미달 상폐 코스닥서 속출",
-      "sentence": "당국이 국내 증시 밸류업 차원에서 시행하는 상장유지 시가총액 요건을 채우지 못해 코스닥에서 지난 석 달간 8개...",
-      "articleCount": 72,
-      "link": "https://www.yna.co.kr/view/AKR20260924025000008"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "보조배터리 발화 추정",
-      "sentence": "인천국제공항을 출발해 베트남 다낭으로 향하려던 에어서울 항공기 내에서 이륙 전 보조배터리 발화로 추정되는 불이...",
-      "articleCount": 68,
-      "link": "https://www.yna.co.kr/view/AKR20260925018000003"
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "한국제품 수입규제 상반기 241건",
+      "sentence": "보호무역주의가 확산하는 흐름 속에서 올해 상반기 한국 제품에 대한 수입규제 조치도 지난해 하반기보다 증가한 것...",
+      "articleCount": 73,
+      "link": "https://www.yna.co.kr/view/AKR20260923164700003"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "초등학생 때 도박 접해quot;",
-      "sentence": "도박을 경험한 청소년의 절반 가까이가 초등학생 때 도박을 처음 접했다는 조사 결과가 나왔다.…",
-      "articleCount": 67,
-      "link": "https://www.pressian.com/pages/articles/2026092607400996899&ref=rss"
+      "phrase": "金여사 방버지 발언에 박진영 깜짝",
+      "sentence": "멕시코를 국빈 방문 중인 이재명 대통령이 배우자 김혜경 여사와 함께 멕시코시티에서 열린 스크레이키즈 콘서트를 관람했다.…",
+      "articleCount": 73,
+      "link": "https://www.nocutnews.co.kr/news/6583325"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "안산서 70대 노모 살해한 50대 딸",
+      "sentence": "추석 연휴인 26일 경기 안산에서 50대 딸이 함께 살던 70대 모친에게 흉기를 휘둘러 살해한 혐의로 경찰에 붙잡혔다.안산상록경찰서는 이날 오전 1시경 안산시 상…",
+      "articleCount": 63,
+      "link": "https://www.donga.com/news/Society/article/all/20260926/134734219/2"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "이란 원유 실은 유조선",
+      "sentence": "이란산 원유를 실은 유조선들이 미군에 나포된 후 미국으로 이동 중인 것으로 보인다고 25일(현지시간) 블룸버그...",
+      "articleCount": 53,
+      "link": "https://www.yna.co.kr/view/AKR20260926018600009"
     },
     {
       "id": "health",
       "name": "건강·의료",
-      "phrase": "5명 병원 이송",
-      "sentence": "추석 당일인 25일 오전 9시 58분께 서울 서초구 방배동 남부순환로에서 승용차 4대가 잇따라 추돌하는 사고가...",
-      "articleCount": 60,
-      "link": "https://www.yna.co.kr/view/AKR20260925025100004"
+      "phrase": "남양주 별장서 70대 여성 흉기 피습",
+      "sentence": "경기 남양주남부경찰서는 26일 살인미수 혐의로 50대 남성 A 씨를 체포했다.경찰에 따르면 A 씨는 이날 오전 11시께 남양주시 수동면의 별장에서 70대 여성 B…",
+      "articleCount": 53,
+      "link": "https://www.donga.com/news/Society/article/all/20260926/134734740/1"
     },
     {
-      "id": "semiconductor",
-      "name": "반도체",
-      "phrase": "10년 전 1억 투자했다면",
-      "sentence": "10년 전 1억 원을 투자했다면 현재 가장 높은 수익을 거둘 수 있었던 자산은 강남 부동산도, 비트코인도 아닌 엔비디아로 나타났다.…",
-      "articleCount": 59,
-      "link": "https://www.donga.com/news/Economy/article/all/20260926/134733671/1"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "암 유발 우려 엘러간 인공유방 소비자 손배소",
+      "sentence": "암 유발 가능성이 제기된 인공유방 보형물 소비자들이 제약사 측을 상대로 제기한 소송에서 또 패소했다.",
+      "articleCount": 52,
+      "link": "https://www.yna.co.kr/view/AKR20260923188600004"
     },
     {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "美 9월 미시간대 소비자심리 48.1",
-      "sentence": "미국 소비자들의 경제 심리가 고물가 부담과 향후 경기 둔화 우려로 하락했다.",
-      "articleCount": 57,
-      "link": "https://www.yna.co.kr/view/AKR20260925049400072"
+      "id": "stock",
+      "name": "증시",
+      "phrase": "환율 하락에 항공주는 웃고 해운주 울고",
+      "sentence": "달러 대비 원화 가격이 1,350원대로 내려오며 본격적인 하락세 진입 관측이 나오는 가운데, 국내 증시에선 환...",
+      "articleCount": 51,
+      "link": "https://www.yna.co.kr/view/AKR20260923156800008"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "미결제약정 55억2201만 달러",
-      "sentence": "이더리움 옵션 시장의 중기 포지션은 여전히 상승 쪽에 무게가 실렸다.…",
-      "articleCount": 37,
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/414350"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "美 30년물 금리 22년 만에 최고",
-      "sentence": "미국 장기채 금리가 20여 년 만에 최고 수준으로 상승하고 글로벌 국채 매도세가 이어지고 있다.…",
-      "articleCount": 35,
-      "link": "https://www.bloter.net/news/articleView.html?idxno=674437"
+      "phrase": "태양광·GPU·로봇으로 대출 담보 확대 구상",
+      "sentence": "에이브(AAVE)가 암호화폐 중심의 대출 담보를 태양광·배터리·GPU·로봇·우주 인프라 등 실물자산으로 넓히는 장기 구상을 제시했다.…",
+      "articleCount": 48,
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/414545"
     },
     {
       "id": "science",
       "name": "우주·과학",
       "phrase": "도라 도라 도라 · 우주전함 야마토 감독",
       "sentence": "액션·로맨스 영화부터 만화영화까지 폭넓게 활약하며 흥행작을 쏟아낸 일본 영화감독 마스다 도시오(舛田利雄)씨가 ...",
-      "articleCount": 35,
+      "articleCount": 42,
       "link": "https://www.yna.co.kr/view/AKR20260925037600704"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "SK하이닉스 손자회사 솔리다임",
+      "sentence": "SK하이닉스의 손자회사 솔리다임이 이르면 내년 미국에서 기업공개(IPO)에 나설 것이라는 보도가 나왔...",
+      "articleCount": 38,
+      "link": "https://www.yna.co.kr/view/AKR20260926006300075"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "美 9월 미시간대 소비자심리 48.1",
+      "sentence": "미국 소비자들의 경제 심리가 고물가 부담과 향후 경기 둔화 우려로 하락했다.",
+      "articleCount": 35,
+      "link": "https://www.yna.co.kr/view/AKR20260925049400072"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "신현송 한은 총재인 척 주식 투자법 알려주겠다",
+      "sentence": "최근 사회관계망서비스(SNS)에 신현송 한국은행 총재 등 유명인을 사칭하는 계정을 통해 투자를 권유하는 일이 반복되면서 주의가 요구된다.…",
+      "articleCount": 33,
+      "link": "https://view.asiae.co.kr/article/2026092617035007230"
     },
     {
       "id": "retail",
       "name": "유통·소비",
-      "phrase": "고물가에 얼어붙은 美 소비심리",
-      "sentence": "미국 소비자들의 경기 심리가 고물가와 경기 둔화 우려에 다시 크게 꺾였다.",
-      "articleCount": 33,
-      "link": "https://www.chosun.com/international/international_general/2026/09/26/GAZGGMTCMVRWIMRUME4DEOBYMI/"
+      "phrase": "추석 연휴 사흘간 32만명 몰려",
+      "sentence": "추석 연휴 부산 북항 친수공원에 길이 3m가량의 상어 '부캉이'를 보려는 시민들이 몰리면서 사흘간 방문객이 32만명에 달했다.…",
+      "articleCount": 31,
+      "link": "https://www.nocutnews.co.kr/news/6583336"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "탄소중립 방정식 풀 수 있나",
-      "sentence": "이재명 정부의 핵심 성장전략인 '3대 메가프로젝트'의 최대 관건은 전력이다.…",
-      "articleCount": 24,
-      "link": "https://www.nocutnews.co.kr/news/6582908"
+      "phrase": "폭염·가뭄 피해 농가에 복구비 63억 원 지급",
+      "sentence": "전남광주통합특별시는 올 여름 폭염과 가뭄으로 피해를 입은 농가에 복구비 63억1천400만 원을 이달중 지급...",
+      "articleCount": 23,
+      "link": "https://www.yna.co.kr/view/AKR20260923135600054"
     },
     {
-      "id": "labor",
-      "name": "노동",
-      "phrase": "JTBC 돈으로 JTBC 자산 샀다",
-      "sentence": "“JTBC 돈으로 JTBC 자산 샀다”…노조, 중앙홀딩스 ‘이상한 거래’ 의혹 제기",
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "10-1 대승 기쁨 나누는 키움",
+      "sentence": "[OSEN=수원, 최규한 기자] 26일 경기도 수원 KT위즈파크에서 ‘2026 신한 SOL Bank KBO리그’ KT 위즈와 키움 히어로즈의 경기가 열렸다.이날…",
       "articleCount": 18,
-      "link": "https://www.hani.co.kr/arti/society/media/1279312.html"
+      "link": "https://www.chosun.com/sports/sports_photo/2026/09/26/GQ4WGMTEME4TINBSMNQWCNTDMY/"
     },
     {
       "id": "fx",
@@ -451,12 +465,12 @@
       "link": "https://www.yna.co.kr/view/AKR20260926002300071"
     },
     {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "KT 선택 받은 공주고 김동영 팀에 필요한",
-      "sentence": "\"KT 위즈 원클럽맨으로 팬들에게 사랑 받고 팀에 필요한 선수가 되고 싶어요\" 프로야구선수가 되는 마지막 관문인 KBO 신인 드래프트에서 5라운드 KT의 선택을…",
-      "articleCount": 13,
-      "link": "https://www.nocutnews.co.kr/news/6583254"
+      "id": "labor",
+      "name": "노동",
+      "phrase": "JTBC 돈으로 JTBC 자산 샀다",
+      "sentence": "“JTBC 돈으로 JTBC 자산 샀다”…노조, 중앙홀딩스 ‘이상한 거래’ 의혹 제기",
+      "articleCount": 8,
+      "link": "https://www.hani.co.kr/arti/society/media/1279312.html"
     }
   ],
   "topicCatalog": [
@@ -555,19 +569,19 @@
   ],
   "lottery": {
     "lotto": {
-      "round": 1242,
-      "drawDate": "2026-09-19",
+      "round": 1243,
+      "drawDate": "2026-09-26",
       "numbers": [
-        2,
-        4,
-        10,
-        16,
-        31,
-        41
+        9,
+        18,
+        24,
+        38,
+        43,
+        44
       ],
-      "bonus": 9,
-      "firstPrizeWinners": 9,
-      "firstPrizeAmount": 3281029250,
+      "bonus": 35,
+      "firstPrizeWinners": 12,
+      "firstPrizeAmount": 2592525282,
       "link": "https://www.dhlottery.co.kr/lt645/result"
     },
     "pension": {
