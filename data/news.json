@@ -1,24 +1,10 @@
 {
-  "generatedAt": "2026-09-26T23:43:08+09:00",
+  "generatedAt": "2026-09-27T01:20:33+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
-        {
-          "title": "李대통령 내외, 멕시코서 스트레이키즈 공연관람…\"K팝사랑에 감사\"",
-          "summary": "멕시코를 국빈 방문 중인 이재명 대통령 내외는 25일(현지시간) 멕시코 청소년들과 그룹 스트레이키...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260926034900001",
-          "publishedAt": "2026-09-26T06:47:31+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
-            "동아일보",
-            "조선일보",
-            "한겨레"
-          ]
-        },
         {
           "title": "軍·유엔사, 지뢰 폭발 5일만에 DMZ 진입…합동 조사 준비",
           "summary": "합동참모본부와 유엔군사령부 군사정전위원회(군정위)가 지뢰 추정 폭발 사고 합동 조사 전 사전 점검을 위해 비무장지대(DMZ)를 진입했다고 26일 밝혔다.이날 현장에는 사고의 합동 현장조사 태스크포스(TF)장인 권대원 합참차장과 군정위 비서장, 작전병력 20여명이 투입됐다.…",
@@ -29,6 +15,19 @@
           "otherSources": [
             "경향신문",
             "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "李대통령 내외, 멕시코서 스트레이키즈 공연관람…\"K팝사랑에 감사\"",
+          "summary": "멕시코를 국빈 방문 중인 이재명 대통령 내외는 25일(현지시간) 멕시코 청소년들과 그룹 스트레이키...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260926034900001",
+          "publishedAt": "2026-09-26T06:47:31+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "동아일보",
             "한겨레"
           ]
         },
@@ -76,14 +75,14 @@
           ]
         },
         {
-          "title": "김현지 靑 제1부속실장 부친상… 광주서 3일장",
-          "summary": "김현지 청와대 제1부속실장이 26일 부친상을 당했다. 정치권에 따르면 김 실장은 이날 광주 서구의 한 장례식장에 마련된 빈소에서 가족들과 장례를 치르고 있다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/economy_general/2026/09/26/MU4GMMJTGVRTAOJZGFQTKMZTGE/",
-          "publishedAt": "2026-09-26T07:08:41+00:00",
+          "title": "전세사기 막을 공인중개사 설명의무 위반 3년 새 4.6배↑",
+          "summary": "전세사기 피해 방지 등을 위해 공인중개사가 중개 대상 물건의 선순위 권리관계 등 정보를 고객에게 설명하도록 법...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260923181000003",
+          "publishedAt": "2026-09-26T00:31:00+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "머니투데이"
+            "SBS"
           ]
         }
       ]
@@ -138,14 +137,14 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프, '호르무즈→트럼프 해협' 이름 바꾼 지도 올려",
-          "summary": "도널드 트럼프 미국 대통령이 26일(현지시간) 트루스소셜에 호르무즈 해협을 트럼프 해협(TRUMP STRAIT...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260926040200009",
-          "publishedAt": "2026-09-26T08:23:28+00:00",
+          "title": "트럼프, ‘호르무즈해협→트럼프해협’ 이름 바꾼 지도 올려",
+          "summary": "도널드 트럼프 미국 대통령이 26일(현지 시간) 호르무즈 해협을 ‘트럼프 해협(Trump Strait)’으로 표기한 지도를 자신의 트루스소셜에 공개했다.이날 트럼프 대통령이 트루스소셜에 올린 중동 지도에는 이란과 오만 사이의 호르무즈 해협이 ‘TRUMP STRAIT’로 표기돼있다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20260926/134734875/2",
+          "publishedAt": "2026-09-26T09:14:00+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "동아일보",
+            "연합뉴스",
             "조선일보",
             "한겨레"
           ]
@@ -216,29 +215,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "이더리움 3000달러 도달 확률 70%…연말 마감은 달랐다",
-          "summary": "이더리움(ETH)이 연말까지 3000달러를 한 번이라도 기록할 가능성이 70%로 제시됐다.…",
+          "title": "코인베이스 비트코인 프리미엄 4일째 음수…-0.0082%",
+          "summary": "코인베이스($COIN)의 비트코인(BTC) 프리미엄 지수가 4일 연속 음수를 기록했다. 최신 수치는 -0.0082%로 집계됐다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/414543",
-          "publishedAt": "2026-09-26T14:37:44+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/414561",
+          "publishedAt": "2026-09-26T15:36:38+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "비트코인, 기관 유동성 약화가 정점 신호 될 수 있나",
-          "summary": "비트코인(BTC)이 단기간 급등한 뒤 뚜렷한 정점을 형성하기보다 상승과 조정을 반복하며 점진적으로 신고점을 경신할 수 있다는 분석이 나왔다.…",
+          "title": "비트코인 양자내성 거래 비용 67달러로 79% 감소",
+          "summary": "양자내성 비트코인(BTC) 거래를 만드는 데 필요한 GPU 연산 비용 추정치가 일주일 만에 약 320달러(약 43만8000원)에서 67달러(약 9만2000원)로 낮아졌다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/414539",
-          "publishedAt": "2026-09-26T14:02:17+00:00",
+          "link": "https://www.tokenpost.kr/news/blockchain/414557",
+          "publishedAt": "2026-09-26T15:09:00+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "일부 가상자산 1250% 위험가중치…세일러, BTC 수탁·대출 제안",
-          "summary": "Saylor)는 비트코인(BTC)을 ‘디지털 자본’으로 보고 은행의 수탁과 담보대출을 허용해야 한다고 제안했다.…",
+          "title": "암호화폐 시장 혼조세… 비트코인 84,025달러, 이더리움 2,689달러",
+          "summary": "암호화폐 시장이 혼조세를 보이는 가운데 비트코인은 올랐지만 이더리움은 내렸다. 비트코인 점유율은 축소되고 이더리움 점유율은 함께 낮아졌고, 파생상품 거래량은 감소해 단기 관망 심리도 함께 나타났다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/policy/414530",
-          "publishedAt": "2026-09-26T13:24:17+00:00",
+          "link": "https://www.tokenpost.kr/news/briefing/414554",
+          "publishedAt": "2026-09-26T15:03:53+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -261,26 +260,26 @@
           ]
         },
         {
-          "title": "한국 야구, 슈퍼라운드 2위로 AG 결승 진출…0-5 완패 안겼던 일본과 27일 결승전",
-          "summary": "한국 야구가 일본에 설욕할 기회를 얻었다.한국은 26일 일본 아이치현 도요하시 시민구장에서 열린 2026 아이치-나고야 아시안게임 야구 슈퍼라운드 2차전에서 중국에 9-2로 승리했다.슈퍼라운드에서 2승 1패를 기록한 한국은 일본(3승)에 이어 2위로 결승 진출을 확정 지었다.일본은 이날 대만을 7-3으로 꺾고 슈퍼라운드를 전승으로 통과했다.한국은 전날 0-5 완패 굴욕을 안겼던 일본과 27일 결승전을 치른다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20260926/134735109/1",
-          "publishedAt": "2026-09-26T13:41:00+00:00",
+          "title": "한국 야구, 중국 꺾고 결승 진출…27일 일본과 금메달 결정전",
+          "summary": "류지현 감독이 이끄는 대한민국 야구대표팀이 2026 아이치·나고야 아시안게임 결승에 진출했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20260926047300007",
+          "publishedAt": "2026-09-26T13:24:53+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
+            "동아일보",
             "한겨레"
           ]
         },
         {
-          "title": "나마디 조엘진, 육상 200ｍ 예선 중도 포기…\"다리 근육 경련\"",
-          "summary": "육상 단거리 차세대 간판 나마디 조엘진(예천군청)이 2026 아이치·나고야 아시안게임 육상 남자 200ｍ 예...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20260926028700007",
-          "publishedAt": "2026-09-26T03:37:35+00:00",
+          "title": "육상 조엘진, 200m 예선 기권…“허벅지 근육 경련”",
+          "summary": "한국 남자 육상 단거리 기대주 나마디 조엘진(20·예천군청)이 허벅지 근육 경련으로 2026 아이치·나고야 아시안게임 남자 200m 예선에서 기권했다.조엘진은 26일 오전 일본 아이치현 나고야의 미즈호 공원 육상경기장에서 열린 대회 남자 200m 예선 도중 레이스를 포기하면서 탈락했다.한국인 어머니와 나이지리아인 아버지 사이에서 태어난 조엘진은 전날 남자 100m 결선에서 4위를 기록하는 등 한국 육상의 기대를 받고 있다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20260926/134734836/1",
+          "publishedAt": "2026-09-26T08:50:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "동아일보",
+            "연합뉴스",
             "한겨레"
           ]
         }
@@ -291,10 +290,10 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "멕시코서 스트레이키즈 공연관람",
-      "sentence": "멕시코를 국빈 방문 중인 이재명 대통령 내외는 25일(현지시간) 멕시코 청소년들과 그룹 스트레이키...",
+      "phrase": "우크라 北 포로송환 공개 논란에",
+      "sentence": "볼로디미르 젤렌스키 우크라이나 대통령이 북한군 포로 2명의 한국 송환 사실을 공개한 것을 두고 한...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20260926034900001"
+      "link": "https://www.yna.co.kr/view/AKR20260926028000001"
     },
     {
       "id": "world",
@@ -315,49 +314,49 @@
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "AG 금메달 여자농구",
-      "sentence": "[OSEN=아이치현(일본), 박준형 기자] 남자 대표팀에 이어 여자 대표팀도 결승에서 일본을 꺾고 금메달을 목에 걸었다.…",
-      "articleCount": 237,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/09/26/MMZGEYZZHBSWKYRRGAZTQZRWMQ/"
+      "phrase": "女 농구 12년 만에 AG 정상",
+      "sentence": "한국 여자 농구 대표팀이 일본의 거센 추격을 뿌리치고 12년 만에 아시안게임 정상을 탈환했다.…",
+      "articleCount": 185,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000017361"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
       "phrase": "최상위 AI 인재들",
       "sentence": "중국이 미국을 제치고 세계 최상위 인공지능(AI) 인재가 가장 많이 선택하는 지역으로 떠올랐다는 조사 결과...",
-      "articleCount": 158,
+      "articleCount": 150,
       "link": "https://www.yna.co.kr/view/AKR20260926036500083"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "우주전함 야마토 도라! 도라! 도라! 감독",
-      "sentence": "애니메이션 영화 , 미일 합작영화 의 감독 마스다 도시오가 지난달 26일 일본 도쿄의 한 병원에서 노환으로 별세했다고 교도통신 등이 25일 보도했다.…",
-      "articleCount": 90,
-      "link": "https://www.khan.co.kr/article/202609251812001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+      "phrase": "멕시코서 스트레이키즈 공연관람",
+      "sentence": "멕시코를 국빈 방문 중인 이재명 대통령 내외는 25일(현지시간) 멕시코 청소년들과 그룹 스트레이키...",
+      "articleCount": 75,
+      "link": "https://www.yna.co.kr/view/AKR20260926034900001"
     },
     {
       "id": "trade",
       "name": "수출·관세",
       "phrase": "한국제품 수입규제 상반기 241건",
       "sentence": "보호무역주의가 확산하는 흐름 속에서 올해 상반기 한국 제품에 대한 수입규제 조치도 지난해 하반기보다 증가한 것...",
-      "articleCount": 73,
+      "articleCount": 67,
       "link": "https://www.yna.co.kr/view/AKR20260923164700003"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "金여사 방버지 발언에 박진영 깜짝",
-      "sentence": "멕시코를 국빈 방문 중인 이재명 대통령이 배우자 김혜경 여사와 함께 멕시코시티에서 열린 스크레이키즈 콘서트를 관람했다.…",
-      "articleCount": 73,
-      "link": "https://www.nocutnews.co.kr/news/6583325"
+      "phrase": "미국보다 중국 더 많이 간다",
+      "sentence": "세계 최상위 인공지능(AI) 인재들이 가장 많이 일하는 지역이 미국에서 중국으로 바뀌었다는 조사 결과가 나왔다.…",
+      "articleCount": 63,
+      "link": "https://www.nocutnews.co.kr/news/6583334"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "안산서 70대 노모 살해한 50대 딸",
       "sentence": "추석 연휴인 26일 경기 안산에서 50대 딸이 함께 살던 70대 모친에게 흉기를 휘둘러 살해한 혐의로 경찰에 붙잡혔다.안산상록경찰서는 이날 오전 1시경 안산시 상…",
-      "articleCount": 63,
+      "articleCount": 56,
       "link": "https://www.donga.com/news/Society/article/all/20260926/134734219/2"
     },
     {
@@ -365,7 +364,7 @@
       "name": "유가·에너지",
       "phrase": "이란 원유 실은 유조선",
       "sentence": "이란산 원유를 실은 유조선들이 미군에 나포된 후 미국으로 이동 중인 것으로 보인다고 25일(현지시간) 블룸버그...",
-      "articleCount": 53,
+      "articleCount": 51,
       "link": "https://www.yna.co.kr/view/AKR20260926018600009"
     },
     {
@@ -373,71 +372,71 @@
       "name": "건강·의료",
       "phrase": "남양주 별장서 70대 여성 흉기 피습",
       "sentence": "경기 남양주남부경찰서는 26일 살인미수 혐의로 50대 남성 A 씨를 체포했다.경찰에 따르면 A 씨는 이날 오전 11시께 남양주시 수동면의 별장에서 70대 여성 B…",
-      "articleCount": 53,
+      "articleCount": 50,
       "link": "https://www.donga.com/news/Society/article/all/20260926/134734740/1"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "암 유발 우려 엘러간 인공유방 소비자 손배소",
-      "sentence": "암 유발 가능성이 제기된 인공유방 보형물 소비자들이 제약사 측을 상대로 제기한 소송에서 또 패소했다.",
-      "articleCount": 52,
-      "link": "https://www.yna.co.kr/view/AKR20260923188600004"
     },
     {
       "id": "stock",
       "name": "증시",
       "phrase": "환율 하락에 항공주는 웃고 해운주 울고",
       "sentence": "달러 대비 원화 가격이 1,350원대로 내려오며 본격적인 하락세 진입 관측이 나오는 가운데, 국내 증시에선 환...",
-      "articleCount": 51,
+      "articleCount": 49,
       "link": "https://www.yna.co.kr/view/AKR20260923156800008"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "태양광·GPU·로봇으로 대출 담보 확대 구상",
-      "sentence": "에이브(AAVE)가 암호화폐 중심의 대출 담보를 태양광·배터리·GPU·로봇·우주 인프라 등 실물자산으로 넓히는 장기 구상을 제시했다.…",
-      "articleCount": 48,
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/414545"
+      "phrase": "엑스에 ETH love you 3000 게시",
+      "sentence": "마치 빅 브라더(Machi Big Brother)가 엑스에 이더리움(ETH)과 3000달러를 언급한 게시물을 올렸다.…",
+      "articleCount": 47,
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/414564"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "암 유발 우려 엘러간 인공유방 소비자 손배소",
+      "sentence": "암 유발 가능성이 제기된 인공유방 보형물 소비자들이 제약사 측을 상대로 제기한 소송에서 또 패소했다.",
+      "articleCount": 47,
+      "link": "https://www.yna.co.kr/view/AKR20260923188600004"
     },
     {
       "id": "science",
       "name": "우주·과학",
-      "phrase": "도라 도라 도라 · 우주전함 야마토 감독",
-      "sentence": "액션·로맨스 영화부터 만화영화까지 폭넓게 활약하며 흥행작을 쏟아낸 일본 영화감독 마스다 도시오(舛田利雄)씨가 ...",
-      "articleCount": 42,
-      "link": "https://www.yna.co.kr/view/AKR20260925037600704"
-    },
-    {
-      "id": "semiconductor",
-      "name": "반도체",
-      "phrase": "SK하이닉스 손자회사 솔리다임",
-      "sentence": "SK하이닉스의 손자회사 솔리다임이 이르면 내년 미국에서 기업공개(IPO)에 나설 것이라는 보도가 나왔...",
+      "phrase": "우주전함 야마토 도라! 도라! 도라! 감독",
+      "sentence": "애니메이션 영화 , 미일 합작영화 의 감독 마스다 도시오가 지난달 26일 일본 도쿄의 한 병원에서 노환으로 별세했다고 교도통신 등이 25일 보도했다.…",
       "articleCount": 38,
-      "link": "https://www.yna.co.kr/view/AKR20260926006300075"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "美 9월 미시간대 소비자심리 48.1",
-      "sentence": "미국 소비자들의 경제 심리가 고물가 부담과 향후 경기 둔화 우려로 하락했다.",
-      "articleCount": 35,
-      "link": "https://www.yna.co.kr/view/AKR20260925049400072"
+      "link": "https://www.khan.co.kr/article/202609251812001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
     },
     {
       "id": "rate",
       "name": "금리",
       "phrase": "신현송 한은 총재인 척 주식 투자법 알려주겠다",
       "sentence": "최근 사회관계망서비스(SNS)에 신현송 한국은행 총재 등 유명인을 사칭하는 계정을 통해 투자를 권유하는 일이 반복되면서 주의가 요구된다.…",
-      "articleCount": 33,
+      "articleCount": 32,
       "link": "https://view.asiae.co.kr/article/2026092617035007230"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "美 9월 미시간대 소비자심리 48.1",
+      "sentence": "미국 소비자들의 경제 심리가 고물가 부담과 향후 경기 둔화 우려로 하락했다.",
+      "articleCount": 32,
+      "link": "https://www.yna.co.kr/view/AKR20260925049400072"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "SK하이닉스 손자회사 솔리다임",
+      "sentence": "SK하이닉스의 손자회사 솔리다임이 이르면 내년 미국에서 기업공개(IPO)에 나설 것이라는 보도가 나왔...",
+      "articleCount": 30,
+      "link": "https://www.yna.co.kr/view/AKR20260926006300075"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "추석 연휴 사흘간 32만명 몰려",
       "sentence": "추석 연휴 부산 북항 친수공원에 길이 3m가량의 상어 '부캉이'를 보려는 시민들이 몰리면서 사흘간 방문객이 32만명에 달했다.…",
-      "articleCount": 31,
+      "articleCount": 29,
       "link": "https://www.nocutnews.co.kr/news/6583336"
     },
     {
@@ -445,16 +444,8 @@
       "name": "환경·기후",
       "phrase": "폭염·가뭄 피해 농가에 복구비 63억 원 지급",
       "sentence": "전남광주통합특별시는 올 여름 폭염과 가뭄으로 피해를 입은 농가에 복구비 63억1천400만 원을 이달중 지급...",
-      "articleCount": 23,
+      "articleCount": 21,
       "link": "https://www.yna.co.kr/view/AKR20260923135600054"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "10-1 대승 기쁨 나누는 키움",
-      "sentence": "[OSEN=수원, 최규한 기자] 26일 경기도 수원 KT위즈파크에서 ‘2026 신한 SOL Bank KBO리그’ KT 위즈와 키움 히어로즈의 경기가 열렸다.이날…",
-      "articleCount": 18,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/09/26/GQ4WGMTEME4TINBSMNQWCNTDMY/"
     },
     {
       "id": "fx",
@@ -463,6 +454,14 @@
       "sentence": "스콧 베선트 미국 재무장관이 25일(현지시간) 가타야마 사쓰키 일본 재무상과 통화하고 일본의 강한 경제 기...",
       "articleCount": 16,
       "link": "https://www.yna.co.kr/view/AKR20260926002300071"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "KT 상대 10-1 대승 거둔 키움 설종진 감독",
+      "sentence": "[OSEN=수원, 최규한 기자] 26일 경기도 수원 KT위즈파크에서 ‘2026 신한 SOL Bank KBO리그’ KT 위즈와 키움 히어로즈의 경기가 열렸다.이날…",
+      "articleCount": 15,
+      "link": "https://www.chosun.com/sports/sports_photo/2026/09/26/MQ2DSZBYMEZDQZBUGYZTQMBRMM/"
     },
     {
       "id": "labor",
