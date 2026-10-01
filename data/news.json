@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:08:14+09:00",
+  "generatedAt": "2026-10-02T02:21:18+09:00",
   "categories": [
     {
       "id": "politics",
@@ -305,6 +305,14 @@
   ],
   "topics": [
     {
+      "id": "ai",
+      "name": "AI·인공지능",
+      "phrase": "AI 개발 늦추자더니",
+      "sentence": "구글이 인공지능(AI) 개발 속도를 늦추자는 업계의 ‘AI 감속론’에 동참한 지 보름여 만에 최상위 모델 ‘제미나이 4 아르곤’을 공개했다.…",
+      "articleCount": 250,
+      "link": "https://www.donga.com/news/Economy/article/all/20261001/134771100/2"
+    },
+    {
       "id": "politics",
       "name": "정치",
       "phrase": "트럼프 중간선거후 對이란 폭격 강화 가능",
@@ -321,14 +329,6 @@
       "link": "https://www.donga.com/news/Sports/article/all/20261001/134771378/1"
     },
     {
-      "id": "ai",
-      "name": "AI·인공지능",
-      "phrase": "AI 개발 늦추자더니",
-      "sentence": "구글이 인공지능(AI) 개발 속도를 늦추자는 업계의 ‘AI 감속론’에 동참한 지 보름여 만에 최상위 모델 ‘제미나이 4 아르곤’을 공개했다.…",
-      "articleCount": 246,
-      "link": "https://www.donga.com/news/Economy/article/all/20261001/134771100/2"
-    },
-    {
       "id": "game",
       "name": "게임",
       "phrase": "◇오늘의 아시안게임",
@@ -341,7 +341,7 @@
       "name": "스포츠",
       "phrase": "여자골프 양윤서",
       "sentence": "기대주 양윤서(인천여부설방통고)가 2026 아이치·나고야 아시안게임 반환점을 공동 3위로 돌았다.",
-      "articleCount": 153,
+      "articleCount": 154,
       "link": "https://www.yna.co.kr/view/AKR20261001100700007"
     },
     {
@@ -357,16 +357,16 @@
       "name": "수출·관세",
       "phrase": "신임 청와대 정책실장 하준경",
       "sentence": "이재명 대통령이 신임 청와대 정책실장에 하준경 경제성장수석을 승진 발탁하고, 경제성장수석엔 문신학 산업통상부 1차관을 임명했습니다.사의를 표명한…",
-      "articleCount": 128,
+      "articleCount": 129,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779541"
     },
     {
       "id": "industry",
       "name": "산업·기업",
-      "phrase": "울산 현대차 공장 전기차 전환 인허가",
-      "sentence": "정부가 현대자동차 울산공장을 전기차 공장으로 바꾸는 데 필요한 인허가 기간을 단축하고, SK하이닉스 등이 반도체 팹(Fab·제조공장)을 지을 때 전기·통신 공사…",
-      "articleCount": 119,
-      "link": "https://www.donga.com/news/Economy/article/all/20261001/134770995/2"
+      "phrase": "2030년까지 자율주행 시내버스 500대 도입",
+      "sentence": "서울시가 현대자동차와 손잡고 2030년까지 자율주행 시내버스 500대를 도입한다.…",
+      "articleCount": 124,
+      "link": "https://www.donga.com/news/Society/article/all/20261001/134769380/1"
     },
     {
       "id": "entertain",
@@ -405,7 +405,7 @@
       "name": "건강·의료",
       "phrase": "글로벌 보안 평가 AV-테스트 종합 만점",
       "sentence": "안랩은 엔드포인트 보안 설루션 '안랩 V3'가 글로벌 보안 평가 AV-테스트의 올해 7~8월 윈도우용 백신 평가에서 국내 기업 중 유일하게 종합 점수 만점으로 인…",
-      "articleCount": 86,
+      "articleCount": 87,
       "link": "https://www.techm.kr/news/articleView.html?idxno=155790"
     },
     {
@@ -413,7 +413,7 @@
       "name": "부동산",
       "phrase": "서울 집값 86주 연속 상승",
       "sentence": "서울 아파트 가격이 86주 연속 오르면서, 역대 가장 긴 상승 기록을 세웠습니다.…",
-      "articleCount": 79,
+      "articleCount": 78,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779536"
     },
     {
@@ -421,7 +421,7 @@
       "name": "물가·고용",
       "phrase": "물가 둔화 신호에도 고금리 뉴노멀",
       "sentence": "물가 둔화 신호에도 고금리 ‘뉴노멀’…“증시 AI 쏠림 심화 전망”",
-      "articleCount": 73,
+      "articleCount": 74,
       "link": "https://www.hani.co.kr/arti/economy/finance/1280456.html"
     },
     {
@@ -429,7 +429,7 @@
       "name": "금리",
       "phrase": "AAA급 ABS 2000억 추가 발행",
       "sentence": "롯데건설은 자체 개발한 공사대금채권 유동화 금융상품을 통해 최고 신용등급인 AAA로 2000억원 규모의 3차 자산유동화증권(ABS) 발행에 성공했다고 1일 밝혔다…",
-      "articleCount": 61,
+      "articleCount": 63,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20261002032002"
     },
     {
@@ -437,7 +437,7 @@
       "name": "가상자산",
       "phrase": "두나무가 그리는 업비트 다음 은?",
       "sentence": "두나무가 '업비트 다음'을 준비하고 있습니다.",
-      "articleCount": 50,
+      "articleCount": 51,
       "link": "https://www.techm.kr/news/articleView.html?idxno=155792"
     },
     {
@@ -445,7 +445,7 @@
       "name": "노동",
       "phrase": "산재 사망 반복땐 영업익 최대 5% 과징금",
       "sentence": "반복적으로 산업재해를 낸 사업주에게 영업이익 5% 이내에서 과징금을 부과할 수 있도록 한 산업안전보건법 개정안이 1일 국회 본회의를 통과했다.…",
-      "articleCount": 40,
+      "articleCount": 41,
       "link": "https://www.donga.com/news/Economy/article/all/20261001/134771093/2"
     },
     {
@@ -453,7 +453,7 @@
       "name": "환경·기후",
       "phrase": "팝그룹 최초 매출 5억달러 돌파",
       "sentence": "그룹 방탄소년단(BTS)의 새 월드투어 '아리랑'(ARIRANG)이 팝 그룹 사상 처음으로 누적 매출 5억 달...",
-      "articleCount": 40,
+      "articleCount": 39,
       "link": "https://www.yna.co.kr/view/AKR20261001164100005"
     },
     {
@@ -461,7 +461,7 @@
       "name": "통신",
       "phrase": "SKT 정재헌 대표 신뢰 되찾았다",
       "sentence": "정재헌 SK텔레콤 최고경영자(CEO·사진)는 1일 자사 뉴스룸 칼럼을 통해 “국민과 고객에게 걱정을 끼치며 무너졌던 믿음을 1년 만에 되찾았다”고 밝혔다.…",
-      "articleCount": 33,
+      "articleCount": 34,
       "link": "https://www.donga.com/news/Economy/article/all/20261001/134766758/1"
     },
     {
@@ -469,7 +469,7 @@
       "name": "유통·소비",
       "phrase": "현장조사 거부한 쿠팡에 과태료 1억 추진",
       "sentence": "공정거래위원회가 현장 조사를 거부한 쿠팡에 대해 과태료 1억 원을 부과하는 제재 절차에 착수했다.…",
-      "articleCount": 28,
+      "articleCount": 30,
       "link": "https://www.donga.com/news/Economy/article/all/20261001/134771710/1"
     },
     {
