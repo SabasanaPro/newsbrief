@@ -1,46 +1,44 @@
 {
-  "generatedAt": "2026-10-03T01:21:35+09:00",
+  "generatedAt": "2026-10-03T10:24:49+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "김지용 청문요청안 재가…정청래와 4시간 만찬",
-          "summary": "이재명 대통령이 김지용 중수청장 후보자에 대한 인사청문요청안을 재가했습니다.…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781285",
-          "publishedAt": "2026-10-02T14:58:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "경향신문",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "운영위, '전두환 내란 아냐' 김태규 제명 촉구 결의안 의결",
-          "summary": "국회 운영위원회는 2일 윤석열·전두환 전 대통령의 행위를 두고 \"내란이 아니다\"라고 언급한 국민의힘 김...",
+          "title": "北, 김여정 '남북대화 일축' 하루 뒤 동해로 탄도미사일",
+          "summary": "북한이 김여정 노동당 총무부장의 '남북대화 일축' 반응후 하루 만인 3일 동해상으로 탄도미사일을 발사했다.",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261002090551001",
-          "publishedAt": "2026-10-02T06:34:39+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "경향신문",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "‘암살자 ’ 논란에 박근혜가 꺼낸 박정희 편지···“내가 맞고 어머니가 살았더라면”",
-          "summary": "박근혜 전 대통령이 어머니인 육영수 여사의 피격 직후 아버지 박정희 전 대통령으로부터 받은 편지를 2일 공개했다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610021400011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-10-02T05:00:01+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20261003010752504",
+          "publishedAt": "2026-10-03T01:02:17+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "조선일보"
+            "매일경제",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "북한, 탄도미사일 1발 발사…700㎞ 이상 비행",
+          "summary": "북한 탄도미사일 발사 북한이 동해상으로 탄도미사일을 발사했다고 합동참모본부가 밝혔습니다.합참은 오늘 \"북한이 오전 6시 3…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781742",
+          "publishedAt": "2026-10-03T01:00:00+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "매일경제",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "합참 “北, 동해상으로 미상 발사체 발사”",
+          "summary": "북한이 3일 동해상으로 미상의 발사체를 쏘아 올리며 지난달 발생한 서부전선 비무장지대(DMZ) 북한군 지뢰 폭발 사건 발생 12일 만에 무력 도발을 감행했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20261003/134779795/1",
+          "publishedAt": "2026-10-02T22:13:51+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "경향신문",
+            "연합뉴스"
           ]
         }
       ]
@@ -66,22 +64,6 @@
           ]
         },
         {
-          "title": "신한은행에 이어 국민은행도 고객 119명 정보 유출",
-          "summary": "신한은행에서 개인 정보가 유출된 데 이어 KB국민은행에서도 119건의 고객 정보 유출 사고가 발생했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/stock-finance/2026/10/02/GIZTSNZZGQ2DSYJQGFTGEZJRG4/",
-          "publishedAt": "2026-10-02T05:04:54+00:00",
-          "sourceCount": 7,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "서울신문",
-            "아시아경제",
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
           "title": "BNK금융도 해킹당해…“외주 직원 개인정보 11건 유출”",
           "summary": "신한은행과 KB국민은행, 하나은행에서 해킹으로 고객 정보가 유출되는 사고가 발생한 상황에서 BNK부산은행에서도 해킹으로 외주 직원의 신상정보 11건이 유출됐다. BNK부산은행은 “..",
           "source": "매일경제",
@@ -93,6 +75,18 @@
             "아시아경제",
             "연합뉴스"
           ]
+        },
+        {
+          "title": "국내 기름값 20주째 하락…휘발유·경유 1천800원대 유지",
+          "summary": "전국 주유소 기름값이 전주 대비 소폭 내리며 20주 연속 하락세를 이어갔다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261002168300003",
+          "publishedAt": "2026-10-02T22:01:01+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "조선일보"
+          ]
         }
       ]
     },
@@ -101,40 +95,41 @@
       "name": "사회",
       "items": [
         {
-          "title": "경찰, '은행권 전방위 AI 해킹사건' 즉각 내사 착수",
-          "summary": "경찰이 국내 주요 시중은행을 노린 전방위적 인공지능(AI) 해킹 공격에 대해 즉각 입건 전 조사(내사)에 나섰...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261002176000004",
-          "publishedAt": "2026-10-02T10:52:07+00:00",
+          "title": "1호선 선로서 60대 남성 열차에 치여 숨져…상행선 지연",
+          "summary": "3일 오전 5시 58분께 경기도 수원시 장안구 율전동 지하철 1호선 의왕역∼성균관대역 구간 상행선 선로에서 60대 남성이 전동열차에 치여 숨졌다.3일 오전 경기 수원시 장안구 율전동 지하철 1호선 선로에서 60대 남성이 전동열차에 치여 숨지는 사고가 발생했다.연합뉴스에 따르면 이날 오전 5시 58분께 지하철 1호선 의왕역∼성균관대역 구간 상행선 ···",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610030948001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-10-03T00:48:00+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "경향신문",
+            "동아일보",
+            "서울신문",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "5대 은행 동시다발 공격 받았다···경찰 ‘AI 해킹 사건’ 즉각 내사 착수",
+          "summary": "연합뉴스 경찰이 국내 주요 시중은행을 노린 동시다발적인 해킹 공격 정황에 대해 즉각 입건 전 조사(내사)에 나섰다.2일 경찰에 따르면, 경찰청 사이버테러대응수사대는 이날 은행권을 둘러싼 동시다발적 정보 유출에 대해 입건 전 조사에 착수했다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610022101001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-10-02T12:01:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
             "매일경제",
+            "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "유승준, '비자발급 거부 취소' 세 번째 소송 항소심도 승소",
-          "summary": "'병역 기피'로 국내 입국이 막힌 한국계 미국인 가수 유승준 씨가 비자 발급을 거부한 처분을 취소해 달라며 주 LA 총영사관을 상…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781290",
-          "publishedAt": "2026-10-02T15:10:00+00:00",
+          "title": "개천절 서울 곳곳 집회·행사, 세종대로·도산대로 교통 혼잡",
+          "summary": "주말이자 개천절인 3일 서울 도심 곳곳에서 대규모 집회와 기념행사, 축제가 잇따라 열리면서 교통 혼잡이 예상된다.서울경찰청에 따르면 전광훈 사랑제일교회 목사가 주축인 자유통일당은 이날 오후 1시부터 동화면세점 앞 세종대로 일대에서 집회를 연다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Society/article/all/20261003/134779971/1",
+          "publishedAt": "2026-10-03T00:13:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "법원, 목포대 국립의대 집행정지 신청 각하…순천대 추천 유지",
-          "summary": "전남권 국립의대 후보대학 선정·추천의 효력을 멈춰달라는 국립목포대학교의 집행정지 신청을 법원이 각하했다. 이에 따라 국립순천대학교를 의대 신설 후보대학으로 추천한 절차는 그대로 유지된다.…",
-          "source": "노컷뉴스",
-          "link": "https://www.nocutnews.co.kr/news/6586779",
-          "publishedAt": "2026-10-02T18:59:26+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "서울신문",
-            "연합뉴스"
+            "연합뉴스",
+            "조선일보"
           ]
         }
       ]
@@ -143,6 +138,20 @@
       "id": "world",
       "name": "국제",
       "items": [
+        {
+          "title": "“韓, 알래스카 투자 합의 않으면 더 많이 청구”…압박 나선 트럼프",
+          "summary": "한국이 알래스카 액화천연가스(LNG) 개발 사업에 투자한다고 일방 발표한 도널드 트럼프 미국 대통령이 2일(현지 시각) 한국이 사업 투자를 원하지 않는다면 더 많은 비용을 부담시키겠다고 압박에 나섰다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/10/03/A7PUVB3RKZHE5K3AUPS5EM6H3Y/",
+          "publishedAt": "2026-10-02T21:54:23+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "동아일보",
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
         {
           "title": "트럼프 “韓과 협상 좋아져…석유 증산 프로젝트에 84억불 투입”",
           "summary": "도널드 트럼프 미국 대통령은 한국과의 협상에 84억달러(약 11조3047억원) 규모의 석유 증산 프로젝트가 포함됐다고 2일(현지시간) 밝혔다. 트럼프 대통령은 이날 자신의 소셜미디..",
@@ -157,27 +166,16 @@
           ]
         },
         {
-          "title": "트럼프 “유럽, 비축 경유 대규모 방출 합의…즉시 시작”",
-          "summary": "도널드 트럼프 미국 대통령은 2일(현지 시각) 유럽이 전략 비축 경유를 즉시 방출하기로 합의했다고 밝혔다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/10/02/MM3TQMZXG42DMZBUGQ2TQODGMI/",
-          "publishedAt": "2026-10-02T14:51:57+00:00",
-          "sourceCount": 3,
+          "title": "\"한국, 석유 증산에 84억 달러 투자\"…\"알래스카 투자 안 하면 두 배\"",
+          "summary": "도널드 트럼프 미국 대통령이 우리 돈으로 11조 원이 넘는 규모의 석유 증산 프로젝트에 한국의 투자를 유치했다고 일방적으로 주장하고 나섰습니다.…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781523",
+          "publishedAt": "2026-10-02T21:21:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "SBS",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "9월 유로존 물가 3.8% 상승···3년 만 최고치",
-          "summary": "벨기에 브뤼셀에 있는 상점에서 손님이 장을 보고 있다. 신화연합뉴스유로존(유로화 사용 21개국)의 지난달 물가상승률이 3.8%를 기록하며 3년 만에 최고치로 올랐다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610022202001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
-          "publishedAt": "2026-10-02T13:02:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "연합뉴스"
+            "동아일보",
+            "매일경제",
+            "조선일보"
           ]
         }
       ]
@@ -187,38 +185,35 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "최태원, SK 지분 9440억 매각…노소영 재산분할 대비",
-          "summary": "[지디넷코리아]최태원 SK그룹 회장이 그룹 지주사 SK㈜ 보유 지분 9440억원어치를 매각한다.…",
-          "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20261002162539",
-          "publishedAt": "2026-10-02T07:50:27+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "블로터",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "\"우리 회사 AI 에이전트 몇 개?\"...데이터이쿠·AWS 관리도구 출시",
-          "summary": "2일 아마존웹서비스(AWS)는 애플리케이션과 AI 에이전트의 작동 상태를 함께 추적하는 '아마존 클라우드워치 옴니'를 출시했다고 밝혔다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155805",
-          "publishedAt": "2026-10-02T13:14:32+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "아이뉴스24"
-          ]
-        },
-        {
-          "title": "티빙, 'AWS'와 보안 체계 고도화...개인정보 유출 재발 방지 '가속화'",
-          "summary": "국내 온라인 동영상 서비스(OTT) 티빙이 지난 6월 발생한 개인정보 유출 사고 이후 보안 체계 강화에 속도를 내고 있다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155799",
-          "publishedAt": "2026-10-02T12:20:05+00:00",
+          "title": "최태원, SK 지분 9440억 매각…노소영 재산분할 자금 마련",
+          "summary": "최태원 SK그룹 회장이 재산분할 소송과 관련한 개인 자금 마련을 위해 SK㈜ 주식 9440억원어치를 매각한다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=674976",
+          "publishedAt": "2026-10-02T16:48:34+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
           ]
+        },
+        {
+          "title": "컬리, 넥스트키친 완전자회사 편입...간편식 기획·개발·유통 내재화",
+          "summary": "컬리가 가정간편식(HMR)·레스토랑간편식(RMR) 기획·개발 전문 기업 넥스트키친을 완전자회사로 편입한다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155803",
+          "publishedAt": "2026-10-02T12:08:28+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "블로터"
+          ]
+        },
+        {
+          "title": "‘아파트 40층 높이’ 최강 로켓 스타십, 지구 궤도 약 2바퀴 돌고 귀환",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/science/technology/1279891.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -227,29 +222,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "이더리움 10월 말 목표가 3150달러·2884달러…Finbold, AI 답변 소개",
-          "summary": "ChatGPT와 Gemini가 제시한 것으로 보도된 이더리움(ETH)의 10월 31일 목표가는 각각 3150달러와 2884.21달러다.…",
+          "title": "이더리움 6595.2개 코인베이스 입금 보도…예상 손실 244만달러",
+          "summary": "이더리움(ETH) 6595.2개가 코인베이스($COIN)에 입금됐다. 온체인 분석가는 해당 지갑의 매입 단가를 기준으로 손실액을 244만3000달러(약 32억9000만원)로 추산했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/417683",
-          "publishedAt": "2026-10-02T16:21:28+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/417821",
+          "publishedAt": "2026-10-03T01:23:28+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "이더리움 휴면 코인 이동 지표 상승…순유입 3만3900 ETH",
-          "summary": "오랫동안 움직이지 않은 이더리움(ETH)의 이동 가능성을 보여주는 지표가 9월 30일 상승했다. 지표 상승만으로 실제 매도나 가격 변동을 뜻한다고 볼 수는 없다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/417676",
-          "publishedAt": "2026-10-02T15:51:42+00:00",
+          "title": "“호르무즈 피격 신경 쓰이네” …비트코인 8만7000달러에서 상승분 반납",
+          "summary": "[블록미디어 이혜연 기자] 비트코인이 미국 고용지표 부진에 힘입어 급등했다가 호르무즈 해협에서 발생한 유조선 피격 소식에 상승분을 모두 반납했다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1147354?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-10-03T01:02:15+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "써클, EU에 스테이블코인 은행 예치 하한 폐지 제안",
-          "summary": "써클(Circle)이 유럽연합(EU)에 스테이블코인 준비금의 상업은행 예치 하한을 없애고 자산 유동성 기준으로 바꾸자고 제안했다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/policy/417670",
-          "publishedAt": "2026-10-02T15:37:13+00:00",
+          "title": "미 SEC, 3배 레버리지 비트코인·이더리움 ETP 승인",
+          "summary": "[블록미디어 이정화 기자] 미국 증권거래위원회(SEC)가 3배 레버리지 비트코인 및 이더리움 상장지수증권(ETP)을 공식 승인했다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1147381?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-10-03T00:44:41+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -267,31 +262,30 @@
           "publishedAt": "2026-10-02T08:01:35+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "조선일보",
+            "동아일보",
             "한겨레"
           ]
         },
         {
-          "title": "만해문학상에 김애란 소설집 ‘안녕이라 그랬어’",
-          "summary": "ⓒ이승재(LCC)제41회 만해문학상 본상에 김애란(46) 작가의 소설집 가 선정됐다고 상을 주관하는 출판사 창비가 2일 밝혔다.창비는 수상작에 대해 “오늘날 한국사회의 보통 사람들이 일상에서 맞닥뜨리는 문제적 상황을 칼날처럼 벼려낸 밀도 높은 사실주의 서사”라고 평했다.이어 “돈과 부동산을 독점한 기득권층의 힘 앞···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610021504001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
-          "publishedAt": "2026-10-02T06:04:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "태권도 안향식, 겨루기 동메달…첫 AG서 입상",
-          "summary": "버추얼 태권도에서 16강 탈락의 고배를 마셨던 안향식(용인대)이 첫 아시안게임 겨루기에서 동메달을 ...",
+          "title": "강채영, 인도 17세 신예에 덜미…리커브 개인전 8강 탈락",
+          "summary": "한국 여자 양궁 베테랑 강채영(30·현대모비스)이 아시안게임 리커브 개인전 8강에서 인도의 10대 ...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261002168551007",
-          "publishedAt": "2026-10-02T10:21:11+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20261003019600007",
+          "publishedAt": "2026-10-03T00:24:19+00:00",
           "sourceCount": 2,
           "otherSources": [
             "조선일보"
+          ]
+        },
+        {
+          "title": "이강인, 팬투표로 아틀레티코 '이달의 선수' 선정…이적 후 처음",
+          "summary": "축구 국가대표 이강인이 아틀레티코 마드리드(스페인) 이적 후 처음으로 구단 팬 투표로 뽑는 '이달의 선수'에 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261003018100007",
+          "publishedAt": "2026-10-03T00:09:21+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "한겨레"
           ]
         }
       ]
@@ -301,25 +295,25 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "李대통령 기초연금 더 두텁게 지원",
-      "sentence": "이재명 대통령은 2일 노인의 날을 맞이해 \"어르신들께서 흘리신 눈물과 땀방울이 있었기에 세계 10위권의 경제 ...",
+      "phrase": "트럼프 韓 알래스카 투자 합의않으면 두배로",
+      "sentence": "도널드 트럼프 미국 대통령은 2일(현지시간) 한국이 알래스카 액화천연가스(LNG) 사업 투자를 원하지 않는...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261002073200001"
+      "link": "https://www.yna.co.kr/view/AKR20261003005300071"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "트럼프 韓과 협상 좋아져",
-      "sentence": "도널드 트럼프 미국 대통령은 2일(현지시간) 한미 간 협상으로 한국이 석유 관련 프로젝트에 84억 달러(약...",
+      "phrase": "트럼프 韓 알래스카 투자 합의않으면 곧 두배",
+      "sentence": "도널드 트럼프 미국 대통령은 2일(현지시간) 한국이 알래스카 액화천연가스(LNG) 프로젝트 투자에 ...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261002182051071"
+      "link": "https://www.yna.co.kr/view/AKR20261003005351071"
     },
     {
       "id": "game",
       "name": "게임",
       "phrase": "대만 꺾고 아시안게임 금메달",
       "sentence": "아이치·나고야 아시안 게임에 출전한 e스포츠 리그 오브 레전드(LoL) 대표팀이 2연속으로 금메달을 따냈다.",
-      "articleCount": 222,
+      "articleCount": 250,
       "link": "https://www.yna.co.kr/view/AKR20261002123800017"
     },
     {
@@ -327,151 +321,151 @@
       "name": "AI·인공지능",
       "phrase": "하나은행도 AI 해킹 뚫렸다",
       "sentence": "신한은행, KB국민은행에 이어 하나은행에서도 해킹으로 고객 정보가 유출되면서 은행권 전반이 AI 해킹 공격에 ...",
-      "articleCount": 216,
+      "articleCount": 224,
       "link": "https://www.yna.co.kr/view/AKR20261002160251002"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "딸 근혜에 쓴 박정희 편지 공개",
-      "sentence": "영화 '암살자'을 둘러싼 역사 왜곡 논란과 관련해 국민의힘 유영하 의원이 오늘 국회에서 기자회견을 열고 박정희 전 대통령의 자필 …",
-      "articleCount": 101,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008780387"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "프로농구 현대모비스 이우석",
-      "sentence": "2026 아이치·나고야 아시안게임 남자농구에서 금메달을 딴 이우석이 조기 전역해 프로농구 울산 현대모비스에 복...",
-      "articleCount": 91,
-      "link": "https://www.yna.co.kr/view/AKR20261002148600007"
+      "phrase": "월드컵 못 간 베네수엘라와 졸전 끝에 0-0",
+      "sentence": "'모레노호' 한국 축구 대표팀이 베네수엘라와 졸전 끝에 비겼다.",
+      "articleCount": 133,
+      "link": "https://www.yna.co.kr/view/AKR20261002181251007"
     },
     {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "삼성바이오 노조",
-      "sentence": "삼성바이오로직스[207940] 상생노동조합이 사측과 세 차례에 걸친 사후 조정에도 임금 인상, 인사 제...",
-      "articleCount": 90,
-      "link": "https://www.yna.co.kr/view/AKR20261002105800017"
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "영화 암살자 논란에 촬영 장소 빌려준 대전시도",
+      "sentence": "영화 '암살자(들)'을 둘러싸고 역사 왜곡 논란이 확산하면서 촬영 장소를 빌려준 대전시도 '유탄'을 맞고 있다...",
+      "articleCount": 124,
+      "link": "https://www.yna.co.kr/view/AKR20261002121000063"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "SK지분 2.3% 팔아 재산분할금 마련",
-      "sentence": "최태원 SK그룹 회장이 노소영 아트센터 나비 관장에 대한 재산분할금을 마련하기 위해 그룹 지주사인 SK㈜의 지분 9440억 원어치를 매각하기로 했다.…",
-      "articleCount": 87,
-      "link": "https://www.nocutnews.co.kr/news/6586714"
+      "phrase": "5거래일 만에 7천피 탈환",
+      "sentence": "2일 코스피가 상승하며 5거래일 만에 7,000선에서 마감했다.",
+      "articleCount": 111,
+      "link": "https://www.yna.co.kr/view/AKR20261002127000008"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "휘발유·경유 1천800원대 유지",
+      "sentence": "전국 주유소 기름값이 전주 대비 소폭 내리며 20주 연속 하락세를 이어갔다.",
+      "articleCount": 100,
+      "link": "https://www.yna.co.kr/view/AKR20261002168300003"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "HD현대중공업 노조 임단협 잠정합의안 부결",
       "sentence": "HD현대중공업의 올해 임금 및 단체협약 잠정합의안이 2일 조합원 찬반투표에서 부결됐다.",
-      "articleCount": 83,
+      "articleCount": 100,
       "link": "https://www.yna.co.kr/view/AKR20261002169800057"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "삼성바이오 노조",
+      "sentence": "삼성바이오로직스[207940] 상생노동조합이 사측과 세 차례에 걸친 사후 조정에도 임금 인상, 인사 제...",
+      "articleCount": 96,
+      "link": "https://www.yna.co.kr/view/AKR20261002105800017"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "정부·기업 이어 대학까지 마비",
-      "sentence": "일본에서 핵심 행정망과 대형 민간기업을 겨냥한 해킹 및 정보 유출 사고가 잇따른 데 이어, 이번에는 국공립대학...",
-      "articleCount": 81,
-      "link": "https://www.yna.co.kr/view/AKR20261002118600009"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "미 무역수장 과잉생산 수용 불가",
-      "sentence": "제이미슨 그리어 미국 무역대표부(USTR) 대표가 중국 등을 대상으로 검토해온 과잉생산 문제에 대한 대항 조...",
-      "articleCount": 74,
-      "link": "https://www.yna.co.kr/view/AKR20261002178200073"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "유로존 지난달 물가 3.8% 상승",
-      "sentence": "유로존(유로화 사용 21개국)의 지난 달 물가상승률이 에너지 가격 급등 탓에 3년 만에 최고치로 치솟았다.",
-      "articleCount": 72,
-      "link": "https://www.yna.co.kr/view/AKR20261002179400098"
+      "phrase": "요즘 애들 입맛 따라가다 반해버렸네",
+      "sentence": "\"라떼는 말이야, 하교 시간마다 학교 앞 분식집에서 컵에 넘치도록 담아주던 500원짜리 고추장 떡볶이가 세상에서 제일 맛있었단다.\"아이들 간식 챙길 때마다 습관처…",
+      "articleCount": 89,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155828"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "부천 11층짜리 아파트서 불",
-      "sentence": "2일 오후 5시 53분께 경기 부천시 원미구의 11층짜리 아파트 4층에서 불이 났다.",
-      "articleCount": 65,
-      "link": "https://www.yna.co.kr/view/AKR20261002175000065"
+      "phrase": "분당에 아파트 두 채 보유",
+      "sentence": "김지용 중대범죄수사청장 후보자는 2일 본인과 배우자, 두 자녀 명의 재산으로 약 38억759만원을 신고했다.",
+      "articleCount": 85,
+      "link": "https://www.yna.co.kr/view/AKR20261002114900001"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "트럼프 韓 알래스카 LNG 투자 않으면 2배로",
+      "sentence": "도널드 트럼프 미국 대통령이 한국의 알래스카주 액화천연가스(LNG) 사업 투자와 관련해 “원하지 않는다면 더 큰 비용을 청구할 것”이라고 압박했다.…",
+      "articleCount": 85,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000019525"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "544명 승진·전보",
-      "sentence": "전남광주통합특별시가 출범 이후 첫 정기인사를 단행했다.",
-      "articleCount": 60,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261002500294"
+      "phrase": "D램 2위 SK하이닉스 턱밑 추격",
+      "sentence": "[지디넷코리아]미국 메모리 반도체 기업 마이크론 테크놀로지가 글로벌 D램 시장에서 2위 SK하이닉스를 점유율 1%포인트 차이로 추격했다.…",
+      "articleCount": 64,
+      "link": "https://zdnet.co.kr/view/?no=20261002134906"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "이형일 10월 국고채 발행 5조원 축소",
+      "sentence": "이형일 부총리 겸 재정경제부 장관은 2일 “국고채 시장 안정을 위해 이달 국고채 발행 물량을 5조 원 축소하겠다”고 말했다.…",
+      "articleCount": 64,
+      "link": "https://www.donga.com/news/Economy/article/all/20261002/134775762/1"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "전남 국립의대 후보 추천 집행정지 각하",
       "sentence": "전남광주 국립의과대학의 후보대학으로 순천대학교를 추천하는 절차를 중단해달라며 목포대학교가 제기한 집행정지 ...",
-      "articleCount": 52,
+      "articleCount": 62,
       "link": "https://www.yna.co.kr/view/AKR20261002160951054"
+    },
+    {
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "동해상으로 미상 발사체 발사",
+      "sentence": "북한이 3일 동해상으로 미상의 발사체를 쏘아 올리며 지난달 발생한 서부전선 비무장지대(DMZ) 북한군 지뢰 폭발 사건 발생 12일 만에 무력 도발을 감행했다.…",
+      "articleCount": 51,
+      "link": "https://www.donga.com/news/Politics/article/all/20261003/134779795/1"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "이더리움 10월 말 목표가",
-      "sentence": "ChatGPT와 Gemini가 제시한 것으로 보도된 이더리움(ETH)의 10월 31일 목표가는 각각 3150달러와 2884.21달러다.…",
-      "articleCount": 47,
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/417683"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "이형일 10월 국고채 발행 5조원 축소",
-      "sentence": "왼쪽부터 이찬진 금융감독원장, 홍지선 국토교통부 장관, 이형일 부총리 겸 재정경제부 장관, 신현송 한국은행 총재, 이억원 금융위원장.…",
-      "articleCount": 45,
-      "link": "https://www.khan.co.kr/article/202610021057001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+      "phrase": "이더리움 6595.2개 코인베이스 입금 보도",
+      "sentence": "이더리움(ETH) 6595.2개가 코인베이스($COIN)에 입금됐다.",
+      "articleCount": 44,
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/417821"
     },
     {
       "id": "labor",
       "name": "노동",
       "phrase": "한화오션 웰리브지회 교섭 포함 집행정지 기각",
       "sentence": "전국금속노조 제공한화오션이 사내 급식과 출퇴근 버스 운행, 시설관리 등을 맡는 도급업체인 웰리브 소속 노동자들을 교섭 대상에 포함해야 한다는 중앙노동위원회 판정에…",
-      "articleCount": 45,
+      "articleCount": 39,
       "link": "https://www.khan.co.kr/article/202610021545011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
-    },
-    {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "호르무즈 해협 지나던 유조선",
-      "sentence": "호르무즈 해협을 지나던 유조선이 1일(현지시간) 미상의 발사체에 맞아 화재가 발생했으나 선원들은 안전하다는 제...",
-      "articleCount": 38,
-      "link": "https://www.yna.co.kr/view/AKR20261002028951009"
-    },
-    {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "BTS 보이콧에도 아시안팝 신설 강행",
-      "sentence": "미국 음악계에서 가장 권위있는 시상식으로 꼽히는 그래미 어워즈가 방탄소년단(BTS)의 보이콧 선언에도...",
-      "articleCount": 30,
-      "link": "https://www.yna.co.kr/view/AKR20261002072200075"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "한 편의점서 10여차례 도둑질한 60대",
       "sentence": "한 편의점에서만 상습적으로 물건을 훔친 60대 남성에게 절도는 물론 스토킹죄까지 적용됐다.",
-      "articleCount": 29,
+      "articleCount": 32,
       "link": "https://www.yna.co.kr/view/AKR20261002178900061"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "BTS 이어 스트레이 키즈도 그래미 보이콧",
+      "sentence": "방탄소년단(BTS)에 이어 K-팝 대표 그룹 스트레이 키즈도 그래미 시상식 보이콧에 동참했다.",
+      "articleCount": 29,
+      "link": "https://www.yna.co.kr/view/AKR20261003014700075"
     },
     {
       "id": "telecom",
       "name": "통신",
       "phrase": "AI 면접·마케팅 서비스로 소상공인 경영 부담",
       "sentence": "모델이 ‘사장이지’ 신규 인공지능(AI) 서비스 ‘사장이지’를 소개하는 모습.…",
-      "articleCount": 19,
+      "articleCount": 23,
       "link": "https://www.khan.co.kr/article/202610021004001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
@@ -479,7 +473,7 @@
       "name": "환율",
       "phrase": "환율은 7.8원 내린 1350.6원",
       "sentence": "2일 오후 3시 30분 기준, 한국거래소에 따르면 코스피는 전 거래일보다 32.39포인트(0.46%) 오른 7003.74에 장을 마감했다.…",
-      "articleCount": 17,
+      "articleCount": 18,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20261002500187"
     }
   ],
