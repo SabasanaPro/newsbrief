@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:53:53+09:00",
+  "generatedAt": "2026-10-04T01:14:59+09:00",
   "categories": [
     {
       "id": "politics",
@@ -70,23 +70,23 @@
           "source": "조선일보",
           "link": "https://www.chosun.com/economy/stock-finance/2026/10/03/GI4TAYRTMQYDINRTMM2TCNJWMU/",
           "publishedAt": "2026-10-03T07:54:53+00:00",
-          "sourceCount": 4,
+          "sourceCount": 5,
           "otherSources": [
             "매일경제",
+            "머니투데이",
             "아시아경제",
             "연합뉴스"
           ]
         },
         {
-          "title": "국내 기름값 20주째 하락…휘발유·경유 1천800원대 유지",
-          "summary": "전국 주유소 기름값이 전주 대비 소폭 내리며 20주 연속 하락세를 이어갔다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261002168300003",
-          "publishedAt": "2026-10-02T22:01:01+00:00",
-          "sourceCount": 3,
+          "title": "‘해킹피해’ 2금융권 확산…금융당국 투톱, 全업권 긴급소집",
+          "summary": "금융당국이 4일 오후 전 금융업권 협회장과 침해사고가 발생한 금융사 대표들을 긴급 소집한다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/stock-finance/2026/10/03/GUZTIYJWHA2GCZRSGNQTAZRWGI/",
+          "publishedAt": "2026-10-03T11:46:25+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "SBS",
-            "조선일보"
+            "연합뉴스"
           ]
         }
       ]
@@ -143,20 +143,6 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프 \"한국, 원유 증산도 투자\"…알래스카도 압박",
-          "summary": "트럼프 미국 대통령이 이번에는 \"한국이 미국의 원유 증산 프로젝트에 84억 달러를 투자하기로 했다\"고 주장했습니다.…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782105",
-          "publishedAt": "2026-10-03T14:05:00+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "동아일보",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
           "title": "미중 회담서 시진핑, 이례적 ‘긴 휴식’ 요구…건강 이상설 재점화?",
           "summary": "시진핑 중국 국가주석의 미국 방문 당시 중국 측이 시 주석의 휴식을 위해 이례적으로 긴 휴식 시간을 일정에 반영하고, 백악관 내 별도의 휴식 공간까지 요구했던 것으로 전해졌다.…",
           "source": "동아일보",
@@ -170,15 +156,27 @@
           ]
         },
         {
-          "title": "트럼프 외교·안보 핵심 참모진, 캠프 데이비드 긴급 회동…대이란 작전 논의",
-          "summary": "도널드 트럼프 미국 대통령의 외교·안보 핵심 참모진이 대통령 전용 별장인 캠프 데이비드에 모여 비공개 회동을 한 것으로 전해졌다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/10/03/MIZTEN3EHA4GENZTME2DCNJRMQ/",
-          "publishedAt": "2026-10-03T10:04:17+00:00",
+          "title": "트럼프 사단, 캠프데이비드 극비 회의…대이란 작전 논의",
+          "summary": "도널드 트럼프 행정부의 외교·안보 수뇌부가 2일(현지시간) 대통령 휴양지인 캠프 데이비드에서 극비 회의를 열고...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261003033000009",
+          "publishedAt": "2026-10-03T06:02:46+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
             "동아일보",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "예멘 수도서 폭음…사우디 아람코 시설에서도 화염",
+          "summary": "예멘 수도 사나에서 사우디아라비아의 공습에 따른 것으로 추정되는 강한 폭음이 관측됐다고 AFP 통신이 3일(현지 시각) 보도했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/10/04/MNSDOZBUHA2DINBQGNSGINRYMU/",
+          "publishedAt": "2026-10-03T16:03:03+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
             "연합뉴스"
           ]
         }
@@ -224,29 +222,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "오프라인 비트코인 지갑 계산기 첫 후보 버전 공개",
-          "summary": "비트코인(BTC) 키와 지갑 정보를 오프라인에서 계산하는 도구 EntropyLab이 첫 후보 버전 v1.0.0rc1을 공개했다.…",
+          "title": "비트코인, 8만7000달러 돌파 뒤 하락 外",
+          "summary": "비트코인(BTC)이 미국 고용지표 발표 뒤 8만7000달러를 웃돌았다가 몇 시간 만에 8만4000달러 아래로 하락했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/blockchain/417957",
-          "publishedAt": "2026-10-03T14:39:09+00:00",
+          "link": "https://www.tokenpost.kr/news/briefing/417959",
+          "publishedAt": "2026-10-03T15:03:40+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "비트코인 11만3400달러 목표…스트래티지 240달러로 상향",
-          "summary": "씨티가 비트코인(BTC)의 12개월 목표가를 11만3400달러(약 1억5287만원)로, 스트래티지($MSTR) 목표가를 240달러(약 32만3000원)로 올렸다.…",
+          "title": "비트코인, 2013년 이후 10월 월간 하락 세 차례",
+          "summary": "비트코인(BTC)은 2013년 이후 10월에 월간 하락을 세 차례 기록했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/417955",
-          "publishedAt": "2026-10-03T14:38:13+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/417965",
+          "publishedAt": "2026-10-03T15:09:11+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "금리 인상 확률 66%서 22%로…비트코인 주간 1% 상승",
-          "summary": "미국 연방준비제도(Fed)가 10월 28일 연방공개시장위원회(FOMC)에서 기준금리를 0.25%포인트 인상할 확률이 한 주 사이 66%에서 22%로 낮아졌다.…",
+          "title": "암호화폐 시장 하락세… 비트코인 84,772달러, 이더리움 2,680달러",
+          "summary": "암호화폐 시장이 하락세를 보이는 가운데 비트코인과 이더리움은 모두 24시간 기준 하락했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/417950",
-          "publishedAt": "2026-10-03T14:24:10+00:00",
+          "link": "https://www.tokenpost.kr/news/briefing/417961",
+          "publishedAt": "2026-10-03T15:04:31+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -315,33 +313,33 @@
     {
       "id": "game",
       "name": "게임",
-      "phrase": "대만 꺾고 아시안게임 금메달",
-      "sentence": "아이치·나고야 아시안 게임에 출전한 e스포츠 리그 오브 레전드(LoL) 대표팀이 2연속으로 금메달을 따냈다.",
-      "articleCount": 213,
-      "link": "https://www.yna.co.kr/view/AKR20261002123800017"
-    },
-    {
-      "id": "ai",
-      "name": "AI·인공지능",
-      "phrase": "하나은행도 AI 해킹 뚫렸다",
-      "sentence": "신한은행, KB국민은행에 이어 하나은행에서도 해킹으로 고객 정보가 유출되면서 은행권 전반이 AI 해킹 공격에 ...",
-      "articleCount": 179,
-      "link": "https://www.yna.co.kr/view/AKR20261002160251002"
+      "phrase": "스포츠클라이밍 금메달 서채현 마침내 해냈다",
+      "sentence": "2026 아이치·나고야 아시안게임 스포츠클라이밍 여자 리드 부문에서 금메달을 획득한 서채현(서울시청·노스페이...",
+      "articleCount": 250,
+      "link": "https://www.yna.co.kr/view/AKR20261003048800007"
     },
     {
       "id": "sports",
       "name": "스포츠",
       "phrase": "남자 축구 4회 연속 금메달",
       "sentence": "한국이 아시안게임 남자 축구에서 4회 연속 금메달이라는 금자탑을 세웠다.",
-      "articleCount": 159,
+      "articleCount": 191,
       "link": "https://www.yna.co.kr/view/AKR20261003049851007"
+    },
+    {
+      "id": "ai",
+      "name": "AI·인공지능",
+      "phrase": "하나은행도 AI 해킹 뚫렸다",
+      "sentence": "신한은행, KB국민은행에 이어 하나은행에서도 해킹으로 고객 정보가 유출되면서 은행권 전반이 AI 해킹 공격에 ...",
+      "articleCount": 180,
+      "link": "https://www.yna.co.kr/view/AKR20261002160251002"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "스페인 출장에 아내 동행",
       "sentence": "김상환 헌법재판소장이 작년 10월 스페인 마드리드 출장에 동행한 배우자 여비로 약 1천만원을 사용한 것으로 나...",
-      "articleCount": 103,
+      "articleCount": 123,
       "link": "https://www.yna.co.kr/view/AKR20261003024300004"
     },
     {
@@ -349,24 +347,32 @@
       "name": "부동산",
       "phrase": "주택대출 모집인 정보 일부 유출",
       "sentence": "현대캐피탈도 인공지능(AI) 활용 해킹으로 추정되는 공격을 받아 주택대출 모집인 관련 정보가 유출된 것...",
-      "articleCount": 83,
+      "articleCount": 89,
       "link": "https://www.yna.co.kr/view/AKR20261003038151002"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "귀향 대학생 세입자에 용돈 준 집주인",
-      "sentence": "명절을 맞아 고향에 내려가는 대학생 세입자에게 “부모님께 작은 선물이라도 사드리라”며 현금과 손편지를 건넨 집주인의 사연이 전해져 훈훈함을 안기고 있다.1일 소셜…",
-      "articleCount": 78,
-      "link": "https://www.donga.com/news/Society/article/all/20261003/134780232/2"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "올해도 장애인 의무고용률 미달",
       "sentence": "법원이 최근 6년간 장애인 고용 의무를 제대로 지키지 않아 136억원이 넘는 과태료를 낸 것으로 나타났다.",
-      "articleCount": 77,
+      "articleCount": 81,
       "link": "https://www.yna.co.kr/view/AKR20261002181300004"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "귀향 대학생 세입자에 용돈 준 집주인",
+      "sentence": "명절을 맞아 고향에 내려가는 대학생 세입자에게 “부모님께 작은 선물이라도 사드리라”며 현금과 손편지를 건넨 집주인의 사연이 전해져 훈훈함을 안기고 있다.1일 소셜…",
+      "articleCount": 80,
+      "link": "https://www.donga.com/news/Society/article/all/20261003/134780232/2"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "원유 증산도 투자",
+      "sentence": "트럼프 미국 대통령이 이번에는 \"한국이 미국의 원유 증산 프로젝트에 84억 달러를 투자하기로 했다\"고 주장했습니다.…",
+      "articleCount": 75,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782105"
     },
     {
       "id": "stock",
@@ -377,19 +383,11 @@
       "link": "https://www.yna.co.kr/view/AKR20261002127000008"
     },
     {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "원유 증산도 투자",
-      "sentence": "트럼프 미국 대통령이 이번에는 \"한국이 미국의 원유 증산 프로젝트에 84억 달러를 투자하기로 했다\"고 주장했습니다.…",
-      "articleCount": 72,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782105"
-    },
-    {
       "id": "industry",
       "name": "산업·기업",
       "phrase": "알아서 할게요 화물차 기사 토닥인 회장님",
       "sentence": "장애가 있는 40대 화물차 기사가 운전 중 수억 원대 페라리와 사고를 낸 뒤 차주의 배려에 감동했다는 사연이 전해졌다.…",
-      "articleCount": 72,
+      "articleCount": 74,
       "link": "https://www.donga.com/news/Society/article/all/20261003/134780340/2"
     },
     {
@@ -397,7 +395,7 @@
       "name": "수출·관세",
       "phrase": "트럼프 韓 알래스카 LNG 투자 않으면 2배로",
       "sentence": "도널드 트럼프 미국 대통령이 한국의 알래스카주 액화천연가스(LNG) 사업 투자와 관련해 “원하지 않는다면 더 큰 비용을 청구할 것”이라고 압박했다.…",
-      "articleCount": 70,
+      "articleCount": 68,
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000019525"
     },
     {
@@ -405,16 +403,8 @@
       "name": "건강·의료",
       "phrase": "전남대병원 금융부채 273억원",
       "sentence": "전남대학교병원의 누적 금융부채가 273억원에 달하는 것으로 집계됐다.",
-      "articleCount": 60,
+      "articleCount": 63,
       "link": "https://www.yna.co.kr/view/AKR20261003032600054"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "연휴 중 금융권 해킹 비상",
-      "sentence": "금융위원회가 추석 연휴 중인 4일 금융업권 협회장과 침해사고가 발생한 금융사 최고경영자(CEO)를 긴급 소집한다.…",
-      "articleCount": 46,
-      "link": "https://www.nocutnews.co.kr/news/6586898"
     },
     {
       "id": "science",
@@ -425,19 +415,27 @@
       "link": "https://www.yna.co.kr/view/AKR20261003010700504"
     },
     {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "8만7000달러 돌파 뒤 하락 外",
+      "sentence": "비트코인(BTC)이 미국 고용지표 발표 뒤 8만7000달러를 웃돌았다가 몇 시간 만에 8만4000달러 아래로 하락했다.…",
+      "articleCount": 45,
+      "link": "https://www.tokenpost.kr/news/briefing/417959"
+    },
+    {
       "id": "rate",
       "name": "금리",
-      "phrase": "美고용 부진에 금리인상 우려 완화",
-      "sentence": "2일(현지시간) 미국 뉴욕증시 3대 지수가 일제히 상승했다.",
-      "articleCount": 39,
-      "link": "https://www.yna.co.kr/view/AKR20261003005451072"
+      "phrase": "금리 뛰자 국고채 발행 5조 줄인다",
+      "sentence": "금리 뛰자 국고채 발행 5조 줄인다…이형일 “필요시 추가 축소”",
+      "articleCount": 40,
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1280581.html"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "분당에 아파트 2채",
       "sentence": "김지용 초대 중대범죄수사청(중수청)장 후보자가 2일 본인과 가족의 명의로 약 38억 원의 재산을 신고한 것으로 나타났다.…",
-      "articleCount": 37,
+      "articleCount": 36,
       "link": "https://www.donga.com/news/Politics/article/all/20261002/134775571/1"
     },
     {
@@ -453,7 +451,7 @@
       "name": "환경·기후",
       "phrase": "BTS 이어 스트레이 키즈도 그래미 보이콧",
       "sentence": "방탄소년단(BTS)에 이어 K-팝 대표 그룹 스트레이 키즈도 그래미 시상식 보이콧에 동참했다.",
-      "articleCount": 28,
+      "articleCount": 29,
       "link": "https://www.yna.co.kr/view/AKR20261003014700075"
     },
     {
@@ -467,10 +465,10 @@
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "시큐아이 HW 제조사 넘어 AI와 SW 보안",
-      "sentence": "[지디넷코리아]정삼용 시큐아이 대표는 지난달 30일 서울 양재동 엘타워에서 열린 자사 플래그십 컨퍼런스 'SECUi MAX SUMMIT'에서 \"하드웨어 제조사를…",
-      "articleCount": 21,
-      "link": "https://zdnet.co.kr/view/?no=20261003220259"
+      "phrase": "애플 통지에 69A조 적혀",
+      "sentence": "인도 정부가 애플에 잭 도시(Jack Dorsey)의 메시징 앱 비트챗(Bitchat)을 앱스토어에서 삭제하라고 요구했다.…",
+      "articleCount": 23,
+      "link": "https://www.tokenpost.kr/news/policy/417963"
     },
     {
       "id": "fx",
