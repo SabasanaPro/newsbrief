@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:55:33+09:00",
+  "generatedAt": "2026-10-07T10:47:46+09:00",
   "categories": [
     {
       "id": "politics",
@@ -20,6 +20,19 @@
           ]
         },
         {
+          "title": "김민석 \"조희대, 재제청 문제 처리못한다면 그만두는 것이 낫다\"",
+          "summary": "더불어민주당 김민석 대표는 7일 대법관 후보자 재제청 문제와 관련, 헌법에 근거가 없다'고 언급한 조희대 대법...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261007018900001",
+          "publishedAt": "2026-10-06T22:45:47+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "동아일보",
+            "조선일보"
+          ]
+        },
+        {
           "title": "靑 “대법관 재제청, 추천위 존중해 신속히 이뤄져야”…입장 재확인",
           "summary": "강유정 청와대 수석대변인은 6일 “청와대는 국민의 온전한 재판 청구권에 지장이 없도록 후속조치에 만전을 기하고 있다”며 “대법원장도 대법관의 장기 공석으로 인한 국민의 재판받을 권리가 침해받지 않도록 대법관 후보추천위원회의 추천 내용을 존중해 최대한 신속히 재제청 절차를 진행해주길 바란다”고 밝혔다.강 수석대변인은 이날 오후 청와대 춘추관에서 브리핑을 갖고 ‘대법관 공석이 길어지는 가운데 청와대와 대법원 사이 추가 협의는 없었는지’ 질문에 “기존에 밝혔던 입장을 한 번 더 말씀드린다”며 이같이 답했다.이는 지난 8월 28일 청와대가 대법원에 대법관 후보자 재제청을 요청했을 당시 브리핑했던 입장을 다시 한번 밝힌 것이다.강 수석대변인은 이날 조희대 대법원장이 국회 법제사법위원회 국정감사에 출석해 대법관 후보자 재제청과 관련해 발언을 한 데 대해서는 “국회에서 여러 의견들이 오갈 것으로 알고 있다”며 “청와대는 별도 입장이 없다”고 했다.[서울=뉴시스]",
           "source": "동아일보",
@@ -31,19 +44,6 @@
             "경향신문",
             "연합뉴스"
           ]
-        },
-        {
-          "title": "이 대통령 “농지 전용해 태양광사업하면 몇배 소득, 지금이 기회…정부가 시스템 만들어야”",
-          "summary": "청와대사진기자단이재명 대통령은 6일 “대한민국은 전기 국가로 가야하고 재생에너지가 핵심이다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610061639001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-10-06T07:39:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "동아일보",
-            "연합뉴스",
-            "한겨레"
-          ]
         }
       ]
     },
@@ -51,6 +51,19 @@
       "id": "economy",
       "name": "경제",
       "items": [
+        {
+          "title": "전세사기 집 경매 넘어가도 보증금 3분의 1 국가가 보전",
+          "summary": "다음달부터 전세사기 피해자가 돌려받은 보증금이 임차보증금의 3분의 1에 미치지 못할 경우 정부가 부족분을 지원해 준다. 국토교통부는 6일 국무회의에서 이 같은 최소보장 제도를 담은..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/economy/12169474",
+          "publishedAt": "2026-10-06T08:21:35+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "동아일보",
+            "조선일보"
+          ]
+        },
         {
           "title": "“주주환원 많은 기업만 투자”… 대신운용 ‘고배당펀드’ 출시",
           "summary": "대신자산운용이 배당과 자사주 매입·소각 등 주주환원 규모가 크면서 주가 수준은 상대적으로 낮은 종목을 선별해 투자하는 ‘대신 주주환원고배당펀드’를 6일 출시했다.…",
@@ -65,29 +78,16 @@
           ]
         },
         {
-          "title": "롯데백화점, 업계 첫 외국인 年매출 1조 돌파",
-          "summary": "롯데백화점이 백화점 업계 최초로 연간 외국인 매출 1조 원을 돌파했다. 롯데백화점에 따르면 6일 오전 기준 외국인 매출이 1조 원을 나타냈다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Economy/article/all/20261006/134796364/2",
-          "publishedAt": "2026-10-06T15:30:00+00:00",
+          "title": "롯데백화점, 외국인 매출 업계 첫 ‘1조원’",
+          "summary": "명동점 실적 견인·지역 매장 성장롯데백화점이 업계 사상 최초로 외국인 매출 1조원을 돌파하며 역대 최대 실적을 경신했다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610062036055/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-10-06T11:36:05+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "경향신문",
+            "동아일보",
             "조선일보",
             "한겨레"
-          ]
-        },
-        {
-          "title": "공정위, BHC·BBQ·교촌치킨 현장 조사 착수… 담합 여부 파악 차원",
-          "summary": "공정거래위원회가 치킨업계의 가격 담합 여부를 파악하기 위해 현장조사에 착수한 것으로 6일 전해졌다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/economy_general/2026/10/06/GRSDAMDDMRQWMMBWMU3TCYZQME/",
-          "publishedAt": "2026-10-06T08:21:08+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "머니투데이",
-            "연합뉴스"
           ]
         }
       ]
@@ -97,44 +97,43 @@
       "name": "사회",
       "items": [
         {
-          "title": "수사개혁위 “변호사 5년간 매년 100명 이상 경찰로 채용” 권고",
-          "summary": "전국 경찰서에 법률전문가 2~4명 배치 수사지휘는 전자문서로 기록 남겨야국민의 신뢰 회복을 위한 경찰 수사개혁위원회(수사개혁위)가 경찰 수사 공정성 및 수사역량 강화를 위해 앞으로..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12169626",
-          "publishedAt": "2026-10-06T09:03:50+00:00",
-          "sourceCount": 5,
+          "title": "나주서 60대 부부 결박돼 숨진 채 발견… CCTV속 남성 추적",
+          "summary": "7일 나주경찰서에 따르면 전날 오후 7시49분쯤 나주시 왕곡면 한 주택에서 60대 A씨 부부가 숨진 채 발견됐다는 신고가 접수됐다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000020491",
+          "publishedAt": "2026-10-06T23:08:00+00:00",
+          "sourceCount": 6,
           "otherSources": [
             "경향신문",
-            "노컷뉴스",
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "나주 주택서 60대 부부 피살…경찰, 용의자 추적",
-          "summary": "전남광주 나주에서 부부가 몸이 묶여 숨진 채 발견돼 경찰이 수사에 나섰다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261006199151054",
-          "publishedAt": "2026-10-06T14:59:48+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
-            "경향신문",
+            "동아일보",
             "서울신문",
+            "오마이뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "자택 앞 집회·온라인 협박…경찰, 유해진 신변보호 가동",
-          "summary": "영화 '암살자(들)'을 둘러싼 역사 왜곡 논란이 불거진 가운데, 출연 배우와 제작사에 대한 항의가 이어지자 경찰이 주연 배우 유해진씨에 대한 신변보호조치에 나섰다.…",
-          "source": "노컷뉴스",
-          "link": "https://www.nocutnews.co.kr/news/6587844",
-          "publishedAt": "2026-10-06T19:06:36+00:00",
+          "title": "새벽 저수지로 추락한 SUV…탑승자 1명 숨진 채 발견",
+          "summary": "7일 오전 4시 17분께 대구 수성구 대흥동 저수지인 내관지에 스포츠유틸리티차(SUV) 1대가 추락했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261007027951053",
+          "publishedAt": "2026-10-07T00:04:04+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "연합뉴스",
-            "한겨레"
+            "국민일보",
+            "동아일보"
+          ]
+        },
+        {
+          "title": "요양병원서 같은 병실 환자 소화기로 살해한 70대 징역 15년",
+          "summary": "요양병원에서 같은 병실을 사용하던 환자를 소화기로 여러 차례 때려 숨지게 한 70대 남성에게 징역 15년이 선고됐다.…",
+          "source": "프레시안",
+          "link": "https://www.pressian.com/pages/articles/2026100710465043961&ref=rss",
+          "publishedAt": "2026-10-07T10:47:03+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "동아일보",
+            "연합뉴스"
           ]
         }
       ]
@@ -144,38 +143,43 @@
       "name": "국제",
       "items": [
         {
-          "title": "노벨물리학상에 ‘뉴트리노 관측’ 프란시스 할선",
-          "summary": "남극 얼음 활용 ‘아이스큐브’ 구축 주도 고에너지 우주 뉴트리노 발견 공로올해 노벨물리학상은 남극의 얼음을 이용해 우주에서 날아오는 고에너지 뉴트리노(중성미자)를 관측하는 길을 연..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12169669",
-          "publishedAt": "2026-10-06T09:54:04+00:00",
-          "sourceCount": 3,
+          "title": "트럼프 “韓에 관세 낮추려면 대가 지불해야 한다고 말해”",
+          "summary": "도널드 트럼프 미국 대통령은 자신이 한국에 관세 인하의 대가 요구했다고 강조했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/10/07/HA4DQODCGM3GEMLDMNTDINBRGA/",
+          "publishedAt": "2026-10-06T22:07:56+00:00",
+          "sourceCount": 5,
           "otherSources": [
+            "SBS",
+            "경향신문",
             "동아일보",
             "연합뉴스"
           ]
         },
         {
-          "title": "트럼프 \"LA·샌디에이고 파괴하게 놔둬라\"…이란전 발언 논란",
-          "summary": "도널드 트럼프 미국 대통령이 이란과의 전쟁에 따른 경제적 부담을 감수해야 한다는 주장을 펴는 과정에서 이란...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261006202800071",
-          "publishedAt": "2026-10-06T16:23:50+00:00",
-          "sourceCount": 3,
+          "title": "트럼프 “LA 파괴하게 놔두라”…이란전 발언에 ‘텃밭’ 민주당 발끈",
+          "summary": "도널드 트럼프 미국 대통령이 5일(현지시간) 이란 전쟁의 당위성을 강조하는 과정에서 이란이 미국의 대도시인 로스앤젤레스(LA)·샌디에이고를 파괴해도 어쩔 수 없다는 취지의 발언을 해 논란이 일고 있다.로이터통신에 따르면 트럼프 대통령은 이날 네브래스카주 중간선거 유세에서 “그들(이란)이 도시를 파괴할 수도 있다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20261007/134798848/1",
+          "publishedAt": "2026-10-06T23:56:00+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "SBS",
-            "조선일보"
+            "경향신문",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
           ]
         },
         {
-          "title": "美 8월 무역적자 1056억원…작년 3월 이후 최대",
-          "summary": "지난 8월 미국의 무역적자가 1056억달러로, 작년 3월 이후 최대치를 기록한 것으로 나타났다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/10/07/GQ4GEZRVMY2TANJYMQ4GCZJWGA/",
-          "publishedAt": "2026-10-06T15:07:25+00:00",
-          "sourceCount": 3,
+          "title": "벌거벗은 임금님 빗댄 ‘벌거벗은 트럼프’ 동상…유럽의회 본부에 전시",
+          "summary": "유럽의회 본부 건물에 놓여있는 벌거벗은 트럼프 동상.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610071030001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-10-07T01:30:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
+            "동아일보",
             "연합뉴스"
           ]
         }
@@ -186,38 +190,37 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "포스코퓨처엠, 삼성SDI와 'LFP' 양극재 6조 공급 계약",
-          "summary": "[지디넷코리아]포스코퓨처엠(대표 엄기천)이 삼성SDI에 6조원 규모 리튬·인산·철(LFP) 양극재를 장기 공급한다.포스코퓨처엠은 6일 삼성SDI와 LFP 양극재를 포함한 이차전지소재 일괄 공급을 위한 배터리용 소재 장기 공급계약을 체결했다고 밝혔다.지난 8월 삼성SDI와 합의한 내년부터 2032년까지 19만톤 규모의 LFP 양극재 장기 공급 합의 물량을 두 배 이상 대폭 늘려 본 계약을 맺은 것이다.양사는 이번 계약을 통해 2023년 포스코퓨처엠이 삼성SDI와 체결한 공급계약을 개정, 기존 니켈코발트알루미늄(NCA) 단일 품목에서 LFP 양극재까지 품목을 확대했다.…",
-          "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20261006174744",
-          "publishedAt": "2026-10-06T09:11:40+00:00",
+          "title": "누리호, 오늘 낮 12시 25분 우주로 발사",
+          "summary": "누리호 발사관리위원회는 7일 오전 8시 회의를 열고 이날 낮 12시 25분에 누리호 5호기를 발사하기로 결정했다.…",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/2012429",
+          "publishedAt": "2026-10-06T23:49:25+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "블로터",
+            "동아일보",
             "연합뉴스"
           ]
         },
         {
-          "title": "카카오게임즈 '도깨비의세계' 출시 D-2...사전 다운로드 개시하며 카운트다운 돌입",
-          "summary": "카카오게임즈가 신작 MMORPG '도깨비의세계'의 정식 출시를 이틀 앞두고 사전 다운로드를 시작하며 본격적인 카운트다운에 돌입했다.카카오게임즈는 6일 슈퍼캣이 개발 중인 2.5D MMORPG 도깨비의세계의 사전 다운로드를 시작하고 공식 홈페이지를 오픈했다고 밝혔다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155863",
-          "publishedAt": "2026-10-06T11:22:19+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "아이뉴스24",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "챗GPT가 쓴 글, 이제 '흔적' 남는다...오픈AI, '보이지 않는 워터마크' 도입",
-          "summary": "오픈AI가 챗GPT와 코덱스가 생성한 글에 '보이지 않는 표시'를 넣기 시작한다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=155880",
-          "publishedAt": "2026-10-06T16:55:40+00:00",
+          "title": "LS에코에너지, 베트남에 80억 투자해 '버스덕트 요새' 구축",
+          "summary": "LS에코에너지가 베트남 호치민 생산법인에 80억원을 투자해 '버스덕트 요새'를 구축한다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=675144",
+          "publishedAt": "2026-10-07T10:11:32+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "동아일보"
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "런드리고, 누적 세탁 5000만벌 돌파…출시 7년 만의 성과",
+          "summary": "비대면 모바일 세탁 서비스 '런드리고'를 운영하는 의식주컴퍼니(대표 조성우)는 서비스 출시 7년 만에 누적 세탁 처리량 5000만벌을 돌파했다고 7일 밝혔다.런드리고는 2019년 정식 출시 이후 의류별 맞춤 세탁을 제공하는 '개별",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/2012474",
+          "publishedAt": "2026-10-07T00:31:11+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "테크M"
           ]
         }
       ]
@@ -227,37 +230,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "LG CNS, 금융기관용 블록체인 인프라 ‘기틀’ 출시",
-          "summary": "LG CNS가 금융기관용 블록체인 인프라 플랫폼 ‘기틀(KITL)’을 출시하고 시큐리타이즈(Securitize)와 펀드·채권 토큰화 솔루션을 공동 개발하기로 했다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/blockchain/418933",
-          "publishedAt": "2026-10-06T13:32:39+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "블로터",
-            "아이뉴스24",
-            "테크M"
-          ]
+          "title": "'이더리움 20개 중 1개' 쥔다…비트마인, 5% 장악 코앞",
+          "summary": "세계 최대 이더리움(ETH) 비축 기업 비트마인이 이더리움 1만5000여개를 추가로 사들였다. 지난해 이더리움 비축에 뛰어든 지 15개월 만에 전체 공급량의 4.9%를 확보했다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155889",
+          "publishedAt": "2026-10-07T08:40:13+00:00",
+          "sourceCount": 1,
+          "otherSources": []
         },
         {
-          "title": "이형일 \"가상자산 과세, 다양한 의견 폭넓게 수렴\"",
-          "summary": "이형일 부총리 겸 재정경제부 장관은 6일 가상자산 과세와 관련해 \"국회에서 제기되는 다양한 의견과 함께 전문가...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261006155900002",
-          "publishedAt": "2026-10-06T07:28:45+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "경향신문",
-            "아시아경제",
-            "조선일보"
-          ]
+          "title": "비트코인 1억1600만원대…뉴욕증시 랠리에도 숨고르기",
+          "summary": "글로벌 시장에서는 8만7000달러 돌파를 재차 시도했지만 매도 물량에 막히면서 8만5000달러대로 밀렸다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=155888",
+          "publishedAt": "2026-10-07T08:35:27+00:00",
+          "sourceCount": 1,
+          "otherSources": []
         },
         {
-          "title": "비트코인, 고점 1년 뒤 32% 하락…과거보다 낙폭 얕아",
-          "summary": "비트코인(BTC)은 사상 최고가를 기록한 지 1년 만에 32% 하락했다. 과거 주요 고점 이후 1년간 하락률이 69.7~82.3%였던 것과 비교하면 낙폭이 작았다.…",
+          "title": "조 콘소르티 \"비트코인, 10만 달러 회복 가까워졌다\"",
+          "summary": "비트코인이 4년 주기상 저점으로 지목됐던 시기를 앞당겨 통과했으며 남은 부담은 대형 AI 기업공개 물량이라는 분석이 나왔다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/418940",
-          "publishedAt": "2026-10-06T13:42:39+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/419115",
+          "publishedAt": "2026-10-07T01:41:01+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -268,24 +263,11 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "‘한국인 최초 유럽 오페라 무대’ 메조소프라노 김청자 별세",
-          "summary": "연합뉴스한국인 최초로 유럽 오페라 무대에 섰던 메조소프라노 김청자 전 한국예술종합학교 교수가 5일 별세했다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610061321001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
-          "publishedAt": "2026-10-06T04:21:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "동아일보",
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "프로배구 정관장, 새 사령탑에 권순찬 전 흥국생명 감독 선임",
-          "summary": "불미스러운 일을 겪은 여자프로배구 정관장이 신임 사령탑으로 권순찬 감독을 선임했다고 6일 발표했다.",
+          "title": "'대표팀 이탈' 호날두 \"내 행동 처벌 받아 마땅…은퇴는 아냐\"",
+          "summary": "포르투갈 축구 대표팀을 스스로 이탈한 크리스티아누 호날두(알나스르)가 자기 행동의 전말을 공개하며 \"내 행동은...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261006121100007",
-          "publishedAt": "2026-10-06T05:31:55+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20261007018800007",
+          "publishedAt": "2026-10-06T22:38:46+00:00",
           "sourceCount": 3,
           "otherSources": [
             "조선일보",
@@ -293,15 +275,26 @@
           ]
         },
         {
-          "title": "47세 김종민, 아빠 된다…“아내가 임신 17주차”",
-          "summary": "그룹 코요태 멤버 겸 방송인 김종민(47)이 아빠가 된다.7일 방송되는 KBS 2TV 예능 프로그램 ‘슈퍼맨이 돌아왔다’에서는 MC 김종민이 아내의 임신 소식을 직접 전한다.…",
+          "title": "손흥민 A매치 59호골 폭발…차범근 넘어 한국인 최다 신기록",
+          "summary": "‘캡틴, 차붐을 넘었다.’한국 축구국가대표팀 주장 손흥민이 A매치 통산 59호 골을 터뜨렸다. 차범근(58골)을 넘어 한국 축구 A매치 최다골 신기록을 작성했다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Culture/article/all/20261006/134790901/2",
-          "publishedAt": "2026-10-06T00:28:00+00:00",
+          "link": "https://www.donga.com/news/Society/article/all/20261006/134797059/2",
+          "publishedAt": "2026-10-06T11:15:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "경향신문"
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "첫 K리그1 승격 이끌고, 팬 응원까지 문신으로...바사니, 부천과 2028년까지 동행 연장",
+          "summary": "[OSEN=정승우 기자] 부천FC1995의 첫 K리그1 승격을 이끈 바사니가 동행을 이어간다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/football/2026/10/07/MZRWMZLDMIZTSOBUHA2TAN3GGM/",
+          "publishedAt": "2026-10-07T01:06:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
           ]
         }
       ]
@@ -311,186 +304,186 @@
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "데이터센터 전력수요 급증 전망에 기후장관",
-      "sentence": "김성환 기후에너지환경부 장관은 6일 장래 데이터센터 전력 수요 전망에 대해 \"과잉된 측면이 없지 않다\"고 밝혔...",
+      "phrase": "개방형 AI 모델 공개",
+      "sentence": "프랑스 인공지능(AI) 스타트업 미스트랄이 6일(현지시간) 자사 최대 규모의 오픈웨이트(가중치 공개형) AI...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261006162600530"
+      "link": "https://www.yna.co.kr/view/AKR20261007004800085"
     },
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "조희대 대통령·국회의 대법원장 제청 관여는 위헌",
-      "sentence": "법사위 국감 출석해 증인 선서 거부대법원장 제청권 법적 정당성 강조청와대 “신속히 재제청” 기존 입장조희대 대법원장(사진)은 6일 국회 국정감사에서 헌법상 대통령…",
+      "phrase": "박정희 고향 구미서 영화 내렸다",
+      "sentence": "고 육영수 여사 피격 사건을 소재로 한 영화 '암살자'을 둘러싼 역사 왜곡 논란이 이어지면서 박정희 전 대통령의 고향인 경북 구미…",
       "articleCount": 250,
-      "link": "https://www.khan.co.kr/article/202610062159025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008786221"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "1mm라도 침범하면 강력 대응",
-      "sentence": "북한 외무성이 우리 군의 최종 조사 결과에 대한 반응을 내놨습니다.",
+      "phrase": "트럼프 한국에 관세 낮추려면 대가 지불해야",
+      "sentence": "도널드 트럼프 미국 대통령은 6일(현지시간) 자신이 한국을 향해 관세 인하의 '대가' 지급을 요구했다고 거...",
       "articleCount": 250,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785800"
+      "link": "https://www.yna.co.kr/view/AKR20261007008051071"
     },
     {
       "id": "sports",
       "name": "스포츠",
       "phrase": "48년만에 차붐 넘어 한국축구 새역사",
       "sentence": "손흥민(34·LAFC)이 A매치 59호 골을 터트리고 마침내 '전설' 차범근 전 국가대표팀 감독을 약 48년 ...",
-      "articleCount": 250,
+      "articleCount": 199,
       "link": "https://www.yna.co.kr/view/AKR20261006191152007"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "韓 최초 유럽무대 데뷔 메조소프라노 김청자 별세",
-      "sentence": "한국인 최초로 유럽 오페라 무대에 섰던 메조소프라노 김청자(金淸子) 전 한국예술종합학교 교수가 5일 오...",
-      "articleCount": 121,
-      "link": "https://www.yna.co.kr/view/AKR20261006050651005"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "암살자 유해진 신변보호 가동",
-      "sentence": "영화 '암살자(들)'의 역사 왜곡 논란으로 출연 배우와 제작사에 대한 항의가 이어지는 가운데 경찰이 주연 배우...",
-      "articleCount": 121,
-      "link": "https://www.yna.co.kr/view/AKR20261006176351004"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "노벨물리학상에 프랜시스 할젠",
-      "sentence": "남극의 거대한 얼음을 활용해 ‘우주에서 온 유령 입자’로 불리는 중성미자(neutrino)를 발견한 프랜시스 할젠(82) 미국 위스콘신대 매디슨 교수가 올해 노벨…",
-      "articleCount": 116,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000020424"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "주주환원 많은 기업만 투자",
-      "sentence": "대신자산운용이 배당과 자사주 매입·소각 등 주주환원 규모가 크면서 주가 수준은 상대적으로 낮은 종목을 선별해 투자하는 ‘대신 주주환원고배당펀드’를 6일 출시했다.…",
-      "articleCount": 112,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261007031004"
+      "phrase": "S&P500·나스닥 또 최고치",
+      "sentence": "6일(현지시간) 미국 뉴욕증시 3대 지수가 일제히 상승 마감했다.",
+      "articleCount": 136,
+      "link": "https://www.yna.co.kr/view/AKR20261007005851072"
     },
     {
       "id": "trade",
       "name": "수출·관세",
-      "phrase": "美 8월 무역적자 작년 3월 이후 최대",
-      "sentence": "지난 8월 미국의 무역적자가 늘며 수입액이 사상 최대 규모를 기록했다.",
-      "articleCount": 103,
-      "link": "https://www.yna.co.kr/view/AKR20261006201700072"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "韓최초 유럽 데뷔 메조소프라노 김청자 별세",
-      "sentence": "한국인 최초로 유럽 오페라 무대에 섰던 메조소프라노 김청자(사진) 전 한국예술종합학교 교수가 향년 82세로 별세했다.…",
-      "articleCount": 93,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000020438"
-    },
-    {
-      "id": "semiconductor",
-      "name": "반도체",
-      "phrase": "삼성전기에 245억 반도체 장비 공급",
-      "sentence": "한미반도체가 삼성전기에 244억 8000만원 규모의 ‘마이크로 쏘＆비전 플레이스먼트’(MSVP) 장비를 공급한다고 6일 공시했다.…",
-      "articleCount": 91,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261007032002"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "나주 주택서 60대 부부 피살",
-      "sentence": "전남광주 나주에서 부부가 몸이 묶여 숨진 채 발견돼 경찰이 수사에 나섰다.",
-      "articleCount": 91,
-      "link": "https://www.yna.co.kr/view/AKR20261006199151054"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "도깨비의세계 사전 다운로드 시작",
-      "sentence": "카카오게임즈[293490]는 슈퍼캣이 개발 중인 신작 2.5D 다중접속역할수행게임(MMORPG) '도깨비의세계...",
-      "articleCount": 88,
-      "link": "https://www.yna.co.kr/view/AKR20261006120000017"
-    },
-    {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "우주 산업 먹거리 탐색 속도",
-      "sentence": "LG가 오는 7일 발사 예정인 누리호 5차에 3개 계열사의 부품을 실어 기술 실증에 나선다.",
-      "articleCount": 82,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261006500233"
+      "phrase": "트럼프 한국에 관세 낮추려면 대가 지불해야",
+      "sentence": "도널드 트럼프 미국 대통령은 6일(현지시간) 자신이 한국을 향해 관세 인하의 '대가' 지급을 요구했다고 거...",
+      "articleCount": 121,
+      "link": "https://www.yna.co.kr/view/AKR20261007008051071"
     },
     {
       "id": "industry",
       "name": "산업·기업",
-      "phrase": "삼성SDI와 LFP 공급 6조 계약",
-      "sentence": "포스코퓨처엠이 삼성SDI와 6조 원 규모의 리튬·인산·철(LFP) 양극재 장기 공급 계약을 체결했다.…",
+      "phrase": "관세 낮추려면 대가 내라고 말했다",
+      "sentence": "도널드 트럼프 미국 대통령은 6일(현지시간) 자신이 한국을 향해 관세 인하의 대가 지급을 요구했다고 거듭 강조했다.…",
+      "articleCount": 113,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000020483"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "암살자 논란 속 부산국제영화제 개막",
+      "sentence": "연합뉴스아시아 최대 영화제인 제31회 부산국제영화제(BIFF)가 6일 열흘간의 영화 축제를 시작했다.",
+      "articleCount": 109,
+      "link": "https://www.khan.co.kr/article/202610062048015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "성폭행 부실대응에 책임",
+      "sentence": "2년 전 발생한 학생 성폭행 사건에 대한 부실 대응으로 위기에 처한 미국 코넬대에서 이번에는 교수진이 총장을...",
+      "articleCount": 108,
+      "link": "https://www.yna.co.kr/view/AKR20261007001900072"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "한국 기업들 만나 AI 반도체 동맹 논의",
+      "sentence": "연합뉴스한국을 방문한 미국 반도체 기업 AMD의 리사 수 최고경영자(CEO)가 7일 국내 인공지능(AI) 반도체 기업 14개사와 만나 AMD의 중앙처리장치(CPU…",
+      "articleCount": 103,
+      "link": "https://www.khan.co.kr/article/202610071036001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "사우디 공항·정유시설에 후티 공습",
+      "sentence": "사우디아라비아가 주도하는 예멘 연합군이 친이란 반군 후티가 장악했던 바브엘만데브 해...",
+      "articleCount": 101,
+      "link": "https://www.yna.co.kr/view/AKR20261007003800099"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "요양병원 같은 병실 환자 숨지게 한 70대",
+      "sentence": "같은 병실 환자에게 상해를 입혀 숨지게 한 70대에게 징역 15년이 선고됐다.",
+      "articleCount": 89,
+      "link": "https://www.yna.co.kr/view/AKR20261007045600053"
+    },
+    {
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "오늘 낮 12시 25분 우주로",
+      "sentence": "한국형 발사체 누리호의 5차 발사 시각이 7일 낮 12시 25분으로 확정됐다.",
+      "articleCount": 82,
+      "link": "https://www.yna.co.kr/view/AKR20261007033052017"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "나주 주택서 60대 부부 결박된 채 숨져",
+      "sentence": "7일 나주경찰서에 따르면 전날 오후 7시49분쯤 나주시의 한 주택에서 A씨 부부가 숨져 있는 것을 지인이 발견해 경찰에 신고했다.…",
+      "articleCount": 81,
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000020507"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "카카오게임즈 도깨비의세계 출시 D-2",
+      "sentence": "카카오게임즈가 신작 MMORPG '도깨비의세계'의 정식 출시를 이틀 앞두고 사전 다운로드를 시작하며 본격적인 카운트다운에 돌입했다.카카오게임즈는 6일 슈퍼캣이 개…",
       "articleCount": 79,
-      "link": "https://www.donga.com/news/Economy/article/all/20261006/134796287/2"
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155863"
     },
     {
       "id": "rate",
       "name": "금리",
-      "phrase": "미 국채 수요 줄일 수 있다",
-      "sentence": "세계 최대 헤지펀드인 브리지워터 어소시에이츠의 창업자 레이 달리오가 미국의 양대 채권국인 중국과 일본이 미 국채 ...",
-      "articleCount": 61,
-      "link": "https://www.yna.co.kr/view/AKR20261006134500009"
-    },
-    {
-      "id": "retail",
-      "name": "유통·소비",
-      "phrase": "외국인 매출 1조원 시대 열었다",
-      "sentence": "백화점 외국인 매출 ‘1조원 시대’가 열렸다.",
-      "articleCount": 60,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000020416"
+      "phrase": "실적 기대·금리 진정에 뉴욕증시 상승",
+      "sentence": "AFP연합뉴스기업 실적 개선에 대한 기대와 국채 금리 하락이 맞물리며 6일(현지시간) 뉴욕증시가 상승했다.…",
+      "articleCount": 69,
+      "link": "https://www.khan.co.kr/article/202610070723001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "체불임금 대지급금 부정수급 신고하면 최대 2억원",
-      "sentence": "경향신문임금체불 피해 노동자에게 국가가 사업주 대신 지급하는 대지급금의 부정수급 신고포상금 상한이 현행 1억원에서 2억원으로 두 배 오른다.…",
-      "articleCount": 58,
-      "link": "https://www.khan.co.kr/article/202610061407001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
+      "phrase": "프랑스 유럽의회에 벌거벗은 트럼프 금빛 동상",
+      "sentence": "유럽의회 본부에 트럼프 미국 대통령을 벌거벗은 임금님에 빗댄 금도금 풍자 동상이 등장했다.",
+      "articleCount": 59,
+      "link": "https://www.donga.com/news/Inter/article/all/20261007/134799755/2"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "금융기관용 블록체인 인프라 기틀 출시",
-      "sentence": "LG CNS가 금융기관용 블록체인 인프라 플랫폼 ‘기틀(KITL)’을 출시하고 시큐리타이즈(Securitize)와 펀드·채권 토큰화 솔루션을 공동 개발하기로 했다…",
-      "articleCount": 54,
-      "link": "https://www.tokenpost.kr/news/blockchain/418933"
+      "phrase": "이형일 가상자산 과세",
+      "sentence": "이형일 부총리 겸 재정경제부 장관은 6일 가상자산 과세와 관련해 \"국회에서 제기되는 다양한 의견과 함께 전문가...",
+      "articleCount": 58,
+      "link": "https://www.yna.co.kr/view/AKR20261006155900002"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비",
+      "phrase": "유통·엔터 결합",
+      "sentence": "신세계그룹은 미국 파라마운트 스카이댄스 그룹이 주도하는 워너브라더스 인수에 신세계프라퍼티가 투자한다고 6일 밝...",
+      "articleCount": 56,
+      "link": "https://www.yna.co.kr/view/AKR20261006153100030"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "해킹 은폐 확인되면 위약금 면제",
-      "sentence": "[지디넷코리아]LG유플러스가 침해사고 정황을 통보받은 뒤 관련 서버를 폐기하거나 운영체제(OS)를 재설치한 것을 두고 국회에서 해킹 은폐 의혹이 제기됐다.…",
-      "articleCount": 44,
-      "link": "https://zdnet.co.kr/view/?no=20261006180105"
+      "phrase": "美최대 원전기업 컨스텔레이션서 3.6GW",
+      "sentence": "구글이 인공지능(AI) 데이터센터의 전력 수요에 대응해 미국 최대 원전기업과 전력구매 계약을 맺었다.",
+      "articleCount": 51,
+      "link": "https://www.yna.co.kr/view/AKR20261007007200091"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "이 대통령 농지 전용해 태양광사업하면 몇배 소득",
-      "sentence": "청와대사진기자단이재명 대통령은 6일 “대한민국은 전기 국가로 가야하고 재생에너지가 핵심이다.…",
-      "articleCount": 39,
-      "link": "https://www.khan.co.kr/article/202610061639001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news"
+      "phrase": "데이터센터 전력수요 급증 전망에 기후장관",
+      "sentence": "김성환 기후에너지환경부 장관은 6일 장래 데이터센터 전력 수요 전망에 대해 \"과잉된 측면이 없지 않다\"고 밝혔...",
+      "articleCount": 33,
+      "link": "https://www.yna.co.kr/view/AKR20261006162600530"
     },
     {
       "id": "labor",
       "name": "노동",
       "phrase": "삼성바이오 노조",
       "sentence": "삼성바이오로직스 노동조합이 임금 인상과 인사·보상 제도 개선 등을 요구하며 이달 26일부터 3주간 2차 총파업에 나선다.…",
-      "articleCount": 35,
+      "articleCount": 30,
       "link": "https://www.donga.com/news/Economy/article/all/20261006/134796289/2"
     },
     {
       "id": "fx",
       "name": "환율",
-      "phrase": "대미 투자 본격화되며 외환보유액 17억달러↓",
-      "sentence": "한국 정부가 대미(對美) 투자를 위한 실탄 마련에 나서면서 이 자금의 재원 중 하나인 외환보유액이 넉 달 만에 감소로 전환됐다.…",
-      "articleCount": 20,
-      "link": "https://www.donga.com/news/Economy/article/all/20261006/134796429/2"
+      "phrase": "12월 3일부터 해외 거래소·개인지갑 코인",
+      "sentence": "국내 가상자산사업자가 해외 거래소나 개인지갑으로 옮긴 가상자산 내역을 한국은행 외환전산망에 통보하는 제도가 12월 3일부터 시행될 예정이다.…",
+      "articleCount": 23,
+      "link": "https://www.tokenpost.kr/news/policy/419156"
     }
   ],
   "topicCatalog": [
