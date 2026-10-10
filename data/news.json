@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:56:59+09:00",
+  "generatedAt": "2026-10-11T02:19:40+09:00",
   "categories": [
     {
       "id": "politics",
@@ -19,19 +19,6 @@
           ]
         },
         {
-          "title": "북한, 미 '최악 인신매매국' 지정에 \"중상모독 정치적 도발\"",
-          "summary": "북한은 오늘 자국의 인신매매 대응에 최하위 등급을 매긴 미국 정부 보고서를 두고 \"악랄하게 중상 모독하는 정치적 도발\"이라고 반발…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791010",
-          "publishedAt": "2026-10-10T00:57:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "경향신문",
-            "동아일보",
-            "조선일보"
-          ]
-        },
-        {
           "title": "與 “한동훈, 장관 때 딸 ‘허위 스펙’ 의혹 사건 덮었나”…공세 강화",
           "summary": "더불어민주당이 10일 무소속 한동훈 의원이 법무부 장관 재직 당시 딸의 ‘허위 스펙’ 의혹 수사에 개입한 것 아니냐며 공세를 이어나갔다.…",
           "source": "동아일보",
@@ -41,6 +28,18 @@
           "otherSources": [
             "SBS",
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "박기창 주우크라이나 한국 대사 결국 귀국···정부 ‘본국 소환’ 결정 이틀 만",
+          "summary": "박민규 선임기자박기창 주우크라이나 대사가 10일 귀국했다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610101012001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-10-10T01:12:00+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "조선일보"
           ]
         }
       ]
@@ -72,13 +71,15 @@
           ]
         },
         {
-          "title": "숭실대 박찬준 교수 연구팀, AACL-IJCNLP 2026 논문 4편 채택",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/economy/biznews/1281722.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
+          "title": "‘연휴 날벼락’ 대구 마트 천장 붕괴...36명 경상",
+          "summary": "66명 대피...중상자는 없어10일 대구의 한 마트에서 천장이 내려앉는 사고가 발생해 36명이 경상을 입었다. 소방 당국에 따르면 이날 오전 10시 16분쯤 대구 북구 관음동 한 ..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/economy/12172686",
+          "publishedAt": "2026-10-10T03:02:14+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "머니투데이"
+          ]
         }
       ]
     },
@@ -87,14 +88,14 @@
       "name": "사회",
       "items": [
         {
-          "title": "서울 대학서 20대 여성 찌른 뒤 도주한 영국인···인터폴 수배 9일 만에 본국서 검거",
-          "summary": "경향신문 자료사진서울 시내 한 대학에서 지인인 여성을 흉기로 찌른 뒤 모국으로 도주한 혐의를 받는 30대 영국인 남성이 현지에서 검거됐다.경찰청은 살인미수 혐의를 받는 영국 국적의 A씨를 영국 국가범죄인인도 전담대(NEU)와의 공조를 통해 지난 8일(현지시간) 영국에서 검거했다고 10일 밝혔다.A씨는 지난달 29일 오전 11시 50분쯤 서울의···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610101347001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-10-10T04:47:00+00:00",
+          "title": "서울 대학서 여성 흉기로 찌르고 도주…영국서 붙잡았다",
+          "summary": "서울 시내 한 대학교에서 지인 여성을 흉기로 찌른 뒤 영국으로 도주한 30대 영국인 남성이 현지 당국에 붙잡혔습니다.경찰청은 살인미수 혐의를 받…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791234",
+          "publishedAt": "2026-10-10T11:21:00+00:00",
           "sourceCount": 6,
           "otherSources": [
-            "SBS",
+            "경향신문",
             "동아일보",
             "연합뉴스",
             "조선일보",
@@ -134,31 +135,30 @@
       "name": "국제",
       "items": [
         {
-          "title": "“남북 전쟁도 내가 막고 있는데”…트럼프, 노벨상 불발에 격앙",
-          "summary": "노벨상 불발에 “8개 받았어야” 노벨위·노르웨이 향해 거센 비난 “이란·우크라 전쟁도 곧 해결”도널드 트럼프 미국 대통령이 올해 노벨평화상 수상자로 선정되지 않자 “노벨상을 8개 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12172691",
-          "publishedAt": "2026-10-10T04:34:29+00:00",
+          "title": "노벨상 불발에 ‘뒤끝’ 트럼프 “내가 남북한 전쟁도 막고 있어”",
+          "summary": "도널드 트럼프 미국 대통령이 9일(현지 시간) 올해 노벨평화상 수상자로 선정되지 않은 데 대해 “미국에 수여하지 않은 것은 노르웨이와 그 밖의 모든 국가들이 미국을 어떻게 착취하고 있는지를 보여주는 또 하나의 증거일 뿐”이라며 “노르웨이의 지울 수 없는 오점”이라며 이같은 결정을 내린 노르웨이 노벨위원회를 강하게 비판했다.트럼프 대통령은 이날 뉴욕주 시러큐스에서 열린 중간선거 지원 유세에서 “오늘 노벨 평화상이 들어본 적도 없고, 아무도 몰랐던 한 사람에게 돌아갔다”며 이같이 밝혔다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20261010/134817533/1",
+          "publishedAt": "2026-10-10T04:12:00+00:00",
           "sourceCount": 6,
           "otherSources": [
             "SBS",
             "경향신문",
-            "동아일보",
+            "매일경제",
             "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "트럼프, 푸틴에 SOS…“러 경유 세계시장에 공급 합의”",
-          "summary": "도널드 트럼프 미국 대통령이 8일(현지 시간) 블라디미르 푸틴 러시아 대통령과 통화했다고 밝히며 “러시아가 즉시 30만 t 이상의 디젤 연료(경유)를 미국과 세계시장에 공급하기로 합의됐다”고 말했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20261010/134817085/1",
-          "publishedAt": "2026-10-09T23:16:00+00:00",
-          "sourceCount": 4,
+          "title": "EU 장기예산 합의 난항…독일은 삭감, 프랑스는 증액",
+          "summary": "유럽연합(EU)의 차기 장기예산안(2028~2034년)을 놓고 독일과 프랑스가 대립하면서 연내 합의 난항이 예상된다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/10/11/MY2TOMLGMQZTMZBRMZRDGMTDGE/",
+          "publishedAt": "2026-10-10T16:02:00+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "경향신문",
-            "한겨레"
+            "연합뉴스"
           ]
         },
         {
@@ -215,29 +215,29 @@
       "name": "가상화폐",
       "items": [
         {
+          "title": "비트코인 제자리 와도 3배 ETF 손실 남을 수 있다",
+          "summary": "비트코인(BTC) 가격이 매수가로 돌아와도 3배 레버리지 상품의 손실이 회복된다는 보장은 없다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/420942",
+          "publishedAt": "2026-10-10T17:14:46+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
+          "title": "알트코인 시즌 지수 59…9월 고점 78서 하락",
+          "summary": "알트코인 시즌 지수가 9월 27일 78에서 10월 10일 59로 내려왔다. 90일 기준 지수는 알트코인 시즌 판정선인 75를 한 차례 넘은 뒤 다시 전환 구간에 들어섰다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/420935",
+          "publishedAt": "2026-10-10T16:18:41+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
           "title": "암호화폐 시장 혼조세… 비트코인 82,934달러, 이더리움 2,507달러",
           "summary": "암호화폐 시장이 혼조세를 보이는 가운데 비트코인은 내렸지만 이더리움은 올랐다. 비트코인 점유율은 축소되고 이더리움 점유율은 높아졌고, 파생상품 거래량은 감소해 단기 관망 심리도 함께 나타났다.…",
           "source": "토큰포스트",
           "link": "https://www.tokenpost.kr/news/briefing/420922",
           "publishedAt": "2026-10-10T15:03:57+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "비트코인 ETF 2113만달러 순유입…이틀 유출분엔 못 미쳐",
-          "summary": "미국 비트코인(BTC) 현물 ETF가 10월 9일 2113만달러(약 284억원) 순유입을 기록했다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/420919",
-          "publishedAt": "2026-10-10T14:52:23+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "이더리움 2500달러 돌파…OKX서 2500.05달러 기록",
-          "summary": "이더리움(ETH)이 10일 2500달러를 넘어섰다. 당시 가격은 2500.05달러였고 일일 상승률은 0.45%였다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/420914",
-          "publishedAt": "2026-10-10T14:33:52+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -286,14 +286,6 @@
   ],
   "topics": [
     {
-      "id": "politics",
-      "name": "정치",
-      "phrase": "노벨상 불발 비판하며 내가 남북한 전쟁도",
-      "sentence": "도널드 트럼프 미국 대통령은 9일(현지시간) 올해 노벨평화상 수상자로 자신이 선정되지 않은 데 대해 \"지울...",
-      "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261010023200071"
-    },
-    {
       "id": "world",
       "name": "국제정세",
       "phrase": "트럼프 푸틴과 러시아 경유 30만 톤 즉각",
@@ -302,11 +294,19 @@
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790798"
     },
     {
+      "id": "politics",
+      "name": "정치",
+      "phrase": "노벨상 불발 비판하며 내가 남북한 전쟁도",
+      "sentence": "도널드 트럼프 미국 대통령은 9일(현지시간) 올해 노벨평화상 수상자로 자신이 선정되지 않은 데 대해 \"지울...",
+      "articleCount": 248,
+      "link": "https://www.yna.co.kr/view/AKR20261010023200071"
+    },
+    {
       "id": "sports",
       "name": "스포츠",
       "phrase": "U-18 여자농구 아시아컵 준결승서 일본에",
       "sentence": "한국 18세 이하(U-18) 여자 농구 대표팀이 국제농구연맹(FIBA) 아시아컵 준결승전에서 일본에 패해 3·...",
-      "articleCount": 187,
+      "articleCount": 210,
       "link": "https://www.yna.co.kr/view/AKR20261009057600007"
     },
     {
@@ -314,7 +314,7 @@
       "name": "산업·기업",
       "phrase": "청주공항 이륙 대기 중 승객 보조배터리서 불",
       "sentence": "충북 청주국제공항 이륙 대기 중이던 항공기에서 승객 보조배터리에 화재가 발생해 탑승해 있던 168명 명이 전원 대피하는 등 항공기 지연 사태가 발생했다.10일 한…",
-      "articleCount": 125,
+      "articleCount": 115,
       "link": "https://www.donga.com/news/Society/article/all/20261010/134817995/1"
     },
     {
@@ -322,23 +322,23 @@
       "name": "AI·인공지능",
       "phrase": "한국 금융권 해킹에 등장한 아르텍스 결국 공개",
       "sentence": "최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 인공지능(AI) 침투테스트 도구 '아...",
-      "articleCount": 114,
+      "articleCount": 110,
       "link": "https://www.yna.co.kr/view/AKR20261010022500017"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "배우자에 돈 문제 숨겼다",
-      "sentence": "미국인 커플·기혼자 대상 조사 동거전 재정상태 몰랐던 경우 68% 49% “싸울까봐 돈 얘기는 안한다” MZ세대 ‘재정분리 독립관리’ 경향연인이나 배우자에게 재정…",
-      "articleCount": 65,
-      "link": "https://www.mk.co.kr/news/society/12172307"
+      "phrase": "내년 2월 출산 예정",
+      "sentence": "지난 2월 결혼한 방송인 남창희가 결혼 8개월 만에 아빠가 된다고 밝혔다.…",
+      "articleCount": 79,
+      "link": "https://www.mt.co.kr/entertainment/2026/10/10/2026101010451497546"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "태안 펜션서 새어 나온 LPG에 불",
       "sentence": "10일 오후 7시 32분께 충남 태안군 안면읍의 한 펜션 객실에서 새어 나와 있던 액화석유가스(LPG)에 불이...",
-      "articleCount": 61,
+      "articleCount": 63,
       "link": "https://www.yna.co.kr/view/AKR20261010045300063"
     },
     {
@@ -346,24 +346,24 @@
       "name": "건강·의료",
       "phrase": "대구 상가 2층서 10초간 천장 와르르",
       "sentence": "대구의 한 건물에서 천장 마감재 일부가 떨어져 내려 38명이 다치는 사고가 발생했다.…",
-      "articleCount": 56,
+      "articleCount": 60,
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000021406"
-    },
-    {
-      "id": "semiconductor",
-      "name": "반도체",
-      "phrase": "최태원 호남 반도체 가장 빠른 속도로",
-      "sentence": "최태원 SK그룹 회장은 9일 호남 반도체 클러스터 부지인 광주 군 공항을 방문해 \"지을 수 있는 상황이 된...",
-      "articleCount": 55,
-      "link": "https://www.yna.co.kr/view/AKR20261009042300054"
     },
     {
       "id": "education",
       "name": "교육",
       "phrase": "서울 대학서 지인 여성 찌르고 출국한 영국인",
       "sentence": "서울 시내 대학교에서 지인 여성을 흉기로 찌른 뒤 모국으로 도주한 30대 영국인 남성이 현지 당국에 검거됐다.",
-      "articleCount": 53,
+      "articleCount": 56,
       "link": "https://www.yna.co.kr/view/AKR20261010023300004"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "최태원 호남 반도체 가장 빠른 속도로",
+      "sentence": "최태원 SK그룹 회장은 9일 호남 반도체 클러스터 부지인 광주 군 공항을 방문해 \"지을 수 있는 상황이 된...",
+      "articleCount": 52,
+      "link": "https://www.yna.co.kr/view/AKR20261009042300054"
     },
     {
       "id": "trade",
@@ -374,19 +374,11 @@
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000021403"
     },
     {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "대낮 뉴욕 주택가서 ICE 요원이 5세 아동",
-      "sentence": "미국 뉴욕에서 이민세관단속국(ICE) 요원이 불법체류자를 단속하던 중 5세 어린이가 타고 있던 차량에 총격을...",
-      "articleCount": 39,
-      "link": "https://www.yna.co.kr/view/AKR20261009062900072"
-    },
-    {
       "id": "stock",
       "name": "증시",
       "phrase": "LET 아람코 코리아 3R 13위",
       "sentence": "김효주가 유럽여자프로골프투어(LET) 아람코 코리아 챔피언십(총상금 200만 달러) 셋째 날 선두와 격차를 좁...",
-      "articleCount": 38,
+      "articleCount": 43,
       "link": "https://www.yna.co.kr/view/AKR20261010038300007"
     },
     {
@@ -394,23 +386,31 @@
       "name": "게임",
       "phrase": "아시안게임 금메달리스트 여서정",
       "sentence": "2026 아이치·나고야 아시안게임 여자 도마 금메달리스트 여서정(24·제천시청)이 전국체전에서 4관왕에 올랐다...",
-      "articleCount": 36,
+      "articleCount": 38,
       "link": "https://www.yna.co.kr/view/AKR20261009058400007"
     },
     {
       "id": "science",
       "name": "우주·과학",
-      "phrase": "혁명수비대 항로 위반시 처벌",
-      "sentence": "호르무즈 해협을 지나는 선박이 미상의 발사체에 맞았다고 영국 해사무역기구(UKMTO)가 9일(현지시간) ...",
-      "articleCount": 35,
-      "link": "https://www.yna.co.kr/view/AKR20261009062800108"
+      "phrase": "저대역 주파수 11조원에 인수",
+      "sentence": "세계 최대 부호 일론 머스크가 이끄는 항공우주 기업 스페이스X가 저대역 주파수를 거액에 사들이며 이동...",
+      "articleCount": 38,
+      "link": "https://www.yna.co.kr/view/AKR20261010006800075"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "대낮 뉴욕 주택가서 ICE 요원이 5세 아동",
+      "sentence": "미국 뉴욕에서 이민세관단속국(ICE) 요원이 불법체류자를 단속하던 중 5세 어린이가 타고 있던 차량에 총격을...",
+      "articleCount": 36,
+      "link": "https://www.yna.co.kr/view/AKR20261009062900072"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "접속 장애 쿠팡",
       "sentence": "‘접속 장애’ 쿠팡, 주문취소 고객 5천원 보상…쿠팡이츠 3천원",
-      "articleCount": 34,
+      "articleCount": 33,
       "link": "https://www.hani.co.kr/arti/economy/economy_general/1281656.html"
     },
     {
@@ -418,7 +418,7 @@
       "name": "가상자산",
       "phrase": "72시간 새 BTC·ETH 보유량 늘려 外",
       "sentence": "고래 집단이 최근 72시간 동안 비트코인과 이더리움 보유량을 늘렸다.…",
-      "articleCount": 32,
+      "articleCount": 29,
       "link": "https://www.tokenpost.kr/news/briefing/420921"
     },
     {
@@ -426,7 +426,7 @@
       "name": "물가·고용",
       "phrase": "이소영 최저임금 차등적용 고민 발언에 시대 역행",
       "sentence": "조국혁신당은 10일 더불어민주당 소속의 이소영 중소벤처기업부 장관이 국정감사에서 최저임금 업종별 차등 적용에 ...",
-      "articleCount": 28,
+      "articleCount": 24,
       "link": "https://www.yna.co.kr/view/AKR20261010031300001"
     },
     {
@@ -438,11 +438,19 @@
       "link": "https://www.hani.co.kr/arti/economy/finance/1281532.html"
     },
     {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "단일 시즌 최다 안타 신기록",
+      "sentence": "KT 최원준, 단일 시즌 최다 안타 신기록…삼성전 3안타로 204개",
+      "articleCount": 20,
+      "link": "https://www.hani.co.kr/arti/sports/baseball/1281422.html"
+    },
+    {
       "id": "climate",
       "name": "환경·기후",
       "phrase": "경기 남부권 5개 시 오존주의보 발령",
       "sentence": "(수원=연합뉴스) 10일 오후 4시를 기해 경기 남부권 5개 시에 오존주의보가 내려졌다고 기후에너지환경부 한국환경공단이 전했다.",
-      "articleCount": 19,
+      "articleCount": 17,
       "link": "https://www.yna.co.kr/view/AKR20261010036500527"
     },
     {
@@ -450,23 +458,15 @@
       "name": "노동",
       "phrase": "부천 발전소 공사장서 크레인 무게추 사고",
       "sentence": "경기 부천시의 한 발전소 건설현장에서 타워크레인 무게추에 맞은 노동자 1명이 숨지고 1명이 다치는 사고가 발생...",
-      "articleCount": 17,
-      "link": "https://www.yna.co.kr/view/AKR20261010032200530"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "단일 시즌 최다 안타 신기록",
-      "sentence": "KT 최원준, 단일 시즌 최다 안타 신기록…삼성전 3안타로 204개",
       "articleCount": 14,
-      "link": "https://www.hani.co.kr/arti/sports/baseball/1281422.html"
+      "link": "https://www.yna.co.kr/view/AKR20261010032200530"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "중국 위안화 절하로 수출 경쟁력 확보 안 해",
       "sentence": "중국 “위안화 절하로 수출 경쟁력 확보 안 해”…EU 비판에 정면 반박",
-      "articleCount": 8,
+      "articleCount": 6,
       "link": "https://www.hani.co.kr/arti/international/china/1281679.html"
     }
   ],
