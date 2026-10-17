@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T22:55:16+09:00",
+  "generatedAt": "2026-10-18T00:29:53+09:00",
   "categories": [
     {
       "id": "politics",
@@ -73,15 +73,13 @@
           ]
         },
         {
-          "title": "국내 기름값 22주 연속 하락…휘발유·경유 1천800원대 지속",
-          "summary": "전국 주유소 기름값이 지난주보다 소폭 내리며 22주 연속 하락세를 이어갔다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261016155700003",
-          "publishedAt": "2026-10-16T21:05:01+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "SBS"
-          ]
+          "title": "내 노후를 지켜줄 아파트는 어디에?…미리 보는 ‘서울 아파트 미래지도’",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/economy/property/1282819.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -221,29 +219,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "가상자산 요구하며 주택 침입한 남성 3명, 징역 5~6년",
-          "summary": "가상자산을 요구하며 브리스톨의 한 주택에 침입해 거주자를 폭행한 남성 3명이 징역 5~6년을 선고받았다. 피해자의 여동생이 경찰에 신고해 세 사람은 현장에서 체포됐고, 가상자산은 빼앗기지 않았다.…",
+          "title": "AI 수학 연구 가속 우려에 블록체인 업계, 양자 전 보안 대비 논의",
+          "summary": "AI가 암호학 연구를 앞당길 가능성에 대비해 블록체인 업계도 양자컴퓨터 등장 전의 보안 위험을 살펴야 한다는 주장이 나왔다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/423699",
-          "publishedAt": "2026-10-17T11:39:12+00:00",
+          "link": "https://www.tokenpost.kr/news/blockchain/423748",
+          "publishedAt": "2026-10-17T15:14:41+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "코인베이스·마르케타, 기업용 스테이블코인 카드 협력",
-          "summary": "코인베이스($COIN)와 마르케타($MQ)가 기업 고객이 스테이블코인 잔액을 카드 결제에 연결할 수 있도록 협력한다.…",
+          "title": "토큰화 늘어도 비트코인·이더리움 수익은 별개",
+          "summary": "토큰화가 늘어도 비트코인(BTC)이나 이더리움(ETH)이 자동으로 수익을 얻는 것은 아니다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/423725",
-          "publishedAt": "2026-10-17T13:46:49+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/423745",
+          "publishedAt": "2026-10-17T15:08:40+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "이더리움 선물 미결제약정 24시간 새 0.42% 감소…콜옵션 비중 61.75%",
-          "summary": "이더리움(ETH) 파생시장에서는 옵션 미결제약정의 콜 비중이 61.75%였지만 선물 미결제약정은 24시간 동안 0.42% 감소했고, 롱 청산 건수는 숏보다 많았다.…",
+          "title": "비자 스테이블코인 카드 160개 넘어…결제 수익은 어떻게 나뉘나",
+          "summary": "스테이블코인 연동 카드 결제액이 1년 새 거의 200% 늘었고, 비자 네트워크에서 운영 중인 관련 카드 프로그램은 160개를 넘었다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/423718",
-          "publishedAt": "2026-10-17T13:13:04+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/423744",
+          "publishedAt": "2026-10-17T15:08:35+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -266,14 +264,14 @@
           ]
         },
         {
-          "title": "프로농구 삼성, ‘우승 후보’ DB까지 제압…개막 5연승",
-          "summary": "프로농구 서울 삼성이 우승 후보로 평가받았던 원주 DB를 꺾고 개막 5연승을 달렸다.삼성은 17일 오후 2시 원주DB프로미아레나에서 열린 DB와의 2026~2027시즌 KCC 프로농구 원정 경기에서 95-92 신승을 거뒀다.지난 시즌까지 5시즌 연속 최하위에 머물며 자존심을 구겼던 삼성은 개막 후 5연승을 기록하며 선두 자리를 유지했다.수원 KT, 안양 정관장, 고양 소노, 창원 LG에 이어 개막 미디어데이 당시 우승 후보로 꼽혔던 DB까지 원정에서 잡으면서 상승세를 이어갔다.2연패에 빠진 DB는 2승3패로 리그 4위에 머물렀다.삼성에선 케렘 칸터가 27점 10리바운드의 더블더블로 팀 승리에 앞장섰다.여기에 이관희가 19점으로 힘을 보탰다.DB에서는 헬리 엘런슨이 29점으로 분투했지만 연패를 막지는 못했다.경기는 치고받는 흐름으로 펼쳐졌다.1쿼터에 원정팀이 3점 차 리드를 가져갔으나, 홈팀이 전반 종료 시점에는 1점 차까지 간격을 좁혔다.하지만 삼성은 3쿼터에만 3",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20261017/134859014/1",
-          "publishedAt": "2026-10-17T07:38:31+00:00",
+          "title": "프로농구 삼성, 파죽의 개막 5연승…'우승후보 1순위' DB도 제압",
+          "summary": "만년 꼴찌 팀이던 프로농구 서울 삼성이 '우승 후보 1순위' 원주 DB까지 무너뜨리고 파죽의 개막 5연승을 내...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261017037351007",
+          "publishedAt": "2026-10-17T09:45:36+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "연합뉴스"
+            "동아일보"
           ]
         },
         {
@@ -294,10 +292,10 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "與 대신 사과·국힘 망언 재비판",
-      "sentence": "더불어민주당 소속 추미애 경기도지사가 이른바 '소방 재정 빨대'라고 발언하면서 논란이 된 가운데 민주당...",
+      "phrase": "부천 화재 소방관 순직에 참담",
+      "sentence": "이재명 대통령은 17일 경기도 부천 공장 화재 진압에 나섰던 소방관이 순직한 것과 관련, \"고인의 희생을 잊지...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261016103051001"
+      "link": "https://www.yna.co.kr/view/AKR20261017022000001"
     },
     {
       "id": "world",
@@ -312,7 +310,7 @@
       "name": "스포츠",
       "phrase": "KLPGA 아이스버그골프·서울신문 오픈 2R서",
       "sentence": "마서영이 한국여자프로골프(KLPGA) 투어 아이스버그골프·서울신문 오픈(총상금 15억원)에서 첫 우승의 기회를...",
-      "articleCount": 209,
+      "articleCount": 197,
       "link": "https://www.yna.co.kr/view/AKR20261017043251007"
     },
     {
@@ -320,7 +318,7 @@
       "name": "AI·인공지능",
       "phrase": "한강·황석영 등 한국 작가 작품 AI 학습에",
       "sentence": "미국 인공지능(AI) 기업 앤트로픽이 한강과 황석영 등 한국 작가들의 작품을 자사 AI 챗봇 ‘클로드(Claude)’ 학습에 무단으로 활용한 정황이 드러났다.…",
-      "articleCount": 158,
+      "articleCount": 157,
       "link": "https://www.chosun.com/economy/tech_it/2026/10/17/MY3DGMDBHAZWCMBTME3DIYLCGY/"
     },
     {
@@ -328,7 +326,7 @@
       "name": "산업·기업",
       "phrase": "삼성바이오 노조 2차 파업 앞두고 21일",
       "sentence": "삼성바이오로직스[207940] 노동조합이 2차 전면 파업을 앞두고 오는 21일 단체행동에 나선다.",
-      "articleCount": 156,
+      "articleCount": 150,
       "link": "https://www.yna.co.kr/view/AKR20261016114451017"
     },
     {
@@ -336,7 +334,7 @@
       "name": "증시",
       "phrase": "장중 5% 급등세에 매수 사이드카",
       "sentence": "16일 코스닥이 급락 하루 만에 장중 5% 넘게 급등하는 가운데 코스닥 시장에 프로그램매수호가 일시효력정지(매...",
-      "articleCount": 108,
+      "articleCount": 109,
       "link": "https://www.yna.co.kr/view/AKR20261016086100008"
     },
     {
@@ -344,79 +342,79 @@
       "name": "교육",
       "phrase": "美오리건 초교 총격범은 16세 졸업생",
       "sentence": "미국 오리건주 실버레일 초등학교에서 발생한 총기 난사 사건의 범인은 해당 학교 출신의 청소년인 것으로...",
-      "articleCount": 94,
+      "articleCount": 91,
       "link": "https://www.yna.co.kr/view/AKR20261017021600091"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "석유 최고가격 휘발유 1784원·경유",
+      "sentence": "정부는 17일 0시부터 4주간 적용할 석유 최고가격을 현행 수준에서 동결하기로 했다.",
+      "articleCount": 88,
+      "link": "https://www.chosun.com/economy/economy_general/2026/10/16/MZSDCYJZMI3WKMBQMEYWEMRRGY/"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "의도와 다르게 전달됐다면",
       "sentence": "추미애 경기도지사가 17일 경기 부천시 도장공장 화재로 순직한 고(故) 김진석(44) 소방위의 빈소를 찾아 ‘소방 재정 빨대’ 발언에 대해 사과했다.…",
-      "articleCount": 91,
+      "articleCount": 85,
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000023355"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "순직 소방관 빈소서 말 잇지 못한 李대통령",
-      "sentence": "이재명 대통령이 17일 부천 공장 화재를 진압하다 순직한 고(故) 김진석 소방위의 빈소를 찾아 유가족을 위로했다.…",
-      "articleCount": 83,
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000023374"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "도쿄돔 공연 실황 방송",
-      "sentence": "그룹 방탄소년단(BTS)이 지난 4월 도쿄 돔에서 펼친 월드투어 '아리랑'(ARIRANG) 일본 공연이 실황 ...",
-      "articleCount": 82,
-      "link": "https://www.yna.co.kr/view/AKR20261017021000005"
+      "phrase": "연인 최정훈 스토커였다",
+      "sentence": "배우 한지민을 상대로 협박·모욕성 게시물을 반복적으로 올려 벌금형을 선고받은 30대 여성이 한지민의 연인인 밴드 잔나비의 최정훈을 스토킹해 처벌받은 인물과 동일인…",
+      "articleCount": 80,
+      "link": "https://www.donga.com/news/Society/article/all/20261017/134858658/1"
     },
     {
       "id": "trade",
       "name": "수출·관세",
       "phrase": "산업차관에 박동일·금융위 부위원장에 신진창 임명",
       "sentence": "이재명 대통령은 16일 산업통상부 차관에 박동일 현 산업통상부 산업정책실장을, 금융위원회 부위원장에 신진창 현...",
-      "articleCount": 71,
+      "articleCount": 72,
       "link": "https://www.yna.co.kr/view/AKR20261016095100001"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "악마의 바람 에 美캘리포니아 산불 확산",
-      "sentence": "미국 캘리포니아주 오렌지카운티에서 16일(현지시간) 강풍을 타고 산불이 빠르게 확산하면서 주택 여러 채가 피해...",
-      "articleCount": 69,
-      "link": "https://www.yna.co.kr/view/AKR20261017047200009"
     },
     {
       "id": "game",
       "name": "게임",
       "phrase": "근대5종 서창완 2관왕",
       "sentence": "2026 아이치·나고야 아시안게임 금메달리스트 허미미(경북체육회)가 전국체육대회 5연패를 달성했다.",
-      "articleCount": 64,
+      "articleCount": 65,
       "link": "https://www.yna.co.kr/view/AKR20261017041251007"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "악마의 바람 에 美캘리포니아 산불 확산",
+      "sentence": "미국 캘리포니아주 오렌지카운티에서 16일(현지시간) 강풍을 타고 산불이 빠르게 확산하면서 주택 여러 채가 피해...",
+      "articleCount": 64,
+      "link": "https://www.yna.co.kr/view/AKR20261017047200009"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "일은 총재 물가 이 이상 상승 용납 못해",
+      "sentence": "우에다 가즈오 일본은행 총재가 물가가 더 이상 상승하는 것은 용납할 수 없다며 계속해서 금리 인상을 이어갈 ...",
+      "articleCount": 59,
+      "link": "https://www.yna.co.kr/view/AKR20261017034400073"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "3분기 매출 600%대 급증 전망",
       "sentence": "삼성전자·SK하이닉스 주도의 D램 메모리 시장에 도전 중인 중국 창신메모리(CXMT)가 인공지능(AI) 붐...",
-      "articleCount": 59,
+      "articleCount": 55,
       "link": "https://www.yna.co.kr/view/AKR20261017027300089"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "국제유가 100달러대 고공행진에도",
-      "sentence": "연합뉴스정부가 ‘석유 최고가격’을 기존 수준으로 동결하기로 했다.…",
-      "articleCount": 57,
-      "link": "https://www.khan.co.kr/article/202610161801001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
       "id": "rate",
       "name": "금리",
       "phrase": "금리 인상 지속 방침",
       "sentence": "우에다 가즈오 일본은행 총재가 물가가 더 이상 상승하는 것은 용납할 수 없다며 계속해서 금리 인상을 이어갈 ...",
-      "articleCount": 47,
+      "articleCount": 52,
       "link": "https://www.yna.co.kr/view/AKR20261017034400073"
     },
     {
@@ -432,7 +430,7 @@
       "name": "가상자산",
       "phrase": "해외 코인거래소 큰손 90% 이상 반등 베팅",
       "sentence": "해외 가상자산 거래소에 상장된 국내 증시 관련 고(高)레버리지 선물 상품 거래가 최근 가파르게 증가했다.",
-      "articleCount": 43,
+      "articleCount": 38,
       "link": "https://www.yna.co.kr/view/AKR20261016169500002"
     },
     {
@@ -440,24 +438,24 @@
       "name": "유통·소비",
       "phrase": "3분기 매출 600% 급증 전망",
       "sentence": "삼성전자와 SK하이닉스가 주도하는 D램 메모리 시장에 도전장을 낸 중국 창신메모리테크놀로지(CXMT)가 인공지능(AI) 열풍에 힘입어 3분기 실적 급증을 예고했다…",
-      "articleCount": 37,
+      "articleCount": 38,
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000023346"
-    },
-    {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "스포티파이 연간 100억 스트리밍 돌파",
-      "sentence": "그룹 방탄소년단(BTS)이 세계 최대 음원 플랫폼 스포티파이에서 전 세계 그룹 최초로 연간 100억 스트리밍을...",
-      "articleCount": 26,
-      "link": "https://www.yna.co.kr/view/AKR20261016075100005"
     },
     {
       "id": "labor",
       "name": "노동",
       "phrase": "삼성바이오 노조 2차 파업 법원 제동",
       "sentence": "노조 “파업 전면적 제한은 아냐”삼성바이오로직스 로고법원이 16일 삼성바이오로직스 노동조합의 쟁의 행위 금지 대상 공정을 대폭 확대했다.…",
-      "articleCount": 23,
+      "articleCount": 26,
       "link": "https://www.khan.co.kr/article/202610162134001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "BTS 아리랑 떼창 日 TV서 다시 본다",
+      "sentence": "그룹 방탄소년단(BTS)이 지난 4월 도쿄 돔에서 펼친 월드투어 '아리랑'(ARIRANG) 일본 공연이 실황 ...",
+      "articleCount": 24,
+      "link": "https://www.yna.co.kr/view/AKR20261017021000005"
     },
     {
       "id": "fx",
@@ -472,7 +470,7 @@
       "name": "통신",
       "phrase": "가족·지인 불법촬영물 공유사이트 폐쇄",
       "sentence": "불법촬영물 공유사이트가 폐쇄된 뒤 경찰이 잠적한 운영진을 추적하고 있다.17일 경찰 등에 따르면 해당 불법촬영물 공유사이트는 지난 5월 관련 보도와 경찰 수사 이…",
-      "articleCount": 17,
+      "articleCount": 16,
       "link": "https://www.donga.com/news/Society/article/all/20261017/134859236/1"
     }
   ],
@@ -571,31 +569,7 @@
     }
   ],
   "lottery": {
-    "lotto": {
-      "round": 1246,
-      "drawDate": "2026-10-17",
-      "numbers": [
-        16,
-        22,
-        23,
-        24,
-        27,
-        28
-      ],
-      "bonus": 6,
-      "firstPrizeWinners": 16,
-      "firstPrizeAmount": 1881025430,
-      "link": "https://www.dhlottery.co.kr/lt645/result"
-    },
-    "pension": {
-      "round": 337,
-      "drawDate": "2026-10-15",
-      "group": "3",
-      "number": "668912",
-      "bonus": "951744",
-      "firstPrizeWinners": 2,
-      "firstPrizeAmount": 1680000000,
-      "link": "https://www.dhlottery.co.kr/pt720/result"
-    }
+    "lotto": null,
+    "pension": null
   }
 }
