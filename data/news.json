@@ -1,47 +1,44 @@
 {
-  "generatedAt": "2026-10-18T23:08:33+09:00",
+  "generatedAt": "2026-10-19T09:27:50+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "李대통령 \"'국무회의 공개라 말 못한다'는 거짓말…이해 안 돼\"",
-          "summary": "이재명 대통령은 18일 \"국민들은 다 환영하는 국무회의 일부 공개에 대해 '공개회의라 국무위원들이 말을 못 한...",
+          "title": "김민석 \"秋에 사과하라고 요청했다…국민 맘 풀릴 때까지 노력\"",
+          "summary": "더불어민주당 김민석 대표는 19일 추미애 경기도지사의 '소방 재정 빨대' 발언 논란과 관련해 \"당사자의 사과가...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261018030051001",
-          "publishedAt": "2026-10-18T12:47:34+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
-            "동아일보",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "정점식 “김민석, 조희대 탄핵 여부 조속히 결론 내야…탄핵을 지지율 결집에 동원”",
-          "summary": "국민의힘은 더불어민주당이 조희대 대법원장 탄핵 추진을 공식화한 데 대해 “민주당 김민석 대표는 ‘정쟁국감’의 차원을 넘어 ‘탄핵국감’을 만들고 있다”고 날을 세웠다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20261018/134860719/1",
-          "publishedAt": "2026-10-18T06:08:00+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20261019013000001",
+          "publishedAt": "2026-10-18T22:51:50+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "SBS",
-            "연합뉴스",
+            "경향신문",
+            "동아일보",
             "조선일보"
           ]
         },
         {
-          "title": "韓총리 \"분단은 여전한 현실…남북대화 열리도록 기반 다질 것\"",
-          "summary": "한성숙 국무총리는 18일 \"남북 간 대화의 문이 열리고 다시 평화와 공동의 번영을 이야기할 수 있도록 평화공존...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261018027400001",
-          "publishedAt": "2026-10-18T04:21:54+00:00",
+          "title": "이 대통령 \"'국무회의 공개라 말 못한다'는 건 거짓말\"",
+          "summary": "이재명 대통령은 오늘 SNS에 올린 글에서 \"'국무회의가 공개회의라 국무위원들이 말을 못 한다'는 거짓말까지 해 가며 국무…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803128",
+          "publishedAt": "2026-10-18T13:15:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "SBS",
+            "연합뉴스",
             "한겨레"
+          ]
+        },
+        {
+          "title": "이재명 대통령 지지율 37.3%, 3주만에 반등…민주당 36.2%, 국민의힘 40.9%",
+          "summary": "이재명 대통령이 지난 16일 제주월드컵경기장에서 열린 제107회 전국체육대회 개회식에서 휴대폰 조명을 켜고 성화봉송을 보고 있다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610190829001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-10-18T23:29:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
           ]
         }
       ]
@@ -51,41 +48,39 @@
       "name": "경제",
       "items": [
         {
-          "title": "IMF 총재 “韓 통화 긴축·재정 중립 조합 적절…미래기금은 완충장치”",
-          "summary": "크리스탈리나 게오르기에바 국제통화기금(IMF) 총재가 통화정책은 완만한 긴축 기조로, 재정정책은 중립적으로 운용하는 한국 정부의 정책조합이 적절하다고 평가했다.…",
+          "title": "현대글로비스, 美 필라델피아 항만 개발 참여",
+          "summary": "현대글로비스가 미국 펜실베이니아주 필라델피아항만청(PhilaPort) 및 현지 개발사와 항만 확장 개발과 완성차 터미널 운영 협력을 위한 업무협약(MOU)를 체결했다고 19일 밝혔다.…",
           "source": "조선일보",
-          "link": "https://www.chosun.com/economy/economy_general/2026/10/18/GQ3TEZLGGBRDGM3BGQYGMODFHE/",
-          "publishedAt": "2026-10-18T03:32:45+00:00",
-          "sourceCount": 4,
+          "link": "https://www.chosun.com/economy/industry-company/2026/10/19/GZSDMODEHE2WKZRSGQ4TQZBUMU/",
+          "publishedAt": "2026-10-18T23:59:20+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "아시아경제",
+            "머니투데이",
             "연합뉴스"
           ]
         },
         {
-          "title": "잠재성장률 40년 만에 ‘반전’···IMF, 2년 연속 한국 상승 전망",
-          "summary": "크리스탈리나 게오르기에바 국제통화기금(IMF) 총재가 지난 15일(현지시간) 방콕에서 열리는 2026년 IMF 및 세계은행 그룹 연례회의에 참석해있다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610181126001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-10-18T02:26:00+00:00",
-          "sourceCount": 4,
+          "title": "韓잠재성장률, 40년 만에 2년 연속 상승 전망… ‘물가 상승’ 우려도",
+          "summary": "올해와 내년 한국 잠재성장률이 40년 만에 처음으로 2년 연속 상승할 것으로 전망됐다. 반도체 투자 확대와 인공지능(AI)을 통한 생산성 향상으로 한국 경제의 기초 체력이 반등할 것으로 보인다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261019029003",
+          "publishedAt": "2026-10-18T15:57:43+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
             "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "할리스도 해킹에 개인정보 유출···비밀번호·주소 털렸다",
-          "summary": "할리스 명동점커피 프랜차이즈 할리스가 해킹 공격을 받아 고객개인정보가 유출되는 사고가 발생했다.18일 업계에 따르면 할리스는 지난 16일 멤버십 시스템에 인가되지 않은 접근이 발생해 고객 개인정보가 유출된 사실을 확인하고 이날 고객들에게 관련 내용을 문자로 안내했다.할리스는 지난달 3일부터 지난 7일 사이 외부의 인가되지 않은 접근(해킹)으로 개인정보가 유···",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610182006001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-10-18T11:06:00+00:00",
+          "title": "이달 평균 원-달러 환율 1342원, 2년 1개월 만에 최저",
+          "summary": "18일 서울 중구의 한 환전소에 환율이 표시돼 있다. 이달 평균 원-달러 환율은 1342.6원으로 2024년 9월 이후 2년 1개월 만에 가장 낮았다.",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20261018/134862508/2",
+          "publishedAt": "2026-10-18T15:30:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "조선일보",
-            "한겨레"
+            "매일경제",
+            "조선일보"
           ]
         }
       ]
@@ -95,47 +90,43 @@
       "name": "사회",
       "items": [
         {
-          "title": "소방관 순직 부천 화재 공장 대표 입건…안전조치 소홀 혐의",
-          "summary": "소방관 1명이 숨지고 7명이 다치는 화재가 발생한 경기 부천의 금속사출 인쇄공장 대표가 화재 예방 조치를 소홀히 한 혐의로 입건됐다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261018500130",
-          "publishedAt": "2026-10-18T11:07:45+00:00",
-          "sourceCount": 6,
-          "otherSources": [
-            "SBS",
-            "노컷뉴스",
-            "동아일보",
-            "연합뉴스",
-            "조선일보"
-          ]
-        },
-        {
           "title": "중수청 출범 16일만에 첫 구속",
           "summary": "중대범죄수사청이 마약 밀수범을 상대로 '1호' 구속영장을 발부받았다. 지난 2일 중수청 출범 후 16일 만의 첫 신병 확보다. 18일 법조계에 따르면 서울지방중수청 마약수사국 마약..",
           "source": "매일경제",
           "link": "https://www.mk.co.kr/news/society/12179124",
           "publishedAt": "2026-10-18T13:58:55+00:00",
-          "sourceCount": 6,
+          "sourceCount": 5,
           "otherSources": [
             "경향신문",
-            "노컷뉴스",
             "동아일보",
             "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "현대제철 당진제철서 보수 작업 40대 근로자 기계에 끼여 숨져",
-          "summary": "현대제철 “고인의 명복을 빌며, 유가족들께 깊은 애도” 18일 오전 10시 40분쯤 충남 당진의 현대제철 당진제철소 공장에서 40대 협력업체 근로자가 설비 보수 중 기계에 끼여 숨졌다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261018500075",
-          "publishedAt": "2026-10-18T06:08:42+00:00",
-          "sourceCount": 5,
+          "title": "승객 깜박한 120만원·명품지갑 슬쩍… SRT객실장 ‘해임 정당’",
+          "summary": "승객이 열차에 두고 내린 현금과 명품지갑 등을 몰래 집으로 가져간 객실장의 해임 처분은 정당하다는 법원 판단이 나왔다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000023676",
+          "publishedAt": "2026-10-18T22:11:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "노컷뉴스",
             "동아일보",
-            "연합뉴스",
-            "조선일보"
+            "매일경제",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "숯 공장서 작업하다 8m 아래로 추락…40대 노동자 숨져",
+          "summary": "숯 공장에서 작업을 하던 40대가 8m 아래로 추락해 숨졌다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6593113",
+          "publishedAt": "2026-10-18T22:29:59+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "연합뉴스"
           ]
         }
       ]
@@ -145,38 +136,42 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프 “불타는 프랑스, 증오 품은 이민자가 나라 산산조각 내”",
-          "summary": "도널드 트럼프 미국 대통령이 18일(현지 시각) 방화·약탈 등 폭력 사태로 격화한 프랑스 반정부 시위의 원인으로 ‘이민자 수용’을 꼽으며 국경 통제가 필요하다고 주장했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/10/18/MNSTEZJYMRSWGMRVGJTDIMDEGU/",
-          "publishedAt": "2026-10-18T13:50:02+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "매일경제",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "日소도시 지역축제 참가한 부시장, 대형 가마에 깔려 사망",
-          "summary": "일본의 한 지역 축제(마쓰리)에서 현직 부시장이 축제용 가마에 깔려 숨지는 사고가 일어났다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261018031400073",
-          "publishedAt": "2026-10-18T05:34:12+00:00",
-          "sourceCount": 3,
+          "title": "트럼프 측근 공화 의원 “한미 관계 재설정하고 있어…부부상담 중”",
+          "summary": "도널드 트럼프 미국 대통령의 측근으로 알려진 데이브 매코믹 상원의원(공화·펜실베이니아)은 한미 관계를 두고 이혼이 아닌 부부 상담 중이라는 입장을 밝혔다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20261019/134864342/1",
+          "publishedAt": "2026-10-18T23:34:32+00:00",
+          "sourceCount": 5,
           "otherSources": [
             "SBS",
+            "경향신문",
+            "매일경제",
             "조선일보"
           ]
         },
         {
-          "title": "트럼프, 대러제재 관련 “미국과 세계에 좋은 결정 있을 것”",
-          "summary": "도널드 트럼프 미국 대통령이 대러시아 제재와 관련해 미국과 세계에 도움이 되는 결정을 내릴 것이라고 밝혔다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/10/18/MNRWCMTEMYYWKZDBGA4DENBRGM/",
-          "publishedAt": "2026-10-18T04:30:43+00:00",
-          "sourceCount": 3,
+          "title": "트럼프 \"프랑스 불타…증오 품은 이민자가 나라 산산조각 내\"",
+          "summary": "도널드 트럼프 미국 대통령이 18일(현지시간) 방화·약탈 등 폭력 사태로 격화한 프랑스 반정부 시위의 원인...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261018062000071",
+          "publishedAt": "2026-10-18T13:26:58+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
+            "매일경제",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "다카이치 日 총리, 韓·中 반발에도 야스쿠니 신사 공물 대금 추가 봉납",
+          "summary": "다카이치 사나에 일본 총리가 태평양전쟁 A급 전범이 합사된 야스쿠니 신사에 17일 공물을 보낸 데 이어 19일 공물 대금까지 추가로 봉납했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/10/19/GRQTCNZVGU4GCNTFGRRDQMJXGY/",
+          "publishedAt": "2026-10-18T23:55:10+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "매일경제",
             "연합뉴스"
           ]
         }
@@ -187,22 +182,11 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "LGU+, 순직 소방관 추모 달리기 행사 성료⋯2300여명 참여",
-          "summary": "LG유플러스(대표 홍범식)는 소방청과 함께 세종중앙공원과 국립세종수목원 일대에서 개최한 순직 소방관 추모 행사 'U+119 메모리얼런 2026'에 2300여 명이 참여했다고 18일 밝혔다.올해로 2회째를 맞은 이 행사는 순직 소방관의 희",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2016139",
-          "publishedAt": "2026-10-18T01:19:35+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "해킹 표적 중소 병·의원…보안관제 가입 미비",
-          "summary": "해킹 공격 주요 표적이 된 중소 병·의원 대다수가 정부 실시간 통합 보안 관리 체계 밖에 놓여 있는 것으로 드러났다.…",
-          "source": "전자신문",
-          "link": "https://www.etnews.com/20261018000015",
-          "publishedAt": "2026-10-18T00:22:35+00:00",
+          "title": "11번가, 소상공인 공략 강화…사업용품 전문관 '사업자플러스' 선보여",
+          "summary": "11번가가 중소상공인과 개인사업자를 겨냥한 기업간거래(B2B) 서비스를 강화한다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156217",
+          "publishedAt": "2026-10-19T08:54:59+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
@@ -216,6 +200,15 @@
           "publishedAt": null,
           "sourceCount": 1,
           "otherSources": []
+        },
+        {
+          "title": "팝 음악 100년의 변화…“오늘날 음악은 불안을 노래한다”",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/science/science_general/1282886.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -224,29 +217,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "NH농협카드, AI·블록체인 결합 결제 실험…관건은 '상용화 연계'",
-          "summary": "NH농협카드가 생성형 인공지능(AI)과 블록체인 기술을 결합한 차세대 유통·결제 생태계 구축에 나선다. AI가 고객의 의도를 파악하고 최적의 조건에서 결제까지 수행하는 구조다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=675889",
-          "publishedAt": "2026-10-18T15:30:00+00:00",
+          "title": "비트코인 1억1000만원대 횡보…美 물가 충격에도 8만달러 방어",
+          "summary": "시장 예상을 웃돈 미국 물가 지표에도 연방준비제도(Fed·연준)의 금리 동결 기대가 유지되면서 급격한 추가 하락은 피한 모습이다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156214",
+          "publishedAt": "2026-10-19T08:47:24+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "NFT로 입장해 얼굴로 결제…제주 달군 Npay 실험",
-          "summary": "저녁 제주 서귀포시 제주월드컵경기장 앞에는 초록색 'NFT 디지털 티켓 입장 게이트' 표지판을 따라 관람객들의 대기 행렬이 이어졌다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=675936",
-          "publishedAt": "2026-10-18T15:05:00+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 1억8060만달러 청산",
-          "summary": "지난 24시간 암호화폐 시장에서 1억8060만달러(약 2410억7084만원) 규모의 레버리지 포지션이 청산됐다.…",
+          "title": "이더리움 달러마진 계좌 4.16%p 급증...XRP 포지션 3.99%p 뚜렷한 감소",
+          "summary": "주요 종목 롱 포지션 현황19일 오전 9시 15분 코인글래스에 따르면 포지션 기준 달러 마진에서 XRP 롱 비중은 전일 대비 3.99%p 줄어 가장 뚜렷한 감소를 보였다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/briefing/423906",
-          "publishedAt": "2026-10-18T06:57:15+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/424091",
+          "publishedAt": "2026-10-19T00:15:34+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
+          "title": "하루 거래량 56억 달러...급등 1위는 '알트코인'",
+          "summary": "이날 탈중앙화 거래소(DEX)에서 가장 주목받은 거래쌍은 기가 테네프(GIGATENEV/WETH), 토치(TORCH/WETH), 엠파이어엑스(EMPIREX/WETH)이다.19일 오전 9시 코인게코 터미널에 따르면 DEX 트렌딩 1위 거래쌍은 기가 테네프(GIGATENEV/WETH)로 0.0004365달러에 거래되며 24시간 기준 4.79% 하락했다.2위는 토치(TORCH/WETH)로 80% 급등한 0.007800달러에 거래됐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/424086",
+          "publishedAt": "2026-10-19T00:04:09+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -269,25 +262,25 @@
           ]
         },
         {
-          "title": "정찬민, KPGA 투어 더채리티 '와이어 투 와이어' 우승…통산 3승",
-          "summary": "'장타자' 정찬민이 폭우로 경기가 연기되는 악조건을 뚫고 한국프로골프(KPGA) 투어 더채리티 클래식(총상금 ...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261018046651007",
-          "publishedAt": "2026-10-18T09:27:12+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "한겨레"
-          ]
-        },
-        {
-          "title": "'초전박살' KIA, 이틀 연속 LG 꺾고 준PO 2연승…앞으로 1승",
-          "summary": "KIA 타이거즈가 플레이오프(PO) 진출을 눈앞에 뒀다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261018044751007",
-          "publishedAt": "2026-10-18T08:23:12+00:00",
+          "title": "안세영, 야마구치 상대 10연승…덴마크오픈 결승서 2-1 역전승 일구고 시즌 9번째 우승",
+          "summary": "먼저 쓰러진 건 안세영(24·세계랭킹 1위)이었다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20261018/134863535/1",
+          "publishedAt": "2026-10-18T14:26:00+00:00",
           "sourceCount": 2,
           "otherSources": [
             "조선일보"
+          ]
+        },
+        {
+          "title": "'승률 98.4％' 안세영, 야마구치 꺾고 시즌 9번째 우승 트로피",
+          "summary": "승률 98％를 넘어서는 경이로운 행보를 이어가는 배드민턴 '세계 최강' 안세영(삼성생명)이 덴마크 오픈 정상에...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261018062251007",
+          "publishedAt": "2026-10-18T14:03:41+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "한겨레"
           ]
         }
       ]
@@ -297,186 +290,186 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "선관위특검 입찰비리 업체",
-      "sentence": "이태한 선거관리위원회 특별검사팀이 선거용품 입찰 비리 의혹이 제기된 업체들의 탈세 정황을 추가로 포착하고 국세...",
+      "phrase": "트럼프 측근 美의원 한미관계 재설정 중",
+      "sentence": "도널드 트럼프 미국 대통령의 측근인 데이브 매코믹 연방 상원의원(공화·펜실베이니아)이 한미 관계가 '재설정...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261018039300004"
+      "link": "https://www.yna.co.kr/view/AKR20261019003400071"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "日다카이치 야스쿠니 공물 봉납에 실망과 유감",
-      "sentence": "정부는 17일 다카이치 사나에 일본 총리의 야스쿠니 신사 공물 봉납에 유감을 표명했다.",
+      "phrase": "트럼프 불타는 프랑스",
+      "sentence": "도널드 트럼프 미국 대통령이 18일(현지 시각) 방화·약탈 등 폭력 사태로 격화한 프랑스 반정부 시위의 원인으로 ‘이민자 수용’을 꼽으며 국경 통제가 필요하다고…",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261017030000504"
-    },
-    {
-      "id": "sports",
-      "name": "스포츠",
-      "phrase": "아이스버그골프·서울신문 오픈서 연장 2차전",
-      "sentence": "마서영이 한국여자프로골프(KLPGA) 투어에서 첫 승을 올리며 아이스버그골프·서울신문 오픈(총상금 15억원) ...",
-      "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261018038051007"
+      "link": "https://www.chosun.com/international/international_general/2026/10/18/MNSTEZJYMRSWGMRVGJTDIMDEGU/"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "앤트로픽 공동창업자 AI로 4년간 美GDP",
-      "sentence": "앤트로픽 공동창업자가 인공지능(AI) 기술 발전이 지속되면 미국의 국내총생산(GDP)이 4년간 약 5...",
-      "articleCount": 174,
-      "link": "https://www.yna.co.kr/view/AKR20261018002500091"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "현대제철 당진제철서 보수 작업 40대 근로자",
-      "sentence": "현대제철 “고인의 명복을 빌며, 유가족들께 깊은 애도” 18일 오전 10시 40분쯤 충남 당진의 현대제철 당진제철소 공장에서 40대 협력업체 근로자가 설비 보수…",
-      "articleCount": 151,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261018500075"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "가수 공연 끊고 무대 오른 김민석 죄송",
-      "sentence": "전북 순창군의 지역 축제 축하공연 도중 주최 측이 가수의 무대를 중단시키고 김민석 더불어민주당 대표를 무대로 초대해 인사하도록 해 ‘과잉 의전’ 논란이 불거진 가…",
-      "articleCount": 113,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261018500068"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "김은혜 국힘 도당위원장 순직 소방관 조문",
-      "sentence": "김은혜 국민의힘 경기도당위원장은 17일 부천 공장 화재 진압 과정에서 순직한 고 김진석 소방위의 빈소를 찾아 조문했다고 밝혔다.김 위원장은 이날 순천향대학교 부천…",
-      "articleCount": 105,
-      "link": "https://www.donga.com/news/Politics/article/all/20261017/134859126/1"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "7일 처방·1회만 30일",
-      "sentence": "앞으로 비대면 진료를 '처음' 받으려는 환자는 본인의 주소지와 동일한 시도에 있는 의원급 의료기관에서 가능하다...",
-      "articleCount": 98,
-      "link": "https://www.yna.co.kr/view/AKR20261017024700530"
-    },
-    {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "경기 고양에 호우주의보 해제",
-      "sentence": "(의정부=연합뉴스) 기상청은 고양에 내렸던 호우주의보를 18일 오후 3시 30분을 기해 해제한다고 밝혔다.",
-      "articleCount": 91,
-      "link": "https://www.yna.co.kr/view/AKR20261018037200527"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "아파트 고층서 그릇 내던진 30대 여성 5일",
-      "sentence": "경기 평택시의 한 아파트 고층에서 그릇과 유리컵 등을 여러 차례 밖으로 던진 30대 여성이 경찰의 집중 수사 ...",
-      "articleCount": 86,
-      "link": "https://www.yna.co.kr/view/AKR20261018028100061"
-    },
-    {
-      "id": "semiconductor",
-      "name": "반도체",
-      "phrase": "반도체·AI 효과",
-      "sentence": "국제통화기금(IMF)이 한국의 잠재성장률을 2년 연속 상승할 것으로 전망했다.",
-      "articleCount": 77,
-      "link": "https://www.etnews.com/20261018000045"
+      "phrase": "20대 돌아가면 무조건 창업",
+      "sentence": "“AI 시대의 리더는 AI가 할 수 없는 일을 해야 합니다.…",
+      "articleCount": 233,
+      "link": "https://www.donga.com/news/Economy/article/all/20261018/134862531/2"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "보유주식 182조 원 손실",
-      "sentence": "최근 국내 증시가 급락하면서 국내 주식시장의 '큰 손'인 국민연금도 약 100일 만에 182조 원대의 손실을 본 것으로 나타났습니…",
-      "articleCount": 77,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802814"
+      "phrase": "코스닥도 2.7%↓",
+      "sentence": "19일 코스피가 3%대 급락 출발했다.",
+      "articleCount": 137,
+      "link": "https://www.yna.co.kr/view/AKR20261019033200008"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠",
+      "phrase": "소송 중인 공공골프장 재개발 강행키로",
+      "sentence": "도널드 트럼프 미국 대통령이 18일(현지시간) 재개발 여부를 놓고 법원 소송 중인 워싱턴DC 공공 골프장에...",
+      "articleCount": 137,
+      "link": "https://www.yna.co.kr/view/AKR20261019003100071"
+    },
+    {
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "AI 엔지니어 채용 연계 소프티어 부트캠프 모집",
+      "sentence": "현대차·기아는 다음 달 3일까지 소프트웨어 분야 신입 채용을 연계한 '소프티어 부트캠프' 9기를 모집한다고 1...",
+      "articleCount": 131,
+      "link": "https://www.yna.co.kr/view/AKR20261019027100003"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "지역축제 공연 끊고 인사말",
+      "sentence": "더불어민주당 김민석 대표가 지역 축제에서 가수의 공연 도중 무대에 올라 인사말을 한 사실이 알려져 ‘과잉 의전’ 논란이 일었다.…",
+      "articleCount": 114,
+      "link": "https://www.donga.com/news/Politics/article/all/20261019/134863563/2"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "현대제철 당진 공장서 끼임사고",
+      "sentence": "충남 당진 현대제철 당진제철소 공장에서 40대 협력업체 근로자 사망 사고가 발생해 경찰과 노동 당국 등이 조사에 나섰다.…",
+      "articleCount": 97,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261019010006"
+    },
+    {
+      "id": "semiconductor",
+      "name": "반도체",
+      "phrase": "40년 만에 2년 연속 상승 전망",
+      "sentence": "올해와 내년 한국 잠재성장률이 40년 만에 처음으로 2년 연속 상승할 것으로 전망됐다.",
+      "articleCount": 95,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261019029003"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "최태원 대학보다 문제해결능력이 중요",
+      "sentence": "최태원 SK그룹 회장이 인공지능(AI) 시대 일자리와 교육 환경 변화를 맞아 문제해결 능력과 도전정신을 길러야...",
+      "articleCount": 95,
+      "link": "https://www.yna.co.kr/view/AKR20261018015400003"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "알몸으로 주택가 배회한 40대 남성",
+      "sentence": "나체로 주택가를 배회하다 출동한 경찰관에게 모래를 뿌린 40대 남성이 경찰에 붙잡혔다.…",
+      "articleCount": 90,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261018500128"
     },
     {
       "id": "trade",
       "name": "수출·관세",
-      "phrase": "유럽에 러시아산 천연가스 수입재개 제안",
-      "sentence": "도널드 트럼프 미 행정부가 교착 상태에 빠진 우크라이나 평화협상을 끌어내려는 방안으로 유럽의 러시아산 가스 구...",
-      "articleCount": 65,
-      "link": "https://www.yna.co.kr/view/AKR20261018013400009"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "日야마구치 꺾고 덴마크오픈 정상",
-      "sentence": "세계 1위 안세영, 2대1 짜릿한 역전승…시즌 9번째 우승배드민턴 세계랭킹 1위 안세영이 또 한 번 정상에 올랐다.",
-      "articleCount": 64,
-      "link": "https://www.mk.co.kr/news/world/12179123"
+      "phrase": "트럼프 러 에너지 유화책 에 공화 반발기류",
+      "sentence": "도널드 트럼프 미국 대통령이 러시아산 원유·천연가스 주요 수입국에 대한 고율관세 부과를 전격 취소한 것을 ...",
+      "articleCount": 81,
+      "link": "https://www.yna.co.kr/view/AKR20261019000351071"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
-      "phrase": "IMF 韓 잠재성장률 2년 연속 상승",
-      "sentence": "한국의 잠재성장률이 올해와 내년 2년 연속 오를 것이라는 국제통화기금(IMF) 추산이 나왔다.…",
-      "articleCount": 61,
-      "link": "https://www.chosun.com/economy/economy_general/2026/10/18/GVQTEYJTGUYTEODFMYZTAOJWGI/"
+      "phrase": "에너지 인프라 사업 확대",
+      "sentence": "현대건설은 호주 에너지 네트워크 기업 오스넷(AusNet), 덴마크 에너지 투자·운용사 코펜하겐 인프라스트럭처...",
+      "articleCount": 68,
+      "link": "https://www.yna.co.kr/view/AKR20261019030900003"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "일은 총재 물가 이 이상 상승 용납 못해",
-      "sentence": "우에다 가즈오 일본은행 총재가 물가가 더 이상 상승하는 것은 용납할 수 없다며 계속해서 금리 인상을 이어갈 ...",
-      "articleCount": 59,
-      "link": "https://www.yna.co.kr/view/AKR20261017034400073"
+      "phrase": "김제 왕겨숯 공장서 40대 노동자 추락해 숨져",
+      "sentence": "경향신문 자료사진18일 오후 2시28분쯤 전북 김제시 공덕면의 한 왕겨숯 제조공장에서 40대 노동자 A씨가 추락했다.…",
+      "articleCount": 66,
+      "link": "https://www.khan.co.kr/article/202610182229001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
     },
     {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "AI·블록체인 결합 결제 실험",
-      "sentence": "NH농협카드가 생성형 인공지능(AI)과 블록체인 기술을 결합한 차세대 유통·결제 생태계 구축에 나선다.",
-      "articleCount": 50,
-      "link": "https://www.bloter.net/news/articleView.html?idxno=675889"
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "위성·AI로 네팔 홍수 피해 분석",
+      "sentence": "나라스페이스테크놀로지(나라스페이스)는 네팔 홍수 피해 지역을 위성영상과 인공지능(AI) 기술로 분석한 보고서를 주한네팔대사관에 전달했다고 19일 밝혔다.…",
+      "articleCount": 64,
+      "link": "https://www.chosun.com/economy/science/2026/10/19/MNSTQNDBMIYDIMZRGU3TAYZYGA/"
     },
     {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "중저신용자 민간 중금리대출 금리 0.3%p",
-      "sentence": "신한은행은 중·저신용 고객의 금융비용 부담을 완화하고 민간 중금리대출 공급을 확대하기 위해 16일부터 중금리대...",
-      "articleCount": 40,
-      "link": "https://www.yna.co.kr/view/AKR20261016159400002"
+      "id": "game",
+      "name": "게임",
+      "phrase": "야마구치 상대 10연승",
+      "sentence": "먼저 쓰러진 건 안세영(24·세계랭킹 1위)이었다.…",
+      "articleCount": 63,
+      "link": "https://www.donga.com/news/Inter/article/all/20261018/134863535/1"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "무·배추값 내리는데 새우젓은 30% 급등",
       "sentence": "농식품부, 내달 할인 대책 시행김장철을 앞두고 배추와 무 등 주요 채소 가격은 내림세를 보였지만 새우젓 가격은 1년 전보다 30% 넘게 올랐다.…",
-      "articleCount": 36,
+      "articleCount": 56,
       "link": "https://www.khan.co.kr/article/202610182048025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "K팝 대형社 보이콧 속 J팝 대거 노크",
-      "sentence": "그룹 방탄소년단(BTS)의 보이콧 선언 등의 영향으로 내년 2월 열리는 '제69회 그래미 어워즈'(Grammy...",
-      "articleCount": 24,
-      "link": "https://www.yna.co.kr/view/AKR20261017033000005"
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "비트코인 1억1000만원대 횡보",
+      "sentence": "시장 예상을 웃돈 미국 물가 지표에도 연방준비제도(Fed·연준)의 금리 동결 기대가 유지되면서 급격한 추가 하락은 피한 모습이다.…",
+      "articleCount": 46,
+      "link": "https://www.techm.kr/news/articleView.html?idxno=156214"
     },
     {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "순직 소방관 추모 달리기 행사 성료",
-      "sentence": "LG유플러스는 순직 소방관을 기억하고 유가족을 돕는 추모 달리기(러닝) 행사를 개최했다고 18일 밝혔다.…",
-      "articleCount": 22,
-      "link": "https://www.chosun.com/economy/tech_it/2026/10/18/MU2DEOBSGUYDSYTBMZTDIOLFMU/"
+      "id": "rate",
+      "name": "금리",
+      "phrase": "40년만에 2년연속 반등 전망",
+      "sentence": "반도체 호황에 힘입어 한국 경제 기초체력을 나타내는 잠재성장률이 40년 만에 처음으로 2년 연속 반등할 것으로 전망됐다.…",
+      "articleCount": 44,
+      "link": "https://www.donga.com/news/Economy/article/all/20261018/134862524/2"
     },
     {
       "id": "labor",
       "name": "노동",
       "phrase": "김제 숯공장서 40대 노동자 8m 아래 추락해",
       "sentence": "18일 오후 2시 28분께 전북 김제시 공덕면의 한 왕겨숯 제조 공장에서 '사람이 머리에 피를 흘리며 쓰러져 ...",
-      "articleCount": 22,
+      "articleCount": 29,
       "link": "https://www.yna.co.kr/view/AKR20261018061500055"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "11월 아파트 입주 물량 1만1천가구 그쳐",
+      "sentence": "다음달 새 입주 아파트 물량이 전국적으로 1만1천여가구에 그치며 입주 가뭄이 지속될 전망이다.",
+      "articleCount": 28,
+      "link": "https://www.yna.co.kr/view/AKR20261019021900003"
     },
     {
       "id": "fx",
       "name": "환율",
-      "phrase": "중수청 1호 구속 은 동남아 마약 밀수범",
-      "sentence": "중대범죄수사청(중수청)이 2일 출범 이후 16일 만에 처음으로 구속한 피의자가 나왔다.",
-      "articleCount": 9,
-      "link": "https://www.donga.com/news/Society/article/all/20261018/134863148/1"
+      "phrase": "이달 환율 2년1개월만에 최저",
+      "sentence": "이달 원/달러 환율이 반도체 수출 호조에 따른 달러 공급 확대 등에 힘입어 2년 1개월 만에 최저 수준으로 내...",
+      "articleCount": 18,
+      "link": "https://www.yna.co.kr/view/AKR20261017023400002"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "순직 소방관 추모 러닝 행사",
+      "sentence": "LG유플러스[032640]는 순직 소방관 추모 러닝 행사 'U+119 메모리얼런 2026'에 일반 참가자와 현...",
+      "articleCount": 16,
+      "link": "https://www.yna.co.kr/view/AKR20261018019700017"
     }
   ],
   "topicCatalog": [
