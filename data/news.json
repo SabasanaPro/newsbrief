@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T02:09:31+09:00",
+  "generatedAt": "2026-10-20T10:15:18+09:00",
   "categories": [
     {
       "id": "politics",
@@ -7,10 +7,10 @@
       "items": [
         {
           "title": "김여정 \"남부 국경 살벌…대남 확성기 재개 검토\"",
-          "summary": "북한 김여정 노동당 부장이 군사분계선 일대의 상황이 매우 불안정하다고 주장했습니다. 우리 군이 군사분계선을 넘어오는 북한 군인들에게 경고 방송과…",
+          "summary": "북한 김여정이 이른바 남부 국경, 군사분계선 일대의 상황이 매우 불안정하다고 주장했습니다. 우리 군이 군사분계선을 넘어오는 북한 군인들에게 경고…",
           "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805152",
-          "publishedAt": "2026-10-19T15:27:00+00:00",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805236",
+          "publishedAt": "2026-10-19T21:14:00+00:00",
           "sourceCount": 8,
           "otherSources": [
             "경향신문",
@@ -36,15 +36,15 @@
           ]
         },
         {
-          "title": "여야, 최길수 특별감찰관 후보자 청문보고서 채택 합의",
-          "summary": "한 달여 만에…22일 임명 수순여야는 19일 최길수 특별감찰관 후보자에 대한 인사청문경과보고서를 오는 22일 채택하기로 합의했다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610192136015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-10-19T12:36:01+00:00",
+          "title": "李 “전작권 맡겨놓고 방치할 상황 아냐… 반드시 조기 환수”",
+          "summary": "이재명 대통령이 19일 전시작전통제권(전작권) 전환과 관련해 “작전권을 (미국에) 맡겨놓은 지가 70년이 넘었다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20261019/134868857/1",
+          "publishedAt": "2026-10-19T08:58:00+00:00",
           "sourceCount": 4,
           "otherSources": [
+            "SBS",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         }
@@ -55,41 +55,39 @@
       "name": "경제",
       "items": [
         {
-          "title": "이형일 “올해 성장률 3.4∼3.6% 전망…잠재성장률 반등 임박”",
-          "summary": "이형일 부총리 겸 재정경제부 장관이 올해 3.4~3.6%의 성장률을 전망했다. 이 부총리는 지난 16일(현지시간) 주요 20개국(G20)·주요 7개국(G7) 재무장관·중앙은행 총재..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/economy/12179284",
-          "publishedAt": "2026-10-19T01:04:20+00:00",
-          "sourceCount": 5,
+          "title": "신생아·백혈병 치료제 등 국가필수의약품 8종 신규 지정",
+          "summary": "신생아와 암환자 치료 등 의료현장에서 필수적으로 사용되지만 안정적인 공급이 필요한 의약품 8개 품목이 국가필수의약품으로 신규 지정됐다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/science/2026/10/20/GI3DGZLBG4ZGEOJZMFSGGNRYGM/",
+          "publishedAt": "2026-10-20T00:04:56+00:00",
+          "sourceCount": 3,
           "otherSources": [
-            "SBS",
-            "경향신문",
+            "머니투데이",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "이형일 “올 성장률 3.4~3.6% 가능”",
+          "summary": "G20 재무장관 회의 참석한·미 통화스와프 필요성 강조 임대주택 공공 매각 감세 언급이형일 부총리 겸 재정경제부 장관이 올해 한국 경제성장률이 3%대 중반에 이를 수 있다고 전망했다.이 부총리는 지난 16일 주요 20개국(G20)·주요 7개국(G7) 재무장관·중앙은행 총재 회의와 국제통화기금(IMF)·세계은행(WB) 연차총회 참석차 방문한 태국 방콕에서 기···",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610192049005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-10-19T11:49:00+00:00",
+          "sourceCount": 3,
+          "otherSources": [
             "동아일보",
             "한겨레"
           ]
         },
         {
-          "title": "현대차그룹 방산사업 ‘현대로템’으로 뭉친다",
-          "summary": "K2·K9 등 화포 생산… 수직 계열화 가격·현지화 등 수출 경쟁력 강화 현대위아는 미래 모빌리티 집중 아이오닉3 등 전기차 유럽 공략 현대자동차그룹이 방산사업을 현대로템 중심으로 일원화하고 현대위아는 전동화·로봇 등 미래 모빌리티 사업에 집중하는 사업 재편에 나섰다.…",
+          "title": "정부·SK하이닉스·4대 은행, 소부장 협력사에 2조원 금융 지원",
+          "summary": "반도체 대기업의 호황을 소재·부품·장비(소부장) 중소·중견기업으로 확산하기 위한 2조원 규모 상생 무역금융이 출범했다.…",
           "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261020032002",
-          "publishedAt": "2026-10-19T15:01:46+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "경향신문",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "정부·SK하이닉스, 반도체 협력사에 2조원 보증 지원",
-          "summary": "정부가 SK하이닉스와 손잡고 반도체 소재·부품·장비(소부장) 기업에 2조원 규모의 보증 지원에 나선다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261019072200003",
-          "publishedAt": "2026-10-19T06:00:02+00:00",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261020031003",
+          "publishedAt": "2026-10-19T14:59:11+00:00",
           "sourceCount": 3,
           "otherSources": [
             "동아일보",
-            "서울신문"
+            "아시아경제"
           ]
         }
       ]
@@ -99,48 +97,49 @@
       "name": "사회",
       "items": [
         {
-          "title": "'장모 살해·아내 납치' 피의자는 '26세 김성우'",
-          "summary": "서울 송파구에서 장모를 살해하고 아내를 납치한 김성우(26)의 신상정보가 19일 공개됐다. 경찰은 김씨를 다음 날 공소청에 송치할 예정이다.…",
-          "source": "노컷뉴스",
-          "link": "https://www.nocutnews.co.kr/news/6593756",
-          "publishedAt": "2026-10-19T18:10:14+00:00",
-          "sourceCount": 7,
+          "title": "23명 사망한 '아리셀 참사' 박순관 아리셀 대표 대법서 징역 4년 확정",
+          "summary": "노동자 23명이 숨진 '아리셀 화재 참사'의 책임자 박순관 아리셀 대표에게 징역 4년이 확정됐다.…",
+          "source": "오마이뉴스",
+          "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276840",
+          "publishedAt": "2026-10-20T01:12:58+00:00",
+          "sourceCount": 8,
           "otherSources": [
             "SBS",
             "경향신문",
             "동아일보",
-            "서울신문",
+            "매일경제",
             "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "‘장모 살해·아내 납치’ 26살 김성우 신상공개",
+          "summary": "서울경찰청은 19일 신상정보공개 심의위원회를 열고 지난 11일 서울 송파구에서 장모를 살해하고 아내를 납치한 혐의(존속살해·특수감금)를 받는 김성우(26·사진)의 신상정보를 공개했다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/20261019502063",
+          "publishedAt": "2026-10-20T09:49:31+00:00",
+          "sourceCount": 7,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "매일경제",
+            "연합뉴스",
+            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "JMS 정명석, ‘여신도 성폭행’ 1심서 징역 33년",
-          "summary": "JMS 총재 정명석(왼쪽)과 2인자 정조은이 정명석의 출소 1주년 기념행사에서 함께 찍은 사진.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/20261019502169",
-          "publishedAt": "2026-10-20T10:32:07+00:00",
-          "sourceCount": 6,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "노컷뉴스",
-            "서울신문",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "완주서 경차가 가로수 들이받아…50대 여성운전자 숨져",
-          "summary": "완주의 한 도로에서 차량이 가로수를 들이받는 사고가 발생했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Society/article/all/20261019/134871176/2",
-          "publishedAt": "2026-10-19T14:43:00+00:00",
+          "title": "‘통일교 정교유착 의혹’ 한학자 보석 허용…조건은 2억원·병원 거주",
+          "summary": "윤석열 정부와의 ‘정교유착’ 혐의로 1심에서 실형을 선고받은 한학자 통일교 총재가 2심에서 보석을 허가받았다. 서울고법 형사13부(김무신 이우희 유동균 고법판사)는 19일 한 총재..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12179979",
+          "publishedAt": "2026-10-19T10:48:29+00:00",
           "sourceCount": 5,
           "otherSources": [
-            "노컷뉴스",
-            "매일경제",
+            "경향신문",
             "연합뉴스",
-            "조선일보"
+            "조선일보",
+            "한겨레"
           ]
         }
       ]
@@ -150,42 +149,40 @@
       "name": "국제",
       "items": [
         {
-          "title": "다카이치 日 총리, 韓·中 반발에도 야스쿠니 신사 공물 대금 추가 봉납",
-          "summary": "다카이치 사나에 일본 총리가 태평양전쟁 A급 전범이 합사된 야스쿠니 신사에 17일 공물을 보낸 데 이어 19일 공물 대금까지 추가로 봉납했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/10/19/GRQTCNZVGU4GCNTFGRRDQMJXGY/",
-          "publishedAt": "2026-10-18T23:55:10+00:00",
-          "sourceCount": 6,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "동아일보",
-            "매일경제",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "이탈리아 밀라노서도 약탈·폭력 시위…271명 무더기 연행",
-          "summary": "이탈리아 밀라노에서 발생한 폭력·약탈 시위로 271명이 경찰에 연행됐다고 현지 안사통신이 19일(현지시간) ...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261019176300109",
-          "publishedAt": "2026-10-19T12:20:48+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "동아일보"
-          ]
-        },
-        {
           "title": "머스크 “美 모든 어린이에 스페이스X 1주씩”… 14조원 ‘주식 선물’ 공언",
           "summary": "일론 머스크 스페이스X 최고경영자(CEO)가 내년 미국의 모든 어린이에게 자신이 보유한 스페이스X 주식을 1주씩 나눠주겠다고 공언했다.…",
           "source": "조선일보",
           "link": "https://www.chosun.com/international/international_general/2026/10/19/MI2DAN3CGY3DAMJRGQZTSYTDGY/",
           "publishedAt": "2026-10-19T12:19:36+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "동아일보",
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "김정은 회담 여부에 \"모르겠다\"…한발 물러선 트럼프",
+          "summary": "올해 안에 김정은 북한 국무위원장과 만날 거라던 트럼프 미국 대통령이 일단 다음 달 중국에서 열리는 APEC을 계기로 만나게 될지는 잘 모르겠다고 한발 물러섰습니다.",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805339",
+          "publishedAt": "2026-10-19T22:33:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "연합뉴스",
-            "한겨레"
+            "조선일보"
+          ]
+        },
+        {
+          "title": "후티, 예멘 정부군 기지에 탄도미사일…최소 53명 사망",
+          "summary": "이란의 지원을 받는 예멘의 후티 반군이 19일(현지시간) 예멘 남부의 정부군 군사 기지에 탄도미사일 공격을...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261019174751079",
+          "publishedAt": "2026-10-19T14:07:34+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "동아일보"
           ]
         }
       ]
@@ -195,39 +192,37 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "삼성전기, 3605억원 '메모리 패키지기판' 장기공급계약",
-          "summary": "[지디넷코리아]삼성전기가 글로벌 대형기업과 3605억원 규모 '메모리 반도체 패키지 기판' 장기공급계약(LTA)을 체결했다고 19일 밝혔다.…",
+          "title": "LG전자, ITS 세계총회서 V2X·V2N 통합 교통안전 솔루션 공개",
+          "summary": "[지디넷코리아]LG전자가 19일부터 닷새간 강원도 강릉에서 열리는 '2026 지능형교통체계(ITS) 세계총회'에 참가해 V2X(차량 간 통신)와 V2N(차량·네트워크 간 통신)을 결합한 솔루션을 선보인다고 20일 밝혔다.ITS 세계총회는 각국 정부와 기업, 학계 전문가 등이 모여 지능형교통체계 기술과 정책을 공유하는 행사다.…",
           "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20261019174430",
-          "publishedAt": "2026-10-19T09:02:35+00:00",
+          "link": "https://zdnet.co.kr/view/?no=20261020085925",
+          "publishedAt": "2026-10-20T01:00:04+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "블로터",
-            "전자신문"
-          ]
-        },
-        {
-          "title": "설문으로 기업 보안 무료 확인...네이버클라우드, 자가진단 사이트 오픈",
-          "summary": "네이버클라우드는 기업 보안 현황을 빠르게 점검할 수 있는 '네이버클라우드 보안 자가진단' 사이트를 19일 오픈했다고 밝혔다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=156254",
-          "publishedAt": "2026-10-19T17:06:01+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "매일경제",
-            "아이뉴스24"
-          ]
-        },
-        {
-          "title": "엔씨, 모바일 캐주얼 퍼블리싱 신작 '행성파괴 냥냐냥' 출시",
-          "summary": "엔씨(공동대표 김택진, 박병무)는 모바일 게임 '행성파괴 냥냐냥(Tiny Cat Assemble: Survivors)'을 정식 출시했다고 19일 밝혔다.행성파괴 냥냐냥은 한국, 일본, 대만, 홍콩, 마카오, 필리핀 등 6개 지역에서 서비스한다.…",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2016454",
-          "publishedAt": "2026-10-19T05:06:16+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "연합뉴스",
+            "아이뉴스24",
             "테크M"
+          ]
+        },
+        {
+          "title": "나루씨큐리티, AI로 웹 공격 흔적 찾는다…'제로티카 라이트 웹' 출시",
+          "summary": "나루씨큐리티가 인공지능(AI)으로 웹 로그를 분석해 과거 침해 흔적과 현재 공격 상태, 향후 공격 가능성을 점검하는 구독형 보안 서비스를 내놨다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=676076",
+          "publishedAt": "2026-10-20T09:50:48+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "크래프톤, 지스타 2026 출품작 5종 공개",
+          "summary": "크래프톤은 오는 11월 19일부터 22일까지 부산 벡스코에서 열리는 국제 게임 전시회 '지스타 2026'에 참가해 'PUBG'와 신작 4종 등 총 5개 게임을 선보인다고 20일 밝혔다.올해로 10년 연속 지스타에 참가하는 크래프톤은 벡스코 제1전",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/2016782",
+          "publishedAt": "2026-10-20T00:46:33+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
           ]
         }
       ]
@@ -237,14 +232,14 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "할리스, 개인정보 276만건 유출…\"가상화폐 채굴 목적 접근\"",
-          "summary": "커피전문점 할리스의 멤버십 시스템이 해킹당해 고객들의 개인정보 276만건이 유출된 것으로 드러났다.",
+          "title": "빗썸 AI, 출시 47일 만에 이용자 50만명 넘어",
+          "summary": "빗썸이 국내 가상자산 거래소 최초로 선보인 인공지능(AI) 투자정보 서비스 '빗썸 AI' 누적 이용자가 출시 ...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261019012453030",
-          "publishedAt": "2026-10-19T07:15:56+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20261020055300002",
+          "publishedAt": "2026-10-20T01:01:02+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "전자신문"
+            "테크M"
           ]
         },
         {
@@ -257,11 +252,11 @@
           "otherSources": []
         },
         {
-          "title": "코인베이스 고객, 베이스서 비트코인 담보로 16억달러 빌려",
-          "summary": "비트코인(BTC)을 담보로 베이스(Base)에서 빌린 자금이 16억달러(약 2조1264억원)에 이른다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/424444",
-          "publishedAt": "2026-10-19T16:48:19+00:00",
+          "title": "람다256, 가상자산 추적 솔루션 시연",
+          "summary": "두나무 자회사 람다256이 오는 21일부터 24일까지 인천 송도에서 열리는 '2026 국제치안산업대전'(KPE...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261020048900002",
+          "publishedAt": "2026-10-20T00:38:57+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -272,39 +267,36 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "kt 이강철 감독, 프로야구 사령탑 역대 최고 3년 34억원 재계약",
-          "summary": "kt wiz를 2026 프로야구 정규시즌 우승으로 이끈 이강철 감독이 KBO리그 사령탑 역대 최고 대우를 받고...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261019110100007",
-          "publishedAt": "2026-10-19T05:19:21+00:00",
-          "sourceCount": 3,
+          "title": "‘케데헌’ 이재, 외조부 신영균 옛 자택서 결혼",
+          "summary": "보그·이재 인스타그램 갈무리넷플릭스 애니메이션 영화 주제곡 ‘골든’으로 세계적인 주목을 받은 싱어송라이터 이재가 프로듀서 겸 작곡가 샘 킴(사무엘 김)과 결혼했다.19일(현지시간) 미국 패션 매거진 보그에 따르면 이재와 샘 킴은 지난 17일 서울 강동구 모처에서 야외 결혼식을 올렸···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610201011001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
+          "publishedAt": "2026-10-20T01:11:00+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "조선일보",
-            "한겨레"
+            "연합뉴스"
           ]
         },
         {
-          "title": "체육공단, 장애인AG 대표팀에 격려금 전달",
-          "summary": "국민체육진흥공단이 2026 아이치-나고야 장애인아시안게임에 출전한 한국 선수단에 격려금 2000만 원을 전달했다.박용철 전무이사 등 공단 관계자는 19일 일본 나고야에 머무는 한국 선수단을 격려 방문했다.이 자리서 정진완 대한장애인체육회장, 박흥식 선수단장 등과 만나 선수들 훈련 여건과 식사 상태 등 현지 생활에 관해 대화를 나눴다.이어 한국 선수단 선전을 기원하며 격려금을 전달했다.박 전무이사는 “선수들이 준비한 기량을 아낌없이 보여주고 돌아오길 기대한다”며 “공단도 대표팀의 선전을 한마음으로 응원할 것”이라고 말했다.18일 막을 올린 이번 대회에는 한국 선수단 357명이 참가한다.",
+          "title": "KT, 이강철 감독과 3년 34억 연장 계약",
+          "summary": "‘강철 매직’이 2029년까지 ‘마법사 군단’을 지휘한다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/People/article/all/20261019/134865135/1",
-          "publishedAt": "2026-10-19T01:23:00+00:00",
-          "sourceCount": 3,
+          "link": "https://www.donga.com/news/Sports/article/all/20261020/134870575/2",
+          "publishedAt": "2026-10-19T19:30:00+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "연합뉴스",
-            "조선일보"
+            "한겨레"
           ]
         },
         {
-          "title": "프로야구 두산, 신임 단장으로 정재훈 운영팀장 선임",
-          "summary": "프로야구 두산 베어스가 정재훈(45) 운영팀장을 신임 단장으로 선임했다고 19일 밝혔다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261019076000007",
-          "publishedAt": "2026-10-19T02:11:39+00:00",
-          "sourceCount": 3,
+          "title": "\"충격\" 올림픽보다 어렵다…'세계 최강' 양궁 김우진→임시현, 전국체전 조기 탈락",
+          "summary": "2024년 파리올림픽에서 나란히 3관왕을 차지했던 양궁의 김우진(청주시청)과 임시현(현대모비스)이 전국체육대회에서 나란히 조기 탈락했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/sports_general/2026/10/19/MJTDKNRVHAYTGMZTGBSDIMBXGU/",
+          "publishedAt": "2026-10-19T14:57:01+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "조선일보",
-            "한겨레"
+            "연합뉴스"
           ]
         }
       ]
@@ -314,18 +306,18 @@
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "머스크 내년 美 모든 어린이에 스페이스X 1주",
-      "sentence": "로이터연합뉴스 일론 머스크 스페이스X 최고경영자(CEO)가 내년에 미국의 모든 어린이에게 자신이 보유한 스페이스X 주식을 1주씩 나눠주겠다고 돌연 선언했다.…",
+      "phrase": "AI 공격 막는 AI 웹 방어 서비스 출시",
+      "sentence": "AI를 활용한 사이버 공격이 늘어나는 가운데 네트워크 중심이었던 침해평가 기술을 웹 영역까지 확장해 공격 흔적...",
       "articleCount": 250,
-      "link": "https://www.kmib.co.kr/article/20261019502334"
+      "link": "https://www.yna.co.kr/view/AKR20261020037500017"
     },
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "李대통령 주식시장 조만간 필요한 조치",
-      "sentence": "이재명 대통령은 19일 \"주식시장 정상화를 위해 정책적으로 해야 할 일이 무엇인지 계속 체크하고 있다\"...",
+      "phrase": "내달 中서 김정은과 회담 여부에 모르겠다",
+      "sentence": "도널드 트럼프 미국 대통령은 19일(현지시간) 중국 선전에서 11월 열리는 아시아태평양경제협력체(A...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261019157400001"
+      "link": "https://www.yna.co.kr/view/AKR20261020005351071"
     },
     {
       "id": "world",
@@ -340,160 +332,160 @@
       "name": "증시",
       "phrase": "상장일정 맞추기 위해 심사 빨리 진행",
       "sentence": "이찬진 금융감독원장은 19일 단일종목 레버리지 상장지수펀드(ETF)의 상장 일정을 맞추기...",
-      "articleCount": 163,
+      "articleCount": 207,
       "link": "https://www.yna.co.kr/view/AKR20261019071352002"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "메모리 기판 3605억원 수주",
-      "sentence": "삼성전기가 글로벌 대형 고객사와 3605억원 규모의 메모리 반도체용 패키지기판 장기공급계약(LTA)을 체결했다.…",
-      "articleCount": 130,
-      "link": "https://www.nocutnews.co.kr/news/6593720"
+      "phrase": "반도체 협력사에 2조원 보증 지원",
+      "sentence": "정부가 SK하이닉스와 손잡고 반도체 소재·부품·장비(소부장) 기업에 2조원 규모의 보증 지원에 나선다.",
+      "articleCount": 138,
+      "link": "https://www.yna.co.kr/view/AKR20261019072200003"
     },
     {
-      "id": "sports",
-      "name": "스포츠",
-      "phrase": "올림픽 3관왕도 어렵다",
-      "sentence": "2024 파리 올림픽에서 나란히 3관왕에 올랐던 양궁 남녀 간판 김우진(청주시청)과 임시현(현대모비스)이 제1...",
-      "articleCount": 128,
-      "link": "https://www.yna.co.kr/view/AKR20261019144800007"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "中 3분기 GDP 4.5% 늘어 전망치 웃돌아",
-      "sentence": "중국 경제가 내수 부진에도 불구하고 수출 호조에 힘입어 올해 3분기에 시장 전망을 웃도는 4.5% 성장률을...",
-      "articleCount": 112,
-      "link": "https://www.yna.co.kr/view/AKR20261019074352089"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "레벨4 자율주행 트럭 실증",
+      "sentence": "현대차·기아가 레벨4 자율주행 트럭 상용화를 위해 내년 말까지 약 500㎞ 물류 구간에서 실증에 나선다.",
+      "articleCount": 124,
+      "link": "https://www.yna.co.kr/view/AKR20261020037600003"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "김민석 응급환자 구역 주차 논란에 변명 여지",
       "sentence": "더불어민주당은 19일 김민석 대표가 탑승한 차량이 전날 순직 소방관 조문 과정에서 병원 내 응급환자 전용 주차...",
-      "articleCount": 110,
+      "articleCount": 121,
       "link": "https://www.yna.co.kr/view/AKR20261019153600001"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠",
+      "phrase": "대표팀 무단이탈 호날두",
+      "sentence": "포르투갈 축구대표팀 캠프를 무단으로 이탈한 크리스티아누 호날두(41·알나스르)가 출전 정지 30일과 벌금 255유로(약 38만 원)의 징계를 받았다.…",
+      "articleCount": 120,
+      "link": "https://www.donga.com/news/Inter/article/all/20261020/134871557/2"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "3%대 중반 가능⋯ 잠재성장률 반등도 임박",
+      "sentence": "뉴시스 이형일 부총리 겸 재정경제부 장관이 “(올해 한국 경제 성장률은) 3%대 중반도 가능할 수 있다”고 말했다.…",
+      "articleCount": 119,
+      "link": "https://www.kmib.co.kr/article/20261019502194"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "연세의료원과 베트남 구순구개열 환아 지원",
-      "sentence": "지난 15~17 일 , 베트남 다낭 모자병원에서 진행된 봉사활동에 참여한 관계자들이 단체 사진을 찍고 있는 모습 .…",
+      "phrase": "농협대·지역농협과 미래 농업 상생협력 협약",
+      "sentence": "경기 고양시는 농협대학교 및 지역농협 8곳과 '미래 농업 지역 상생 업무협약'을 체결했다고 20일 밝혔다.",
       "articleCount": 103,
-      "link": "https://www.kmib.co.kr/article/20261019501973"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "현대 아반떼 N 모노크롬 공개",
-      "sentence": "현대자동차 간판 세단 아반떼 고성능 모델인 아반떼 N의 내·외장을 최대한 하나의 색으로 마감한 ‘아반떼 N 모노크롬’의 모습.…",
-      "articleCount": 100,
-      "link": "https://www.donga.com/news/Economy/article/all/20261019/134869909/2"
+      "link": "https://www.yna.co.kr/view/AKR20261020026100060"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "5살 아들이 울면서 아빠 도망가!",
       "sentence": "한국민속촌에서 귀신 역할로 관람객들과 만나고 있는 배우가 한 아이 아버지로부터 뜻밖의 감사 메시지를 받은 사실을 공개했다.…",
-      "articleCount": 97,
+      "articleCount": 92,
       "link": "https://www.donga.com/news/Society/article/all/20261019/134865955/2"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "여의도 시범아파트 재건축 시공사 선정",
-      "sentence": "삼성물산 건설부문이 서울 여의도 시범아파트 재건축 사업의 시공사로 선정됐다고 19일 밝혔다.여의도 시범아파트 재건축은 총 18개 동, 2480가구 규모의 아파트를…",
-      "articleCount": 94,
-      "link": "https://www.donga.com/news/Economy/article/all/20261019/134869412/1"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "넥슨 메이플스토리M",
-      "sentence": "‘메이플스토리M’, 10주년 오프라인 행사장 모습.…",
-      "articleCount": 88,
-      "link": "https://www.kmib.co.kr/article/20261019501988"
+      "phrase": "1∼9월 서울 아파트 월세 비중 50% 첫 돌파",
+      "sentence": "1∼9월 서울 아파트 임대차 거래에서 월세가 차지하는 비중이 처음으로 50%를 넘어선 것으로 나타났다.",
+      "articleCount": 90,
+      "link": "https://www.yna.co.kr/view/AKR20261019159000003"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
-      "phrase": "LG 전 계열사 사업보고회 돌입",
-      "sentence": "LG가 19일부터 약 한 달간 전 계열사를 대상으로 사업보고회를 열고 인공지능(AI)을 중심으로 한 미래 성장 전략과 내년도 사업계획을 점검한다.…",
-      "articleCount": 79,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261020031007"
+      "phrase": "국가보훈부와 일상 속 보훈문화 조성 협약",
+      "sentence": "롯데백화점은 국가유공자와 유가족을 예우하는 보훈 문화를 조성하고 확산하기 위해 국가보훈부와 협력한다고 20일 ...",
+      "articleCount": 82,
+      "link": "https://www.yna.co.kr/view/AKR20261019150000030"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "지스타 출품작 5종 공개",
+      "sentence": "크래프톤[259960]은 오는 11월 부산 벡스코(BEXCO)에서 열리는 게임 전시회 지스타(G-STAR)에 ...",
+      "articleCount": 73,
+      "link": "https://www.yna.co.kr/view/AKR20261020050800017"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "AI 일자리 충격 대응",
-      "sentence": "대규모 기업공개(IPO)를 추진 중인 앤스로픽이 회사 지분 5%를 공익기금에 내놓기로 했다.",
-      "articleCount": 75,
-      "link": "https://www.donga.com/news/Economy/article/all/20261019/134869917/2"
-    },
-    {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "中 통번역·의학·예술 등 전공",
-      "sentence": "중국이 공학 분야에 이어 통·번역과 임상의학, 예술 등 분야를 대상으로 학위논문이 아닌 '실무 성과'로 석...",
-      "articleCount": 57,
-      "link": "https://www.yna.co.kr/view/AKR20261019160700083"
+      "phrase": "트럼프 지지율 33% 최저치",
+      "sentence": "‘경제 신뢰’ 민주 40% 공화 33%2014년 이후 처음으로 뒤집혀트럼프 연설 중, 곳곳에 빈자리 17일(현지시간) 미국 켄터키주 하이랜드 하이츠에서 도널드 트…",
+      "articleCount": 69,
+      "link": "https://www.khan.co.kr/article/202610192058005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
     },
     {
       "id": "rate",
       "name": "금리",
-      "phrase": "반도체 호황을 소부장까지 ⋯ SK하이닉스",
-      "sentence": "SK하이닉스 제공 SK하이닉스가 정부 및 금융권과 손잡고 반도체 소재·부품·장비(소부장) 협력사에 총 2조원 규모의 금융 보증을 지원한다.…",
-      "articleCount": 49,
-      "link": "https://www.kmib.co.kr/article/20261019501639"
-    },
-    {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "현대차그룹 방산사업 현대로템 으로 뭉친다",
-      "sentence": "K2·K9 등 화포 생산… 수직 계열화 가격·현지화 등 수출 경쟁력 강화 현대위아는 미래 모빌리티 집중 아이오닉3 등 전기차 유럽 공략 현대자동차그룹이 방산사업을…",
-      "articleCount": 40,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261020032002"
+      "phrase": "소부장 협력사에 2조원 금융 지원",
+      "sentence": "반도체 대기업의 호황을 소재·부품·장비(소부장) 중소·중견기업으로 확산하기 위한 2조원 규모 상생 무역금융이 출범했다.…",
+      "articleCount": 63,
+      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261020031003"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "베이스서 비트코인 담보로 16억달러 빌려",
-      "sentence": "비트코인(BTC)을 담보로 베이스(Base)에서 빌린 자금이 16억달러(약 2조1264억원)에 이른다.…",
-      "articleCount": 38,
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/424444"
+      "phrase": "출시 47일 만에 이용자 50만명 넘어",
+      "sentence": "빗썸이 국내 가상자산 거래소 최초로 선보인 인공지능(AI) 투자정보 서비스 '빗썸 AI' 누적 이용자가 출시 ...",
+      "articleCount": 57,
+      "link": "https://www.yna.co.kr/view/AKR20261020055300002"
+    },
+    {
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "우크라 위성통신·정보공유 제한 여전",
+      "sentence": "우크라이나 당국이 러시아와 전쟁에 사용하는 위성통신, 탄도미사일 조기경보 정보 등 미국의 서비스에 제한이 계속...",
+      "articleCount": 54,
+      "link": "https://www.yna.co.kr/view/AKR20261020025800009"
     },
     {
       "id": "retail",
       "name": "유통·소비",
-      "phrase": "美코스트코 400곳 입점",
-      "sentence": "에이피알이 자사의 대표 뷰티 브랜드 ‘메디큐브’가 미국의 대형 유통업체 코스트코 현지 매장 약 400곳에 입점했다고 19일 밝혔다.…",
-      "articleCount": 36,
-      "link": "https://www.donga.com/news/Economy/article/all/20261019/134869953/2"
+      "phrase": "바코드 찍으면 조리법 자동 설정",
+      "sentence": "[지디넷코리아]CU가 상품 바코드를 읽어 조리 시간과 방식을 자동으로 설정하는 기기를 도입한다.…",
+      "articleCount": 51,
+      "link": "https://zdnet.co.kr/view/?no=20261020092848"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "경기도 기후테크 컨퍼런스 에 445개사 참여",
+      "sentence": "경기도는 지난 15~16일 수원 경기융합타운에서 열린 '2026 경기도 기후테크 컨퍼런스'를 통해 38건, 5...",
+      "articleCount": 43,
+      "link": "https://www.yna.co.kr/view/AKR20261020042100061"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "조희대 탄핵하면? 김건희 등 내란 사건 줄줄이",
-      "sentence": "연합뉴스 조희대 대법원장 탄핵을 추진하려는 여권의 압박이 거세지는 가운데 법조계에서는 조 대법원장 탄핵이 현실화할 경우 부작용이 속출할 것이란 우려가 나온다.…",
-      "articleCount": 31,
-      "link": "https://www.kmib.co.kr/article/20261019502224"
-    },
-    {
-      "id": "fx",
-      "name": "환율",
-      "phrase": "코스피 급락에 갇힌 개미들",
-      "sentence": "증권사 전문가 8인 진단 AI 의구심·외국인 매도세에 하락 반도체·금융주 품고 11월 넘겨야 코스피가 10월 들어 7000선에서 5500선까지 급락하면서 투자자들…",
-      "articleCount": 25,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261019500331"
+      "phrase": "아리셀 대표 징역 15년→4년 감형 판결 확정",
+      "sentence": "23명의 노동자가 숨진 아리셀 화재 참사와 관련해 중대재해처벌법으로 기소된 박순관 대표가 대법원에서 징역 4년을 확정받았다.대법원 1부(주심 천대엽 대법관)는 2…",
+      "articleCount": 40,
+      "link": "https://www.khan.co.kr/article/202610201011021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "KT와 3년 34억에 재계약",
-      "sentence": "이강철 감독, KT와 3년 34억에 재계약…‘KBO 역대 최고액’",
-      "articleCount": 25,
-      "link": "https://www.hani.co.kr/arti/sports/baseball/1283031.html"
+      "phrase": "이강철 감독과 3년 34억 연장 계약",
+      "sentence": "‘강철 매직’이 2029년까지 ‘마법사 군단’을 지휘한다.…",
+      "articleCount": 35,
+      "link": "https://www.donga.com/news/Sports/article/all/20261020/134870575/2"
+    },
+    {
+      "id": "fx",
+      "name": "환율",
+      "phrase": "1.3원 내린 1329원",
+      "sentence": "미 달러화 대비 원화 환율(원·달러 환율)은 20일 오전 9시 1329원이다.",
+      "articleCount": 27,
+      "link": "https://www.chosun.com/economy/economy_general/2026/10/20/GY2TEZRRGFRTCNLGMQ2DOZDDMQ/"
     }
   ],
   "topicCatalog": [
