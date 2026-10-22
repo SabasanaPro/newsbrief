@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:38:27+09:00",
+  "generatedAt": "2026-10-23T00:51:50+09:00",
   "categories": [
     {
       "id": "politics",
@@ -19,28 +19,28 @@
           ]
         },
         {
-          "title": "외교부, 北 지뢰 폭발 관련 “유엔 안보리 의장에 서한 발송할 것”",
-          "summary": "정부가 비무장지대(DMZ) 지뢰 폭발 사건과 관련, 유엔 안전보장이사회 의장에게 서한을 발송할 예정이라고 22일 밝혔다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20261022/134890308/1",
-          "publishedAt": "2026-10-22T05:59:48+00:00",
+          "title": "법사위, 특별감찰관 청문보고서 채택…'10년 공백 해소' 임박",
+          "summary": "국회 법제사법위원회는 22일 최길수 특별감찰관 후보자에 대한 인사청문경과보고서를 채택했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261022140500001",
+          "publishedAt": "2026-10-22T06:28:58+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "경향신문",
-            "연합뉴스"
+            "조선일보",
+            "한겨레"
           ]
         },
         {
-          "title": "李대통령 \"중수청 지휘감독, 대통령 책임…포기하는건 탄핵사유\"",
-          "summary": "이재명 대통령은 22일 중대범죄수사청장의 국무회의 배석을 둘러싼 정치권의 논쟁과 관련해 \"국정에 대한 대통령의...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261022109600001",
-          "publishedAt": "2026-10-22T04:40:50+00:00",
+          "title": "이 대통령 “중수청 지휘감독 포기하는 건 탄핵 사유”···‘제미나이 논란’엔 “몰라서 인용한 것 아냐”",
+          "summary": "청와대사진기자단이재명 대통령이 22일 “중대범죄수사청에 대한 지휘감독을 포기하는 것은 헌법과 정부조직법 위반으로 탄핵 사유”라고 밝혔다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610221409001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-10-22T05:09:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "경향신문",
+            "연합뉴스",
             "한겨레"
           ]
         }
@@ -114,15 +114,15 @@
           ]
         },
         {
-          "title": "‘역삼동 연쇄 방화’ 70대 구속, 법원 “도주할 우려”",
-          "summary": "‘역삼동 연쇄 방화’ 혐의를 받는 70대 남성이 22일 서울중앙지법에서 구속 전 피의자 심문을 받기 위해 수서경찰서를 나서며 기자 질문에 주머니에 있던 인쇄물을 꺼내 보이고 있다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610222019001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-10-22T11:19:00+00:00",
+          "title": "역삼 연쇄방화 혐의 70대 구속영장 발부…“도주 우려”",
+          "summary": "서울 강남구 역삼동 특허법인 사무실 두 곳에 잇따라 불을 질러 19명을 다치게 한 혐의를 받는 70대 남성이 22일 구속됐다. 경찰은 범행 직전 특정인을 찾았다는 진술 등을 토대로..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12183397",
+          "publishedAt": "2026-10-22T11:20:48+00:00",
           "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "매일경제",
+            "경향신문",
             "연합뉴스",
             "조선일보"
           ]
@@ -148,15 +148,27 @@
       "name": "국제",
       "items": [
         {
-          "title": "美·이스라엘, 중간선거 후 이란 공습 준비… “효과는 제한적일 듯”",
-          "summary": "미국과 이스라엘이 미국 중간선거 이후 대(對)이란 공격을 재개할 준비를 하고 있다는 외신 보도가 나왔다.…",
+          "title": "“중국 티베트서 규모 7.0 강진… 진원 깊이 10㎞\"",
+          "summary": "중국 서부 시짱(西藏·티베트)자치구에서 규모 7.0의 강진이 발생했다.…",
           "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/10/22/MUZWEYLCGIYWIMJWMYYDOZTDGQ/",
-          "publishedAt": "2026-10-22T02:10:54+00:00",
+          "link": "https://www.chosun.com/international/international_general/2026/10/23/GU4GENRUGNSTSOBTMM3DMOJRMM/",
+          "publishedAt": "2026-10-22T15:31:49+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "美·이스라엘, 중간선거 후 이란 사흘간 집중 공습 검토",
+          "summary": "미국과 이스라엘이 다음 달 3일 미국 중간선거 이후 이란을 사흘간 집중 공격하기 위한 구체적인 계획을 세우고 있다고 뉴욕타임스(NYT)가 21일 보도했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20261022/134888696/1",
+          "publishedAt": "2026-10-22T10:28:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "경향신문",
-            "동아일보"
+            "조선일보"
           ]
         },
         {
@@ -169,17 +181,6 @@
           "otherSources": [
             "SBS",
             "동아일보"
-          ]
-        },
-        {
-          "title": "그리스 학생들도 거리로…독일 '핼러윈 시위' 예고",
-          "summary": "프랑스에서 시작된 시위가 유럽 곳곳으로 확산하고 있습니다.…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811096",
-          "publishedAt": "2026-10-22T15:26:00+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "경향신문"
           ]
         }
       ]
@@ -337,27 +338,27 @@
       "link": "https://www.yna.co.kr/view/AKR20261022192900004"
     },
     {
-      "id": "sports",
-      "name": "스포츠",
-      "phrase": "2026 LX배 한국여자야구대회 24일 개막",
-      "sentence": "LX홀딩스는 '2026 LX배 한국여자야구대회'가 오는 24일 개막한다고 22일 밝혔다.",
-      "articleCount": 172,
-      "link": "https://www.yna.co.kr/view/AKR20261022038400003"
-    },
-    {
       "id": "stock",
       "name": "증시",
       "phrase": "김건희 27일 추가 영장 심문",
       "sentence": "오는 31일 구속 만기를 앞둔 김건희 여사를 추가 구속할지에 대한 대법원 심문이 27일 열린다.…",
-      "articleCount": 164,
+      "articleCount": 165,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20261022500302"
+    },
+    {
+      "id": "sports",
+      "name": "스포츠",
+      "phrase": "2026 LX배 한국여자야구대회 24일 개막",
+      "sentence": "LX홀딩스는 '2026 LX배 한국여자야구대회'가 오는 24일 개막한다고 22일 밝혔다.",
+      "articleCount": 165,
+      "link": "https://www.yna.co.kr/view/AKR20261022038400003"
     },
     {
       "id": "industry",
       "name": "산업·기업",
       "phrase": "올해 OLED 패널 출하량 20%↑",
       "sentence": "LG디스플레이의 올해 3분기 연결 기준 영업이익이 2천506억원으로 작년 같은 기간보다 42% 줄었다.",
-      "articleCount": 142,
+      "articleCount": 144,
       "link": "https://www.yna.co.kr/view/AKR20261022122151003"
     },
     {
@@ -365,7 +366,7 @@
       "name": "교육",
       "phrase": "李 대통령 성폭행·소년원 허위 발언 혐의로",
       "sentence": "전광훈 사랑제일교회 목사가 이재명 대통령의 청소년 시절과 관련해 허위 사실을 유포한 혐의로 공소청에 넘겨졌다.…",
-      "articleCount": 135,
+      "articleCount": 134,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20261022500318"
     },
     {
@@ -373,7 +374,7 @@
       "name": "반도체",
       "phrase": "이억원 솔리다임 美 상장도 규제 대상 ⋯ 여야",
       "sentence": "이 위원장은 SK하이닉스의 미국 자회사 솔리다임의 나스닥 상장 추진이 중복상장 규제 대상이라고 밝혔다.…",
-      "articleCount": 113,
+      "articleCount": 115,
       "link": "https://www.kmib.co.kr/article/20261022501907"
     },
     {
@@ -381,7 +382,7 @@
       "name": "게임",
       "phrase": "장애인AG 혼성 50ｍ 소총 복사 금·은·동",
       "sentence": "(도요타[일본]=연합뉴스) 공동취재단 = 한국 사격 대표팀이 아시안패러게임(장애인아시아경기대회) 단일 종목에서 금, 은, 동메달을 모두 휩쓰는 ...",
-      "articleCount": 97,
+      "articleCount": 96,
       "link": "https://www.yna.co.kr/view/AKR20261022175400007"
     },
     {
@@ -389,7 +390,7 @@
       "name": "부동산",
       "phrase": "비수도권 0.2%p·수도권 0.1%p↓",
       "sentence": "NH농협은행이 주택담보대출과 전세자금대출, 신용대출 금리를 추가로 인하한다.",
-      "articleCount": 96,
+      "articleCount": 94,
       "link": "https://www.yna.co.kr/view/AKR20261022151500002"
     },
     {
@@ -397,23 +398,15 @@
       "name": "건강·의료",
       "phrase": "스토킹 신고 여성 살해 혐의 60대 남성",
       "sentence": "50대 여성을 살해한 혐의를 받는 60대 남성이 음독 후 치료를 받던 중 숨졌다.…",
-      "articleCount": 90,
+      "articleCount": 92,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20261022500299"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "쿠팡 노동법 위반 206건 적발⋯ 과태료",
-      "sentence": "정부가 약 9개월간 쿠팡을 전방위적으로 감독한 결과 산업안전보건법 위반 등 206건의 법 위반 사항을 적발했다.…",
-      "articleCount": 88,
-      "link": "https://www.kmib.co.kr/article/20261022501963"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "결혼 20여년 만 파경",
       "sentence": "그룹 마로니에 출신 가수 김정은이 결혼 20여년 만에 파경을 맞았다.",
-      "articleCount": 88,
+      "articleCount": 89,
       "link": "https://www.yna.co.kr/view/AKR20261022162500005"
     },
     {
@@ -421,8 +414,16 @@
       "name": "수출·관세",
       "phrase": "김정관 메가특구법에 주52시간 예외 반드시",
       "sentence": "김정관 산업통상부 장관은 메가 프로젝트를 뒷받침할 ‘지역 산업 육성을 위한 메가특구법’(초광역특구법)에 주 52시간 예외 적용 등 노동 특례 규정이 반드시 포함돼…",
-      "articleCount": 87,
+      "articleCount": 88,
       "link": "https://www.donga.com/news/Economy/article/all/20261022/134892581/1"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "쿠팡 노동법 위반 206건 적발⋯ 과태료",
+      "sentence": "정부가 약 9개월간 쿠팡을 전방위적으로 감독한 결과 산업안전보건법 위반 등 206건의 법 위반 사항을 적발했다.…",
+      "articleCount": 87,
+      "link": "https://www.kmib.co.kr/article/20261022501963"
     },
     {
       "id": "oil",
@@ -445,7 +446,7 @@
       "name": "유통·소비",
       "phrase": "쿠팡 블랙리스트 공익제보자",
       "sentence": "작년 1월 사측이 고소 철회했지만경찰, 정보통신망법 위반 혐의 적용쿠팡풀필먼트서비스(CFS)가 퇴사자들의 재취업을 막기 위해 ‘블랙리스트’를 작성해왔다는 의혹을…",
-      "articleCount": 72,
+      "articleCount": 74,
       "link": "https://www.khan.co.kr/article/202610222134005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
     },
     {
@@ -461,7 +462,7 @@
       "name": "노동",
       "phrase": "내일 첫차부터 파업 예고",
       "sentence": "부산교통공사 노사가 22일 단체교섭 최종합의에 이르지 못했다.",
-      "articleCount": 58,
+      "articleCount": 57,
       "link": "https://www.yna.co.kr/view/AKR20261022193601051"
     },
     {
@@ -475,10 +476,10 @@
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "佛 바람 타고 번지는 유럽 시위⋯ 그리스",
-      "sentence": "그리스 테살로니키에서 21일(현지시간) 열악한 교육환경과 일자리 문제에 항의하는 시위가 벌어진 가운데 한 시위 참가자가 연막탄을 든 채 구호를 외치고 있다.…",
-      "articleCount": 46,
-      "link": "https://www.kmib.co.kr/article/20261022502071"
+      "phrase": "소나무 재선충병",
+      "sentence": "우리 산림에서 소나무림은 약 4분의 1을 차지한다.",
+      "articleCount": 48,
+      "link": "https://www.kmib.co.kr/article/20261022502121"
     },
     {
       "id": "fx",
