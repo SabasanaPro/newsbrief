@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:54:13+09:00",
+  "generatedAt": "2026-10-25T09:30:41+09:00",
   "categories": [
     {
       "id": "politics",
@@ -11,12 +11,10 @@
           "source": "SBS",
           "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813124",
           "publishedAt": "2026-10-24T07:29:00+00:00",
-          "sourceCount": 6,
+          "sourceCount": 4,
           "otherSources": [
             "경향신문",
-            "동아일보",
             "매일경제",
-            "조선일보",
             "한겨레"
           ]
         },
@@ -34,15 +32,15 @@
           ]
         },
         {
-          "title": "‘당일치기 방중’ 김정은, 단둥서 中서열 4위 왕후닝과 회담",
-          "summary": "24일 전격 방중한 김정은 북한 국무위원장이 중국공산당 서열 4위인 왕후닝 전국인민정치협상회의 주석과 만나 단둥 항미원조기념관을 참배했다고 관영 신화통신이 이날 보도했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20261024/134901396/1",
-          "publishedAt": "2026-10-24T12:07:00+00:00",
+          "title": "김정은, ‘중 서열 4위’ 왕후닝과 회담 후 단둥 떠나···“북·중, 신압록강대교 계기 경제협력 확대”",
+          "summary": "김정은, 단둥 자동차 공장 등 시찰왕 주석, 신압록강대교까지 배웅김정은 북한 국무위원장이 10월 22일과 23일 평양에서 조선인민군 제3차 중대장 대회를 주재하고 ‘새 시대 강군건설과 중대장들의 임무’에 대해서 연설했다고 조선중앙통신이 24일 보도했다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610242024001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-10-24T11:24:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "조선일보"
+            "매일경제"
           ]
         }
       ]
@@ -52,36 +50,36 @@
       "name": "경제",
       "items": [
         {
-          "title": "\"한 사람이 109억 당첨?\"...로또 1등 수동 3장, 한 곳서 나왔다",
-          "summary": "(종합) 제1247회 로또복권 추첨 결과 '8·14·21·22·42·45'이 1등 당첨 번호로 결정됐다. 2등 당첨자를 결정하는 보너스 번호는 '24'이다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/society/2026/10/24/2026102422081482383",
-          "publishedAt": "2026-10-24T13:17:10+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "동아일보"
-          ]
-        },
-        {
-          "title": "대한항공·아시아나 예약 시스템 운영사서 정보 유출",
-          "summary": "대한항공과 아시아나항공의 예약, 발권 시스템 운영사에서 개인정보가 유출된 걸로 파악됐습니다.사고가 발생한 시점은 2023년 8월부터 올해 9월 …",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008813243",
-          "publishedAt": "2026-10-24T13:09:00+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "한겨레"
-          ]
-        },
-        {
-          "title": "삼성물산, 반포푸르지오 리모델링 시공사 선정… 1250억원 규모",
-          "summary": "삼성물산 건설부문이 서울 서초구 반포푸르지오 아파트 리모델링 사업 시공사에 선정됐다.…",
+          "title": "올해 아파트 관리비 ‘비리 경보’ 7851곳… 처분 결과는 정부도 몰라",
+          "summary": "정부가 아파트 관리비 비리 차단을 위해 도입한 ‘조기경보시스템’이 올해 8000개 가까운 단지에 대해 의심 경보를 내린 것으로 나타났다.…",
           "source": "조선일보",
-          "link": "https://www.chosun.com/economy/real_estate/2026/10/24/MYYTKZLGHA2TSOJSMI4WKODBMU/",
-          "publishedAt": "2026-10-24T08:36:40+00:00",
+          "link": "https://www.chosun.com/economy/real_estate/2026/10/25/HA3WMZLDMFSDOM3GGZRDGZRWMM/",
+          "publishedAt": "2026-10-25T00:14:04+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "30살 햇반, 2028년 연매출 1.5조 간다…\"해외 비중 25%로 확대\"",
+          "summary": "지난해 매출 1조1000억원 이상 '역대 최대'…30년 누적 10조원 전망 잡곡밥 비중 30% 이상…12월 '단백질 잡곡밥' 출시 미국 시장 핵심...만두 이을 'K웨이브' 제품으로 육성 CJ제일제당이 출시 30주년을 맞은 즉석밥 브랜드 '햇반'을 2028년까지 연매출 1조5000억원대 브랜드로 키운다.…",
+          "source": "머니투데이",
+          "link": "https://www.mt.co.kr/living/2026/10/25/2026102209243441904",
+          "publishedAt": "2026-10-24T23:30:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "조선일보"
+          ]
+        },
+        {
+          "title": "“1명이 로또 109억 당첨?”…한 곳에서 ‘수동 1등’ 3장 나왔다",
+          "summary": "24일 제1247회 로또 1등 당첨 번호는 ‘8·14·21·22·42·45’로 결정됐다. 보너스 번호는 ‘24’다.당첨 번호 6개를 모두 맞힌 1등 당첨자는 8명이다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Society/article/all/20261024/134901437/1",
+          "publishedAt": "2026-10-24T13:26:50+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "머니투데이"
           ]
         }
       ]
@@ -91,43 +89,41 @@
       "name": "사회",
       "items": [
         {
-          "title": "태풍 ‘참피’ 북상에···제주·남해안 풍수해 위기경보 ‘관심→주의’ 상향",
-          "summary": "제주도에 호우주의보가 발효된 24일 비가 내리는 제주돌문화공원에서 관광객들이 돌하르방을 둘러보고 있다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610241914001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-10-24T10:14:00+00:00",
-          "sourceCount": 6,
+          "title": "태풍 '참피' 북상에 제주·남해안 풍수해 위기경보 '주의' 상향",
+          "summary": "행정안전부는 제30호 태풍 '참피'가 북상함에 따라 24일 오후 6시를 기해 제주도와 남해안 지역의 풍수해 재...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261024047000530",
+          "publishedAt": "2026-10-24T09:17:14+00:00",
+          "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "노컷뉴스",
+            "경향신문",
             "동아일보",
-            "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "최형우 전 내무부 장관 별세…김영삼 전 대통령 최측근, 향년 91세",
-          "summary": "김영삼(YS, 1927∼2015) 전 대통령의 측근 정치인인 최형우(崔炯佑) 전 내무부 장관이 24일 오전 3시30분 중앙보훈병원에서 세상을 떠났다고 안경률 전 의원이 전했다. 향..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12184742",
-          "publishedAt": "2026-10-24T00:17:37+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "노컷뉴스",
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "강서구 60대 모친 살해 40대 딸 구속…법원 \"도주 우려\"",
-          "summary": "서울 강서구 자택에서 60대 친어머니를 살해한 혐의를 받는 40대 딸이 구속됐다.…",
+          "title": "의대 수시 합격생 1728명 등록 포기…다른 대학 중복합격 영향",
+          "summary": "2026학년도 전국 39개 의대 수시모집에서 타 대학 중복합격 등으로 등록을 포기한 합격자가 1728명에 달한 것으로 나타났다.…",
           "source": "노컷뉴스",
-          "link": "https://www.nocutnews.co.kr/news/6596551",
-          "publishedAt": "2026-10-24T19:55:17+00:00",
+          "link": "https://www.nocutnews.co.kr/news/6596166",
+          "publishedAt": "2026-10-25T08:00:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "동아일보",
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "군 상관에 \"X패고싶다\" 했다가 1계급 강등…법원 \"과도한 징계\"",
+          "summary": "군대 상관에게 'X 패고 싶다', '폐급간부' 등 발언을 했다는 이유로 1계급 강등 처분을 내린 것은 과도하다...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261024045500004",
+          "publishedAt": "2026-10-24T22:00:04+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "국민일보"
           ]
         }
       ]
@@ -137,35 +133,34 @@
       "name": "국제",
       "items": [
         {
-          "title": "트럼프, 캐나다 관세 일부 철회…접전지 지원",
-          "summary": "캐나다-미국 국기도널드 트럼프 미국 대통령이 11·3 중간선거를 앞두고 캐나다산 일부 제품에 대해 50% 고율 관세 조치를 철회하…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812810",
-          "publishedAt": "2026-10-23T21:56:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "트럼프 “對이란 ‘압도적 분노’ 작전, 소규모로 한번 더 할수도”",
-          "summary": "도널드 트럼프 미국 대통령이 이란을 상대로 또다시 군사 작전을 수행할 수 있다고 23일(현지 시간) 밝혔다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Inter/article/all/20261024/134900727/2",
-          "publishedAt": "2026-10-24T02:39:00+00:00",
+          "title": "금지령에도 프랑스 전역서 시위… 경찰 대규모 투입",
+          "summary": "24일(현지 시각) 프랑스 각지에서 공공 부문 투자 부족과 고물가에 항의하는 학생·노동조합 시위가 열렸다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/10/25/GY3WMYRWMVSTCYRXGMYTENZQMM/",
+          "publishedAt": "2026-10-24T16:34:16+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "한겨레"
+            "연합뉴스"
           ]
         },
         {
-          "title": "사우디-후티 반군, 주요 거점 난타전…사망자 속출",
-          "summary": "사우디아라비아와 예멘의 친이란 반군 후티가 24일(현지시간) 상대측 주요 도시와 핵심 시설 등을 겨냥한 무...",
+          "title": "후티 반군 \"사우디 수도 리야드 공항·동서 송유관 등 타격\"",
+          "summary": "예멘의 친이란 반군 후티가 사우디아라비아의 대규모 공습에 대한 보복으로 리야드 킹 칼리드 국제공항과 핵심 ...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261024054451079",
-          "publishedAt": "2026-10-24T15:24:40+00:00",
+          "link": "https://www.yna.co.kr/view/AKR20261025001051079",
+          "publishedAt": "2026-10-24T19:43:40+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "SBS"
+          ]
+        },
+        {
+          "title": "사우디 \"리야드 킹칼리드 국제공항 오늘부터 운영 재개\"",
+          "summary": "사우디아라비아가 예멘 후티 반군의 공격으로 약 2주간 폐쇄됐던 수도 리야드의 킹 칼리드 국제공항 운영을 25일...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261025005000009",
+          "publishedAt": "2026-10-24T22:26:44+00:00",
           "sourceCount": 2,
           "otherSources": [
             "SBS"
@@ -177,18 +172,6 @@
       "id": "tech",
       "name": "IT·과학",
       "items": [
-        {
-          "title": "PHP 취약점 악용한 공격 계획 포착…북한 해킹조직 연계 여부 주목",
-          "summary": "세계 웹사이트에서 널리 사용되는 프로그래밍 언어 PHP의 보안 취약점을 악용한 사이버 공격을 준비하는 정황이 포착됐다.…",
-          "source": "전자신문",
-          "link": "https://www.etnews.com/20261024000009",
-          "publishedAt": "2026-10-24T02:31:47+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "아이뉴스24",
-            "연합뉴스"
-          ]
-        },
         {
           "title": "나사, 2028년 달 착륙 위해…사상 첫 ‘우주선 3대 시험비행’ 한다",
           "summary": "",
@@ -206,6 +189,15 @@
           "publishedAt": null,
           "sourceCount": 1,
           "otherSources": []
+        },
+        {
+          "title": "AI 시대에 ‘일상을 꾸미는 행위’는 특별한 의미가 있다",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/science/future/1283797.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -214,32 +206,33 @@
       "name": "가상화폐",
       "items": [
         {
+          "title": "영구우선주로 비트코인 13만5979개 매입…배당 부담도 커져",
+          "summary": "영구우선주 발행 자금과 연결된 비트코인(BTC) 매입량이 10월 5일 기준 13만5979개로 집계됐다. 비트코인 최대 공급량의 0.5%를 넘는 규모다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/427054",
+          "publishedAt": "2026-10-24T22:17:56+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "블록미디어"
+          ]
+        },
+        {
           "title": "하나금융·두나무, 스테이블코인 결제망 구축 속도…업비트 지갑으로 카드 결제한다",
           "summary": "하나금융그룹이 국내 최대 가상자산 거래소 업비트를 운영하는 두나무와 손잡고 스테이블코인 결제 시장 선점에 나섰다.…",
           "source": "테크M",
           "link": "https://www.techm.kr/news/articleView.html?idxno=156463",
           "publishedAt": "2026-10-23T17:13:38+00:00",
-          "sourceCount": 3,
+          "sourceCount": 2,
           "otherSources": [
-            "아시아경제",
             "한겨레"
           ]
         },
         {
-          "title": "비트코인, 66일 만에 50일선 하회…ETF 이틀간 7억7350만달러 유출",
-          "summary": "비트코인(BTC)이 66일 연속 웃돌던 50일 이동평균선 아래로 내려갔다. 미국 현물 비트코인 ETF에서는 이틀 연속 자금이 빠져나갔다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/426948",
-          "publishedAt": "2026-10-24T12:44:09+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "비트코인 10월 13번 중 10번 상승…중앙값 14.6%",
-          "summary": "비트코인(BTC)은 2013년부터 2025년까지 완료된 10월 13번 가운데 10번 상승 마감했다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/427000",
-          "publishedAt": "2026-10-24T15:50:45+00:00",
+          "title": "10월 비트코인 ‘업토버’ 마지막 기회, 연준 금리동결 · 기술주 실적 주시",
+          "summary": "[블록미디어 이정화 기자] 업토버는 이대로 무산될 것인가? 10월 마지막 주 미국 금융시장은 연방준비제도(Fed·연준)의 기준금리 결정과 주요 기술기업 실적 발표를 주목하고 있다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1155865?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-10-25T00:29:55+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -250,34 +243,33 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "김기동 감독, '부임 3년 만에 FC서울 우승으로'",
-          "summary": "[OSEN=서울월드컵경기장, 최규한 기자] FC서울이 7번째 리그 우승을 확정 지었다.FC서울은 24일 서울월드컵경기장에서 열린 하나은행 K리그1 2026 33라운드 강원FC와 맞대결을 치러 1-1로 비겼다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/10/24/GAYTMZJZMNRGKY3EGRQWINBSME/",
-          "publishedAt": "2026-10-24T08:42:00+00:00",
-          "sourceCount": 3,
+          "title": "피겨 서민규, 시니어 그랑프리 데뷔전 쇼트 3위…메달 도전",
+          "summary": "한국 피겨스케이팅 남자 싱글의 차세대 간판 서민규(경신고)가 시니어 그랑프리 데뷔전에서 쇼트프로그램 3위에 오르며 메달 희망을 품었다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20261025/134901849/1",
+          "publishedAt": "2026-10-24T23:39:21+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "동아일보",
             "연합뉴스"
           ]
         },
         {
-          "title": "FC서울, 강원과 비기고 우승 축포…10년 만에 통산 7번째 우승",
-          "summary": "프로축구 K리그1 FC서울이 10년 만에 리그 정상을 탈환하며 안방에서 우승 축포를 쏘아 올렸다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261024037451007",
-          "publishedAt": "2026-10-24T07:29:51+00:00",
+          "title": "10년 만의 우승, 허태수 회장도 직접 찾았다...FC서울 7번째 별에 함박웃음 \"선수단 노고에 박수, 팬들과 기쁨 나누고 싶다\"",
+          "summary": "[OSEN=서울월드컵경기장, 정승우 기자] 10년의 기다림이 끝났다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/football/2026/10/25/GQ4WKYTGGEYTAMBVMNTGMMZWGE/",
+          "publishedAt": "2026-10-24T16:10:00+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "동아일보"
+            "연합뉴스"
           ]
         },
         {
-          "title": "넷플릭스 한국 진출 10주년, 이정재 “‘한국인이라 자랑스럽다’는 말 가장 와 닿았죠”",
-          "summary": "넷플릭스 제공“해외에 거주하는 팬분들로부터 ‘아시아인이라서, 한국인이라서 너무 자랑스럽다’는 말을 들었을 때 가슴에 가장 깊이 와닿았습니다.”배우 이정재가 24일 서울 마포구 상암 문화비축기지에서 열린 넷플릭스 한국 진출 10주년 기념 팬 이벤트 ‘넷플잔치’에 참여해 이 같이 말했다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610242145001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
-          "publishedAt": "2026-10-24T12:45:00+00:00",
+          "title": "FC서울, 10년 만의 K리그1 우승 축포…통산 7번째 우승별",
+          "summary": "프로축구 FC서울이 안방에서 10년 만에 우승 축포를 터트렸다.김기동 감독이 이끄는 서울은 24일 서울월드컵경기장에서 열린 하나은행 K리그1 2026 정규라운드 최종 33라운드 홈 경기에서 강원FC와 1-1로 비겼다.20승 7무 6패(승점 67)가 된 선두 서울은 같은 시간 포항 스틸러스와 2-2로 비긴 2위 울산 HD(승점 51)와의 승점 차를 16점으로 유지하며, 남은 파이널 라운드 5경기 결과와 상관없이 조기 우승을 확정했다.K리그1은 정규라운드 33경기를 치른 뒤 성적에 따라 파이널A(1~6위)와 파이널B(7~12위)로 나눠 5경기씩을 더 치른다.이로써 서울은 2016년 이후 10년 만에 정상을 탈환했다.전신인 안양 LG 시절을 포함하면 구단 통산 7번째 우승 트로피다.스플릿 라운드(파이널 라운드) 돌입 전 정규리그 우승을 확정한 건 전북 현대(2018, 2025년) 이후 역대 세 번째다.부임 3년 차를 맞은 김기동 감독은 개인으로서도, 지도자 커리어 첫 K리그",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20261024/134901067/1",
+          "publishedAt": "2026-10-24T07:05:00+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
@@ -288,188 +280,188 @@
   ],
   "topics": [
     {
-      "id": "politics",
-      "name": "정치",
-      "phrase": "YS 최측근 최형우 전 내무부 장관 별세",
-      "sentence": "김영삼(YS·1927∼2015) 전 대통령의 측근 정치인으로 1997년 대선 주자로도 거론됐던 최형우(崔炯佑)...",
-      "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261024016500704"
-    },
-    {
       "id": "world",
       "name": "국제정세",
-      "phrase": "트럼프 이란 상대 또 한번 작은 장대한 분노",
-      "sentence": "도널드 트럼프 미국 대통령은 23일(현지시간) \"우리는 또 한 번 작은 '장대한 분노' 작전을 할 수도 있...",
+      "phrase": "中서열 4위 왕후닝과 단둥서 회담",
+      "sentence": "김정은 북한 국무위원장이 24일 중국 랴오닝성 단둥을 방문해 중국 권력 서열 4위 왕후닝 전국인민정치협상회...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261024004552071"
+      "link": "https://www.yna.co.kr/view/AKR20261024050551083"
+    },
+    {
+      "id": "politics",
+      "name": "정치",
+      "phrase": "YS의 영원한 정치적 동지 최형우 전 내무장관",
+      "sentence": "김영삼 전 대통령의 최측근이자 ‘영원한 정치적 동지’로 꼽혔던 최형우 전 내무장관이 24일 오전 3시 30분 별세했다.…",
+      "articleCount": 202,
+      "link": "https://www.donga.com/news/Politics/article/all/20261024/134900657/2"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "이기면 우승 FC서울 김기동 감독",
-      "sentence": "이기면 프로축구 K리그1 우승을 확정 짓는 FC서울의 김기동 감독은 24일 결전을 앞두고도 덤덤한 표정이었다.",
-      "articleCount": 220,
-      "link": "https://www.yna.co.kr/view/AKR20261024031000007"
+      "phrase": "PGA 투어 버뮤다 챔피언십 3R서 2타 줄여",
+      "sentence": "노승열이 미국프로골프(PGA) 투어 버터필드 버뮤다 챔피언십(총상금 600만 달러) 셋째 날 순위를 소폭 끌어...",
+      "articleCount": 153,
+      "link": "https://www.yna.co.kr/view/AKR20261025012600007"
     },
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "건국대 중간고사서 AI 활용 부정행위 의혹",
-      "sentence": "건국대학교의 한 교양과목 비대면 중간고사에서 인공지능(AI)을 활용한 부정행위 정황이 드러나 수강생 600여명...",
-      "articleCount": 170,
-      "link": "https://www.yna.co.kr/view/AKR20261023179800004"
+      "phrase": "AI가 멋대로 금융거래 할라",
+      "sentence": "미국 대형 은행들이 인공지능(AI) 에이전트가 고객의 승인 없이 금융거래를 실행하거나 자금을 이동시킬 가능성을...",
+      "articleCount": 132,
+      "link": "https://www.yna.co.kr/view/AKR20261024015900009"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "YS의 영원한 정치적 동지 최형우 전 내무장관",
-      "sentence": "김영삼 전 대통령의 최측근이자 ‘영원한 정치적 동지’로 꼽혔던 최형우 전 내무장관이 24일 오전 3시 30분 별세했다.…",
-      "articleCount": 119,
-      "link": "https://www.donga.com/news/Politics/article/all/20261024/134900657/2"
+      "phrase": "작년 의대 수시 합격 1천728명 등록포기",
+      "sentence": "지난해 전국 의대 수시모집 합격자 중 1천700여명이 다른 대학 중복합격으로 등록을 포기한 것으로 나타났다.",
+      "articleCount": 82,
+      "link": "https://www.yna.co.kr/view/AKR20261025008900530"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "트럼프 對이란 압도적 분노 작전",
+      "sentence": "도널드 트럼프 미국 대통령이 이란을 상대로 또다시 군사 작전을 수행할 수 있다고 23일(현지 시간) 밝혔다.…",
+      "articleCount": 80,
+      "link": "https://www.donga.com/news/Inter/article/all/20261024/134900727/2"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "드라마로 만난다",
+      "sentence": "143억뷰 ‘나혼렙’·29억뷰 ‘재혼황후’…메가히트 웹소설, 드라마로 만난다",
+      "articleCount": 79,
+      "link": "https://www.hani.co.kr/arti/culture/culture_general/1283798.html"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "솔리다임 미국 상장 중단",
-      "sentence": "SK 하이닉스가 손자 회사인 '솔리다임'의 미국 증시 상장 추진을 중단하기로 했습니다.…",
-      "articleCount": 112,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812748"
+      "phrase": "이란 긴장 고조·유가 급등에 약세",
+      "sentence": "뉴욕증시가 23일(현지시간) 미국과 이란 간 군사적 긴장 고조에 따른 국제유가 급등 속에 대체로 하락세를 보...",
+      "articleCount": 76,
+      "link": "https://www.yna.co.kr/view/AKR20261024005200072"
     },
     {
       "id": "industry",
       "name": "산업·기업",
       "phrase": "美에 조선소 짓는다",
       "sentence": "HD현대가 미국 건설·엔지니어링 기업 키윗(Kiewit)과 합작법인을 설립해 현지에 신규 조선소를 구축한다.…",
-      "articleCount": 105,
+      "articleCount": 71,
       "link": "https://www.donga.com/news/Economy/article/all/20261023/134899724/2"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "2026 해밀‧산울무지개체육대회 성료",
-      "sentence": "세종특별시 해밀동과 산울동 주민들의 축제인 ‘2026 해밀‧산울무지개체육대회’가 24일 해밀동복합커뮤니케이션센터 체육관에서 성대하게 열려 주민화합의 장을 마련했다…",
-      "articleCount": 101,
-      "link": "https://www.pressian.com/pages/articles/2026102422493612277&ref=rss"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "휘발유값 최대 239원 억제",
-      "sentence": "정부가 석유 최고가격제를 시행하면서 보통 휘발유값이 제도 적용을 받지 않는 고급휘발유와 비교할 때 리터(L)당...",
-      "articleCount": 96,
-      "link": "https://www.yna.co.kr/view/AKR20261023117500003"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "반도체 투심 회복 기여할 듯",
-      "sentence": "SK하이닉스[000660]의 손자회사 솔리다임이 미국 증시 상장 검토를 중단했다는 소식에 반도체 관련 투자심리...",
-      "articleCount": 89,
-      "link": "https://www.yna.co.kr/view/AKR20261023030452008"
-    },
-    {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "YS 최측근 최형우 전 내무부 장관",
-      "sentence": "최형우 전 내무부 장관이 24일 오전 3시30분 중앙보훈병원에서 세상을 떠났다.",
-      "articleCount": 82,
-      "link": "https://www.khan.co.kr/article/202610241042001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news"
+      "phrase": "하이닉스 4%대 상승",
+      "sentence": "SK 하이닉스가 손자 회사인 '솔리다임'의 미국 증시 상장 추진을 중단하기로 했습니다.…",
+      "articleCount": 63,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812748"
     },
     {
       "id": "game",
       "name": "게임",
       "phrase": "李대통령 아시안패러게임 선수들",
       "sentence": "이재명 대통령은 24일 막을 내린 2026 아이치·나고야 아시안패러게임(장애인아시아경기대회)에 출전한 한국 선...",
-      "articleCount": 79,
+      "articleCount": 61,
       "link": "https://www.yna.co.kr/view/AKR20261024048700001"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "YS 최측근 최형우 전 내무부 장관",
+      "sentence": "최형우 전 내무부 장관이 24일 오전 3시30분 중앙보훈병원에서 세상을 떠났다.",
+      "articleCount": 61,
+      "link": "https://www.khan.co.kr/article/202610241042001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "LH 사장 집값 상승은 공급부족 탓",
-      "sentence": "이성훈 한국토지주택공사(LH) 사장은 최근 집값 상승의 원인으로 주택 공급 부족을 지목하며 지난 정부가 '3년...",
-      "articleCount": 73,
-      "link": "https://www.yna.co.kr/view/AKR20261023181200003"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "캐나다 관세 일부 철회",
-      "sentence": "도널드 트럼프 미국 대통령이 11·3 중간선거를 앞두고 캐나다산 일부 제품에 대해 50% 고율...",
-      "articleCount": 70,
-      "link": "https://www.yna.co.kr/view/AKR20261024003651072"
+      "phrase": "올해 아파트 관리비 비리 경보 7천851곳",
+      "sentence": "정부가 아파트 관리비 비리 차단을 위해 도입한 '조기경보시스템'이 올해 8천개 가까운 단지에 대해 의심 경보를...",
+      "articleCount": 60,
+      "link": "https://www.yna.co.kr/view/AKR20261024041400003"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "금지령에도 프랑스 곳곳에서 고물가 항의 시위",
       "sentence": "24일(현지시간) 프랑스 당국이 폭력 사태 재발 방지를 위해 시위 제한령을 내렸으나 곳곳에서 공공부문 투자 ...",
-      "articleCount": 65,
+      "articleCount": 49,
       "link": "https://www.yna.co.kr/view/AKR20261024052500085"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "박홍근 초과세수로 취약층 대책 마련 대통령",
-      "sentence": "박홍근 기획예산처 장관은 23일 \"대통령께서 초과세수 등을 활용해 취약 차주와 서민금융 등 고금리로 타...",
-      "articleCount": 51,
-      "link": "https://www.yna.co.kr/view/AKR20261023155900002"
     },
     {
       "id": "climate",
       "name": "환경·기후",
       "phrase": "태풍 참피 북상에 제주·남해안 풍수해 위기경보",
       "sentence": "행정안전부는 제30호 태풍 '참피'가 북상함에 따라 24일 오후 6시를 기해 제주도와 남해안 지역의 풍수해 재...",
-      "articleCount": 50,
+      "articleCount": 49,
       "link": "https://www.yna.co.kr/view/AKR20261024047000530"
     },
     {
-      "id": "labor",
-      "name": "노동",
-      "phrase": "다음달 2일 무기한 파업 예고",
-      "sentence": "포스코 노사가 임금 협상에서 합의에 이르지 못함에 따라 노동조합이 무기한 파업에 들어가기로 했다.",
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "캐나다 관세 일부 철회",
+      "sentence": "도널드 트럼프 미국 대통령이 11·3 중간선거를 앞두고 캐나다산 일부 제품에 대해 50% 고율...",
       "articleCount": 48,
-      "link": "https://www.yna.co.kr/view/AKR20261024019100053"
+      "link": "https://www.yna.co.kr/view/AKR20261024003651072"
+    },
+    {
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "스타링크로 공격용 드론 운용",
+      "sentence": "일론 머스크 스페이스X 최고경영자(CEO)가 24일(현지시간) 우크라이나군이 위성통신 서비스 스타링크를 공격...",
+      "articleCount": 44,
+      "link": "https://www.yna.co.kr/view/AKR20261025003300072"
+    },
+    {
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "영구우선주로 비트코인 13만5979개 매입",
+      "sentence": "영구우선주 발행 자금과 연결된 비트코인(BTC) 매입량이 10월 5일 기준 13만5979개로 집계됐다.",
+      "articleCount": 39,
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/427054"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "美 10월 소비자심리 5개월 만에 최저",
+      "sentence": "미국 소비자들의 경제 심리가 고물가와 고금리 부담 속에 5개월 만에 최저 수준으로 떨어진 것으로 나타났다.",
+      "articleCount": 34,
+      "link": "https://www.yna.co.kr/view/AKR20261023188500072"
     },
     {
       "id": "retail",
       "name": "유통·소비",
       "phrase": "13년만에 이마트 대표 복귀",
       "sentence": "정용진 신세계그룹 회장(58)이 그룹 주력 계열사인 이마트 대표이사를 맡아 직접 경영을 강화한다.",
-      "articleCount": 45,
+      "articleCount": 32,
       "link": "https://www.donga.com/news/Economy/article/all/20261023/134899672/2"
     },
     {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "우크라 스타실드 제한에 문제 있다면 내가",
-      "sentence": "도널드 트럼프 미국 대통령은 23일(현지시간) 우크라이나의 드론 작전에 필수적인 군용 위성통신 시스템 '스...",
-      "articleCount": 45,
-      "link": "https://www.yna.co.kr/view/AKR20261024002200071"
-    },
-    {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "스테이블코인 결제망 구축 속도",
-      "sentence": "하나금융그룹이 국내 최대 가상자산 거래소 업비트를 운영하는 두나무와 손잡고 스테이블코인 결제 시장 선점에 나섰다.…",
-      "articleCount": 36,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=156463"
+      "id": "labor",
+      "name": "노동",
+      "phrase": "다음달 2일 무기한 파업 예고",
+      "sentence": "포스코 노사가 임금 협상에서 합의에 이르지 못함에 따라 노동조합이 무기한 파업에 들어가기로 했다.",
+      "articleCount": 23,
+      "link": "https://www.yna.co.kr/view/AKR20261024019100053"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "해킹 은폐 의혹에 사법 판단 따라 책임 다할 것",
-      "sentence": "홍범식 LG유플러스[032640] 최고경영자(CEO)는 해킹 사고와 관련해 \"사법 당국의 판단이 나오고 정부의...",
-      "articleCount": 20,
-      "link": "https://www.yna.co.kr/view/AKR20261023130801017"
+      "phrase": "통신사 사전예약 1분 만에 완판",
+      "sentence": "애플 첫 폴더블 ‘아이폰 듀오’ 출시…통신사 사전예약 1분 만에 완판",
+      "articleCount": 13,
+      "link": "https://www.hani.co.kr/arti/economy/it/1283824.html"
     },
     {
       "id": "fx",
       "name": "환율",
-      "phrase": "2030년 국가 블록체인망 구축",
-      "sentence": "중국은 2030년까지 국가 블록체인 네트워크를 기본 구축한다는 목표를 세웠다.",
-      "articleCount": 18,
-      "link": "https://www.tokenpost.kr/news/policy/426996"
+      "phrase": "대출 밀리고 인건비에 허덕이는 사장님들",
+      "sentence": "방송인 정준하가 수십 년간 요식업에 몸담으며 월 수억 원대 매출을 올리고 있는 가운데 창업을 신중히 해야 한다는 조언을 내놨다.…",
+      "articleCount": 5,
+      "link": "https://view.asiae.co.kr/article/2026102412354164050"
     }
   ],
   "topicCatalog": [
