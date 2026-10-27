@@ -1,33 +1,20 @@
 {
-  "generatedAt": "2026-10-27T01:58:48+09:00",
+  "generatedAt": "2026-10-27T10:36:35+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "李대통령, 브라질 대선 룰라 당선 축하…\"각별한 친구이자 동지\"",
-          "summary": "이재명 대통령은 26일 브라질 대선에서 루이스 이나시우 룰라 다시우바 대통령이 승리하자 \"누구보다 기쁜 마음으...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261026110600001",
-          "publishedAt": "2026-10-26T05:59:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "동아일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "‘무죄’ 오세훈, 법원 찾은 의원들과 연이틀 만찬…‘친오계’ 확장 시동",
-          "summary": "오세훈 서울시장이 이달 23일 여론조사비 대납 의혹 항소심 선고가 이뤄졌던 서울고등법원을 찾은 야권 현역 의원들과 26, 27일 연이틀 만찬을 갖는다.…",
+          "title": "北, 안보리에 “지뢰 폭발 韓자작극” 맞서한",
+          "summary": "정부가 유엔 안전보장이사회(안보리)에 서부전선 비무장지대(DMZ) 북한 지뢰 폭발사건 규탄 서한을 발송한 지 사흘 만에 북한이 “(지뢰 사건은) 한국의 자작극”이라며 안보리에 서한을 보냈다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20261026/134908193/1",
-          "publishedAt": "2026-10-26T02:37:00+00:00",
+          "link": "https://www.donga.com/news/Politics/article/all/20261027/134913548/2",
+          "publishedAt": "2026-10-26T19:30:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
-            "조선일보"
+            "경향신문",
+            "한겨레"
           ]
         },
         {
@@ -41,6 +28,18 @@
             "SBS",
             "한겨레"
           ]
+        },
+        {
+          "title": "최길수 특감 “중립·독립성 견지…두 눈 부릅뜨고 감시할 것”",
+          "summary": "연합뉴스최길수 특별감찰관이 26일 처음 출근하며 “두 눈을 부릅···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610262135005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-10-26T12:35:00+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "동아일보",
+            "한겨레"
+          ]
         }
       ]
     },
@@ -49,43 +48,42 @@
       "name": "경제",
       "items": [
         {
-          "title": "상하위 20% 집값 격차 290배 넘었다…역대 최대치",
-          "summary": "자산 상·하위 20% 가구가 보유하고 실제 거주하는 주택의 평균 가격 차이가 290배를 넘었습니다.국가데이터처에 따르면 지난해 자산 하위 20%…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814607",
-          "publishedAt": "2026-10-26T01:26:00+00:00",
+          "title": "코스피, 장중 4%대 급등에 매수 사이드카 발동",
+          "summary": "27일 코스피가 반도체 투심 회복에 4%대 반등세를 보이며 유가증권시장에 프로그램매수호가 일시효력정지(매수 사...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261027068400008",
+          "publishedAt": "2026-10-27T01:24:53+00:00",
           "sourceCount": 5,
           "otherSources": [
             "경향신문",
-            "매일경제",
+            "동아일보",
             "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "KB국민은행, 해킹 정보유출 2091명 추가 확인",
-          "summary": "KB국민은행이 기존 해킹 사고에 따른 정보유출 피해 인원을 추가로 확인하면서 전체 유출 인원이 2210명으로 늘어났다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/stock-finance/2026/10/26/HAZWEZJTGMYDCOLEMI4GIZDBMY/",
-          "publishedAt": "2026-10-26T08:59:39+00:00",
-          "sourceCount": 5,
+          "title": "KB국민은행 “해킹 정보유출 2091명 추가 확인”",
+          "summary": "KB국민은행이 외부 해킹으로 인한 정보 유출 인원이 2091명 추가 확인됐다고 26일 밝혔다. 이달 2일 확인된 119명에 더해 총 2210명으로 유출 인원이 늘어난 것이다. 추가..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/economy/12186157",
+          "publishedAt": "2026-10-26T09:14:24+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "동아일보",
-            "매일경제",
+            "아시아경제",
             "연합뉴스"
           ]
         },
         {
-          "title": "청년 10명 중 1명은 ‘이주배경’ 인구",
-          "summary": "유학·제조건설업 취업, 2030 유입국내 총인구의 5.4%…280만 넘겨국내에 거주하는 20·30대 인구 10명 중 1명은 외국인 이민자와 2세 또는 한국 귀화자 등으로 나타났다.…",
+          "title": "자산 상·하위 20% 집값 6억9341만 대 239만원…290배 차이 ‘역대 최대’",
+          "summary": "자산 상·하위 20%가 보유해 거주하는 주택의 가격 차이가 290배에 달해 2017년 집계 이래 최대로 벌어졌다.26일 국가데이터처의 국가통계포털(KOSIS)을 보면 지난해 자산 하위 20%(1분위) 가구의 자가 거주 주택 평균 가격은 239만원이었다.…",
           "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610262036025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-10-26T11:36:02+00:00",
+          "link": "https://www.khan.co.kr/article/202610262036005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-10-26T11:36:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "매일경제",
-            "연합뉴스",
+            "조선일보",
             "한겨레"
           ]
         }
@@ -96,41 +94,42 @@
       "name": "사회",
       "items": [
         {
-          "title": "대전 ‘스토킹 신고’ 교제 여성 살해 40대 “우발적 범행” 진술",
-          "summary": "스토킹 피해 신고를 했던 교제 상대를 1년 후 살해한 40대 남성이 우발적 범행을 주장한 것으로 전해졌다. 26일 대전경찰청에 따르면, 살인 혐의로 긴급체포된 40대 남성 A씨는 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12186383",
-          "publishedAt": "2026-10-26T13:35:09+00:00",
-          "sourceCount": 4,
+          "title": "‘올공 투표용지’ 검증, 경찰 48개 기동대 투입⋯“불법행위 엄정대응”",
+          "summary": "연합뉴스 이태한 선거관리위원회 특별검사팀이 오는 28일 잠실 올림픽공원에서 투표지 공개검증을 실시하기로 하면서 경찰이 48개 기동대를 투입해 현장 질서 관리에 나선다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/20261027500060",
+          "publishedAt": "2026-10-26T23:10:39+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "SBS",
-            "노컷뉴스",
+            "경향신문",
+            "매일경제",
+            "서울신문",
             "연합뉴스"
           ]
         },
         {
-          "title": "홍준표 연루 ‘명태균 여론조사비 대납 의혹’ 첫 구속영장 청구",
-          "summary": "‘명태균 여론조사비 대납 의혹’으로 수사를 받는 홍준표 전 대구시장 측 관계자에 대해 수사 당국이 구속영장을 청구한 것으로 확인됐다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261026500260",
-          "publishedAt": "2026-10-26T07:38:21+00:00",
+          "title": "선관위특검, 올림픽공원 핸드볼경기장 압수수색…CCTV 등 확보",
+          "summary": "6·3 지방선거 투표용지 부족 사태 등을 수사하는 이태한 선거관리위원회 특별검사팀이 27일 오전 잠실 올림픽공원 핸드볼경기장에서 압수수색을 하고 있다. 특검팀은 이날 오전 8시 3..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12186729",
+          "publishedAt": "2026-10-27T01:23:08+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "매일경제",
+            "노컷뉴스",
             "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "만취 경찰관, 대전 나이트클럽서 손님·종업원 무차별 폭행",
-          "summary": "충북 지역 일선 지구대 소속 50대 경찰관이 나이트클럽에서 술에 취해 종업원과 손님들을 무차별 폭행한 혐의로 경찰 수사를 받고 있다.26일 경찰에 따르면 충북 모 경찰서 지구대 소속 50대 경위는 이달 20일 오후 11시 35분경 대전광역시 중구의 한 나이트클럽에서 폭행을 저지른 혐의로 대전 한 경찰서에 불구속 입건돼 조사를 받고 있다.해당 경위는 사건 당일 술에 만취한 상태로 60대 여성 종업원과 50대 남성 종업원을 이유 없이 폭행한 혐의를 받는다.112 신고를 받고 출동한 경찰에 의해 업소 밖으로 퇴장당했던 경위는 약 1시간 뒤 다시 나이트클럽으로 돌아와 손님 2명의 머리 부위를 때리는 등 추가 폭행을 가한 것으로 조사됐다.사건을 수사 중인 대전 경찰에 따르면 이 경위는 당시 음주 상태에서 별다른 이유 없이 주먹을 휘두른 것으로 파악됐다.다만 해당 경위는 사건 이후 피해자 4명 모두와 원만히 합의한 것으로 알려졌다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Society/article/all/20261026/134912324/1",
-          "publishedAt": "2026-10-26T09:23:00+00:00",
+          "title": "홍준표, 변호사로 법정 선다… '명태균 의혹' 측근 변론",
+          "summary": "홍준표 전 대구시장이 명태균 여론조사비 대납 의혹 사건 수사가 무리한 수사라며 반발하며 구속 영장이 청구된 지인의 영장실질심사에 직접 변호인으로 나서겠다고 밝혔다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6597485",
+          "publishedAt": "2026-10-27T09:50:02+00:00",
           "sourceCount": 4,
           "otherSources": [
             "경향신문",
-            "연합뉴스",
+            "매일경제",
             "조선일보"
           ]
         }
@@ -141,44 +140,42 @@
       "name": "국제",
       "items": [
         {
-          "title": "브라질 보우소나루 “대선 결과 무효”···‘투표 연장’ 논란 후폭풍",
-          "summary": "AP연합뉴스브라질 대선 결선에서 패배한 플라비우 보우소나루 후보가 결과에 불복하며 무효를 주장했다···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610261119011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
-          "publishedAt": "2026-10-26T02:19:01+00:00",
-          "sourceCount": 6,
+          "title": "앤트로픽, 나스닥 상장 신청…역대 최대 규모 전망",
+          "summary": "생성형 AI 클로드를 개발한 앤트로픽이 주요 AI 모델 기업들 가운데 처음으로 미국 나스닥에 상장을 신청했습니다. 기업 가치와 자금 조달 액수 …",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816039",
+          "publishedAt": "2026-10-26T22:32:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "SBS",
             "동아일보",
             "매일경제",
-            "연합뉴스",
-            "조선일보"
+            "연합뉴스"
           ]
         },
         {
-          "title": "‘일본 첫 부자  총리’ 후쿠다 야스오 별세",
-          "summary": "중일 관계 개선에 힘쓴 온건파 정치인 일본 최초의 ‘부자(父子) 총리’인 후쿠다 야스오 전 총리가 심부전으로 세상을 떠났다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261026500159",
-          "publishedAt": "2026-10-26T05:06:42+00:00",
-          "sourceCount": 5,
+          "title": "손흥민에게 “니하오, 니하오” 외친 관중…인종차별 논란",
+          "summary": "미국 메이저리그사커(MLS) 경기가 끝난 후 한국 축구대표팀 주장 손흥민을 향해 한 관중이 인종차별적 말을 하는 영상이 공개돼 논란이다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Inter/article/all/20261027/134913983/1",
+          "publishedAt": "2026-10-26T22:55:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "美 AI기업 앤트로픽, 나스닥 상장 위한 IPO 신청",
-          "summary": "인공지능(AI) 모델 ‘클로드’ 개발사 앤트로픽이 기업공개(IPO)를 공식 신청했다. 앤트로픽은 나스닥에 종목 코드 ‘ANT’로 상장할 계획이다 26일(현지시간) 블룸버그 통신과 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12186372",
-          "publishedAt": "2026-10-26T13:21:20+00:00",
-          "sourceCount": 3,
+          "title": "\"쓰레기 같은 나라\"…'노벨상 뒤끝' 트럼프, 노르웨이에 막말",
+          "summary": "도널드 트럼프 미국 대통령이 올해도 노벨평화상을 받지 못한 것에 대한 불만을 재차 표출하면서 노르웨이를 향...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261027002800098",
+          "publishedAt": "2026-10-26T17:35:56+00:00",
+          "sourceCount": 4,
           "otherSources": [
+            "경향신문",
             "동아일보",
-            "연합뉴스"
+            "매일경제"
           ]
         }
       ]
@@ -188,39 +185,37 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "인스파이어 아레나, '네이버' 이름 단다",
-          "summary": "네이버와 인스파이어가 공연장 명명권 계약을 통해 각자의 사업 과제 해결에 나섰다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=676724",
-          "publishedAt": "2026-10-26T16:34:49+00:00",
+          "title": "애플 차세대 '시리 AI' 한국어로 쓴다…개인정보 검색부터 앱 실행 지원",
+          "summary": "애플이 차세대 인공지능(AI) 음성비서 '시리 AI(Siri AI)'를 한국어로 선보였다.…",
+          "source": "전자신문",
+          "link": "https://www.etnews.com/20261027000082",
+          "publishedAt": "2026-10-27T01:00:09+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "동아일보",
-            "아이뉴스24"
+            "아이뉴스24",
+            "연합뉴스"
           ]
         },
         {
-          "title": "홍라희 리움미술관 명예관장, 국민훈장 동백장 수훈",
-          "summary": "[지디넷코리아]홍라희 리움미술관 명예관장이 40여년간 문화예술과 의료·복지 분야에서 나눔을 실천한 공로로 국민훈장 동백장을 받았다.26일 삼성문화재단 등에 따르면 홍 명예관장은 이날 서울 중구 우리은행 본점에서 열린 대한적십자사 창립 121주년 기념식에서 국민훈장 동백장을 수훈했다.국민훈장은 국민 복지 향상과 국가 발전에 기여한 공로가 뚜렷한 인물에게 수여하는 정부 훈장이다.…",
-          "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20261026170933",
-          "publishedAt": "2026-10-26T08:09:33+00:00",
-          "sourceCount": 3,
+          "title": "LG CNS, 준법경영 시스템 국제표준 인증 획득",
+          "summary": "LG CNS(대표 현신균)는 준법경영 시스템 국제표준 'ISO 37301' 인증을 획득했다고 27일 밝혔다.ISO 37301은 기업 및 단체가 법률, 규제, 사내 규정, 윤리 기준 등 컴플라이언스 의무를 체계적으로 준수·관리할 수 있도록 국제표준화기구",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/2019254",
+          "publishedAt": "2026-10-27T01:00:00+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "전자신문",
-            "테크M"
+            "연합뉴스"
           ]
         },
         {
-          "title": "이스트소프트 '페르소 인터랙티브' 공공행정 진입...시청·구청·도서관 AI 아바타 활용",
-          "summary": "이스트소프트가 실시간 대화형 AI 아바타 서비스 사업 범위를 민간에서 지방자치단체와 공공기관까지 넓히고 있다.이스트소프트는 '페르소 인터랙티브'를 기반으로 기관별 홈페이지와 데이터, 업무 특성 등을 연계해 AI 서비스를 구축하는 등 사업 영역을 빠르게 확대하고 있다고 26일 밝혔다.공공분야에서는 지자체 민원·행정 안내, 교육, 도서관과 같은 문화시설 등에 서비스를 적용한다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=156480",
-          "publishedAt": "2026-10-26T11:11:36+00:00",
-          "sourceCount": 3,
+          "title": "KT, AI 모델 500개 모은 '토큰팩토리' 공개⋯\"비용 최대 25% 절감\"",
+          "summary": "KT(대표 박윤영)가 국내외 500개 이상 인공지능(AI) 모델을 하나의 플랫폼에서 이용할 수 있는 AI 플랫폼 '토큰팩토리'를 선보인다.…",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/2019242",
+          "publishedAt": "2026-10-27T01:00:00+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "블로터",
-            "아이뉴스24"
+            "연합뉴스"
           ]
         }
       ]
@@ -230,29 +225,31 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "코인베이스, 브라질 헤알 환전 장애 64분 만에 해결 처리",
-          "summary": "코인베이스($COIN)에서 일부 이용자가 브라질 헤알(BRL)을 가상자산 거래에 쓸 자금으로 환전하지 못하는 장애가 발생했으며, 회사는 27일 오전 0시 50분 해결 처리했다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/427580",
-          "publishedAt": "2026-10-26T16:55:48+00:00",
+          "title": "빗썸, 범죄은닉자금 수사 협조로 '서울경찰청장 감사장' 수상",
+          "summary": "가상자산거래소 빗썸의 투자자보호실 임직원이 범죄은닉자금 수사에 적극 협조한 공로로 서울경찰청장 감사장을 받았다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026102708232061160",
+          "publishedAt": "2026-10-26T23:23:21+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "비트코인, 1억700만원선 약세…美 FOMC 앞두고 '8만달러' 공방",
+          "summary": "비트코인이 미국 연방공개시장위원회(FOMC) 정례회의를 앞두고 1억700만원선에서 약세를 보이고 있다. 글로벌 시장에서는 한때 8만달러선이 무너지는 등 변동성이 확대됐다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156510",
+          "publishedAt": "2026-10-27T09:49:39+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "암호화폐 시장 약세… 비트코인 80,318달러, 이더리움 2,326달러",
-          "summary": "암호화폐 시장이 약세를 보이는 가운데 비트코인과 이더리움은 모두 24시간 기준 소폭 하락했다.…",
+          "title": "창펑 자오 “가상자산은 AI 고유 통화”…BNB 체인 활용 구상",
+          "summary": "창펑 자오는 인공지능(AI)이 비트코인이나 스테이블코인 등 가상자산을 결제에 사용할 수 있다고 밝혔다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/briefing/427540",
-          "publishedAt": "2026-10-26T15:11:53+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "XRP 레저, 이더리움·솔라나보다 은행 결제에 적합할 수…슈워츠",
-          "summary": "데이비드 슈워츠(David Schwartz) 리플(Ripple) 전 최고기술책임자가 은행의 국제 결제에는 XRP 레저(XRP Ledger)가 이더리움(ETH)이나 솔라나(SOL)보다 적합할 수 있다고 주장했다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/427513",
-          "publishedAt": "2026-10-26T14:01:01+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/427801",
+          "publishedAt": "2026-10-27T01:29:52+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -263,23 +260,11 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "'올 시즌 NBA 최다 52점' 돈치치 앞세운 레이커스, 개막 3연승",
-          "summary": "루카 돈치치가 올 시즌 미국프로농구(NBA) 처음으로 '50득점 고지'를 밟는 원맨쇼를 펼치며 소속팀 로스앤젤...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261026091600007",
-          "publishedAt": "2026-10-26T04:38:09+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "동아일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "‘손흥민 골 취소’ LAFC, LA 더비서 2-2 무승부…PO 진출 확정",
-          "summary": "손흥민이 풀타임을 뛴 로스앤젤레스FC(LAFC)가 LA 갤럭시와 비기며 미국 메이저리그사커(MLS) 플레이오프(PO) 진출을 확정했다.LAFC는 26일(한국 시간) 미국 LA의 BMO 스타디움에서 열린 2026 MLS 정규리그 홈 경기에서 갤럭시와 2-2 무승부를 거뒀다.12승 11무 9패(승점 47)가 된 LAFC는 서부 콘퍼런스 15개 팀 중 6위를 지키며 남은 정규리그 결과에 상관없이 MLS컵 PO 진출에 성공했다.MLS는 팀당 34개를 치른 뒤 동, 서부 콘퍼런스 각각 9개 팀이 PO에 나서 우승 경쟁을 이어간다.콘퍼런스별 7위까지는 8강 PO 1라운드에 직행하고, 8~9위 팀은 와일드카드 결정전을 통해 마지막 한 장의 8강 티켓 주인을 가린다.이날 두 팀의 맞대결은 LA를 연고로 한 라이벌전으로 관심을 모았다.갤럭시가 먼저 2골을 앞서갔으나, LAFC가 2골을 따라잡으며 승부를 가리진 못했다.…",
+          "title": "오현규, 교체 투입 11분 만에 득점포…베식타시는 2-0 승리",
+          "summary": "축구 국가대표 스트라이커 오현규가 교체 투입 후 11분 만에 득점포를 가동하며 소속팀인 튀르키예 프로축구 베식타시의 승리를 견인했다.오현규는 27일(한국 시간) 튀르키예 이스탄불의 튀프라쉬 스타디움에서 열린 2026~2027시즌 쉬페르리그 9라운드 바샥셰히르와의 홈 경기에서 후반 31분 선제 결승골로 베식타시의 2-0 승리에 앞장섰다.이날 교체 명단에 이름을 올린 오현규는 후반 20분 윌프레드 은디디와 교체돼 그라운드를 밟았다.투입 1분 만에 과감한 오른발 슈팅으로 상대 골문을 위협한 오현규는 후반 31분 팽팽하던 균형을 깼다.상대 진영에서 두산 블라호비치가 헤더로 떨궈준 공을 낚아챈 오현규는 수비수와 경합을 이겨내고 드리블 돌파 후 골키퍼까지 제치고 왼발 슈팅으로 득점에 성공했다.오현규의 올 시즌 정규리그 첫 득점이자, 공식전 4호골이다.지난 16일 호펜하임(독일)과의 2026~2027시즌 유럽축구연맹(UEFA) 유로파리그(UEL) 리그 페이즈 2차전 원정 경기에서 2골",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20261026/134908792/1",
-          "publishedAt": "2026-10-26T03:49:42+00:00",
+          "link": "https://www.donga.com/news/Sports/article/all/20261027/134914268/1",
+          "publishedAt": "2026-10-26T23:31:35+00:00",
           "sourceCount": 3,
           "otherSources": [
             "연합뉴스",
@@ -287,15 +272,25 @@
           ]
         },
         {
-          "title": "'0-3에서 4-3 대역전극' 김보미, 데뷔 7년 만에 LPBA 첫 우승",
-          "summary": "김보미(NH농협카드)가 0-3으로 뒤지던 벼랑 끝에서 4-3으로 경기를 뒤집는 기적 같은 대역전극을 펼치며 프...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261026021300007",
-          "publishedAt": "2026-10-25T23:31:43+00:00",
-          "sourceCount": 3,
+          "title": "임윤찬, 닷새 연속 협연 우려에 직접 입 열었다…“기쁜 마음으로 결정”",
+          "summary": "피아니스트 임윤찬(22)이 오는 11월 닷새 연속 세르게이 라흐마니노프의 피아노 협주곡 3번을 연주하는 것과 관련해 기획사가 무리한 일정을 강행했다는 목소리가 높아지자 직접 입장을 밝혔다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Culture/article/all/20261027/134914801/1",
+          "publishedAt": "2026-10-27T00:35:41+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "동아일보",
-            "한겨레"
+            "SBS"
+          ]
+        },
+        {
+          "title": "'시즌 2승' 조건휘, 마르티네스 PBA 최다승 저지하고 정상 등극",
+          "summary": "조건휘(웰컴저축은행)가 '스페인 강호' 다비드 마르티네스(크라운해태)의 프로당구 최다 우승 대기록 달성을 저지...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261027019300007",
+          "publishedAt": "2026-10-26T22:51:18+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "동아일보"
           ]
         }
       ]
@@ -305,18 +300,18 @@
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "시청·구청·도서관 AI 아바타 활용",
-      "sentence": "이스트소프트가 실시간 대화형 AI 아바타 서비스 사업 범위를 민간에서 지방자치단체와 공공기관까지 넓히고 있다.이스트소프트는 '페르소 인터랙티브'를 기반으로 기관별…",
+      "phrase": "AI투자 우려 속 역대 최대 도전",
+      "sentence": "'클로드'의 앤트로픽이 '챗GPT'의 오픈AI를 제치고 상장을 신청한 첫 인공지능(AI)...",
       "articleCount": 250,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=156480"
+      "link": "https://www.yna.co.kr/view/AKR20261026174252072"
     },
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "李대통령 CPTPP",
-      "sentence": "이재명 대통령은 26일 농어민들이 반발하고 있는 포괄적·점진적 환태평양동반자협정(CPTPP) 문제와 관...",
+      "phrase": "올림픽공원 핸드볼경기장 압수수색",
+      "sentence": "6·3 지방선거 투표용지 부족 사태 등을 수사하는 이태한 선거관리위원회 특별검사팀이 27일 오전 잠실 올림픽공...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261026133300001"
+      "link": "https://www.yna.co.kr/view/AKR20261027063800004"
     },
     {
       "id": "world",
@@ -329,161 +324,161 @@
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "28일 올림픽공원서 투표지 검증",
-      "sentence": "6·3 지방선거 투표용지 부족 사태 등을 수사하는 이태한 선거관리위원회 특별검사팀이 오는 28일 잠실 올림픽공...",
-      "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261026039700004"
+      "phrase": "경찰 48개 기동대 투입⋯ 불법행위 엄정대응",
+      "sentence": "연합뉴스 이태한 선거관리위원회 특별검사팀이 오는 28일 잠실 올림픽공원에서 투표지 공개검증을 실시하기로 하면서 경찰이 48개 기동대를 투입해 현장 질서 관리에 나…",
+      "articleCount": 209,
+      "link": "https://www.kmib.co.kr/article/20261027500060"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "나스닥 IPO 신청",
-      "sentence": "미국 인공지능(AI) 기업 앤트로픽이 26일(현지시간) 미 증권거래위원회(SEC)에 기업공개(IPO) 신청서...",
-      "articleCount": 129,
-      "link": "https://www.yna.co.kr/view/AKR20261026174200072"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "12월부터 네이버 아레나 로 이름 바뀐다",
-      "sentence": "오는 12월부터 3년간 ‘인스파이어 아레나’의 명칭이 ‘네이버 아레나 앳 인스파이어’(NAVER Arena at INSPIRE)로 변경된다.네이버(035420)는…",
-      "articleCount": 120,
-      "link": "https://www.donga.com/news/It/article/all/20261026/134906883/1"
+      "phrase": "장중 4%대 급등에 매수 사이드카 발동",
+      "sentence": "27일 코스피가 반도체 투심 회복에 4%대 반등세를 보이며 유가증권시장에 프로그램매수호가 일시효력정지(매수 사...",
+      "articleCount": 190,
+      "link": "https://www.yna.co.kr/view/AKR20261027068400008"
     },
     {
       "id": "industry",
       "name": "산업·기업",
-      "phrase": "현대차 더 뉴 아반떼 N TCR",
-      "sentence": "현대차는 '더 뉴 엘란트라(아반떼) N TCR'이 중국 저장성 저장 서킷에서 열린 2026 TCR 월드투어 7...",
-      "articleCount": 118,
-      "link": "https://www.yna.co.kr/view/AKR20261026047900003"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "후쿠다 야스오 전 일본 총리 별세",
-      "sentence": "후쿠다 야스오(사진) 전 일본 총리가 지난 22일 별세했다.",
-      "articleCount": 112,
-      "link": "https://www.kmib.co.kr/article/20261026502064"
+      "phrase": "3분기 영업이익 1천832억원",
+      "sentence": "코스피 상장사 대우건설은 연결 기준 올해 3분기 영업이익이 1천832억원으로 전년 동기의 3배를 넘은 것으로 ...",
+      "articleCount": 129,
+      "link": "https://www.yna.co.kr/view/AKR20261027034751527"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "40년 나눔 홍라희 관장 국민훈장 동백장",
       "sentence": "홍라희(사진) 리움미술관 명예관장이 26일 국민훈장 동백장을 받았다.",
-      "articleCount": 100,
+      "articleCount": 117,
       "link": "https://www.kmib.co.kr/article/20261026502066"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "후쿠다 야스오 전 일본 총리 별세",
+      "sentence": "후쿠다 야스오(사진) 전 일본 총리가 지난 22일 별세했다.",
+      "articleCount": 115,
+      "link": "https://www.kmib.co.kr/article/20261026502064"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "40여년 문화·의료·복지나눔 홍라희 관장에",
       "sentence": "삼성문화재단은 홍라희 리움미술관 명예관장이 40여년간 문화·의료·복지 분야에서 나눔을 실천한 공로로 국민훈장 ...",
-      "articleCount": 93,
+      "articleCount": 106,
       "link": "https://www.yna.co.kr/view/AKR20261026102800003"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "반도체 수출 호조에 3분기 한국 경제 1.0%",
+      "sentence": "올해 3분기 한국 경제는 반도체 호황이 지속되는 가운데 정부소비와 설비투자 증가세에 힘입어 '깜짝 성장'을 이...",
+      "articleCount": 103,
+      "link": "https://www.yna.co.kr/view/AKR20261027018100002"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "닷새 연속 협연 우려에 직접 입 열었다",
+      "sentence": "피아니스트 임윤찬(22)이 오는 11월 닷새 연속 세르게이 라흐마니노프의 피아노 협주곡 3번을 연주하는 것과 관련해 기획사가 무리한 일정을 강행했다는 목소리가 높…",
+      "articleCount": 101,
+      "link": "https://www.donga.com/news/Culture/article/all/20261027/134914801/1"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "삼성SDI 각형 ESS 배터리 잘 나가네⋯",
       "sentence": "삼성SDI의 일체형 ESS 솔루션 ‘SBB(Samsung Battery Box) 1.7’.…",
-      "articleCount": 79,
+      "articleCount": 93,
       "link": "https://www.kmib.co.kr/article/20261026502157"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "한은 반도체 호황·AI 확산에 청년 일자리 질",
-      "sentence": "최근 반도체 중심의 경제 성장 구조, 인공지능(AI) 기술 확산 등에 청년 고용의 질이 악화하고 있다고 한국은...",
-      "articleCount": 78,
-      "link": "https://www.yna.co.kr/view/AKR20261026078600002"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "상하위 20% 집값 격차 290배 넘었다",
       "sentence": "자산 상·하위 20% 가구가 보유하고 실제 거주하는 주택의 평균 가격 차이가 290배를 넘었습니다.국가데이터처에 따르면 지난해 자산 하위 20%…",
-      "articleCount": 77,
+      "articleCount": 80,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814607"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "3분기 中企 수출 334억달러 역대 최대",
-      "sentence": "올해 3분기 중소기업 수출이 화장품과 반도체 수출 호조에 힘입어 지난해 같은 기간보다 8.8% 증가한 334억...",
-      "articleCount": 73,
-      "link": "https://www.yna.co.kr/view/AKR20261026047000030"
     },
     {
       "id": "rate",
       "name": "금리",
-      "phrase": "한은 통화정책·시장 부총재보에 최창호",
-      "sentence": "최창호(54) 한국은행 통화정책국장이 통화정책·시장 담당 부총재보에 임명됐다고 한은이 26일 밝혔다.",
-      "articleCount": 56,
-      "link": "https://www.yna.co.kr/view/AKR20261026152900002"
+      "phrase": "3분기 한국 경제 1.0% 깜짝 성장",
+      "sentence": "올해 3분기 한국 경제는 반도체 호황이 지속되는 가운데 정부 소비와 설비 투자 증가세에 힘입어서 깜짝 성장을 이뤘습니다.한국은행은 3분기 실질 …",
+      "articleCount": 78,
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816312"
     },
     {
-      "id": "climate",
-      "name": "환경·기후",
-      "phrase": "서울 사립 유치원·초교 112곳 환경호르몬",
-      "sentence": "기사의 이해를 돕기 위해 생성형 AI로 제작한 이미지 서울 사립 유치원과 초등학교 112곳에서 환경기준 대비 높은 유해 물질이 검출됐지만 제대로 된 조치가 이뤄지…",
-      "articleCount": 51,
-      "link": "https://www.kmib.co.kr/article/20261026501972"
-    },
-    {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "내년 누리호로 우주쓰레기 포획위성 발사",
-      "sentence": "한국이 내년 누리호를 통해 임무 종료 후 우주를 떠도는 우리나라 위성을 붙잡아 지구 대기권으로 재진입시켜 제거...",
-      "articleCount": 51,
-      "link": "https://www.yna.co.kr/view/AKR20261026150500017"
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "거세진 중국산 공세⋯ 전기차 국내생산세액공제",
+      "sentence": "국내 판매 중인 테슬라 차량은 중국에서 제조해 수입되고 있다.…",
+      "articleCount": 72,
+      "link": "https://www.kmib.co.kr/article/20261026502158"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "코인 과세 유예 가닥⋯ 자금 이탈 우려 벗어나",
-      "sentence": "청와대가 내년 1월 시행 예정인 가상자산 소득 과세를 다시 유예하는 쪽으로 가닥을 잡았다.",
-      "articleCount": 47,
-      "link": "https://www.kmib.co.kr/article/20261026502084"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "AI 게임 개발·서비스를 더욱 간편하게",
-      "sentence": "컴투스홀딩스 자회사 컴투스플랫폼은 26일 자사의 AI 특화 게임 백엔드 서비스 '하이브 액실' 플러그인을 챗GPT에서 제공한다고 밝혔다.…",
-      "articleCount": 46,
-      "link": "https://www.techm.kr/news/articleView.html?idxno=156504"
+      "phrase": "업계 첫 두나무 기와체인 활용 토큰 결제 실증",
+      "sentence": "신한카드가 카드 업계 최초로 두나무 블록체인 플랫폼 '기와체인'을 활용한 토큰 결제 실증에 나선다고 27일 밝...",
+      "articleCount": 65,
+      "link": "https://www.yna.co.kr/view/AKR20261027058800002"
     },
     {
       "id": "retail",
       "name": "유통·소비",
-      "phrase": "롯데百 잠실점 식품관 새단장",
-      "sentence": "롯데백화점이 잠실점 본관 식품관을 10년 만에 전면 새 단장을 한다.",
-      "articleCount": 45,
-      "link": "https://www.donga.com/news/Economy/article/all/20261026/134912266/2"
+      "phrase": "10월 소비심리 한 달 만에 후퇴",
+      "sentence": "국내 증시 조정, 중동지역 충돌 지속 등으로 비관적 경기 전망이 늘면서 10월 소비심리가 한 달 만에 나빠졌다...",
+      "articleCount": 54,
+      "link": "https://www.yna.co.kr/view/AKR20261026154200002"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "10년째 게임 스타트업 지스타 참가 지원",
+      "sentence": "엔씨는 국제게임전시회 지스타(G-STAR)에 국내 게임 스타트업 참가를 10년째 지원한다고 27일 밝혔다.",
+      "articleCount": 50,
+      "link": "https://www.yna.co.kr/view/AKR20261027041500017"
+    },
+    {
+      "id": "climate",
+      "name": "환경·기후",
+      "phrase": "가정예배 365-10월 27일] 이따",
+      "sentence": "찬송 : ‘허락하신 새 땅에’ 347장(통382) 신앙고백 : 사도신경 본문 : 역대하 34장 1~8절 말씀 : 요시야 왕의 이야기를 통해 우리의 가정과 다음세대…",
+      "articleCount": 42,
+      "link": "https://www.kmib.co.kr/article/20261026502143"
+    },
+    {
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "공공부문부터 모범 사용자 되겠다더니⋯ 계약기간",
+      "sentence": "정부가 공공부문부터 비정규직 노동자의 ‘모범 사용자’가 돼야 한다며 지난달 9일 ‘공공부문 도급 노동자 보호지침’을 시행했지만 유명무실한 것으로 나타났다.…",
+      "articleCount": 39,
+      "link": "https://www.kmib.co.kr/article/20261026502264"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "노동자 추락사 책임 하청에 떠넘긴 원청대표",
-      "sentence": "기계식 주차장 공사 중 외국인 노동자가 추락해 숨지자 하청업체에 안전관리 책임을 떠넘긴 혐의로 기소된 원청업체...",
-      "articleCount": 30,
-      "link": "https://www.yna.co.kr/view/AKR20261026123400004"
+      "phrase": "HD현대중공업 노조",
+      "sentence": "HD현대중공업 노동조합(금속노조 현대중공업지부)이 27일 올해 임금 및 단체협약(임단협) 2차 잠정합의안에 대...",
+      "articleCount": 34,
+      "link": "https://www.yna.co.kr/view/AKR20261026145300057"
     },
     {
       "id": "telecom",
       "name": "통신",
-      "phrase": "청량리에 뜬 벨리곰 ⋯ 젊은 소비자 돌아왔다",
-      "sentence": "지난 23일 오픈한 ‘롯데몰 벨리타운 청량리’ 앞에 높이 5m의 벨리곰 조형물이 세워져 있다.",
-      "articleCount": 28,
-      "link": "https://www.kmib.co.kr/article/20261026502097"
+      "phrase": "AI 모델 500여개 통합한 토큰팩토리 공개",
+      "sentence": "KT[030200]가 국내외 인공지능(AI) 모델 500개 이상을 한곳에서 이용하고 사용량과 비용까지 통합 관...",
+      "articleCount": 23,
+      "link": "https://www.yna.co.kr/view/AKR20261027047700017"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "보따리 더 풀까⋯ 키옥시아 지분 차익 16조",
       "sentence": "코스피가 26일 전 거래일보다 80.83포인트(1.46%) 하락한 5469.47에 마감하며 약 7개월 만에 최저치를 기록했다.…",
-      "articleCount": 13,
+      "articleCount": 21,
       "link": "https://www.kmib.co.kr/article/20261026502102"
     }
   ],
@@ -582,7 +577,31 @@
     }
   ],
   "lottery": {
-    "lotto": null,
-    "pension": null
+    "lotto": {
+      "round": 1247,
+      "drawDate": "2026-10-24",
+      "numbers": [
+        8,
+        14,
+        21,
+        22,
+        42,
+        45
+      ],
+      "bonus": 24,
+      "firstPrizeWinners": 8,
+      "firstPrizeAmount": 3637439250,
+      "link": "https://www.dhlottery.co.kr/lt645/result"
+    },
+    "pension": {
+      "round": 338,
+      "drawDate": "2026-10-22",
+      "group": "1",
+      "number": "354154",
+      "bonus": "548210",
+      "firstPrizeWinners": 1,
+      "firstPrizeAmount": 1680000000,
+      "link": "https://www.dhlottery.co.kr/pt720/result"
+    }
   }
 }
