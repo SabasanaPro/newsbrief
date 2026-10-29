@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T02:03:54+09:00",
+  "generatedAt": "2026-10-30T02:24:18+09:00",
   "categories": [
     {
       "id": "politics",
@@ -68,6 +68,19 @@
           ]
         },
         {
+          "title": "골드만삭스, 티맵모빌리티 경영권 인수 추진…최대 8000억원 투자",
+          "summary": "글로벌 투자은행(IB) 골드만삭스가 국내 내비게이션 서비스 ‘티맵’ 운영사인 티맵모빌리티의 경영권 인수를 추진한다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261029500335",
+          "publishedAt": "2026-10-29T10:09:07+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "동아일보",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
           "title": "'27조원' 체코 원전 시공계약 결렬…한수원, 대우·두산 컨소시엄과 결별",
           "summary": "한국수력원자력과 대우건설·두산에너빌리티 컨소시엄 간 27조원 규모 체코 두코바니 원전 건설사업 시공계약 협상이 최종 결렬됐다.…",
           "source": "아시아경제",
@@ -79,19 +92,6 @@
             "동아일보",
             "연합뉴스"
           ]
-        },
-        {
-          "title": "5대 금융, 3분기 누적 순이익 19.6조원…'역대 최대'",
-          "summary": "5대 금융지주(KB·신한·하나·우리·NH농협)가 올해 3분기까지 20조원에 육박하는 당기순이익을 기록했다. 3분기 누적 순이익으로 역대 최대 실적이다.…",
-          "source": "아시아경제",
-          "link": "https://view.asiae.co.kr/article/2026102918381198170",
-          "publishedAt": "2026-10-29T10:00:07+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "연합뉴스",
-            "조선일보"
-          ]
         }
       ]
     },
@@ -100,15 +100,15 @@
       "name": "사회",
       "items": [
         {
-          "title": "특검, 尹 내란 우두머리 2심도 사형 구형",
-          "summary": "조은석 내란 특별검사팀이 12·3 비상계엄 관련 내란 우두머리 혐의로 1심에서 무기징역을 선고받은 윤석열 전 대통령에게 항소심에서도 사형을 구형했다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261030010009",
-          "publishedAt": "2026-10-29T14:23:56+00:00",
+          "title": "'내란 우두머리' 2심도 사형 구형…\"최고 반역 행위\"",
+          "summary": "내란 우두머리 혐의로 1심에서 무기징역이 선고된 윤석열 전 대통령에게 특검이 항소심에서도 사형을 구형했습니다. 특검 측은 국민의 신뢰를 배신한 …",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822129",
+          "publishedAt": "2026-10-29T15:39:00+00:00",
           "sourceCount": 5,
           "otherSources": [
-            "SBS",
             "경향신문",
+            "서울신문",
             "조선일보",
             "한겨레"
           ]
@@ -303,11 +303,11 @@
           ]
         },
         {
-          "title": "삼성,'KS까지 1승 남았다'",
-          "summary": "[OSEN=전남광주, 이대선 기자] 삼성은 29일 광주-기아 챔피언스필드에서 열린 2026 신한 SOL KBO 포스트시즌 KIA 타이거즈와의 플레이오프 3차전을 6-4로 승리했다.이로써 삼성은 1패후 2연승을 거두며 남은 2경기에서 1승만 올리면 한국시리즈에 진출한다.경기 종료 후 삼성 선수들이 승리의 기쁨을 나누고 있다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_photo/2026/10/29/G42TEMZRGZSWKYZVGUYGCZLDHE/",
-          "publishedAt": "2026-10-29T13:34:00+00:00",
+          "title": "‘국민 아버지’ 배우 최불암 별세…향년 87세",
+          "summary": "한국의 아버지상을 대표해 ‘국민 아버지’로 불린 배우 최불암(본명 최영한)이 별세했다. 향년 87세. 연합뉴스‘국민 아버지’로 불린 배우 최불암(본명 최영한)이 별세했다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610300049001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
+          "publishedAt": "2026-10-29T15:49:00+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
@@ -358,35 +358,35 @@
       "link": "https://www.kmib.co.kr/article/20261029502191"
     },
     {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "5대 금융 3분기 누적 이자이익 40조 넘어",
-      "sentence": "금리 인상기 이자 이익이 불어나며 5대 금융지주가 올해 3분기 누적 20조원에 육박하는 순이익을 올렸다.",
-      "articleCount": 137,
-      "link": "https://www.yna.co.kr/view/AKR20261029170500002"
-    },
-    {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "파하~ 웃음 짓던 국민 아버지",
-      "sentence": "한국의 아버지상을 대표해 '국민 아버지'로 불린 배우 최불암(본명 최영한)이 별세했다.",
-      "articleCount": 135,
-      "link": "https://www.yna.co.kr/view/AKR20261030001751005"
+      "phrase": "국민 아버지 배우 최불암",
+      "sentence": "드라마 '수사반장'과 '전원일기', 교양 프로그램 '한국인의 밥상'까지 60년 넘게 드라마와 영화, 연...",
+      "articleCount": 138,
+      "link": "https://www.yna.co.kr/view/AKR20261030002900005"
     },
     {
       "id": "education",
       "name": "교육",
       "phrase": "채용 비리 의혹 판소리 명창",
       "sentence": "채용 비리 의혹으로 경찰 수사를 받고 있는 판소리 명창이자 전 국립전통예술중·고등학교 교장이 구속됐다.",
-      "articleCount": 130,
+      "articleCount": 136,
       "link": "https://www.yna.co.kr/view/AKR20261029193900004"
+    },
+    {
+      "id": "stock",
+      "name": "증시",
+      "phrase": "5대 금융 3분기 누적 이자이익 40조 넘어",
+      "sentence": "금리 인상기 이자 이익이 불어나며 5대 금융지주가 올해 3분기 누적 20조원에 육박하는 순이익을 올렸다.",
+      "articleCount": 134,
+      "link": "https://www.yna.co.kr/view/AKR20261029170500002"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "3분기 30조원 현금배당",
       "sentence": "삼성전자가 올해 3분기 1주당 4601원의 현금 배당에 나서기로 했다.삼서전자는 3분기 분기 배당으로 보통주와 우선주에 대해 주당 4601원의 현금배당을 결정했다…",
-      "articleCount": 127,
+      "articleCount": 128,
       "link": "https://www.khan.co.kr/article/202610291020001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
@@ -394,7 +394,7 @@
       "name": "부동산",
       "phrase": "구로 주택가 버려진 시신은 중국인 불법체류자",
       "sentence": "서울 구로구 주택가에서 '미라화' 상태로 발견된 시신의 신원이 중국 국적 불법체류자로 파악됐다.",
-      "articleCount": 113,
+      "articleCount": 115,
       "link": "https://www.yna.co.kr/view/AKR20261029168100004"
     },
     {
@@ -402,7 +402,7 @@
       "name": "유가·에너지",
       "phrase": "AI 투자·소비에 3분기 GDP 예상치 상회",
       "sentence": "지난달 미국 내 물가 상승세가 가팔라지며 인플레이션이 연방준비제도(Fed·연준)의 목표치를 크게 웃돈 가운데 3분기에 경제는 예상보다 빠르게 성장한 것으로 나타났…",
-      "articleCount": 109,
+      "articleCount": 110,
       "link": "https://www.bloter.net/news/articleView.html?idxno=677198"
     },
     {
@@ -410,7 +410,7 @@
       "name": "건강·의료",
       "phrase": "국민 아버지 배우 최불암 별세⋯향년 87세",
       "sentence": "한국의 아버지상을 대표해 '국민 아버지'로 불린 배우 최불암(본명 최영한)이 별세했다.",
-      "articleCount": 96,
+      "articleCount": 98,
       "link": "https://www.kmib.co.kr/article/20261030500007"
     },
     {
@@ -418,7 +418,7 @@
       "name": "금리",
       "phrase": "예금금리 연 2.50％",
       "sentence": "유럽중앙은행(ECB)이 29일(현지시간) 3대 정책금리를 동결했다.",
-      "articleCount": 88,
+      "articleCount": 87,
       "link": "https://www.yna.co.kr/view/AKR20261029208551082"
     },
     {
@@ -426,7 +426,7 @@
       "name": "물가·고용",
       "phrase": "9월 PCE 물가는 3.6% 상승",
       "sentence": "미국의 올해 3분기 경제성장률이 시장 예상치를 웃돌았다.",
-      "articleCount": 78,
+      "articleCount": 79,
       "link": "https://www.chosun.com/international/international_general/2026/10/29/GM3DIYRZGBSDANBYMU2WEM3BGU/"
     },
     {
@@ -434,7 +434,7 @@
       "name": "수출·관세",
       "phrase": "27조 체코 원전 수주 해놓고⋯ 공사비에",
       "sentence": "체코 두코바니 원전 건설사업을 추진하던 ‘팀 코리아’에 균열이 생겼다.",
-      "articleCount": 76,
+      "articleCount": 74,
       "link": "https://www.kmib.co.kr/article/20261029502357"
     },
     {
@@ -442,7 +442,7 @@
       "name": "가상자산",
       "phrase": "빗썸 해킹으로 고객 계좌번호·신분증 사본까지",
       "sentence": "가상자산 거래소 빗썸이 사내 시스템 해킹 사고로 고객 6천444명의 개인정보가 유출됐다고 29일...",
-      "articleCount": 73,
+      "articleCount": 72,
       "link": "https://www.yna.co.kr/view/AKR20261029169152002"
     },
     {
@@ -450,7 +450,7 @@
       "name": "유통·소비",
       "phrase": "롯데 센텀시티점 품었다⋯ 부산에 세계 최대",
       "sentence": "부산 해운대구 롯데 센텀시티점(오른쪽)과 신세계 센텀시티점(왼쪽) 모습.",
-      "articleCount": 65,
+      "articleCount": 64,
       "link": "https://www.kmib.co.kr/article/20261029502539"
     },
     {
@@ -458,31 +458,31 @@
       "name": "우주·과학",
       "phrase": "탄도미사일 가능성 물체 발사",
       "sentence": "일본 방위성은 29일 북한이 탄도미사일로 보이는 물체를 발사했고 일본 배타적경제수역(EEZ) 밖에 낙하한 것...",
-      "articleCount": 61,
+      "articleCount": 63,
       "link": "https://www.yna.co.kr/view/AKR20261029106551073"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "게임 등급분류 민간 이양 확대",
-      "sentence": "게임물관리위원회는 오는 11월 2일부터 모바일까지 포함한 게임물 등급분류 업무 전반을 민간 등급분류 기관인 게...",
-      "articleCount": 56,
-      "link": "https://www.yna.co.kr/view/AKR20261029175000017"
     },
     {
       "id": "labor",
       "name": "노동",
       "phrase": "경기도 버스파업 예고에",
       "sentence": "30일 첫차부터 경기도 버스 파업이 예고되면서 서울시는 수도권 시민들의 이동 불편을 최소화하고자 수송 지원에 ...",
-      "articleCount": 54,
+      "articleCount": 56,
       "link": "https://www.yna.co.kr/view/AKR20261029184100004"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "게임 등급분류 민간 이양 확대",
+      "sentence": "게임물관리위원회는 오는 11월 2일부터 모바일까지 포함한 게임물 등급분류 업무 전반을 민간 등급분류 기관인 게...",
+      "articleCount": 55,
+      "link": "https://www.yna.co.kr/view/AKR20261029175000017"
     },
     {
       "id": "climate",
       "name": "환경·기후",
       "phrase": "국민일보·밥상공동체·연탄은행 공동⋯ 사랑의",
       "sentence": "국민일보(사장 김경호)와 사회복지법인 밥상공동체·연탄은행(대표 허기복 목사)은 ‘기후위기 취약계층을 위한 사랑의 연탄 나누기’ 캠페인을 펼칩니다.…",
-      "articleCount": 37,
+      "articleCount": 38,
       "link": "https://www.kmib.co.kr/article/20261029502403"
     },
     {
@@ -490,7 +490,7 @@
       "name": "환율",
       "phrase": "중국산 전기차 공세·생산 차질에 현대차 매출",
       "sentence": "연합뉴스 현대자동차의 올 3분기 매출이 전년 동기보다 3.4% 감소한 것으로 최종 집계됐다.",
-      "articleCount": 28,
+      "articleCount": 29,
       "link": "https://www.kmib.co.kr/article/20261029502543"
     },
     {
@@ -498,7 +498,7 @@
       "name": "통신",
       "phrase": "구룡마을 화재 이재민에 통신·식사 지원",
       "sentence": "SK텔레콤·KT·LG유플러스[032640] 등 이동통신 3사는 서울 강남구 구룡마을 화재로 대피한 이재민 20...",
-      "articleCount": 24,
+      "articleCount": 23,
       "link": "https://www.yna.co.kr/view/AKR20261029033302017"
     }
   ],
