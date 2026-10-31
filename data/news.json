@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-01T00:51:48+09:00",
+  "generatedAt": "2026-11-01T02:14:10+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "李대통령, 野 '순방' 비판에 \"링거 맞고 코피…그결과 성과차이\"",
-          "summary": "이재명 대통령은 31일 \"민생은 무너지는데 벌써 14차례 23개국을 순방했다\"는 야당의 비판을 겨냥해 \"부처 ...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261031028951001",
-          "publishedAt": "2026-10-31T11:07:50+00:00",
+          "title": "이 대통령, 야당 해외 순방 비판에 “수시로 링거 맞고 코피 터지는 일정···돼지 눈에는 돼지만 보여”",
+          "summary": "이재명 대통령은 31일 해외 순방을 둘러싼 야당의 비판을 겨냥해 “부처 눈에는 부처만 보이고 돼지 눈에는 돼지만 보인다고, 사람은 아는 만큼만 보이는 법이니 이해해달라”며 반박했다.이 대통령은 이날 엑스에 한 네티즌이 ‘대통령의 해외 순방은 단순 관광이 아니다’고 쓴 글을 공유하면서 “하는 일도 준비도 없이 사진 찍고 생색이나 내며 널널하게 음주, 쇼핑, ···",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202610311331001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-10-31T04:31:00+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "경향신문",
+            "연합뉴스",
             "한겨레"
           ]
         },
@@ -223,18 +223,6 @@
           ]
         },
         {
-          "title": "트럼프 ‘63억 달러 탈취’ 바이낸스 해킹 북한 소행 여부에 “모른다, 살펴보고 있다”",
-          "summary": "북한 해커 의심, 63억 달러 규모 바이낸스 해킹도널드 트럼프 미국 대통령은 북한과 연계된 해커들이 가상화폐 거래소 바이낸스에서 역대 최대 규모인 63억 달러(8조4000억원)를 해킹한 것으로 지목된 데 대해 “살펴보고 있다”고 밝혔다.트럼프 대통령은 30일(현지시간) 백악관 오벌오피스(집무실)에서 ‘바이낸스 해킹을 북한 해커 그룹의 소행으로 보는지’를 묻···",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202610310718001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-10-30T22:18:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "SBS",
-            "매일경제"
-          ]
-        },
-        {
           "title": "바이낸스 ‘8.4조원’ 역대 최대 해킹 피해⋯ 북한 소행 추정",
           "summary": "세계 최대 가상화폐 거래소인 바이낸스가 북한 소행으로 의심되는 대규모 해킹 피해를 입었다. 63억 달러(약 8조4000억원)가량의 피해가 추정되는 가운데 국내 거래소들도 일제히 주의를 당부했다.…",
           "source": "국민일보",
@@ -243,6 +231,17 @@
           "sourceCount": 2,
           "otherSources": [
             "한겨레"
+          ]
+        },
+        {
+          "title": "바이낸스 해킹에 화들짝…코인 거래소 부랴부랴 보안 강화",
+          "summary": "세계 최대 가상자산 거래소 '바이낸스'에서 발생한 64억달러(약 8조5천491억원) 규모의 해킹 사건을 계기로...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261031034500009",
+          "publishedAt": "2026-10-31T06:34:11+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "국민일보"
           ]
         }
       ]
@@ -309,17 +308,17 @@
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "AI 협력 주목",
-      "sentence": "최태원 SK그룹 회장이 한국을 방문한 샘 올트먼 오픈AI 최고경영자(CEO)와 오찬 회동을 했다.",
-      "articleCount": 220,
-      "link": "https://www.yna.co.kr/view/AKR20261031034400003"
+      "phrase": "AI 미래전략 논의",
+      "sentence": "삼성그룹 주요 계열사 사장단 50여명이 샘 올트먼 오픈AI 최고경영자(CEO)와 만나 인공지능(AI) ...",
+      "articleCount": 217,
+      "link": "https://www.yna.co.kr/view/AKR20261031030751003"
     },
     {
       "id": "industry",
       "name": "산업·기업",
       "phrase": "샘 올트먼과 간담회⋯ AI 시대 경영 전략 논의",
       "sentence": "삼성 제공 삼성 주요 계열사 사장단이 샘 올트먼 오픈AI 최고경영자(CEO)와 만나 인공지능(AI) 시대 미래 경영 전략을 논의했다.…",
-      "articleCount": 163,
+      "articleCount": 158,
       "link": "https://www.kmib.co.kr/article/20261031500156"
     },
     {
@@ -327,7 +326,7 @@
       "name": "스포츠",
       "phrase": "프로야구 한화 내야수 노시환 MLB에 포스팅",
       "sentence": "KBO 사무국은 프로야구 한화 이글스 내야수 노시환의 포스팅을 미국프로야구 메이저리그(MLB) 사무국에 요청했...",
-      "articleCount": 136,
+      "articleCount": 135,
       "link": "https://www.yna.co.kr/view/AKR20261031042600007"
     },
     {
@@ -335,7 +334,7 @@
       "name": "증시",
       "phrase": "아파트 1천200여세대 한때 정전",
       "sentence": "31일 오후 2시 15분께 경남 거제시 아주동 한 공사 현장에서 전신주가 파손돼 인근 아파트 1천200여세대에...",
-      "articleCount": 128,
+      "articleCount": 126,
       "link": "https://www.yna.co.kr/view/AKR20261031039100052"
     },
     {
@@ -343,7 +342,7 @@
       "name": "연예·문화",
       "phrase": "국민 곁을 지켜 온 배우",
       "sentence": "정부가 29일 별세한 고(故) 최불암 배우에게 금관문화훈장(1등급)을 추서했다.",
-      "articleCount": 125,
+      "articleCount": 119,
       "link": "https://www.yna.co.kr/view/AKR20261030137100005"
     },
     {
@@ -359,7 +358,7 @@
       "name": "가상자산",
       "phrase": "올해 가상자산 해킹 피해액 89% 북한 소행",
       "sentence": "올해 전 세계에서 발생한 가상자산 해킹 피해액의 약 89%가 북한 소행으로 추정된다는 분석 결과가 나왔습니다.블록체인 분석업체 체이널리시스는 지…",
-      "articleCount": 94,
+      "articleCount": 92,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824342"
     },
     {
@@ -367,16 +366,8 @@
       "name": "부동산",
       "phrase": "GS건설 일부 아파트 입주민 개인정보 유출",
       "sentence": "최근 금융권을 비롯해 여러 업종에서 기업들의 해킹 피해가 잇따르는 가운데 건설업계에서도 입주민의 개인정보가 해...",
-      "articleCount": 82,
+      "articleCount": 81,
       "link": "https://www.yna.co.kr/view/AKR20261030142751003"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "자원봉사자 감사음악회 열어hellip;허태정",
-      "sentence": "한 해 동안 지역 곳곳에서 봉사활동을 해온 대전 시민들을 위한 음악회가 30일 저녁 충남대학교에서 열렸다.…",
-      "articleCount": 80,
-      "link": "https://www.pressian.com/pages/articles/2026103021484087500&ref=rss"
     },
     {
       "id": "oil",
@@ -387,20 +378,20 @@
       "link": "https://www.yna.co.kr/view/AKR20261030144300003"
     },
     {
+      "id": "education",
+      "name": "교육",
+      "phrase": "프랑스 전역 3주째 주말 시위",
+      "sentence": "고등학생들이 시작한 시위가 대규모 소요 사태로 번진 프랑스에서 31일(현지시간) 세 번째 주말 시위가 열렸...",
+      "articleCount": 78,
+      "link": "https://www.yna.co.kr/view/AKR20261101001000082"
+    },
+    {
       "id": "health",
       "name": "건강·의료",
       "phrase": "진주 송전탑 전선교체 작업 중 60대 추락해",
       "sentence": "31일 오후 5시 5분께 경남 진주시 가좌동 뚝방국수 뒷편 송전탑에서 전선교체 작업을 하던 60대 근로자 A씨가 20m 아래로 추락했다.이 사고로 머리 등을 크게…",
-      "articleCount": 77,
+      "articleCount": 76,
       "link": "https://www.donga.com/news/Society/article/all/20261031/134942815/1"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "LG엔솔과 양·음극재 72만t 빅딜",
-      "sentence": "포항 영일만 4산단에 위치한 포스코 퓨처엠 포항 양극재 공장 전경.",
-      "articleCount": 56,
-      "link": "https://www.kmib.co.kr/article/20261030500569"
     },
     {
       "id": "science",
@@ -411,11 +402,19 @@
       "link": "https://www.yna.co.kr/view/AKR20261030183000001"
     },
     {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "LG엔솔과 양·음극재 72만t 빅딜",
+      "sentence": "포항 영일만 4산단에 위치한 포스코 퓨처엠 포항 양극재 공장 전경.",
+      "articleCount": 52,
+      "link": "https://www.kmib.co.kr/article/20261030500569"
+    },
+    {
       "id": "price",
       "name": "물가·고용",
       "phrase": "포스코노사 임금교섭 잠정 합의",
       "sentence": "포스코 노사가 기본급 2.6% 인상을 중심으로 한 2026년 임금 협약에 잠정 합의했다.",
-      "articleCount": 42,
+      "articleCount": 39,
       "link": "https://www.yna.co.kr/view/AKR20261030171100053"
     },
     {
@@ -423,7 +422,7 @@
       "name": "유통·소비",
       "phrase": "고물가·소비심리 위축",
       "sentence": "3분기 카드 사용액 증가율, 상반기보다 둔화…고물가·소비심리 위축",
-      "articleCount": 39,
+      "articleCount": 38,
       "link": "https://www.hani.co.kr/arti/economy/finance/1284992.html"
     },
     {
@@ -431,16 +430,16 @@
       "name": "게임",
       "phrase": "펄어비스 붉은사막 DLC 첫날 스팀 상위권",
       "sentence": "펄어비스의 ‘붉은사막’ 첫 유료 확장팩(DLC)이 출시 첫날 스팀 글로벌 매출 상위권에 진입했다.",
-      "articleCount": 37,
+      "articleCount": 36,
       "link": "https://www.bloter.net/news/articleView.html?idxno=677367"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "시속 180㎞ 강풍 태풍 인파",
-      "sentence": "최대풍속 시속 180㎞에 달하는 제31호 태풍 '인파'가 매우 강한 세력을 유지하며 북상하는 가운데 다음 달 초 이동 방향을 크게 바꿀 것으로 예보되면서 부산·울…",
+      "phrase": "극한 폭염·폭우 경험이 녹색 지지 높여",
+      "sentence": "극한 폭염·폭우 경험이 ‘녹색 지지’ 높여…‘저학력 남성’ 변화 커",
       "articleCount": 31,
-      "link": "https://www.pressian.com/pages/articles/2026103019110816751&ref=rss"
+      "link": "https://www.hani.co.kr/arti/science/science_general/1284962.html"
     },
     {
       "id": "telecom",
@@ -471,7 +470,7 @@
       "name": "환율",
       "phrase": "수출기업 달러 매도에 소폭 하락",
       "sentence": "원/달러 환율은 30일 달러 지수 하락과 수출업체 달러 매도 속에 소폭 하락했다.",
-      "articleCount": 15,
+      "articleCount": 14,
       "link": "https://www.yna.co.kr/view/AKR20261030142000002"
     }
   ],
