@@ -1,50 +1,48 @@
 {
-  "generatedAt": "2026-11-04T11:40:51+09:00",
+  "generatedAt": "2026-11-05T03:13:10+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "합참 “北, 동해상으로 미상 발사체 발사”",
-          "summary": "북한이 4일 동해상으로 미상의 발사체를 발사했다고 합동참모본부가 이날 밝혔다. 합참은 북한 발사체의 제원과 사거리 등을 분석 중이다.",
+          "title": "조작기소 특검법, 與주도 법사위 통과…오늘 본회의 처리 추진",
+          "summary": "이재명 대통령 관련 사건의 공소취소 논란으로 제동이 걸렸던 ‘조작수사·조작기소 진상규명 특검법’(조작기소 특검법)이 4일 범여권 주도로 국회 법제사법위원회 문턱을 넘었다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20261104/134962724/2",
-          "publishedAt": "2026-11-04T01:03:00+00:00",
-          "sourceCount": 7,
+          "link": "https://www.donga.com/news/Politics/article/all/20261104/134968342/1",
+          "publishedAt": "2026-11-04T12:35:00+00:00",
+          "sourceCount": 5,
           "otherSources": [
             "SBS",
             "경향신문",
-            "매일경제",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "\"신천지 연합 증거 없었다\"…\"공개 사과하라\"",
-          "summary": "민주당 당대표 선거 때 반명 세력이 신천지와 연합했단 의혹을 제기했던 김민석 민주당 대표가 조사해 보니 증거는 없었다면서 사과했습니다.…",
+          "title": "합참 \"북, 동해상으로 미상 발사체 발사\"",
+          "summary": "북한이 오늘 오전 동해상으로 미상 발사체를 발사했다고 합동참모본부가 밝혔습니다.합참은 북한 발사체의 제원과 사거리 등을 분석하고 있습니다.북한 …",
           "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829325",
-          "publishedAt": "2026-11-03T21:35:00+00:00",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008830122",
+          "publishedAt": "2026-11-04T03:40:00+00:00",
           "sourceCount": 5,
           "otherSources": [
-            "경향신문",
             "동아일보",
+            "매일경제",
             "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "이 대통령 “‘집값 폭락 중’ 발언, 강남만 맞았다는 건 가짜뉴스”",
-          "summary": "청와대사진기자단이재명 대통령이 서울 집값에 대해 “놀라울 정도로 떨어지고 있다”고 한 자신의 발언을 두고 ‘강남만 맞았다’고 보도한 언론 보도에 대해 4일 “가짜뉴스”라고 반박했다.이 대통령은 이날 엑스에 <“집값 폭락 걱정” 대통령 발언, 강남만 맞았다…서울은 90주 연속 ···…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202611040938001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-11-04T00:38:00+00:00",
+          "title": "李대통령, '대통령 집값 발언 강남만 맞았다' 보도에 \"가짜뉴스\"",
+          "summary": "이재명 대통령은 4일 자신의 부동산 관련 발언을 소개하며 \"'집값 폭락 중' 대통령 발언, 강남만 맞았다\"라는...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261104050951001",
+          "publishedAt": "2026-11-04T13:28:23+00:00",
           "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "연합뉴스",
+            "경향신문",
             "한겨레"
           ]
         }
@@ -55,38 +53,42 @@
       "name": "경제",
       "items": [
         {
-          "title": "SK바이오팜, 美 FDA에 세노바메이트 전신발작 적응증 추가 신청",
-          "summary": "SK바이오팜이 미국 식품의약국(FDA)에 뇌전증 신약 ‘세노바메이트(미국 제품명 엑스코프리)’의 신규 적응증 허가를 신청했다.…",
+          "title": "호반, 한진칼 최대주주 됐다… 한진 “12월 조원태로 변경”",
+          "summary": "호반그룹이 조원태 한진그룹 회장을 제치고 한진그룹 지주사인 한진칼 최대주주에 올랐다. 한진칼은 4일 최대주주가 ‘조원태 외 18인’에서 ‘호반건설 외 3인’으로 변경됐다고 공시했다.…",
           "source": "조선일보",
-          "link": "https://www.chosun.com/economy/science/2026/11/04/GY3TKZBWMM4TAOJUGRTDSNDFMQ/",
-          "publishedAt": "2026-11-04T01:12:23+00:00",
-          "sourceCount": 3,
+          "link": "https://www.chosun.com/economy/industry-company/2026/11/04/MJSDOZBTGYYDGODFMI3TGZDEG4/",
+          "publishedAt": "2026-11-04T09:25:28+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "동아일보",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "카카오뱅크, 3분기 누적 순이익 '역대 최대' 4698억원",
-          "summary": "카카오뱅크가 3분기 누적 기준 역대 최대 순이익을 달성했다. 고객 기반 확대를 바탕으로 여신이자수익과 비이자수익이 고르게 증가한 데 따른 실적이다.…",
-          "source": "아시아경제",
-          "link": "https://view.asiae.co.kr/article/2026110409465884566",
-          "publishedAt": "2026-11-04T01:43:57+00:00",
-          "sourceCount": 3,
-          "otherSources": [
+            "SBS",
             "경향신문",
-            "연합뉴스"
+            "동아일보",
+            "한겨레"
           ]
         },
         {
-          "title": "쿠팡, 3분기 영업손실 6,423억 원…3분기 연속 적자",
-          "summary": "쿠팡의 미국 모회사인 쿠팡Inc가 올해 3분기 6,423억 원의 영업손실을 기록했습니다.지난해 개인정보 유출 사태 이후 올해 1분기 적자로 돌아…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008829411",
-          "publishedAt": "2026-11-03T22:32:00+00:00",
-          "sourceCount": 3,
+          "title": "SK㈜ “에코플랜트 주식 공개매수”… 기업공개 대신 완전 자회사 추진",
+          "summary": "SK그룹 지주사인 SK㈜가 SK에코플랜트 기업공개(IPO) 대신 완전 자회사화에 나선다. SK㈜는 4일 이사회를 열고 SK에코플랜트 주식을 주당 8만8000원에 공개매수하는 방안을 결의했다고 밝혔다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20261104/134967334/2",
+          "publishedAt": "2026-11-04T15:30:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "금융위, 홍콩 ELS 불완전판매 은행 7곳에 과징금 3620억…역대 최대",
+          "summary": "금융위원회가 홍콩H지수(항셍중국기업지수·HSCEI) 주가연계증권(ELS) 불완전판매와 관련해 은행 7곳에 총 3620억원의 과징금을 부과하기로 최종 결정했다.…",
+          "source": "아시아경제",
+          "link": "https://view.asiae.co.kr/article/2026110416250629447",
+          "publishedAt": "2026-11-04T07:26:48+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "동아일보",
+            "조선일보",
             "한겨레"
           ]
         }
@@ -97,43 +99,48 @@
       "name": "사회",
       "items": [
         {
-          "title": "선관위, '수백억대 사전투표지 발급기 사업' 특혜 의혹hellip;특검 압수수색",
-          "summary": "6.3 지방선거 투표지 부족 사태를 수사 중인 선거관리위원회 특검이 사전투표용지 발급기 제작 사업 관련 특혜 의혹을 수사하기 위한 압수수색에 나섰다.…",
-          "source": "프레시안",
-          "link": "https://www.pressian.com/pages/articles/2026110410590847924&ref=rss",
-          "publishedAt": "2026-11-04T11:28:28+00:00",
+          "title": "신촌 세브란스병원서 50대 여성이 흉기 난동…의사 1명 부상",
+          "summary": "서울 서대문구 소재 신촌 세브란스병원에서 흉기 난동 사건이 벌어져 정신건강의학과 교수가 다쳤다. 4일 서울 서대문경찰서 등에 따르면 경찰은 50대 여성 A씨를 특수상해 혐의로 현행..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/society/12196622",
+          "publishedAt": "2026-11-04T08:34:21+00:00",
+          "sourceCount": 8,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "노컷뉴스",
+            "동아일보",
+            "연합뉴스",
+            "조선일보"
+          ]
+        },
+        {
+          "title": "경찰 ‘금품 수수·공금 유용 의혹’ 강호동 농협회장 구속영장 신청",
+          "summary": "연합뉴스 경찰이 1억원대 금품 수수와 공금 유용 등 의혹을 받는 강호동 농협중앙회장에 대해 구속영장을 신청했다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/20261104502431",
+          "publishedAt": "2026-11-05T14:12:43+00:00",
+          "sourceCount": 6,
+          "otherSources": [
+            "경향신문",
+            "매일경제",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "하마터면 또⋯ 신촌 세브란스서 환자 흉기 난동 의사 부상",
+          "summary": "서울 신촌세브란스병원에서 외래진료를 보던 정신건강의학과 교수가 환자에게 피습당하는 사건이 발생했다. 피의자는 같은 병원에서 과거 두 차례 진료를 받은 전력이 있는 환자로 파악됐다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/20261104502157",
+          "publishedAt": "2026-11-05T09:54:39+00:00",
           "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "경향신문",
             "동아일보",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "전남 순천대·경북 경국대 국립의대 신설 확정…2030년 개교 목표",
-          "summary": "정부가 전남광주통합특별시 국립순천대학교와 경북 국립경국대학교를 의과대학 신설 대학으로 최종 선정하고 각각 60명, 40명의 정원을 배정했다.…",
-          "source": "노컷뉴스",
-          "link": "https://www.nocutnews.co.kr/news/6601757",
-          "publishedAt": "2026-11-04T10:00:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "오마이뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "대출 어려운 서민 노렸다…불법 수수료 50억 챙긴 일당 검거",
-          "summary": "대출금 10~15% 중개 수수료로 수취 채무조정 사건 법률사무소에 알선까지대출이 어려운 저신용자 수천 명을 대상으로 대출을 중개하고 50억원대 수수료를 챙긴 불법사금융업체 일당이 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12196226",
-          "publishedAt": "2026-11-04T02:31:19+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "경향신문",
-            "동아일보",
-            "조선일보"
+            "매일경제",
+            "연합뉴스"
           ]
         }
       ]
@@ -143,38 +150,39 @@
       "name": "국제",
       "items": [
         {
-          "title": "[美중간선거］유권자 출구조사…트럼프 반대 43%·지지투표 16%",
-          "summary": "3일(현지시간) 치러진 미국 중간선거에서 유권자들은 경제와 민주주의 현황을 가장 중요한 국가 현안으로 꼽은...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261104047200071",
-          "publishedAt": "2026-11-04T00:56:35+00:00",
-          "sourceCount": 5,
+          "title": "미 중간선거 공화당 참패…트럼프 \"결과 수용\"",
+          "summary": "조금 전 끝난 미국 중간선거에서 트럼프 대통령이 이끄는 공화당이 민주당에 참패를 당한 것으로 드러났습니다.…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008830615",
+          "publishedAt": "2026-11-04T08:01:00+00:00",
+          "sourceCount": 6,
           "otherSources": [
-            "SBS",
             "동아일보",
             "매일경제",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "‘제주 고씨’ 댄고, 美 하원 당선",
+          "summary": "한국·레바논 혼혈로 민주당 소속 미국 민주당 소속 한국계 정치인 댄 고가 3일(현지시간) 치러진 중간선거에서 매사추세츠 제6선거구 연방 하원의원에 당선됐다고 AP통신 등이 보도했다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261104500125",
+          "publishedAt": "2026-11-04T03:53:15+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "동아일보",
+            "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "트럼프 “이러니 시청률 폭락”… 폭스뉴스 개표방송에 불만 폭발",
-          "summary": "도널드 트럼프 미국 대통령은 3일(현지 시각) 중간선거 개표방송을 보다가 폭스뉴스에 대한 불만 섞인 게시물을 잇달아 올렸다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/11/04/GA4DKY3EME3TKZTBGRRWEMLFGY/",
-          "publishedAt": "2026-11-04T01:40:37+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "매일경제",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "서울 이어 뉴욕마라톤서도 20대 여성 사망…사인은 횡문근융해증",
-          "summary": "지난달 서울에서 열린 마라톤 대회에서 20대 여성이 사망한 가운데 세계 7대 메이저 대회인 미국 뉴욕마라톤에서도 20대 여성이 숨을 거두는 사고가 발생했다.…",
-          "source": "서울신문",
-          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261104500016",
-          "publishedAt": "2026-11-03T23:48:35+00:00",
+          "title": "유럽 마트 냉장고 이어···프랑스 혈액원도 사이버 공격 받아",
+          "summary": "지난 2일(현지시간) 스웨덴 셰보의 ICA 크반툼 슈퍼마켓에 이미 상했거나 상할 위험이 있는 식품이 담긴 쇼핑 카트들이 놓여 있다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202611042300001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world",
+          "publishedAt": "2026-11-04T14:00:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "SBS",
@@ -188,33 +196,34 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "GS리테일, 3분기 영업익 1321억 '역대 최대'…슈퍼·홈쇼핑 수익성 개선 통했다",
-          "summary": "GS리테일이 슈퍼마켓과 홈쇼핑 사업의 수익성 개선에 힘입어 분기 기준 역대 최대 영업이익을 달성했다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=156899",
-          "publishedAt": "2026-11-04T11:10:59+00:00",
+          "title": "중앙일보, 다우·CJ 컨소시엄에 인수…총 5200억원 규모",
+          "summary": "중앙일보는 인수합병(M&A) 우선협상대상자인 다우·CJ컨소시엄이 오는 5일 총 5200억원 규모의 중앙일보 신주인수계약을 체결한다고 4일 밝혔다.…",
+          "source": "전자신문",
+          "link": "https://www.etnews.com/20261104000472",
+          "publishedAt": "2026-11-04T10:00:07+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "매일경제",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "최태원 회장, SK하이닉스 美 AI 컴퍼니 이사회 의장으로",
+          "summary": "최태원 SK그룹 회장이 SK하이닉스의 미국 AI(인공지능) 전문 투자법인 'HYAICO 코퍼레이션(HYAICO Corporation)'의 이사회 의장을 맡은 것으로 확인됐다.…",
+          "source": "블로터",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=677760",
+          "publishedAt": "2026-11-04T17:43:18+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
           ]
         },
         {
-          "title": "SKT, 3분기 영업익 5523억·1040%↑…고객감사 비용 기저효과",
-          "summary": "SK텔레콤이 올해 3분기 유무선 통신사업 성장에 힘입어 영업이익 5000억원대를 기록했다. 지난해 고객감사 패키지 제공에 따른 기저효과와 유무선 통신사업 성장 영향이다.…",
-          "source": "전자신문",
-          "link": "https://www.etnews.com/20261104000121",
-          "publishedAt": "2026-11-04T01:07:36+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "아이뉴스24"
-          ]
-        },
-        {
-          "title": "LGU+, 3분기 영업익 84% 껑충…AIDC 매출 두 자릿수 성장",
-          "summary": "LG유플러스가 올해 3분기에 지난해 발생한 일회성 인건비에 따른 기저효과와 사업 구조 효율화를 통해 수익성을 개선했다.…",
+          "title": "세아제강지주, 북미 강관 '날개'…분기 최대 매출에 영업익 134%↑",
+          "summary": "세아제강지주가 북미 에너지용 강관 판매 호조에 힘입어 올해 3분기 영업이익을 두 배 이상 끌어 올렸다. 매출도 2018년 분할 이후 분기 최대치를 기록했다.…",
           "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=677651",
-          "publishedAt": "2026-11-04T11:11:14+00:00",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=677751",
+          "publishedAt": "2026-11-04T17:04:40+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
@@ -232,39 +241,35 @@
           "source": "연합뉴스",
           "link": "https://www.yna.co.kr/view/AKR20261104062500001",
           "publishedAt": "2026-11-04T01:21:57+00:00",
-          "sourceCount": 8,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "국민일보",
-            "동아일보",
-            "전자신문",
-            "조선일보"
-          ]
-        },
-        {
-          "title": "치밀했던 北해커⋯ 바이낸스 직원 가짜면접한 뒤 ‘악성코드’",
-          "summary": "북한 해커들이 가상화폐 거래소 바이낸스 해킹을 위해 치밀하고 정교한 공격을 지난 6월부터 5개월간 벌인 것으로 나타났다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/20261104500046",
-          "publishedAt": "2026-11-03T21:19:30+00:00",
           "sourceCount": 5,
           "otherSources": [
-            "노컷뉴스",
-            "연합뉴스",
-            "전자신문",
-            "조선일보"
+            "경향신문",
+            "동아일보",
+            "조선일보",
+            "한겨레"
           ]
         },
         {
-          "title": "'쇼핑하고 비트코인 받고'…빗썸, 신세계와 손잡고 최대 100만 포인트 쏜다",
-          "summary": "가상자산 거래소 빗썸이 신세계그룹의 대규모 쇼핑 축제 '대한민국 쓱데이'에 맞춰 고객 혜택 확대에 나섰다.…",
+          "title": "태영호 전 의원 장남 ‘18억 가상자산 사기’ 1심서 징역 3년6개월형",
+          "summary": "태영호 전 민주평화통일자문회의 사무처장이 2024년 10월 국회 국정감사에서 무거운 표정으로 의원 질의를 듣고 있다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202611041520011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
+          "publishedAt": "2026-11-04T06:20:01+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "SBS",
+            "연합뉴스"
+          ]
+        },
+        {
+          "title": "넥써쓰 원체인, 카이아 랩스 품었다…블록체인 기술 동맹 확대",
+          "summary": "넥써쓰가 자체 블록체인 네트워크 원체인(ONEchain)의 기술 경쟁력 강화에 속도를 내고 있다.…",
           "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=156909",
-          "publishedAt": "2026-11-04T11:39:08+00:00",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=156898",
+          "publishedAt": "2026-11-04T11:07:06+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "연합뉴스"
+            "아이뉴스24"
           ]
         }
       ]
@@ -274,39 +279,40 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "‘KS 4승 신화’ 故 최동원, 2026 대한민국 스포츠영웅 선정",
-          "summary": "1984년 한국시리즈에서 홀로 4승을 거두며 롯데 자이언츠의 첫 우승을 이끈 한국 야구의 전설 고(故) 최동원이 2026년 대한민국 스포츠영웅으로 선정됐다.대한체육회는 4일 “스포츠영웅선정위원회에서 박주봉(배드민턴), 최동원, 황영조(육상) 등 최종 후보자 3명을 대상으로 심의한 결과 최동원에게 올해 대한민국 스포츠영웅의 영예가 돌아갔다”고 밝혔다.최동원은 한국 야구를 대표하는 전설적인 투수다.프로야구 통산 8시즌 동안 248경기에 출전해 103승, 26세이브, 1019탈삼진, 평균자책점 2.46을 기록했다.특히 1984년 삼성 라이온즈와의 한국시리즈에서 홀로 4승을 책임지며 롯데의 창단 첫 우승을 이끌었다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20261104/134962955/1",
-          "publishedAt": "2026-11-04T01:27:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "연합뉴스",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "반효진, 세계사격선수권 공기소총 金…LA 올림픽 출전권 확보",
-          "summary": "한국 여자 사격 간판 반효진(대구공공시설관리공단)이 2026 국제사격연맹(ISSF) 도하 세계선수권대회에서 우...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261104051100007",
-          "publishedAt": "2026-11-04T00:55:28+00:00",
-          "sourceCount": 3,
+          "title": "故 최동원, 야구 최초 대한민국 스포츠영웅 선정…“불굴의 투지와 도전정신으로 큰 발자취를 남긴 전설적인 선수”",
+          "summary": "[OSEN=길준영 기자] 프로야구 롯데 자이언츠의 전설적인 투수 최동원이 대한민국 스포츠영웅으로 선정됐다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/baseball/2026/11/05/MI3TKOJWMM3TENJSHAZTGZTCG4/",
+          "publishedAt": "2026-11-04T15:00:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "동아일보",
+            "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "김민재의 뮌헨, UCL서 이강인의 아틀레티코에 2-0 완승",
-          "summary": "한국 축구 ‘에이스’ 이강인과 ‘철벽’ 김민재가 나란히 교체로 출전한 가운데 바이에른 뮌헨(독일)이 아틀레티코 마드리드(AT마드리드·스페인)를 완파했다.뮌헨은 4일(한국 시간) 스페인 마드리드의 리야드 에어 메트로폴리타노에서 열린 2026~2027 유럽축구연맹(UEFA) 챔피언스리그(UCL) 리그 페이즈 4차전 원정 경기에서 AT마드리드에 2-0으로 승리했다.이로써 뮌헨은 UCL 리그페이즈 4경기 연속 무패(2승 2무·승점 8)를 이어가며 8위에 올랐다.반면 2패째(1승 1무)를 당한 AT마드리드는 22위(승점 4)로 내려갔다.36팀이 참가한 이번 시즌 UCL 리그 페이즈는 각 팀이 8경기씩 치러 1~8위 팀이 16강에 직행하고, 9~24위는 플레이오프(PO)를 통해 16강 진출을 노린다.AT마드리드 공격수 이강인과 뮌헨 수비수 김민재는 이날 나란히 벤치에서 경기를 시작했다.이강인은 팀에 0-1로 끌려가던 후반 14분 알렉스 바에나 대신 투입돼 먼저 그라운드를 밟은 뒤",
+          "title": "'2026 올해의 출판인' 본상에 이광호 문학과지성사 대표",
+          "summary": "한국출판인회의는 '2026 올해의 출판인' 본상 수상자로 이광호 문학과지성사 대표를 4일 선정했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261104132800005",
+          "publishedAt": "2026-11-04T06:35:15+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "경향신문",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "사격 간판 반효진, 세계선수권 2연패…LA 올림픽 쿼터도 확보",
+          "summary": "한국 여자 사격 간판 반효진이 세계선수권대회 2연패를 달성했다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20261104/134962015/1",
-          "publishedAt": "2026-11-03T23:20:41+00:00",
+          "link": "https://www.donga.com/news/Sports/article/all/20261104/134964489/1",
+          "publishedAt": "2026-11-04T06:20:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "연합뉴스",
-            "조선일보"
+            "한겨레"
           ]
         }
       ]
@@ -316,186 +322,186 @@
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "AIDC 성장세",
-      "sentence": "LG유플러스[032640]는 올해 3분기 연결 기준 영업이익이 2천976억원으로 지난해 같은 기간보다 84.1...",
+      "phrase": "SK하이닉스 미국 AI투자법인 이사회 의장 맡아",
+      "sentence": "SK하이닉스가 미국 인공지능(AI) 전문 투자법인명을 'HYAICO 코퍼레이션'으로 정했다.",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261104035900017"
+      "link": "https://www.yna.co.kr/view/AKR20261104178700003"
     },
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "459억대 사전투표지 발급기사업 특혜 포착",
-      "sentence": "이태한 선거관리위원회 특별검사팀이 사전투표용지 발급기 제작 사업에서도 입찰 비리가 있었던 정황을 포착해 중앙선...",
+      "phrase": "조작기소 특검법안 與주도로 법사위 통과",
+      "sentence": "윤석열 정부 검찰의 조작기소 의혹을 수사하는 이른바 '조작기소 특검법(안)'이 더불어민주당 주도로 4일...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261104056200004"
+      "link": "https://www.yna.co.kr/view/AKR20261104138651001"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "동해상으로 미상발사체 발사",
-      "sentence": "북한이 4일 오전 동해상으로 미상 발사체를 발사했다고 합동참모본부가 밝혔다.",
+      "phrase": "대만 망명 요청했다가 거절",
+      "sentence": "중국 역사학자이자 중국중앙TV(CCTV)의 전 강연자가 중국 당국의 탄압을 받았다며 대만에 정치적 망명을...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261104055100504"
-    },
-    {
-      "id": "industry",
-      "name": "산업·기업",
-      "phrase": "GS리테일 3분기 영업익 1천321억원",
-      "sentence": "코스피 상장사 GS리테일[007070]은 연결 기준 올해 3분기 영업이익이 1천321억원으로 지난해 동기보다 ...",
-      "articleCount": 175,
-      "link": "https://www.yna.co.kr/view/AKR20261104038351527"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "전남광주 국립 의대 신설 건의부터 확정까지",
-      "sentence": "전남광주(옛 전남) 국립 의과대학 설립이 4일 확정됐다.",
-      "articleCount": 167,
-      "link": "https://www.yna.co.kr/view/AKR20261103155800054"
+      "link": "https://www.yna.co.kr/view/AKR20261104132700009"
     },
     {
       "id": "sports",
       "name": "스포츠",
       "phrase": "스페인 프로축구 선수",
       "sentence": "스페인 프로축구 2부 리그 경기 도중 CD 테네리페의 공격수 헤수스 데 미겔이 FC 안도라의 골키퍼와 세차게...",
-      "articleCount": 167,
+      "articleCount": 204,
       "link": "https://www.yna.co.kr/view/AKR20261104003000085"
     },
     {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "전남광주 순천대·경북 경국대에 의대 신설",
-      "sentence": "지난 8월 서울 청와대 사랑채 앞에서 순천대 의대·대학병원 설립 전남광주동부권 범시민추진위원회가 개최한 궐기대회에 참가한 지역 주민들이 순천대에 의과대학과 대학병…",
-      "articleCount": 136,
-      "link": "https://www.khan.co.kr/article/202611041000001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
+      "id": "industry",
+      "name": "산업·기업",
+      "phrase": "삼성바이오 노조",
+      "sentence": "삼성바이오로직스[207940] 상생노동조합은 사측과 교섭 중단에 따라 오는 6일부터 2차 파업에 돌입한다고 4...",
+      "articleCount": 181,
+      "link": "https://www.yna.co.kr/view/AKR20261104170500017"
     },
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "반도체주 반등에 나스닥 0.8%↑",
-      "sentence": "3일(현지시간) 미국 뉴욕증시 주요 지수는 중간선거 결과에 대한 경계감 속에서 주요 기술주가 반등하며 혼조세...",
-      "articleCount": 111,
-      "link": "https://www.yna.co.kr/view/AKR20261104009851072"
+      "phrase": "한진칼 최대주주 호반건설",
+      "sentence": "한진그룹 지주회사인 한진칼[180640]의 최대주주가 조원태 한진그룹 회장 측에서 호반건설 측으로 변경됐다.",
+      "articleCount": 151,
+      "link": "https://www.yna.co.kr/view/AKR20261104165852003"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "KS 2차전 잡고 승부 원점으로",
+      "sentence": "뉴시스 삼성 라이온즈가 연장 혈투 끝에 한국시리즈(KS·7전 4선승제) 2차전에서 KT 위즈를 꺾고 시리즈를 원점으로 돌렸다.…",
+      "articleCount": 131,
+      "link": "https://www.kmib.co.kr/article/20261104502404"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "하마터면 또⋯ 신촌 세브란스서 환자 흉기 난동",
+      "sentence": "서울 신촌세브란스병원에서 외래진료를 보던 정신건강의학과 교수가 환자에게 피습당하는 사건이 발생했다.",
+      "articleCount": 118,
+      "link": "https://www.kmib.co.kr/article/20261104502157"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "학생 7명 다쳐",
+      "sentence": "4일 오후 3시 53분께 전남광주 북구 한 고등학교 과학실에서 화학 수업 중 폭발 사고가 났다.",
+      "articleCount": 116,
+      "link": "https://www.yna.co.kr/view/AKR20261104150851054"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "대통령 집값 발언 강남만 맞았다 보도에 가짜뉴스",
       "sentence": "이재명 대통령은 4일 자신의 부동산 관련 발언을 소개하며 \"'집값 폭락 중' 대통령 발언, 강남만 맞았다\"라는...",
-      "articleCount": 106,
-      "link": "https://www.yna.co.kr/view/AKR20261104050900001"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "프로야구·공연 티켓 새치기 예매",
-      "sentence": "매크로 프로그램 등을 이용해 프로야구 경기와 유명 가수 공연의 입장권을 부정하게 예매한 뒤 웃돈을 붙여 되판 ...",
-      "articleCount": 105,
-      "link": "https://www.yna.co.kr/view/AKR20261104029000061"
+      "articleCount": 111,
+      "link": "https://www.yna.co.kr/view/AKR20261104050951001"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "SK하이닉스 中공장에 미국산 장비수출 허가 보류",
-      "sentence": "미국 정부가 SK하이닉스의 중국 공장 증설에 필요한 미국산 반도체 제조 장비의 수출 허가를 보류했다고 로이터통신이 3일(현지시간) 보도했다.…",
-      "articleCount": 101,
-      "link": "https://www.kmib.co.kr/article/20261104500042"
+      "phrase": "中공장 미국산 장비 반입 제동 ⋯ 美투자 재원",
+      "sentence": "미국 정부가 SK하이닉스의 중국 공장 증설에 필요한 미국산 반도체 장비 수출 허가를 보류했다는 외신 보도가 나왔다.…",
+      "articleCount": 99,
+      "link": "https://www.kmib.co.kr/article/20261104502090"
     },
     {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "정부에 가상자산 과세 유예 공식 제안",
-      "sentence": "뉴시스 내년 1월로 다가온 가상자산 소득 과세 시행을 앞두고 김민석 더불어민주당 대표가 전격적인 추가 유예 카드를 꺼내 들었다.…",
-      "articleCount": 92,
-      "link": "https://www.kmib.co.kr/article/20261104500202"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "올해 주주환원 규모 9172억원",
-      "sentence": "[지디넷코리아]크래프톤이 주주환원 정책에 따라 3000억원 규모의 자사주를 추가로 매입해 전량 소각한다.…",
-      "articleCount": 90,
-      "link": "https://zdnet.co.kr/view/?no=20261103175811"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "3분기 영업익 5523억·1040%↑",
-      "sentence": "SK텔레콤이 올해 3분기 유무선 통신사업 성장에 힘입어 영업이익 5000억원대를 기록했다.",
-      "articleCount": 88,
-      "link": "https://www.etnews.com/20261104000121"
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "포미닛 출신 전지윤",
+      "sentence": "그룹 포미닛 출신 가수 겸 웹소설 작가 전지윤이 22일 서울의 한 예식장에서 교제하던 연인과 결혼한다.",
+      "articleCount": 99,
+      "link": "https://www.yna.co.kr/view/AKR20261104147000005"
     },
     {
       "id": "trade",
       "name": "수출·관세",
-      "phrase": "팀코리아 튀르키예 원전 수주전 금융 협력",
-      "sentence": "한국수출입은행(수은)이 튀르키예 신규 원전 수주전에서 팀코리아의 경쟁력을 키우기 위해 선제적 금융 협력에 나선다고 4일 밝혔다.팀코리아는 4개 호기 규모의 한국형…",
-      "articleCount": 81,
-      "link": "https://www.donga.com/news/Economy/article/all/20261104/134962940/1"
-    },
-    {
-      "id": "retail",
-      "name": "유통·소비",
-      "phrase": "인천 물류센터 화재에 3분기 영업손실 6423억",
-      "sentence": "쿠팡의 모회사인 쿠팡Inc가 올해 3분기 14조 원이 넘는 매출을 기록했지만, 6000억 원이 넘는 영업손실을 내며 3개 분기 연속 적자를 기록했다.4일(한국시간…",
-      "articleCount": 80,
-      "link": "https://www.donga.com/news/Economy/article/all/20261104/134961786/1"
+      "phrase": "한국 전기차 수출",
+      "sentence": "비교우위 지표, 2년 새 역전 당해테슬라 중국 공장서 생산 영향 커중국이 전기차 수출 비교우위 지표에서 지난해 처음으로 한국을 추월했다.한국경제인협회가 4일 발표…",
+      "articleCount": 96,
+      "link": "https://www.khan.co.kr/article/202611042039015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "10월 소비자물가 2.8% 상승",
-      "sentence": "소비자물가 상승률이 두 달 연속 2%대 후반을 기록했다.",
-      "articleCount": 70,
-      "link": "https://www.mk.co.kr/news/economy/12194306"
+      "phrase": "인천공항 보안검색 노동자 직접고용 판단",
+      "sentence": "인천국제공항공사를 상대로 근로자 지위를 인정해달라며 소송을 제기한 보안검색 노동자들이 항소심에서 패소했다.",
+      "articleCount": 95,
+      "link": "https://www.yna.co.kr/view/AKR20261104118400065"
     },
     {
-      "id": "game",
-      "name": "게임",
-      "phrase": "3천억원 자사주 매입·소각 공시에 12%↑",
-      "sentence": "게임 개발사 크래프톤[259960]이 3천억원 규모의 자사주 매입에 나선다고 밝힌 영향으로 4일 장 초반 두 ...",
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "18억원대 가상자산 사기 태영호 장남",
+      "sentence": "약 18억원대 가상자산 투자 사기로 재판에 넘겨진 태영호 전 국민의힘 의원 장남에게 1심에서 실형이 선고됐다.",
+      "articleCount": 84,
+      "link": "https://www.yna.co.kr/view/AKR20261104160300004"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "피해자 없고 걸려도 감옥 안 가 유혹⋯",
+      "sentence": "기사 내용과 직접 관련이 없습니다.",
+      "articleCount": 72,
+      "link": "https://www.kmib.co.kr/article/20261104502428"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비",
+      "phrase": "3년간 번 돈 다 날렸다⋯ 3개 분기 연속 적자",
+      "sentence": "쿠팡의 모회사인 쿠팡Inc가 올해 3분기에도 영업손실을 이어갔다.",
       "articleCount": 58,
-      "link": "https://www.yna.co.kr/view/AKR20261104042700008"
+      "link": "https://www.kmib.co.kr/article/20261104502088"
     },
     {
       "id": "science",
       "name": "우주·과학",
-      "phrase": "우주에서도 투표할 수 있을까···NASA",
-      "sentence": "미국 항공우주국 소속 우주비행사 아닐 메논이 3일(현지시간) 공개한 중간선거 투표 이모저모 영상.",
-      "articleCount": 56,
-      "link": "https://www.khan.co.kr/article/202611040846001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+      "phrase": "동해상으로 미상발사체 발사",
+      "sentence": "북한이 4일 오전 동해상으로 미상 발사체를 발사했다고 합동참모본부가 밝혔다.",
+      "articleCount": 58,
+      "link": "https://www.yna.co.kr/view/AKR20261104055100504"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "피자 할인·한정 아이템 제공",
+      "sentence": "[지디넷코리아]스마일게이트의 올클래스 MMORPG '로드나인'이 프리미엄 피자 브랜드 파파존스와 손잡고 할인 혜택과 한정 아이템을 제공하는 제휴 프로모션을 연다.…",
+      "articleCount": 51,
+      "link": "https://zdnet.co.kr/view/?no=20261104175333"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "탄소배출량도 예측",
-      "sentence": "CJ제일제당[097950]은 사료 배합에 따른 영양 가치와 수익성, 예상 탄소 배출량 등을 종합적으로 분석하는...",
-      "articleCount": 53,
-      "link": "https://www.yna.co.kr/view/AKR20261104035500030"
+      "phrase": "정원 도시 로 새 여정",
+      "sentence": "일상 가까이 나무와 꽃이 있는 도시는 도민들의 삶을 어떻게 바꿀까.",
+      "articleCount": 49,
+      "link": "https://www.kmib.co.kr/article/20261104502256"
     },
     {
       "id": "rate",
       "name": "금리",
-      "phrase": "20조원 회사채 발행 완료",
-      "sentence": "메타플랫폼이 3일(현지시간) 높아진 금리를 제시하며 달러화 회사채 150억달러(약 20조1천억원)를 조달했다고...",
-      "articleCount": 42,
-      "link": "https://www.yna.co.kr/view/AKR20261104028500009"
-    },
-    {
-      "id": "fx",
-      "name": "환율",
-      "phrase": "10월 외환보유액 4431.6억 달러",
-      "sentence": "지난 9월 대미 투자 등 영향으로 넉 달 만에 감소했던 우리나라 외환보유액이 10월 다시 증가로 전환했다.4일 한국은행에 따르면 10월말 우리나라의 외환보유액은…",
-      "articleCount": 31,
-      "link": "https://www.donga.com/news/Economy/article/all/20261104/134962025/1"
+      "phrase": "중앙일보 새 주인은 다우·CJ컨소시엄⋯",
+      "sentence": "중앙그룹 제공 중앙일보가 다우·CJ컨소시엄에 인수된다.…",
+      "articleCount": 34,
+      "link": "https://www.kmib.co.kr/article/20261104502420"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "이주노동자 정책 간담회",
-      "sentence": "청와대는 3일 이주노동자 지원단체와 간담회를 열고 이주민 혐오에 관한 우려를 경청했다.",
-      "articleCount": 27,
-      "link": "https://www.yna.co.kr/view/AKR20261103159600001"
+      "phrase": "6일 2차 파업 예고⋯ 회사가 교섭 불응",
+      "sentence": "삼성바이오로직스 노동조합의 파업을 하루 앞둔 지난 4월 30일 인천 연수구 삼성바이오로직스 공장에 노동조합 깃발이 걸려 있다.…",
+      "articleCount": 31,
+      "link": "https://www.kmib.co.kr/article/20261104502213"
+    },
+    {
+      "id": "fx",
+      "name": "환율",
+      "phrase": "韓 외환보유액 다시 증가",
+      "sentence": "한은 10월 보유액 발표 한달새 26억달러 증가 9월 기준 세계 9위우리나라 외환보유액이 두 달 만에 다시 늘어나며 4년 5개월 만에 최대 규모를 기록했다.",
+      "articleCount": 26,
+      "link": "https://www.mk.co.kr/news/economy/12195941"
     }
   ],
   "topicCatalog": [
