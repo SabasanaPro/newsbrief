@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T03:16:05+09:00",
+  "generatedAt": "2026-11-06T03:42:05+09:00",
   "categories": [
     {
       "id": "politics",
@@ -20,20 +20,6 @@
           ]
         },
         {
-          "title": "아덴만 청해부대 임무 오만 남쪽 해역까지 확대…초계기도 투입",
-          "summary": "정부가 소말리아 아덴만 해역에서 상선 보호 활동을 하는 청해부대의 임무 구역을 호르무즈 해협과 좀 더 가까운 ...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261104118351504",
-          "publishedAt": "2026-11-05T02:23:54+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "SBS",
-            "동아일보",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
           "title": "청와대, 미 중간선거 결과에 “초당적 지지받는 한·미동맹에 영향 미치지 않을 것”",
           "summary": "청와대사진기자단청와대가 5일 최근 미국 민주당이 상·하원 다수당을 차지하게 된 중간선거 결과와 관련해 “한·미 동맹에 특정한 선거 결과가 영향을 미치지 않을 것이라고 본다”고 밝혔다.강유정 청와대 수석대변인은 이날 춘추관 브리핑에서 “한·미 동···…",
           "source": "경향신문",
@@ -43,6 +29,19 @@
           "otherSources": [
             "SBS",
             "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "정부, 5년 연속 유엔 북한인권결의안 공동제안국 참여",
+          "summary": "정부가 5년 연속으로 유엔총회 북한인권결의안 공동제안국으로 참여했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261105114251504",
+          "publishedAt": "2026-11-05T07:54:14+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "경향신문",
             "한겨레"
           ]
         }
@@ -203,17 +202,6 @@
           ]
         },
         {
-          "title": "카카오, 인적분할 내년 2월 1일로 연기... '1500억원' 규모 자사주 매입·소각 조기 집행",
-          "summary": "카카오가 인적분할 기일을 내년 1월 1일에서 2월 1일로 한달 연기했다. 재상장 예비심사 일정 등에 따른 조치다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=156967",
-          "publishedAt": "2026-11-05T13:40:42+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "아이뉴스24"
-          ]
-        },
-        {
           "title": "넥슨, '메이플스토리 글로벌 개발 콘테스트' 본선 진출작 '미션 챌린지' 실시",
           "summary": "넥슨(공동 대표 강대현∙김정욱)은 '메이플스토리 글로벌 개발 콘테스트' 본선 진출작을 직접 플레이하고 보상을 받을 수 있는 '글로벌 개발 콘테스트 미션 챌린지'를 진행한다고 5일 밝혔다.이용자들은 11월 25일까지 이벤트에",
           "source": "아이뉴스24",
@@ -222,6 +210,17 @@
           "sourceCount": 2,
           "otherSources": [
             "ZDNet코리아"
+          ]
+        },
+        {
+          "title": "'2026 LCK 어워드', 12월 16일 치지직 롤파크서 개최",
+          "summary": "[지디넷코리아]올해 LCK에서 활약한 팀과 선수들을 대상으로 한 시상식 '2026 LCK 어워드'가 오는 12월 16일 개최된다.'리그 오브 레전드(LoL)' 이스포츠의 한국 프로 리그 LCK를 주최하는 라이엇 게임즈는 '2026 LCK 어워드'를 오는 12월 16일 서울 종로구 치지직 롤파크에서 개최한다고 5일 밝혔다.LCK 어워드는 한 해 동안 LCK에서 활약한 팀과 선수들을 대상으로 진행하는 시상식이다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20261105182838",
+          "publishedAt": "2026-11-05T10:18:01+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "아이뉴스24"
           ]
         }
       ]
@@ -349,7 +348,7 @@
       "name": "증시",
       "phrase": "블루웨이브 쇼크 에 5%대↓",
       "sentence": "5일 국내 주가 지수가 급락하면서 유가증권시장과 코스닥 시장에서 잇달아 매도 사이드카가 발동됐다.",
-      "articleCount": 171,
+      "articleCount": 170,
       "link": "https://www.yna.co.kr/view/AKR20261105070051008"
     },
     {
@@ -357,7 +356,7 @@
       "name": "산업·기업",
       "phrase": "플랫폼 효과 카카오 3분기 영업익 2403억",
       "sentence": "카카오는 연결 기준 3분기 영업이익이 2403억원으로 지난해 같은 기간보다 7.4% 증가했다고 5일 밝혔다.…",
-      "articleCount": 169,
+      "articleCount": 168,
       "link": "https://www.seoul.co.kr/news/newsView.php?id=20261106032006"
     },
     {
@@ -365,7 +364,7 @@
       "name": "교육",
       "phrase": "수능 2주 앞두고 관리에 만전",
       "sentence": "이재명 대통령은 대학수학능력시험을 2주 앞둔 오늘 \"스마트 안경 같은 첨단 기기를 활용한 부정행위를 차단하는 데 각별한 노력을 기울여야 …",
-      "articleCount": 143,
+      "articleCount": 141,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008832348"
     },
     {
@@ -373,7 +372,7 @@
       "name": "반도체",
       "phrase": "9월 경상수지 흑자 사상 첫 600억 달러 돌파",
       "sentence": "날개 단 수출전선 한국은행이 발표한 국제수지 잠정통계에 따르면 9월 경상수지는 역대 최대 규모인 614억6000만 달러(약 82조5000억원) 흑자로 집계됐다.…",
-      "articleCount": 122,
+      "articleCount": 121,
       "link": "https://www.kmib.co.kr/article/20261105502067"
     },
     {
@@ -381,7 +380,7 @@
       "name": "부동산",
       "phrase": "다세대주택-오피스텔 등 층간소음 차단 규제 강화",
       "sentence": "국토교통부는 다세대주택과 오피스텔 등의 층간소음 차단 기준이 강화되는 내용을 담은 고시 개정안을 6일부터 26일까지 행정예고한다고 5일 밝혔다.…",
-      "articleCount": 112,
+      "articleCount": 111,
       "link": "https://www.donga.com/news/Economy/article/all/20261105/134974507/2"
     },
     {
@@ -389,7 +388,7 @@
       "name": "건강·의료",
       "phrase": "경찰 세브란스병원 칼부림 여성 살인미수 혐의",
       "sentence": "경찰이 신촌 세브란스병원에서 정신건강의학과 교수에게 흉기를 휘두른 50대 여성에 대한 구속영장을 신청했다.",
-      "articleCount": 106,
+      "articleCount": 105,
       "link": "https://www.yna.co.kr/view/AKR20261105063751004"
     },
     {
@@ -401,27 +400,27 @@
       "link": "https://www.nocutnews.co.kr/news/6602914"
     },
     {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "칸 화제작 블랙볼 로 문 여는",
-      "sentence": "서울국제프라이드영화제 제공국내 최대 성소수자 국제영화제인 제16회 서울국제프라이드영화제(SIPFF, 김조광수 집행위원장)가 오는 5일부터 11일까지 서울 종로구…",
-      "articleCount": 100,
-      "link": "https://www.khan.co.kr/article/202611041520001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news"
-    },
-    {
       "id": "crypto",
       "name": "가상자산",
       "phrase": "정부 가상자산 과세 2년 늦춰 2029년부터",
       "sentence": "내년에 시작할 예정이던 가상자산 소득과세가 2년 늦춰진다.",
-      "articleCount": 97,
+      "articleCount": 98,
       "link": "https://www.yna.co.kr/view/AKR20261105132100002"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "SK주식 9440억 매각⋯ 재산분할금 마련",
+      "sentence": "뉴시스 최태원 SK그룹 회장이 보유 중인 SK㈜ 주식 165만3924주를 처분했다.",
+      "articleCount": 96,
+      "link": "https://www.kmib.co.kr/article/20261105502294"
     },
     {
       "id": "trade",
       "name": "수출·관세",
       "phrase": "트럼프 졌어도 투자 압박 지속 ⋯ 韓기업 셈법",
       "sentence": "미국 중간선거가 민주당의 압승으로 끝났지만 통상 전문가들은 도널드 트럼프(얼굴) 행정부의 고율 관세와 대미 투자 압박은 기존처럼 지속될 것이라는 견해를 내놨다.…",
-      "articleCount": 97,
+      "articleCount": 94,
       "link": "https://www.kmib.co.kr/article/20261105502295"
     },
     {
@@ -429,7 +428,7 @@
       "name": "게임",
       "phrase": "메이플스토리 글로벌 개발 콘테스트 본선작 미션",
       "sentence": "‘메이플스토리 글로벌 개발 콘테스트’ 이미지.",
-      "articleCount": 71,
+      "articleCount": 69,
       "link": "https://www.kmib.co.kr/article/20261105502085"
     },
     {
@@ -453,7 +452,7 @@
       "name": "우주·과학",
       "phrase": "돈은 소용 없었다 美 중간선거 참패 원인",
       "sentence": "미국 중간선거 투표일인 지난 3일(현지시간) ‘데이터센터 반대, 농지를 지켜라’라는 문구가 적힌 팻말이 캔자스주 레번워스 카운티 들판에 세워져 있다.…",
-      "articleCount": 55,
+      "articleCount": 54,
       "link": "https://www.kmib.co.kr/article/20261105502163"
     },
     {
@@ -469,7 +468,7 @@
       "name": "유통·소비",
       "phrase": "쿠팡 개인정보 유출 과징금 4천억원 효력 유지",
       "sentence": "3천750만명의 개인정보를 유출한 쿠팡에 개인정보보호위원회가 부과한 4천236억원의 과징금 효력이 법원에서 일...",
-      "articleCount": 50,
+      "articleCount": 49,
       "link": "https://www.yna.co.kr/view/AKR20261105168400004"
     },
     {
