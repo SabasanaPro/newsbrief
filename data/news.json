@@ -1,24 +1,10 @@
 {
-  "generatedAt": "2026-11-07T02:40:16+09:00",
+  "generatedAt": "2026-11-07T11:20:49+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
-        {
-          "title": "신임 법무장관 이용철 방사청장…청와대 정무수석 최인호",
-          "summary": "이재명 정부의 두 번째 법무부 장관 후보자로 이용철 현 방위사업청장이 깜짝 지명됐습니다. 국세청장에는 안덕수 현 서울지방국세청장이, 청와대 정무…",
-          "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834289",
-          "publishedAt": "2026-11-06T08:07:00+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "동아일보",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
-          ]
-        },
         {
           "title": "‘조작기소 특검법’… 與주도 국회 통과",
           "summary": "이재명 대통령 사건 등에 대한 ‘조작수사·조작기소 진상규명 특검법’(조작기소 특검법)이 6일 더불어민주당 주도로 국회 본회의를 통과했다.…",
@@ -33,16 +19,27 @@
           ]
         },
         {
-          "title": "이 대통령 지지율 41%, 2%P 상승···민주당 36%·국민의힘 28%",
-          "summary": "5일 이재명 대통령의 유튜브 채널 KTV이매진에서 ‘대통령의 Y’의 첫 방송이 공개되고 있다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202611061036001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-11-06T01:36:00+00:00",
-          "sourceCount": 4,
+          "title": "與, 증시 급락에 긴급 간담회…\"불공정 거래 엄정 대응\"",
+          "summary": "더불어민주당은 6일 국내 증시 급락에 국회에서 긴급 간담회를 열고 금융당국에 불공정 거래 엄정 대응과 ...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261106176300001",
+          "publishedAt": "2026-11-06T09:53:49+00:00",
+          "sourceCount": 3,
           "otherSources": [
             "SBS",
-            "동아일보",
-            "연합뉴스"
+            "조선일보"
+          ]
+        },
+        {
+          "title": "李대통령, 이태현 KBS 차기 사장 후보자 인사청문요청안 재가",
+          "summary": "이재명 대통령은 6일 이태현 KBS 차기 사장 후보자에 대한 인사청문요청안을 재가했다고 김성완 청와대 대변인이...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261106164000001",
+          "publishedAt": "2026-11-06T08:47:20+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "조선일보",
+            "한겨레"
           ]
         }
       ]
@@ -51,6 +48,22 @@
       "id": "economy",
       "name": "경제",
       "items": [
+        {
+          "title": "고객 계좌번호부터 임직원 연락처까지…미래에셋증권 해킹 3만9000여명 정보 유출",
+          "summary": "금융권에서 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 고객과 임직원의 개인정보가 유출됐다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202611070800031/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-11-06T23:00:03+00:00",
+          "sourceCount": 8,
+          "otherSources": [
+            "SBS",
+            "동아일보",
+            "매일경제",
+            "머니투데이",
+            "아시아경제",
+            "연합뉴스"
+          ]
+        },
         {
           "title": "고팍스, '해킹협박' 메일에 출금차단 긴급조치",
           "summary": "국내 5대 가상자산 거래소 고팍스가 6일 해킹 협박 메일을 받고 긴급 조치에 나섰다. 고팍스는 이날 오후 2시 55분부터 가상자산 입금과 웹·앱 출금을 중단했다.…",
@@ -65,29 +78,14 @@
           ]
         },
         {
-          "title": "당국 \"증권사의 신용융자 담보비율 140% 유지의무 석 달 면제\"",
-          "summary": "미국 중간선거 이후 인공지능(AI) 데이터센터 규제 우려가 커지면서 증시가 급락하자 관계 당국은 증권사의 신용...",
+          "title": "주유소 기름값 25주 연속 하락…1천800원대서 사실상 횡보",
+          "summary": "전국 주유소 기름값이 25주 연속 하락했지만, 최근 하락 폭이 미미해지면서 사실상 제자리걸음을 이어가고 있다.",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261106092000002",
-          "publishedAt": "2026-11-06T03:00:14+00:00",
-          "sourceCount": 4,
+          "link": "https://www.yna.co.kr/view/AKR20261106149600003",
+          "publishedAt": "2026-11-06T21:01:01+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "SBS",
-            "아시아경제",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "세계은행그룹 신임 부총재에 엄우종 전 ADB 사무총장···한국인 두 번째",
-          "summary": "엄우종 세계은행그룹 독립책임성기구 부총재 내정자. 재정경제부 제공엄우종 전 아시아개발은행(ADB) 사무총장이 세계은행그룹의 신설 조직인 독립책임성기구 초대 부총재로 선임됐다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202611061104001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-11-06T02:04:00+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
-            "아시아경제",
-            "연합뉴스"
+            "SBS"
           ]
         }
       ]
@@ -97,40 +95,40 @@
       "name": "사회",
       "items": [
         {
-          "title": "은평 스토킹 살인 60대 범행 인정⋯ 경찰, 구속영장 신청",
-          "summary": "연합뉴스. 서울 은평구에서 전 연인이던 70대 여성을 살해한 남성이 살인 혐의를 인정했다. 피의자는 경찰 조사에서 “대화 중 시비가 붙어 화가 나서 살해했다”고 주장했다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/20261106500637",
-          "publishedAt": "2026-11-06T13:49:58+00:00",
-          "sourceCount": 8,
-          "otherSources": [
-            "SBS",
-            "경향신문",
-            "노컷뉴스",
-            "매일경제",
-            "연합뉴스",
-            "조선일보"
-          ]
-        },
-        {
           "title": "공소청, 경찰이 신청한 강호동 농협중앙회장 구속영장 기각",
           "summary": "공소청이 경찰이 신청한 강호동 농협중앙회장의 구속영장을 반려했다. 서울중앙공소청 불송치심사1부(부장검사 이시전)는 6일 강 회장과 협력업체 대표 A씨의 구속영장을 기각했다고 밝혔다..",
           "source": "매일경제",
           "link": "https://www.mk.co.kr/news/society/12200770",
           "publishedAt": "2026-11-06T09:31:22+00:00",
-          "sourceCount": 8,
+          "sourceCount": 7,
           "otherSources": [
             "SBS",
             "경향신문",
-            "노컷뉴스",
             "동아일보",
             "연합뉴스",
-            "조선일보"
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "은평 스토킹 살인 60대 범행 인정⋯ 경찰, 구속영장 신청",
+          "summary": "연합뉴스. 서울 은평구에서 전 연인이던 70대 여성을 살해한 남성이 살인 혐의를 인정했다. 피의자는 경찰 조사에서 “대화 중 시비가 붙어 화가 나서 살해했다”고 주장했다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/20261106500637",
+          "publishedAt": "2026-11-06T13:49:58+00:00",
+          "sourceCount": 7,
+          "otherSources": [
+            "SBS",
+            "경향신문",
+            "매일경제",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
           ]
         },
         {
           "title": "이용철 법무장관 후보자 “검찰개혁 완수하고 사회적 약자 인권 보호”",
-          "summary": "[이재명 대통령이 6일 법무부 장관 후보자에 이용철 방위사업청장을 지명했다. 뉴시스 이용철 법무부 장관 후보자가 6일 “검찰개혁을 차질 없이 완수하고 새로운 형사사법체계 안착에 힘쓰겠다”고 밝혔다.…",
+          "summary": "이재명 대통령이 6일 법무부 장관 후보자에 이용철 방위사업청장을 지명했다. 뉴시스 이용철 법무부 장관 후보자가 6일 “검찰개혁을 차질 없이 완수하고 새로운 형사사법체계 안착에 힘쓰겠다”고 밝혔다.…",
           "source": "국민일보",
           "link": "https://www.kmib.co.kr/article/20261106500585",
           "publishedAt": "2026-11-06T09:55:11+00:00",
@@ -150,6 +148,20 @@
       "name": "국제",
       "items": [
         {
+          "title": "트럼프, 백악관 비서실장 교체... 후임에 ‘反이민 강경파’ 밀러",
+          "summary": "6일(현지시각) 도널드 트럼프 미국 대통령이 백악관 비서실장을 수지 와일스에서 스티븐 밀러 현 백악관 부비서실장으로 교체한다고 발표했다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/11/07/GRRDCYLCMNSDAZRSGRQTQYRXGM/",
+          "publishedAt": "2026-11-06T22:27:01+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "동아일보",
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
           "title": "\"공장 안 지으면 관세 300%\"…'폭주' 예고?",
           "summary": "트럼프 미국 대통령이 \"미국에 공장을 짓지 않으면 관세가 최고 300%\"가 될 거라는 폭탄 발언을 내놨습니다.…",
           "source": "SBS",
@@ -163,29 +175,16 @@
           ]
         },
         {
-          "title": "日 지바현 지바시 동남동쪽 바다서 규모 6.1 지진 발생",
-          "summary": "6일 오후 7시 39분(한국시간) 일본 지바현 지바시 동남동쪽 202km 해역에서 규모 6.1의 지진이 발생했다. 기상청이 외국 관측 기관 등을 인용해 전한 내용에 따르면 진앙은 ..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/world/12200837",
-          "publishedAt": "2026-11-06T11:05:13+00:00",
+          "title": "일본 지바현 지바시 동남동쪽 바다서 규모 6.1 지진 발생",
+          "summary": "우리시간으로 저녁 7시 39분, 일본 지바현 지바시 동남동쪽 202km 해역에서 규모 6.1의 지진이 발생했다고 기상청이 외국 관측 기관 등을 …",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834824",
+          "publishedAt": "2026-11-06T14:17:00+00:00",
           "sourceCount": 4,
           "otherSources": [
-            "SBS",
             "경향신문",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "美 캘리포니아 주지사, 사형수 548명 전원 종신형 감형 추진",
-          "summary": "개빈 뉴섬 미국 캘리포니아주지사가 5일(현지시간) 주내 사형수 548명 전원의 형을 가석방 없는 종신형으로 감...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261106027900009",
-          "publishedAt": "2026-11-05T23:46:48+00:00",
-          "sourceCount": 4,
-          "otherSources": [
-            "SBS",
             "매일경제",
-            "한겨레"
+            "연합뉴스"
           ]
         }
       ]
@@ -195,38 +194,33 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "박경희 대표, 티맥스티베로·티맥스소프트 총괄 지휘…AI 사업 시너지 강화",
-          "summary": "[지디넷코리아]티맥스티베로와 티맥스소프트가 박경희 티맥스티베로 대표를 양사 총괄 대표이사로 선임하고 인공지능(AI) 중심 사업 협력 강화에 나선다.…",
-          "source": "ZDNet코리아",
-          "link": "https://zdnet.co.kr/view/?no=20261106172203",
-          "publishedAt": "2026-11-06T08:22:56+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "블로터",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "'불닭의 힘' 삼양식품, 영업익 50% 급증…분기 최대 실적 또 갈아치웠다",
-          "summary": "삼양식품이 글로벌 시장에서 불닭볶음면의 인기를 앞세워 또 한 번 역대 최대 실적을 달성했다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=157028",
-          "publishedAt": "2026-11-06T16:46:11+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "한국타이어, 3분기 영업익 5988억 '타이어 매출' 역대 최대",
-          "summary": "한국타이어앤테크놀로지가 3분기 타이어 부문에서 역대 최대 분기 매출을 기록했다. 고인치 타이어와 전기차 전용 타이어 등 고부가가치 제품 판매가 증가하면서 외형 성장을 이끌었다.…",
+          "title": "CJ올리브네트웍스 매출 증가 46% 책임진 '스마트스페이스 AX'",
+          "summary": "CJ올리브네트웍스의 올해 3분기 성장을 이끈 것은 주력 사업이 아닌 스마트스페이스 인공지능전환(AX)이었다.…",
           "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=677970",
-          "publishedAt": "2026-11-06T15:17:19+00:00",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=678014",
+          "publishedAt": "2026-11-06T18:07:54+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "연합뉴스"
+            "테크M"
           ]
+        },
+        {
+          "title": "올해의 미시풍경 1위, 프린터 잉크 방울이 종이로 떨어지는 순간",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/science/science_general/1286224.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
+          "title": "역대급 슈퍼 엘니뇨…올해 ‘가장 더운 해’ 가능성 67%, 내년은 96%",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/science/science_general/1286104.html",
+          "publishedAt": null,
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -247,20 +241,22 @@
           ]
         },
         {
+          "title": "가상자산 거래소 대주주, 평판·경영 능력 심사 제안",
+          "summary": "국내 가상자산사업자 대주주 심사에 법 위반 이력과 재무 상태뿐 아니라 평판·전문성·경영 능력도 반영해야 한다는 제안이 나왔다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/policy/434364",
+          "publishedAt": "2026-11-07T01:28:47+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "블록미디어"
+          ]
+        },
+        {
           "title": "정부, 가상자산 과세 2년 유예…“특혜, 무책임” 비판 목소리",
           "summary": "",
           "source": "한겨레",
           "link": "https://www.hani.co.kr/arti/economy/economy_general/1285949.html",
           "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "비트코인 ETF 3분기 7만9800 BTC 순유입…채굴량의 1.93배",
-          "summary": "미국 현물 비트코인(BTC) ETF는 2026년 3분기 7만9800 BTC를 순유입했다. 이는 같은 기간 새로 채굴된 비트코인 물량의 약 1.93배다.…",
-          "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/434205",
-          "publishedAt": "2026-11-06T17:04:45+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -271,39 +267,37 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "'점프 난조' 피겨 이해인, 그랑프리 3차 대회 쇼트 6위 '프리에서 메달권 진입 도전'",
-          "summary": "[스포츠조선 김가을 기자]피겨 스케이팅 여자 싱글 이해인(고려대)이 시니어 그랑프리 쇼트 프로그램에서 6위에 올랐다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/sports/sports_general/2026/11/07/HA4DMNLDMFSTQN3FGRRDOMZZMU/",
-          "publishedAt": "2026-11-06T15:37:01+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "동아일보",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "탁구 이승수, 다카르 청소년올림픽 남자단식 銅…한국 16년만 메달",
-          "summary": "한국 남자 탁구 기대주 이승수(대전동산중)가 청소년올림픽 단식에서 동메달을 목에 걸었다.이승수는 6일(한국 시간) 세네갈 다카르 엑스포센터(DEX)에서 열린 2026 제4회 다카르 하계청소년올림픽 남자 단식 동메달 결정전에서 리키호(홍콩)를 4-2(11-8 11-8 11-5 8-11 15-17 15-13)로 제압했다.이번 대회 예선 3그룹에서 전승을 거두고 1위로 16강에 오른 이승수는 노아 비텔(프랑스)을 접전 끝에 4-3으로 누르고 8강에 진출했다.8강에서 괴르켐 오잘(튀르키예)까지 4-1로 꺾고 준결승에 안착한 이승수는 4강에서 카와카미 류세이(일본)에게 2-4로 패배했다.결승 진출에 실패한 이승수는 동메달 결정전에서 승전보를 전하며 입상에 성공했다.지난해 아시아청소년대회 남자 단식 동메달, 지난 7월 아시아청소년선수권대회 15세 이하(U-15) 남자 단식 우승을 차지한 이승수는 이번 대회에서도 시상대에 섰다.이승수의 동메달은 한국 탁구가 이번 대회에서 따낸 유일한",
+          "title": "피겨 이해인, ISU 그랑프리 3차 대회 쇼트 6위",
+          "summary": "피겨 스케이팅 여자 싱글 이해인(고려대)이 국제빙상경기연맹(ISU) 시니어 그랑프리 쇼트 프로그램 6위에 자리했다.이해인은 6일 중국 선전의 선전 유니버시아드 센터에서 열린 2026-27 ISU 그랑프리 3차 대회 ‘컵 오브 차이나’ 여자 싱글 쇼트프로그램에서 기술점수(TES) 34.86점, 예술점수(PCS) 32.63점을 받아 67.49점을 기록했다.점프 과제에서 잇단 실수를 범한 이해인은 자신의 최고점(76.90점)에 크게 미치지 못하며 12명 중 6위에 머물렀다.‘고난도’ 트리플 악셀(공중 3회전반)을 앞세웠지만 완성도에 아쉬움을 남겼다.이해인은 첫 점프 과제인 트리플 악셀에서 쿼터 랜딩(점프 회전수가 90도 수준에서 모자라는 경우) 판정을 받고 수행점수(GOE) 1.14점 감점을 받았다.이어진 트리플 러츠-트리플 토루프 콤비네이션에서도 첫 점프를 싱글로 처리하는 실수를 범했다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20261106/134978705/1",
-          "publishedAt": "2026-11-06T05:51:26+00:00",
+          "link": "https://www.donga.com/news/Sports/article/all/20261106/134982179/1",
+          "publishedAt": "2026-11-06T11:45:22+00:00",
           "sourceCount": 3,
           "otherSources": [
             "연합뉴스",
-            "한겨레"
+            "조선일보"
           ]
         },
         {
-          "title": "tvN “조진웅 AI 교체 실패”…‘두번째 시그널’ 12월 7일 방영된다",
-          "summary": "tvN 드라마 시그널배우 조진웅의 소년범 논란으로 인해 잠정 편성이 중단됐던 드라마 이 오는 12월 7일 tvN에서 방영된다.tvN은 6일 “특정 출연자의 잘못된 과거 행적은 채널로서도 결코 가볍게 바라볼 수 없는 문제지만 은 특정 출연자 한 사람의 작품이 아니”라며 “조심스러운 마음으로 <두번째 ···",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202611061354001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
-          "publishedAt": "2026-11-06T04:54:00+00:00",
-          "sourceCount": 3,
+          "title": "후라도 던지고 구자욱 때리고…삼성, 1패 뒤 2연승 시리즈 역전",
+          "summary": "삼성 라이온즈가 12년 만에 한국시리즈 정상에 복귀할 기회를 잡았다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261106186951007",
+          "publishedAt": "2026-11-06T12:30:37+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "연합뉴스",
-            "한겨레"
+            "조선일보"
+          ]
+        },
+        {
+          "title": "삼성 박진만 감독, '후라도 환상투로 승리했어'",
+          "summary": "[OSEN=대구, 최규한 기자] 프로야구 삼성 라이온즈가 우승 확률 88.9%를 거머쥐었다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/sports/sports_photo/2026/11/06/G4YGKZRSGU3WCMJVGJTGMOJQMM/",
+          "publishedAt": "2026-11-06T12:42:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "연합뉴스"
           ]
         }
       ]
@@ -313,10 +307,10 @@
     {
       "id": "stock",
       "name": "증시",
-      "phrase": "검은 금요일 코스피",
-      "sentence": "코스피와 코스닥이 6일 미국발 인공지능(AI) 데이터센터 규제 강화 우려에 서킷브레이커와 매도 사이드카가 발동되는 등 검은 금요일을 맞았다.",
+      "phrase": "당국 증권사의 신용융자 담보비율 140%",
+      "sentence": "미국 중간선거 이후 인공지능(AI) 데이터센터 규제 우려가 커지면서 증시가 급락하자 관계 당국은 증권사의 신용...",
       "articleCount": 250,
-      "link": "https://www.mk.co.kr/news/stock/12200494"
+      "link": "https://www.yna.co.kr/view/AKR20261106092000002"
     },
     {
       "id": "ai",
@@ -329,97 +323,97 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "국힘 대통령 공소취소",
-      "sentence": "이재명 대통령과 관련된 사건을 비롯해 윤석열 정부 검찰의 조작기소 의혹을 수사하는 이른바 '조작...",
+      "phrase": "이용철 법무장관 후보자 검찰개혁 완수하고",
+      "sentence": "이재명 대통령이 6일 법무부 장관 후보자에 이용철 방위사업청장을 지명했다.",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261106131100001"
+      "link": "https://www.kmib.co.kr/article/20261106500585"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "트럼프 워싱턴 개선문 건설 최종 승인",
-      "sentence": "도널드 트럼프 미국 대통령이 추진하는 '워싱턴 개선문' 건설 계획이 관계 당국의 최종 승인을 받았다.",
+      "phrase": "일본 지바현 지바시 동남동쪽 바다서 규모",
+      "sentence": "(서울=연합뉴스) 6일 오후 7시 39분(한국시간) 일본 지바현 지바시 동남동쪽 202km 해역에서 규모 6.1의 지진이 발생했다고 기상청이 외...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261106138200009"
+      "link": "https://www.yna.co.kr/view/AKR20261106183200530"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "李대통령 장남이 주진우 고소한 사건",
-      "sentence": "이재명 대통령 장남 이동호씨가 가족의 '황제 골프' 의혹을 제기한 국민의힘 주진우 의원을 명예훼손 혐의로 고소...",
-      "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261106154500004"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "구자욱-박승규, 뜨거운 포옹",
-      "sentence": "[OSEN=대구, 박준형 기자]프로야구 삼성 라이온즈가 우승 확률 88.9%를 거머쥐었다.…",
-      "articleCount": 178,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/11/06/MFQWMMRYGBSDINRWMRSTEMJUGE/"
+      "phrase": "KPGA 대상·상금왕 노리던 장유빈",
+      "sentence": "한국프로골프(KPGA) 투어 2026시즌 대상과 상금왕을 노리던 장유빈이 어이없는 실수로 실격했다.",
+      "articleCount": 199,
+      "link": "https://www.yna.co.kr/view/AKR20261106161900007"
     },
     {
       "id": "industry",
       "name": "산업·기업",
-      "phrase": "한국타이어 3분기 영업이익 5천988억원",
-      "sentence": "한국타이어앤테크놀로지는 연결 기준 올해 3분기 영업이익이 5천988억원으로 지난해 동기보다 2.2% 증가한 것...",
-      "articleCount": 153,
-      "link": "https://www.yna.co.kr/view/AKR20261106106851527"
+      "phrase": "분기 역대 최대",
+      "sentence": "삼양식품[003230]은 연결 기준 올해 3분기(7∼9월) 영업이익이 1천962억원으로, 지난해 3분기 대비 ...",
+      "articleCount": 141,
+      "link": "https://www.yna.co.kr/view/AKR20261106131851527"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "이틀간 삼전 13%-하이닉스 17% 빠져",
-      "sentence": "전날 5%대 급락한 코스피가 6일에도 개장 직후 8% 넘게 급락하며 5,000 선 아래로 떨어지자 개인투자자들은 충격에 휩싸였다.…",
-      "articleCount": 124,
-      "link": "https://www.donga.com/news/Economy/article/all/20261107/134982636/2"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "초등학생 5명 부상",
-      "sentence": "6일 오전 8시 22분께 인천시 영종구 운남동 인천대교 송도 방면 10㎞ 지점에서 3.5t 트럭이 25인승 초...",
-      "articleCount": 121,
-      "link": "https://www.yna.co.kr/view/AKR20261106149400065"
-    },
-    {
-      "id": "realestate",
-      "name": "부동산",
-      "phrase": "국토장관 수도권 주택공급 80%담당 민간 역할",
-      "sentence": "홍지선 국토교통부 장관은 \"수도권 주택공급의 80% 이상을 차지해온 민간 부문의 역할이 그 어느 때보다 중요한...",
-      "articleCount": 93,
-      "link": "https://www.yna.co.kr/view/AKR20261106106300003"
+      "phrase": "내년 법인지방소득세 최대 약 12배로 늘 전망",
+      "sentence": "삼성전자와 SK하이닉스의 올해 실적 호조로 반도체 사업장을 둔 경기도 내 기초 지방자치단체...",
+      "articleCount": 125,
+      "link": "https://www.yna.co.kr/view/AKR20261106129700061"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "트럼프 개선문 건설 제동",
-      "sentence": "도널드 트럼프 미국 대통령이 역점사업으로 추진해 온 '워싱턴 개선문' 건설 계획이 관계 당국의 최종 승인을 받았지만, 연방법원이 공사 중단 명령을 내리면서 제동이…",
-      "articleCount": 90,
-      "link": "https://www.nocutnews.co.kr/news/6603444"
+      "phrase": "승무원에게 짜증 주장에",
+      "sentence": "배우 최우식 측이 온라인상에서 불거진 기내 태도 관련 루머에 대해 “허위사실”이라며 법적 대응을 예고했다.최우식의 소속사 페이블컴퍼니는 6일 공식 입장을 내고 “…",
+      "articleCount": 104,
+      "link": "https://www.donga.com/news/Culture/article/all/20261106/134981106/1"
     },
     {
-      "id": "health",
-      "name": "건강·의료",
-      "phrase": "세브란스병원 의사에 흉기난동 살인미수로",
-      "sentence": "공소청이 신촌 세브란스병원에서 정신건강의학과 교수에게 흉기를 휘두른 50대 여성에 대해 경찰이 신청한 영장을 ...",
-      "articleCount": 86,
-      "link": "https://www.yna.co.kr/view/AKR20261106134200004"
+      "id": "education",
+      "name": "교육",
+      "phrase": "일타강사 정승제 3~4세 의대반 에 분노",
+      "sentence": "정승제, 침착맨 채널서 조기 사교육 비판수학 강사 정승제가 어린 나이부터 의대 입시를 준비 시키는 사교육 현실에 대해 강도 높게 비판했다.",
+      "articleCount": 102,
+      "link": "https://www.mk.co.kr/news/society/12200793"
+    },
+    {
+      "id": "realestate",
+      "name": "부동산",
+      "phrase": "신임 법무장관에 이용철 방사청장",
+      "sentence": "연힙뉴스 이재명 대통령이 법무부 장관 후보자로 이용철 방위사업청장, 국세청장 후보자로 안덕수 서울지방국세청장을 각각 지명했다.…",
+      "articleCount": 96,
+      "link": "https://www.kmib.co.kr/article/20261106500326"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "비규제지역 아파트값 상승 도미노",
+      "sentence": "서울 강남권에서 시작된 아파트값 상승세가 서울 외곽을 거쳐 경기 주요 지역으로 확산되고 있다.…",
+      "articleCount": 89,
+      "link": "https://www.nocutnews.co.kr/news/6603506"
     },
     {
       "id": "trade",
       "name": "수출·관세",
       "phrase": "공장 안 지으면 관세 300%",
       "sentence": "트럼프 미국 대통령이 \"미국에 공장을 짓지 않으면 관세가 최고 300%\"가 될 거라는 폭탄 발언을 내놨습니다.…",
-      "articleCount": 85,
+      "articleCount": 84,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834642"
+    },
+    {
+      "id": "health",
+      "name": "건강·의료",
+      "phrase": "살인미수로 구속영장 청구⋯ 범행 중대",
+      "sentence": "연합뉴스 공소청이 신촌 세브란스병원에서 정신건강의학과 교수에게 흉기를 휘두른 50대 여성에 대해 구속영장을 6일 청구했다.…",
+      "articleCount": 84,
+      "link": "https://www.kmib.co.kr/article/20261106500375"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "러 발전소 공격에 정전 피해 속출",
       "sentence": "5일(현지시간) 우크라이나 자포리자주 코미슈바하 마을의 교회가 러시아의 공습으로 파괴된 모습.…",
-      "articleCount": 81,
+      "articleCount": 82,
       "link": "https://www.kmib.co.kr/article/20261106500562"
     },
     {
@@ -427,71 +421,71 @@
       "name": "물가·고용",
       "phrase": "美 10월 고용 16만5천명 깜짝 증가",
       "sentence": "10월 미국의 일자리가 예상보다 큰 폭으로 증가한 것으로 나타났다.",
-      "articleCount": 75,
+      "articleCount": 68,
       "link": "https://www.yna.co.kr/view/AKR20261106191451072"
     },
     {
       "id": "retail",
       "name": "유통·소비",
-      "phrase": "이용자 기록 무단수집 쿠팡 2천억대 과징금",
-      "sentence": "이용자 1천만여명의 온라인 기록을 무단 수집·사용했다는 이유로 개인정보보호위원회가 쿠팡에 2천억원대 과징금을 ...",
-      "articleCount": 71,
-      "link": "https://www.yna.co.kr/view/AKR20261106100900004"
+      "phrase": "쿠팡 과징금 2011억원 효력 정지",
+      "sentence": "이용자의 온라인 활동 기록을 무단으로 수집했다는 이유로 개인정보보호위원회(개보위)로부터 2000억 원대 과징금을 부과받은 쿠팡이 법원에 낸 집행정지 신청이 인용됐…",
+      "articleCount": 66,
+      "link": "https://www.donga.com/news/Society/article/all/20261106/134978289/2"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "해킹 예고 협박 메일에 출금 차단",
-      "sentence": "가상자산 거래소 고팍스가 6일 해킹 협박 메일을 받고 이용자 자산 보호를 위한 긴급 조치에 나섰다.",
-      "articleCount": 61,
-      "link": "https://www.yna.co.kr/view/AKR20261106174700002"
+      "phrase": "가상자산 거래소 고팍스",
+      "sentence": "가상자산 거래소 고팍스가 해킹 협박 이메일을 받고 이용자 자산 보호를 위해 가상자산 입출금과 매매 서비스를 중...",
+      "articleCount": 57,
+      "link": "https://www.yna.co.kr/view/AKR20261106174751002"
     },
     {
       "id": "game",
       "name": "게임",
       "phrase": "스팀 매출 1위 탈환",
       "sentence": "크래프톤은 대표작 ‘PUBG: 배틀그라운드’가 6일 기준 글로벌 게임 플랫폼 스팀(Steam) ‘최고 인기 게임’ 글로벌 순위에서 1위를 기록했다고 밝혔다.…",
-      "articleCount": 54,
+      "articleCount": 56,
       "link": "https://www.chosun.com/economy/tech_it/2026/11/06/GBTDOZJXMJSWMYJWMNQWIMLCMM/"
     },
     {
       "id": "rate",
       "name": "금리",
-      "phrase": "물가 급등에 3년여 만에 기준금리 인상",
-      "sentence": "Gettyimages/이매진스영국 중앙은행인 잉글랜드은행(BOE)이 5일(현지시간) 기준금리를 0.25%포인트 인상한 연 4%로 올렸다.잉글랜드은행은 이날 기준금…",
-      "articleCount": 45,
-      "link": "https://www.khan.co.kr/article/202611052127001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
-    },
-    {
-      "id": "labor",
-      "name": "노동",
-      "phrase": "한화오션 감독자들 하청노조 불법 점거 중단하라",
-      "sentence": "감독자협의회, 고공농성 중단 촉구 “손배소 취하·동일 성과급에도 점거” 원청 교섭 요구…하청노조 4명 농성 지속한화오션 하청노동자들의 원청 단체교섭 요구를 둘러싼…",
-      "articleCount": 44,
-      "link": "https://www.mk.co.kr/news/society/12200456"
+      "phrase": "12월 금리인상 전망 강화",
+      "sentence": "10월 미국의 일자리가 예상보다 큰 폭으로 증가했다.",
+      "articleCount": 40,
+      "link": "https://www.yna.co.kr/view/AKR20261106191452072"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "부산 기후테크 기업에 150억원 대출",
-      "sentence": "부산시 제공 부산의 기후테크 중소기업이 탄소 감축 기술을 사업화하거나 친환경 설비를 들이는 데 필요한 자금을 지원받는다.…",
-      "articleCount": 35,
-      "link": "https://www.kmib.co.kr/article/20261106500236"
+      "phrase": "AIDC 규제 美민주당 양원 장악",
+      "sentence": "미국 중간선거에서 민주당이 상원과 하원을 모두 장악하면서 '인공지능 데이터센터'(AIDC)에 대한 규제가 강화될 것이라는 전망에 힘이 실리고 있다.…",
+      "articleCount": 36,
+      "link": "https://www.nocutnews.co.kr/news/6603433"
     },
     {
       "id": "science",
       "name": "우주·과학",
-      "phrase": "3조 재원 방산·우주 사업 재편",
-      "sentence": "기업 최고 의사결정권자(CEO, CFO, COO, CIO 등)의 행보에서 투자 인사이트를 얻어 가세요.…",
-      "articleCount": 35,
-      "link": "https://www.bloter.net/news/articleView.html?idxno=677959"
+      "phrase": "기상재해로 날아간 1조 달러",
+      "sentence": "지금부터 기후변화가 우리 인류 건강에 미친 영향을 추적해 볼 텐데요.",
+      "articleCount": 36,
+      "link": "https://www.nocutnews.co.kr/news/6603519"
+    },
+    {
+      "id": "labor",
+      "name": "노동",
+      "phrase": "주말 서울 도심 곳곳 대규모 집회·마라톤",
+      "sentence": "뉴시스 주말인 7일 서울 도심과 여의도, 강남 일대에서 노동계와 정치·시민단체의 대규모 집회가 잇따라 열린다.…",
+      "articleCount": 31,
+      "link": "https://www.kmib.co.kr/article/20261107500024"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "달러 환율 한 달 만에 1",
       "sentence": "미국 중간선거 후 인공지능(AI) 데이터센터 규제 우려가 커지면서 증시가 급락한 가운데 원/달러 환율이 한 ...",
-      "articleCount": 20,
+      "articleCount": 19,
       "link": "https://www.yna.co.kr/view/AKR20261106136200002"
     }
   ],
