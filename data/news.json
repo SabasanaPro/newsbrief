@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T01:37:03+09:00",
+  "generatedAt": "2026-11-08T02:43:48+09:00",
   "categories": [
     {
       "id": "politics",
@@ -49,22 +49,6 @@
       "name": "경제",
       "items": [
         {
-          "title": "고객 계좌번호부터 임직원 연락처까지…미래에셋증권 해킹 3만9000여명 정보 유출",
-          "summary": "금융권에서 해킹 사고가 잇따르는 가운데 미래에셋증권에서도 고객과 임직원의 개인정보가 유출됐다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202611070800031/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
-          "publishedAt": "2026-11-06T23:00:03+00:00",
-          "sourceCount": 7,
-          "otherSources": [
-            "SBS",
-            "동아일보",
-            "매일경제",
-            "아시아경제",
-            "연합뉴스",
-            "조선일보"
-          ]
-        },
-        {
           "title": "미래에셋증권, 해킹으로 3만 9천여 명 정보 유출",
           "summary": "국내 최대 증권사인 미래에셋증권에서도 해킹으로 인한 정보 유출 사고가 발생했습니다.미래에셋증권은 지난 4일부터 이틀 동안 모바일웹 휴대폰 인증 …",
           "source": "SBS",
@@ -76,14 +60,25 @@
           ]
         },
         {
-          "title": "\"20억 받는다\" 로또 1등 14명...1249회 당첨 번호는?",
-          "summary": "동행복권은 1249회 로또 1등 당첨번호가 '2, 11, 16, 25, 34, 35'이라고 7일 밝혔다. 보너스 번호는 '14'다.…",
-          "source": "머니투데이",
-          "link": "https://www.mt.co.kr/society/2026/11/07/2026110720254599946",
-          "publishedAt": "2026-11-07T11:50:02+00:00",
+          "title": "세계식량가격지수 하락 전환…곡물·육류·유제품 내려",
+          "summary": "석 달 연속 오름세를 보였던 세계식량가격지수가 지난달 하락 전환했다.",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261107034800030",
+          "publishedAt": "2026-11-07T05:52:59+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "경향신문"
+            "SBS"
+          ]
+        },
+        {
+          "title": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수",
+          "summary": "국내 증시가 급락한 11월 첫 주, 국내 개인 투자자들이 미국 주식을 3조원 가까이 순매수한 것으로 나타났다.…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202611071219001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news",
+          "publishedAt": "2026-11-07T03:19:00+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "SBS"
           ]
         }
       ]
@@ -230,20 +225,20 @@
           ]
         },
         {
-          "title": "리플·블랙록 참여 백서, 토큰 2차 거래 제한 지적",
-          "summary": "두바이 금융서비스청(DFSA)이 11월 5일 리플(Ripple)·블랙록(BlackRock, $BLK)·스탠다드차타드(Standard Chartered, $STAN) 관계자들의 의견을 담은 토큰화 백서를 공개했다.…",
+          "title": "비트코인 7만5904달러, 50일선 8만2003달러 밑돌아",
+          "summary": "비트코인(BTC)은 7일 오전 6시 23분(한국시간) 7만5904달러(약 1억186만원)에 거래돼 50일 이동평균선으로 제시된 8만2003달러를 밑돌았다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/434550",
-          "publishedAt": "2026-11-07T16:08:50+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/434567",
+          "publishedAt": "2026-11-07T17:31:25+00:00",
           "sourceCount": 1,
           "otherSources": []
         },
         {
-          "title": "이더리움 3047개·체인링크 78만7500개 한 지갑에 유입",
-          "summary": "온체인 렌즈는 한 가상자산 지갑에 3일간 이더리움(ETH) 3047개와 체인링크 78만7500개가 유입됐다고 밝혔다.…",
+          "title": "솔라나  3개월 거래량 12배…코인베이스 지갑, 전용 보상 없어",
+          "summary": "코인베이스(https://wiki.tokenpost.kr/w/coinbase) 지갑 안에서 이뤄진 솔라나(SOL) 거래량이 3개월 사이 12배로 늘었다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/434547",
-          "publishedAt": "2026-11-07T15:51:52+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/434566",
+          "publishedAt": "2026-11-07T17:31:05+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -310,65 +305,65 @@
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "트럼프 살해하라 들려온 목소리?",
-      "sentence": "미국 백악관 인근에서 총기 3정과 수십 발의 탄약을 소지한 남성이 비밀경호국에 체포됐습니다.미 국토안보부와 현지 언론에 따르면 현지시간 5일 밤…",
+      "phrase": "총기 가진 채 美 백악관 인근 대기 용의자 체포",
+      "sentence": "미 백악관 비밀경호국이 백악관 인근에서 여러 정의 총기를 소지한 채 차량에 있던 용의자를 체포해 기소했다고 밝혔다.…",
       "articleCount": 250,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008835164"
+      "link": "https://www.donga.com/news/Inter/article/all/20261107/134983124/1"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "한국시리즈 4차전 데일리 MVP 수상",
-      "sentence": "[OSEN=대구, 이석우 기자] 7일 대구삼성라이온즈파크에서 2026 신한 SOL KBO 한국시리즈 4차전 삼성 라이온즈와 KT 위즈의 경기가 열렸다.…",
-      "articleCount": 250,
-      "link": "https://www.chosun.com/sports/sports_photo/2026/11/07/GAZTCY3GMI4WIODDHAZGEZRWGU/"
+      "phrase": "KPGA 대상·상금왕 노리던 장유빈",
+      "sentence": "한국프로골프(KPGA) 투어 2026시즌 대상과 상금왕을 노리던 장유빈이 어이없는 실수로 실격했다.",
+      "articleCount": 204,
+      "link": "https://www.yna.co.kr/view/AKR20261106161900007"
     },
     {
       "id": "stock",
       "name": "증시",
       "phrase": "검은 금요일 코스피",
       "sentence": "코스피와 코스닥이 6일 미국발 인공지능(AI) 데이터센터 규제 강화 우려에 서킷브레이커와 매도 사이드카가 발동되는 등 검은 금요일을 맞았다.",
-      "articleCount": 177,
-      "link": "https://www.mk.co.kr/news/stock/12200494"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "우승까지 1승 남았다",
-      "sentence": "7일 대구 삼성라이온즈파크에서 열린 2026 신한 SOL KBO 한국시리즈 4차전 KT 위즈 와 삼성 라이온즈의 경기.…",
       "articleCount": 163,
-      "link": "https://www.kmib.co.kr/article/20261107500065"
+      "link": "https://www.mk.co.kr/news/stock/12200494"
     },
     {
       "id": "industry",
       "name": "산업·기업",
       "phrase": "신작 부재에 3분기 영업이익 54억원",
       "sentence": "코스닥 상장사 웹젠[069080]은 연결 기준 올해 3분기 영업이익이 54억원으로 지난해 동기보다 29.3% ...",
-      "articleCount": 117,
+      "articleCount": 104,
       "link": "https://www.yna.co.kr/view/AKR20261106131951527"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "미군기지 침입 대학생 3명",
-      "sentence": "해당 사진은 기사 내용과 관련이 없습니다.…",
-      "articleCount": 98,
-      "link": "https://www.kmib.co.kr/article/20261107500057"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "세브란스병원 흉기난동 50대 여성 구속",
       "sentence": "신촌 세브란스병원에서 정신건강의학과 의사에게 흉기를 휘두른 50대 여성이 구속됐다.",
-      "articleCount": 97,
+      "articleCount": 92,
       "link": "https://www.yna.co.kr/view/AKR20261107034551004"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "미군기지 침입 대학생 3명",
+      "sentence": "해당 사진은 기사 내용과 관련이 없습니다.…",
+      "articleCount": 92,
+      "link": "https://www.kmib.co.kr/article/20261107500057"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "우승까지 1승 남았다",
+      "sentence": "7일 대구 삼성라이온즈파크에서 열린 2026 신한 SOL KBO 한국시리즈 4차전 KT 위즈 와 삼성 라이온즈의 경기.…",
+      "articleCount": 87,
+      "link": "https://www.kmib.co.kr/article/20261107500065"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "안성 공사현장 고소작업대서 추락한 50대",
       "sentence": "7일 오전 10시 24분께 경기도 안성시 원곡면의 한 반도체 장비 업체 공사현장에서 50대 근로자가 사망하는 ...",
-      "articleCount": 96,
+      "articleCount": 85,
       "link": "https://www.yna.co.kr/view/AKR20261107047000061"
     },
     {
@@ -376,23 +371,23 @@
       "name": "연예·문화",
       "phrase": "연평도 위문열차 공연 성사에 장병들에 귀기울일",
       "sentence": "이재명 대통령은 7일 해병대 연평부대에서 15년 만에 KFN TV 위문열차 공연이 성사된 것과 관련, \"나라를...",
-      "articleCount": 89,
+      "articleCount": 80,
       "link": "https://www.yna.co.kr/view/AKR20261107031300001"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "국토장관 수도권 주택공급 80%담당 민간 역할",
-      "sentence": "홍지선 국토교통부 장관은 \"수도권 주택공급의 80% 이상을 차지해온 민간 부문의 역할이 그 어느 때보다 중요한...",
-      "articleCount": 78,
-      "link": "https://www.yna.co.kr/view/AKR20261106106300003"
+      "phrase": "이 대통령이 놀라울 정도로 떨어진다 는",
+      "sentence": "이준헌 기자서울 강남3구(서초·강남·송파)에서 직전 거래보다 5% 이상 싼값에 팔린 아파트가 일주일 새 16건 나왔다.…",
+      "articleCount": 69,
+      "link": "https://www.khan.co.kr/article/202611070700021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=economy_news"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "우크라 에너지 시설 공격에 사용돼",
       "sentence": "볼로디미르 젤렌스키 우크라이나 대통령은 밤사이 자국 에너지 시설 등을 겨냥한 러시아의 공습에 북한 K...",
-      "articleCount": 68,
+      "articleCount": 62,
       "link": "https://www.yna.co.kr/view/AKR20261107054400099"
     },
     {
@@ -400,31 +395,31 @@
       "name": "수출·관세",
       "phrase": "공장 안 지으면 관세 300%",
       "sentence": "트럼프 미국 대통령이 \"미국에 공장을 짓지 않으면 관세가 최고 300%\"가 될 거라는 폭탄 발언을 내놨습니다.…",
-      "articleCount": 66,
+      "articleCount": 62,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834642"
-    },
-    {
-      "id": "price",
-      "name": "물가·고용",
-      "phrase": "임금 잠정합의안 부결",
-      "sentence": "포스코 노사의 올해 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결됐다.",
-      "articleCount": 54,
-      "link": "https://www.yna.co.kr/view/AKR20261107046300053"
     },
     {
       "id": "crypto",
       "name": "가상자산",
       "phrase": "가상자산 거래소 고팍스",
       "sentence": "가상자산 거래소 고팍스가 해킹 협박 이메일을 받고 이용자 자산 보호를 위해 가상자산 입출금과 매매 서비스를 중...",
-      "articleCount": 51,
+      "articleCount": 49,
       "link": "https://www.yna.co.kr/view/AKR20261106174751002"
+    },
+    {
+      "id": "price",
+      "name": "물가·고용",
+      "phrase": "임금 잠정합의안 부결",
+      "sentence": "포스코 노사의 올해 임금교섭 잠정 합의안이 조합원 찬반투표에서 부결됐다.",
+      "articleCount": 49,
+      "link": "https://www.yna.co.kr/view/AKR20261107046300053"
     },
     {
       "id": "game",
       "name": "게임",
       "phrase": "스팀 매출 1위 탈환",
       "sentence": "크래프톤은 대표작 ‘PUBG: 배틀그라운드’가 6일 기준 글로벌 게임 플랫폼 스팀(Steam) ‘최고 인기 게임’ 글로벌 순위에서 1위를 기록했다고 밝혔다.…",
-      "articleCount": 51,
+      "articleCount": 49,
       "link": "https://www.chosun.com/economy/tech_it/2026/11/06/GBTDOZJXMJSWMYJWMNQWIMLCMM/"
     },
     {
@@ -432,7 +427,7 @@
       "name": "유통·소비",
       "phrase": "쿠팡 허위 세금계산서 의혹 경찰로 이첩",
       "sentence": "문재원 기자중대범죄수사청(중수청)이 쿠팡의 ‘허위 세금계산서 발급 의혹’ 사건을 경찰로 넘겼다.서울중수청 경제범죄수사국은 5일 국세청이 한국 쿠팡 본사와 물류 자…",
-      "articleCount": 45,
+      "articleCount": 39,
       "link": "https://www.khan.co.kr/article/202611061801011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
     },
     {
@@ -440,7 +435,7 @@
       "name": "우주·과학",
       "phrase": "태권도 유네스코 단독 등재 유력",
       "sentence": "국기(國技) 태권도가 유네스코 인류무형문화유산에 '북한의 전통 무술'로 등재되는 게 사실상 확정되면서 우리나라의 종주국 위상에 미칠 영향 등에 대한 우려가 나오고…",
-      "articleCount": 35,
+      "articleCount": 32,
       "link": "https://www.kmib.co.kr/article/20261107500063"
     },
     {
@@ -448,7 +443,7 @@
       "name": "금리",
       "phrase": "3년3개월만에 기준금리 4%로 인상",
       "sentence": "영국, 3년3개월만에 기준금리 4%로 인상…“마지막 인상 아닐 것”",
-      "articleCount": 28,
+      "articleCount": 25,
       "link": "https://www.hani.co.kr/arti/international/globaleconomy/1286033.html"
     },
     {
@@ -456,7 +451,7 @@
       "name": "노동",
       "phrase": "양대노총 특구법 철회 ·국힘 특검법 규탄",
       "sentence": "주말인 7일 서울 도심 곳곳에서 양대 노총의 전국노동자대회와 국민의힘의 '조작기소 특검법' 규탄 집회 ...",
-      "articleCount": 27,
+      "articleCount": 25,
       "link": "https://www.yna.co.kr/view/AKR20261107039200004"
     },
     {
@@ -464,7 +459,7 @@
       "name": "환경·기후",
       "phrase": "폭염 35도 넘기면 자살 위험 가장 높다",
       "sentence": "폭염 35도 넘기면 자살 위험 가장 높다…‘수면 질 저하’가 원인",
-      "articleCount": 24,
+      "articleCount": 17,
       "link": "https://www.hani.co.kr/arti/science/science_general/1285750.html"
     },
     {
@@ -571,31 +566,7 @@
     }
   ],
   "lottery": {
-    "lotto": {
-      "round": 1249,
-      "drawDate": "2026-11-07",
-      "numbers": [
-        2,
-        11,
-        16,
-        25,
-        34,
-        35
-      ],
-      "bonus": 14,
-      "firstPrizeWinners": 14,
-      "firstPrizeAmount": 2025045509,
-      "link": "https://www.dhlottery.co.kr/lt645/result"
-    },
-    "pension": {
-      "round": 340,
-      "drawDate": "2026-11-05",
-      "group": "4",
-      "number": "194892",
-      "bonus": "288615",
-      "firstPrizeWinners": 2,
-      "firstPrizeAmount": 1680000000,
-      "link": "https://www.dhlottery.co.kr/pt720/result"
-    }
+    "lotto": null,
+    "pension": null
   }
 }
