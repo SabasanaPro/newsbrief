@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:34:54+09:00",
+  "generatedAt": "2026-11-13T03:52:27+09:00",
   "categories": [
     {
       "id": "politics",
@@ -21,20 +21,6 @@
           ]
         },
         {
-          "title": "李, 16~19일 필리핀 아세안·中 APEC 참석",
-          "summary": "이재명 대통령이 16일부터 19일까지의 일정으로 순방길에 오른다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20261112/135011330/1",
-          "publishedAt": "2026-11-12T00:58:00+00:00",
-          "sourceCount": 5,
-          "otherSources": [
-            "경향신문",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
           "title": "김정은, 해군기지 건설 시찰…해군력 박차 이유는?",
           "summary": "김아영 기자와 함께 북한 관련 이야기 더 나눠보겠습니다.김아영 기자, 김정은 총비서가 해군기지 건설 현장을 둘러봤다고요? 조선중앙통신은 김정은 …",
           "source": "SBS",
@@ -44,6 +30,20 @@
           "otherSources": [
             "동아일보",
             "매일경제",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "李 “국내 자본시장 여전히 저평가…매력적 투자 대상”",
+          "summary": "이재명 대통령은 12일 “국내 자본시장은 여전히 저평가된 매력적인 투자 대상”이라며 “단기 변화에 일희일비하지 않고 우리 자본시장이 제대로 평가받는 환경을 조성하는 데 보다 집중해야 되겠다”고 말했다.이 대통령은 이날 청와대에서 주재한 수석보좌관회의 모두발언에서 “최근 대외 환경의 불안정 등으로 국내 시장도 많은 영향을 받고 있다“며 ”그러나 거시경제의 기초 체력과 기업들의 경쟁력을 놓고 보면, 국내 자본시장은 여전히 저평가된 매력적인 투자 대상”이라고 강조했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Politics/article/all/20261112/135014608/2",
+          "publishedAt": "2026-11-12T06:31:00+00:00",
+          "sourceCount": 5,
+          "otherSources": [
+            "SBS",
+            "연합뉴스",
+            "조선일보",
             "한겨레"
           ]
         }
@@ -190,17 +190,6 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "네이버는 왜 2030년까지 1조원 들여 물류 자회사를 세울까",
-          "summary": "네이버가 물류 전문 자회사를 설립하고 2030년까지 약 1조원을 투입해 데이터 기반 배송 인프라 구축에 나선다.…",
-          "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=678428",
-          "publishedAt": "2026-11-12T16:21:45+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "아이뉴스24"
-          ]
-        },
-        {
           "title": "SK하이닉스, AI 병목 해법으로 '공유 메모리' 제시...\"인텔과 설계 협력\"",
           "summary": "SK하이닉스가 에이전틱 AI 확산에 따른 메모리 병목을 해소하기 위해 여러 연산 서버가 대용량 메모리를 공유하는 시스템 구조를 제시했다.…",
           "source": "테크M",
@@ -220,6 +209,17 @@
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "아이티센엔텍, 3분기 누적 영업익 276억원…지난해 연간 실적 추월",
+          "summary": "[지디넷코리아]아이티센엔텍(대표 신장호)이 올해 3분기까지 276억원의 영업이익을 기록하며 지난해 연간 실적을 넘어섰다.…",
+          "source": "ZDNet코리아",
+          "link": "https://zdnet.co.kr/view/?no=20261112172944",
+          "publishedAt": "2026-11-12T08:30:04+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "아이뉴스24"
           ]
         }
       ]
@@ -250,11 +250,11 @@
           "otherSources": []
         },
         {
-          "title": "이더리움 ETF 7주째 순유출 外",
-          "summary": "미국 현물 이더리움 ETF에서 7개 거래주 동안 23억4840만달러가 순유출됐다.…",
+          "title": "7억5100만달러 청산…가상자산 선물 롱 84.6%",
+          "summary": "가상자산 선물시장에서 최근 24시간 동안 7억5100만달러(약 1조41억원) 규모의 청산이 발생했다. 롱 포지션 청산액이 전체의 84.6%를 차지했다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/briefing/437211",
-          "publishedAt": "2026-11-12T15:04:54+00:00",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/437280",
+          "publishedAt": "2026-11-12T17:39:54+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -334,7 +334,7 @@
       "name": "반도체",
       "phrase": "메가프로젝트 첫 삽",
       "sentence": "반도체와 인공지능 분야의 대규모 투자 계획인 메가프로젝트가 첫 삽을 떴습니다.",
-      "articleCount": 183,
+      "articleCount": 182,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843695"
     },
     {
@@ -342,7 +342,7 @@
       "name": "스포츠",
       "phrase": "LA 올림픽 최종예선서 북한·중국·필리핀과 B조",
       "sentence": "한국 여자 축구 대표팀이 2028 로스앤젤레스(LA) 올림픽 최종예선에서 남북 대결을 벌이게 됐다.",
-      "articleCount": 157,
+      "articleCount": 156,
       "link": "https://www.yna.co.kr/view/AKR20261112155351007"
     },
     {
@@ -366,7 +366,7 @@
       "name": "증시",
       "phrase": "젠슨 황 엔비디아 CEO 사임 속 혼조 출발",
       "sentence": "(서울=연합뉴스) 윤정원 연합인포맥스 기자 = 뉴욕증시의 3대 주가지수는 젠슨 황 엔비디아 최고경영자(CEO) 사임 소식을 소화하며 혼조세로 출...",
-      "articleCount": 138,
+      "articleCount": 135,
       "link": "https://www.yna.co.kr/view/AKR20261112187200009"
     },
     {
@@ -458,14 +458,6 @@
       "link": "https://www.kmib.co.kr/article/20261112502087"
     },
     {
-      "id": "crypto",
-      "name": "가상자산",
-      "phrase": "해킹의심 때 가상자산거래소 입출금 선제 차단",
-      "sentence": "앞으로 가상자산거래소는 해킹·침해사고가 의심될 경우 선제적으로 입출금을 차단해 투자자 피해를 막을 수 있다.",
-      "articleCount": 43,
-      "link": "https://www.yna.co.kr/view/AKR20261112141700002"
-    },
-    {
       "id": "labor",
       "name": "노동",
       "phrase": "주거난 분노한 스페인 노동자들",
@@ -474,20 +466,28 @@
       "link": "https://www.khan.co.kr/article/202611112156001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
     },
     {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "서남권 첨단산업에 풍력발전",
-      "sentence": "포스코이앤씨가 이달 ‘고창 해상풍력 프로젝트’를 착공한다고 12일 밝혔다.…",
-      "articleCount": 23,
-      "link": "https://www.kmib.co.kr/article/20261112502145"
+      "id": "crypto",
+      "name": "가상자산",
+      "phrase": "해킹의심 때 가상자산거래소 입출금 선제 차단",
+      "sentence": "앞으로 가상자산거래소는 해킹·침해사고가 의심될 경우 선제적으로 입출금을 차단해 투자자 피해를 막을 수 있다.",
+      "articleCount": 40,
+      "link": "https://www.yna.co.kr/view/AKR20261112141700002"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "李대통령 국내 자본시장 여전히 저평가",
       "sentence": "이재명 대통령은 12일 \"최근 대외환경 불안정 등으로 국내 시장이 많은 영향을 받고 있으나, 거시경제 ...",
-      "articleCount": 21,
+      "articleCount": 23,
       "link": "https://www.yna.co.kr/view/AKR20261112134000001"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "서남권 첨단산업에 풍력발전",
+      "sentence": "포스코이앤씨가 이달 ‘고창 해상풍력 프로젝트’를 착공한다고 12일 밝혔다.…",
+      "articleCount": 23,
+      "link": "https://www.kmib.co.kr/article/20261112502145"
     }
   ],
   "topicCatalog": [
