@@ -1,48 +1,46 @@
 {
-  "generatedAt": "2026-11-16T11:22:38+09:00",
+  "generatedAt": "2026-11-17T05:39:55+09:00",
   "categories": [
     {
       "id": "politics",
       "name": "정치",
       "items": [
         {
-          "title": "韓총리 \"수능 부정행위 철저 대비…범정부 대응팀 구성\"",
-          "summary": "한성숙 국무총리는 16일 AI(인공지능) 첨단기술을 활용한 시험 부정행위 우려가 커지는 가운데 \"정부는 수능 ...",
+          "title": "李대통령, 법무장관·국세청장 후보자 인사청문요청안 재가",
+          "summary": "필리핀을 방문 중인 이재명 대통령은 16일(현지시간) 이용철 법무부 장관 후보자와 안덕수 국세청장 후...",
           "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261116029400001",
-          "publishedAt": "2026-11-16T00:15:37+00:00",
-          "sourceCount": 5,
+          "link": "https://www.yna.co.kr/view/AKR20261116145951001",
+          "publishedAt": "2026-11-16T07:45:40+00:00",
+          "sourceCount": 4,
           "otherSources": [
             "SBS",
-            "경향신문",
             "동아일보",
             "한겨레"
           ]
         },
         {
-          "title": "김민석, ‘최민희 감찰’ 3일만에 징계 절차… 조사 결과 보고받고 黨윤리심판원에 이첩",
-          "summary": "더불어민주당 김민석 대표가 15일 최민희 최고위원에 대한 윤리감찰단의 감찰 조사 결과를 보고받고, 당 윤리심판원으로 이첩을 지시했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Politics/article/all/20261116/135028781/2",
-          "publishedAt": "2026-11-15T19:30:00+00:00",
-          "sourceCount": 5,
+          "title": "정부, 수능 스마트기기 반납·공공 와이파이 차단 추진",
+          "summary": "인공지능 첨단기술을 활용한 부정행위 우려가 커지는 가운데 정부가 오는 19일 대학수학능력시험 시험장에서의 모든 종류 스마트기기 반납과 공공 와이…",
+          "source": "SBS",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847928",
+          "publishedAt": "2026-11-16T07:04:00+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "SBS",
+            "경향신문",
             "연합뉴스",
-            "조선일보",
             "한겨레"
           ]
         },
         {
-          "title": "헌법개정자문위원장에 김형오·정세균…조정식 “대통령 연임 개헌 문제 종결”",
-          "summary": "연합뉴스조정식 국회의장은 헌법개정자문위원회 공동위원장에 김형오·정세균 전 국회의장을 위촉한다고 16일 발표했다.조 의장은 이날 국회에서 기자회견을 열고 “헌법 개정의 첫 단추를 끼울 국회의장 직속 헌법개정자문위원회를 이끌어주실 두 분의 공동위원장을 발표한다”며 이같이···…",
+          "title": "이 대통령, 아세안에 “AI·문화 이니셔티브” 제안",
+          "summary": "왼쪽부터 한 윈 아웅 미얀마 아세안 담당 국장, 안와르 이브라힘 말레이시아 총리, 아누틴 찬위라꾼 태국 총리, 샤나나 구스망 동티모르 총리, ···…",
           "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202611161045011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
-          "publishedAt": "2026-11-16T01:45:01+00:00",
+          "link": "https://www.khan.co.kr/article/202611162109025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=politic_news",
+          "publishedAt": "2026-11-16T12:09:02+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "연합뉴스",
-            "한겨레"
+            "SBS",
+            "연합뉴스"
           ]
         }
       ]
@@ -52,42 +50,43 @@
       "name": "경제",
       "items": [
         {
-          "title": "금융위, 금융보안원 침해사고에 유감 표명… 재발방지 대책 요청",
-          "summary": "금융위원회가 최근 발생한 금융보안원 침해사고에 대해 깊은 유감을 표명하고 철저한 사고 원인 조사와 재발방지 대책 마련을 주문했다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/economy/stock-finance/2026/11/16/GYZTQOBVMIYWGNBXGIZDGOLBMU/",
-          "publishedAt": "2026-11-16T00:49:45+00:00",
-          "sourceCount": 6,
+          "title": "‘롯데 3세’ 신유열 사장 승진… 그룹 경영전략 총괄한다",
+          "summary": "신동빈 롯데그룹 회장의 장남 신유열 롯데지주 미래성장실장 부사장(40)이 그룹 경영전략을 총괄하는 사장으로 승진했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Economy/article/all/20261116/135034778/2",
+          "publishedAt": "2026-11-16T15:30:00+00:00",
+          "sourceCount": 5,
           "otherSources": [
             "SBS",
-            "매일경제",
-            "아시아경제",
+            "머니투데이",
+            "조선일보",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "“주담대 금리 다시 들썩인다”…신규 코픽스 2년 8개월 만에 최고",
+          "summary": "10월 신규 취급액 기준 연 3.62%…두 달째 상승은행권 주택담보대출 변동금리 기준인 코픽스(COFIX·자금조달비용지수)가 일제히 올랐다. 16일 은행연합회에 따르면 10월 신규..",
+          "source": "매일경제",
+          "link": "https://www.mk.co.kr/news/economy/12209978",
+          "publishedAt": "2026-11-16T06:49:23+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "동아일보",
             "연합뉴스",
             "한겨레"
           ]
         },
         {
-          "title": "굽네치킨 오너家 '무상 이전' 의혹…공정위, 부당지원 조사",
-          "summary": "공정거래위원회가 치킨 프랜차이즈 '굽네치킨' 공동 창업주인 홍철호 전 대통령실 정무수석 일가의 부당지원 의혹과 관련해 현장조사에 착수한 것으로 알려졌다.…",
-          "source": "아시아경제",
-          "link": "https://view.asiae.co.kr/article/2026111607512756950",
-          "publishedAt": "2026-11-15T22:51:27+00:00",
-          "sourceCount": 3,
+          "title": "서울 평균 전셋값, 사상 첫 5억원 넘었다",
+          "summary": "지난달 서울 전체 주택의 평균 전셋값이 처음으로 5억원을 넘었다. 집값은 경기 지역 상승률이 서울을 앞질렀다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/economy/real_estate/2026/11/16/MUYDONRRME2TSMJQMI4DCZLEME/",
+          "publishedAt": "2026-11-16T08:28:20+00:00",
+          "sourceCount": 4,
           "otherSources": [
-            "경향신문",
-            "연합뉴스"
-          ]
-        },
-        {
-          "title": "LG전자 美테네시 공장 누적생산 1000만대 돌파",
-          "summary": "LG전자의 미국 테네시 공장이 가동 8년 만에 세탁가전 누적 생산 1000만 대를 넘어섰다. 미국 내 세탁기, 건조기 시장 점유율도 1위를 차지했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Economy/article/all/20261115/135027900/2",
-          "publishedAt": "2026-11-15T15:30:00+00:00",
-          "sourceCount": 3,
-          "otherSources": [
-            "경향신문",
-            "서울신문"
+            "SBS",
+            "연합뉴스",
+            "한겨레"
           ]
         }
       ]
@@ -97,45 +96,45 @@
       "name": "사회",
       "items": [
         {
-          "title": "대법, 19일 김건희 주가조작·한덕수 내란 사건 선고",
-          "summary": "연합뉴스 대법원이 김건희 여사의 3대 의혹(주가조작·공천개입·통일교 청탁) 사건과 한덕수 전 국무총리의 내란중요임무종사 사건을 오는 19일 선고하기로 결정했다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/20261116500156",
-          "publishedAt": "2026-11-16T01:13:06+00:00",
-          "sourceCount": 9,
+          "title": "“뉴진스 계약 해지 결정에 영향력”…민희진, 업무상 배임 혐의 송치",
+          "summary": "그룹 뉴진스의 소속사 어도어와의 전속계약 해지 과정에 관여한 의혹을 받는 민희진 전 어도어 대표가 업무상 배임 혐의로 공소청에 넘겨졌다.…",
+          "source": "서울신문",
+          "link": "https://www.seoul.co.kr/news/newsView.php?id=20261116500310",
+          "publishedAt": "2026-11-16T08:16:36+00:00",
+          "sourceCount": 6,
           "otherSources": [
-            "경향신문",
+            "SBS",
             "노컷뉴스",
-            "동아일보",
             "매일경제",
-            "서울신문",
-            "연합뉴스"
+            "연합뉴스",
+            "조선일보"
           ]
         },
         {
-          "title": "사진기자협회, “하이에나 떼들” 최민희 경찰 고소…모욕죄 성립 주장",
-          "summary": "한국사진기자협회가 국회에서 취재 중인 사진·영상 기자들을 향해 ‘하이에나 떼들’이라고 표현한 최민희 더불어민주당 최고위원을 경찰에 고소했다. 협회는 16일 오전 서울 영등포경찰서에..",
-          "source": "매일경제",
-          "link": "https://www.mk.co.kr/news/society/12209779",
-          "publishedAt": "2026-11-16T02:15:30+00:00",
+          "title": "성범죄 피의자 추격 중 경찰관 6명 부상…차량에 실탄 쏴 검거",
+          "summary": "경기 양주시에서 성범죄 혐의로 경찰이 잠복해 검거하려던 20대 남성이 차를 몰고 달아나 추격하는 과정에서 경찰...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261116167700060",
+          "publishedAt": "2026-11-16T09:39:08+00:00",
           "sourceCount": 5,
           "otherSources": [
+            "SBS",
             "경향신문",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
+            "국민일보",
+            "노컷뉴스"
           ]
         },
         {
-          "title": "부산서 모르는 10대 여성에 흉기 휘두른 20대 체포",
-          "summary": "경찰 마크.부산에서 20대 남성이 길거리에서 모르는 사이인 10대 여성에게 흉기를 휘둘러 경찰에 붙잡혔다.15일 부산 금정경찰서에 따르면 지난 13일 오후 4시33분쯤 금정구 도시철도 1호선 구서역 인근 길거리에서 20대 남성 A씨가 10대 여성 B양에게 흉기를 휘둘렀다.B양은 다행히 두꺼운 옷으로 인해 큰 상처는 입지 않은 것으로 전해졌다.…",
-          "source": "경향신문",
-          "link": "https://www.khan.co.kr/article/202611152143001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news",
-          "publishedAt": "2026-11-15T12:43:00+00:00",
-          "sourceCount": 4,
+          "title": "대법 \"구속만기 등 고려\"…19일 한덕수·김건희 선고",
+          "summary": "대법원이 한덕수 전 국무총리의 내란 중요임무종사 사건에 대한 선고를 구속기간 만료 하루 전에 진행하기로 한 배경에 대해서 구속기간 만기와 관련 사건의 진행 경과 등을 종합적으로 고려했다고 설명했다.…",
+          "source": "노컷뉴스",
+          "link": "https://www.nocutnews.co.kr/news/6607399",
+          "publishedAt": "2026-11-16T14:02:03+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "노컷뉴스",
-            "동아일보",
+            "SBS",
+            "매일경제",
+            "연합뉴스",
             "조선일보"
           ]
         }
@@ -146,40 +145,40 @@
       "name": "국제",
       "items": [
         {
-          "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중\"",
-          "summary": "젠슨 황 전 엔비디아 최고경영자가 물러난 지 나흘 만에 다시 복귀를 노리고 있다는 소식이 전해졌습니다.영국 일간 파이낸셜타임스는 여러 소식통을 …",
+          "title": "트럼프 \"중국서 김정은 만날 수도…시진핑에 달려\"",
+          "summary": "아세안 정상회의와 중국 선전 APEC 정상 참석을 위해 아시아 순방길에 오르는 도널드 트럼프 미국 대통령이 \"중국에서 김정은 북한 국무위…",
           "source": "SBS",
-          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846970",
-          "publishedAt": "2026-11-16T01:28:00+00:00",
-          "sourceCount": 4,
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848717",
+          "publishedAt": "2026-11-16T15:42:00+00:00",
+          "sourceCount": 5,
           "otherSources": [
-            "경향신문",
+            "동아일보",
+            "매일경제",
             "연합뉴스",
             "조선일보"
           ]
         },
         {
-          "title": "중국도 시진핑·트럼프·푸틴 19일 선전 정상회담 공식 발표",
-          "summary": "중국 정부가 오는 19일 광둥성 선전에서 시진핑 국가주석, 도널드 트럼프 미국 대통령, 블라디미르 푸틴 러...",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261116052351083",
-          "publishedAt": "2026-11-16T01:59:54+00:00",
+          "title": "“트럼프, 엔비디아 주식 최대 830억원 보유…中 수출 허용 전부터 매입\"",
+          "summary": "엔비디아의 중국 수출을 허용하는 등 젠슨 황 전 최고경영자(CEO)에게 우호적인 태도를 보여온 도널드 트럼프 미국 대통령이 최대 830억원에 달하는 엔비디아 주식을 보유한 것으로 나타났다.…",
+          "source": "조선일보",
+          "link": "https://www.chosun.com/international/international_general/2026/11/17/MI4GCNBVMNQWIZRSMZTGCMJWMQ/",
+          "publishedAt": "2026-11-16T16:41:00+00:00",
           "sourceCount": 3,
           "otherSources": [
-            "경향신문",
-            "조선일보"
+            "SBS",
+            "연합뉴스"
           ]
         },
         {
-          "title": "美 항공대란 이틀 만에 입 연 트럼프 “바이든 탓”",
-          "summary": "도널드 트럼프 미국 대통령이 미 전역의 항공기 이륙이 중단된 사태가 발생한 지 이틀 만에 처음 입장을 내고 전임 조 바이든 행정부에 책임을 돌렸다.…",
-          "source": "조선일보",
-          "link": "https://www.chosun.com/international/international_general/2026/11/16/MY3DKYTCGBQTAMRWGFTDQZJUMM/",
-          "publishedAt": "2026-11-15T15:59:27+00:00",
-          "sourceCount": 3,
+          "title": "이란 매체 \"이스파한서 방공망 가동\"…우라늄 농축시설 소재지",
+          "summary": "이란의 우라늄 농축 및 보관시설이 있는 중부 이스파한에서 방공망이 가동됐다고 반관영 메흐르 통신이 16일(...",
+          "source": "연합뉴스",
+          "link": "https://www.yna.co.kr/view/AKR20261117004700079",
+          "publishedAt": "2026-11-16T18:22:45+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "경향신문",
-            "연합뉴스"
+            "SBS"
           ]
         }
       ]
@@ -189,36 +188,36 @@
       "name": "IT·과학",
       "items": [
         {
-          "title": "'보안+AI' 쌍끌이…파수AI, 3분기 누적 영업익 흑자전환",
-          "summary": "파수AI가 데이터 보안 수요 증가와 인공지능(AI) 사업 확대에 힘입어 실적 반등을 이뤘다. 올해 3분기 영업이익은 전년 동기 대비 5배 가까이 증가했다.…",
+          "title": "대한전선, 싱가포르서 올해만 4118억 수주…초고압 1위 수성",
+          "summary": "대한전선이 싱가포르에서 대형 프로젝트를 잇달아 수주하며 초고압 전력망 시장 선두 자리를 굳히고 있다. 까다로운 기술 기준을 충족하며 쌓아온 사업 실적이 연이은 수주로 이어졌다.…",
           "source": "블로터",
-          "link": "https://www.bloter.net/news/articleView.html?idxno=678668",
-          "publishedAt": "2026-11-16T10:52:15+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "아이뉴스24"
-          ]
-        },
-        {
-          "title": "네이버, 사업자가 자체 발행·운영하는 상품권 솔루션 도입",
-          "summary": "네이버는 플레이스 사업자가 자체 상품권을 발행하고 운영할 수 있는 네이버페이 플레이스 상품권 솔루션을 도입한다고 16일 밝혔다.이는 플레이스 사업자 대상으로 상품권 발행부터 이용, 정산에 이르는 통합 솔루션을 제공",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2026531",
-          "publishedAt": "2026-11-16T02:12:07+00:00",
+          "link": "https://www.bloter.net/news/articleView.html?idxno=678736",
+          "publishedAt": "2026-11-16T17:07:04+00:00",
           "sourceCount": 2,
           "otherSources": [
             "연합뉴스"
           ]
         },
         {
-          "title": "아산에 무기발광 디스플레이 실증센터 착공…1461억원 투입",
-          "summary": "마이크로 발광다이오드(마이크로LED) 등 차세대 디스플레이의 기술 검증과 상용화를 지원하는 실증센터가 충남 아산에 들어선다.소재·부품·장비 기업은 이곳에서 화면을 구성하는 화소부터 패널, 모듈까지 제조 공정 전반의",
-          "source": "아이뉴스24",
-          "link": "https://www.inews24.com/view/2026505",
-          "publishedAt": "2026-11-16T01:52:33+00:00",
+          "title": "카카오뱅크, '애플페이' 도입...결제 선택권 확대",
+          "summary": "카카오뱅크가 애플페이 서비스를 도입하면서 더욱 간편한 결제 경험을 제공한다.…",
+          "source": "테크M",
+          "link": "https://www.techm.kr/news/articleView.html?idxno=157404",
+          "publishedAt": "2026-11-16T16:18:58+00:00",
           "sourceCount": 2,
           "otherSources": [
-            "연합뉴스"
+            "전자신문"
+          ]
+        },
+        {
+          "title": "스푼랩스 비글루, '2026 제2회 숏드라마 페스티벌' 개최",
+          "summary": "스푼랩스(대표 최혁재)는 숏드라마 플랫폼 '비글루(Vigloo)'에서 총상금 2만달러(약 3000만원) 규모의 숏드라마 IP 발굴 공모전 '2026 비글루 숏드라마 페스티벌 2'를 개최한다고 16일 밝혔다.이번 공모전은 비글루의 AI 숏드라마 제작",
+          "source": "아이뉴스24",
+          "link": "https://www.inews24.com/view/2026781",
+          "publishedAt": "2026-11-16T08:28:14+00:00",
+          "sourceCount": 2,
+          "otherSources": [
+            "테크M"
           ]
         }
       ]
@@ -228,29 +227,29 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "넥써쓰, '원'으로 사명 변경...AI·블록체인 게임 플랫폼 도약 본격화",
-          "summary": "넥써쓰가 사명을 '원(ONE)'으로 변경하고 원스토어 인수 이후 추진해온 브랜드 통합 작업을 마무리했다. 원은 AI와 블록체인을 결합한 글로벌 게임 플랫폼 사업에 본격적으로 나선다는 구상이다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=157371",
-          "publishedAt": "2026-11-16T09:39:48+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "비트코인 9000만원선 공방…美 ETF 자금 이탈에 투자심리 '꽁꽁'",
-          "summary": "비트코인이 주말 사이 6만2000달러선까지 추락한 뒤 반등했지만 국내 시장에서는 여전히 9000만원선을 밑돌고 있다.…",
-          "source": "테크M",
-          "link": "https://www.techm.kr/news/articleView.html?idxno=157370",
-          "publishedAt": "2026-11-16T09:27:54+00:00",
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
-          "title": "그라체프, 가상자산 '대규모 재평가'…자산군 분화 가능성 제시",
-          "summary": "안드레이 그라체프(Andrei Grachev) DWF 랩스(DWF Labs) 파트너가 가상자산 시장을 대규모 재평가 국면으로 진단했다.…",
+          "title": "코인베이스 3분기 거래 수익 44% 감소…거래량 6.6% 줄어",
+          "summary": "코인베이스($COIN)의 2026년 3분기 거래 수익은 전년 동기보다 44% 감소했다. 회사가 집계한 총거래량도 전 분기보다 6.6% 줄었다.…",
           "source": "토큰포스트",
-          "link": "https://www.tokenpost.kr/news/cryptocurrency/438818",
-          "publishedAt": "2026-11-16T02:19:01+00:00",
+          "link": "https://www.tokenpost.kr/news/market/439364",
+          "publishedAt": "2026-11-16T20:35:05+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
+          "title": "비트코인 선물 641억1000만달러, 현물의 4.8배",
+          "summary": "11월 14일 추적 거래소의 비트코인(BTC) 선물 거래대금은 641억1000만달러(약 85조6510억원)로 현물 거래대금의 약 4.8배였다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/439363",
+          "publishedAt": "2026-11-16T20:33:23+00:00",
+          "sourceCount": 1,
+          "otherSources": []
+        },
+        {
+          "title": "최적화 전 거래당 46달러…비트코인 ATR 돌파 실험",
+          "summary": "비트코인(BTC)의 5일 평균진폭범위(ATR)를 돌파 진입선에 적용한 최적화 전 모의 거래에서 거래당 평균 약 46달러(약 6만1,500원)가 제시됐다.…",
+          "source": "토큰포스트",
+          "link": "https://www.tokenpost.kr/news/cryptocurrency/439362",
+          "publishedAt": "2026-11-16T20:31:31+00:00",
           "sourceCount": 1,
           "otherSources": []
         }
@@ -261,37 +260,40 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "제45회 김수영문학상에 송혜근 시인",
-          "summary": "제45회 김수영문학상에 송혜근(25) 시인이 선정됐다고 민음사가 16일 밝혔다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261116032100005",
-          "publishedAt": "2026-11-16T00:14:04+00:00",
+          "title": "제니, ‘드라큘라’로 그래미 본상 ‘올해의 레코드’ 등 2개 부문 후보",
+          "summary": "AP연합뉴스그룹 블랙핑크의 제니가 미국 대중음악 시상식인 제69회 ‘그래미 어워즈’(Grammy Awards·이하 그래미)에서 본상에 해당하는 ‘올해의 레코드’를 포함해 2개 부문 후보에 올랐다.제니는 16···…",
+          "source": "경향신문",
+          "link": "https://www.khan.co.kr/article/202611162253001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=culture_news",
+          "publishedAt": "2026-11-16T13:53:00+00:00",
+          "sourceCount": 4,
+          "otherSources": [
+            "SBS",
+            "연합뉴스",
+            "한겨레"
+          ]
+        },
+        {
+          "title": "NCCK 신임 회장에 김장환 대한성공회 주교",
+          "summary": "한국기독교교회협의회(NCCK)는 16일 서울 중구 대한성공회 서울주교좌성당에서 정기총회를 열고 김장환 대한성공회 서울교구장을 신임 회장으로 선임했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Culture/article/all/20261116/135035015/1",
+          "publishedAt": "2026-11-16T10:55:00+00:00",
           "sourceCount": 3,
           "otherSources": [
             "경향신문",
-            "한겨레"
-          ]
-        },
-        {
-          "title": "잉글랜드, 세계챔피언 스페인 3-2 제압…43경기 무패행진도 끝내",
-          "summary": "'축구 종가' 잉글랜드가 월드컵 우승국인 '무적함대' 스페인의 무패 행진을 43경기로 멈춰 세웠다.",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261116013751007",
-          "publishedAt": "2026-11-16T00:08:22+00:00",
-          "sourceCount": 2,
-          "otherSources": [
-            "한겨레"
-          ]
-        },
-        {
-          "title": "피겨 김유재, ISU 그랑프리 4차 대회 4위…3위와 7.35점 차",
-          "summary": "한국 피겨스케이팅 여자 싱글 김유재(수리고)가 2026-27 국제빙상경기연맹(ISU) 피겨 시니어 그랑프리 4차 대회에서 7.35점 차이로 입상에 실패했다.김유재는 16일(이하 한국시간) 미국 워싱턴에서 열린 대회 여자 싱글 프리스케이팅에서 기술 점수(TES) 67.23점, 예술 점수(PCS) 63.13점을 받아 총 130.36점을 획득했다.쇼트 프로그램에서 73.92점을 받았던 김유재는 최종 합계 204.28점으로 4위에 올랐다.김유재는 쇼트 프로그램에서 ‘트리플 악셀’을 성공, 3위를 차지했지만 프리스케이팅에서 주춤하며 시상대에 서지 못했다.…",
-          "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20261116/135030405/1",
-          "publishedAt": "2026-11-16T01:25:35+00:00",
-          "sourceCount": 2,
-          "otherSources": [
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "김은중 감독 “늦은 올림픽 준비, 더 철저하게…우리만의 색깔 입힐 것”",
+          "summary": "2028 로스앤젤레스(LA) 올림픽을 준비하는 김은중 21세 이하(U21) 축구대표팀 감독이 “늦은 만큼 더 철저히 담금질해서 우리만의 색깔을 입히겠다”고 포부를 밝혔다.김은중 감독은 16일 천안 코리아풋볼파크 스타디움 2층 회의실에서 진행한 기자회견에서 17일 열리는 멕시코와의 평가전을 포함한 LA 올림픽 준비 상황을 설명했다.그는 “올림픽 출전권을 놓고 경쟁해야 하는 우즈베키스탄, 일본, 사우디아라비아는 2년 전부터 수많은 대회를 치르는 등 올림픽을 준비해 왔다”며 “(상대적으로 늦게 출발하는) 우리도 하고자 하는 확고한 방향성을 갖고 준비한다면, LA 올림픽 진출권을 딸 수 있다”고 자신감을 나타냈다.김 감독은 지난 2021년 열렸던 2020 도쿄 올림픽에서 김학범 감독을 보좌하는 코치로 ‘올림픽 축구’를 경험했다.…",
+          "source": "동아일보",
+          "link": "https://www.donga.com/news/Sports/article/all/20261116/135032270/1",
+          "publishedAt": "2026-11-16T06:09:23+00:00",
+          "sourceCount": 3,
+          "otherSources": [
+            "연합뉴스",
+            "조선일보"
           ]
         }
       ]
@@ -301,186 +303,186 @@
     {
       "id": "ai",
       "name": "AI·인공지능",
-      "phrase": "엔비디아 CEO 복귀 논의 중",
-      "sentence": "젠슨 황 전 엔비디아 최고경영자(CEO)가 물러난 지 불과 나흘 만에 다시 복귀를 노리고 있는 것으로...",
+      "phrase": "대형 AI데이터센터 구축 맞손",
+      "sentence": "SK텔레콤 제공 SK텔레콤이 효성중공업과 함께 기가와트(GW)급 인공지능(AI) 데이터센터 구축을 위한 전력 인프라 확보에 나섰다.…",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261116003200075"
+      "link": "https://www.kmib.co.kr/article/20261116501891"
     },
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "경찰 복귀 이종원 靑국민안전비서관",
-      "sentence": "이종원 초대 청와대 국민안전비서관이 경찰 복귀와 함께 최고 지휘부인 치안정감으로 승진한다.",
+      "phrase": "트럼프 중국서 김정은 만날 수도",
+      "sentence": "도널드 트럼프 미국 대통령은 16일(현지시간) 오는 18∼19일 중국 선전에서 열리는 아시아태평양경제협력체...",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261116039451004"
+      "link": "https://www.yna.co.kr/view/AKR20261116181651071"
     },
     {
       "id": "world",
       "name": "국제정세",
-      "phrase": "중국어선 2척 나포",
-      "sentence": "충남 태안해양경찰서는 서격렬비도 남서방 약 94km 해상에서 허가 없이 조업한 혐의(경제수역어업주권법 위반)로 중국어선 2척을 나포했다고 16일 밝혔다.…",
+      "phrase": "주말새 상황 급변했나⋯ 트럼프 중국서 김정은",
+      "sentence": "오는 18∼19일 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의에 참석하는 도널드 트럼프 미국 대통령이 김정은 북한 국무위원장과 만날 수 있다고…",
       "articleCount": 250,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261116500107"
+      "link": "https://www.kmib.co.kr/article/20261117500032"
     },
     {
       "id": "education",
       "name": "교육",
-      "phrase": "韓총리 수능 부정행위 철저 대비",
-      "sentence": "한성숙 국무총리는 16일 AI(인공지능) 첨단기술을 활용한 시험 부정행위 우려가 커지는 가운데 \"정부는 수능 ...",
-      "articleCount": 199,
-      "link": "https://www.yna.co.kr/view/AKR20261116029400001"
+      "phrase": "수능 스마트기기 반납·공공 와이파이 차단 추진",
+      "sentence": "AI(인공지능) 첨단기술을 활용한 부정행위 우려가 커지는 가운데 정부가 오는 19일 대학수학능력시험 시험장에서...",
+      "articleCount": 250,
+      "link": "https://www.yna.co.kr/view/AKR20261116029451001"
     },
     {
       "id": "sports",
       "name": "스포츠",
-      "phrase": "세계챔피언 스페인 3-2 제압",
-      "sentence": "'축구 종가' 잉글랜드가 월드컵 우승국인 '무적함대' 스페인의 무패 행진을 43경기로 멈춰 세웠다.",
-      "articleCount": 156,
-      "link": "https://www.yna.co.kr/view/AKR20261116013751007"
+      "phrase": "전주·서울 올림픽 공동 개최 무산",
+      "sentence": "전북 전주와 서울의 2036 하계올림픽 공동 개최가 무산됐다.",
+      "articleCount": 191,
+      "link": "https://www.yna.co.kr/view/AKR20261116137851055"
     },
     {
       "id": "industry",
       "name": "산업·기업",
-      "phrase": "이틀만에 美항공사태 입 연 트럼프",
-      "sentence": "도널드 트럼프 미국 대통령이 미 전역에서 발생한 항공교통 전면 중단 사태가 발생한 지 이틀만인 15일(현지...",
-      "articleCount": 142,
-      "link": "https://www.yna.co.kr/view/AKR20261115056600071"
+      "phrase": "롯데 3세 신유열 사장 승진",
+      "sentence": "신동빈 롯데그룹 회장의 장남 신유열 롯데지주 미래성장실장 부사장(40)이 그룹 경영전략을 총괄하는 사장으로 승진했다.…",
+      "articleCount": 160,
+      "link": "https://www.donga.com/news/Economy/article/all/20261116/135034778/2"
     },
     {
       "id": "semiconductor",
       "name": "반도체",
-      "phrase": "AI 운영비 90% 절감",
-      "sentence": "LG유플러스가 지난 12일 ‘인공지능(AI) 토큰 최적화 스터디’를 열고, 내년부터 기업의 토큰(AI가 업무를 수행하는 데 드는 데이터 단위) 비용 부담을 낮추는…",
-      "articleCount": 122,
-      "link": "https://www.seoul.co.kr/news/newsView.php?id=20261116031003"
-    },
-    {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "19일 김건희 주가조작·한덕수 내란 사건 선고",
-      "sentence": "연합뉴스 대법원이 김건희 여사의 3대 의혹(주가조작·공천개입·통일교 청탁) 사건과 한덕수 전 국무총리의 내란중요임무종사 사건을 오는 19일 선고하기로 결정했다.…",
-      "articleCount": 119,
-      "link": "https://www.kmib.co.kr/article/20261116500156"
+      "phrase": "AI반도체 中원격접속 차단",
+      "sentence": "미국 정부가 엔비디아를 비롯한 첨단 인공지능(AI) 반도체에 대한 중국의 원격 접속을 통제하기로 했다...",
+      "articleCount": 139,
+      "link": "https://www.yna.co.kr/view/AKR20261117004100091"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
-      "phrase": "BTS 공연 때처럼 숙박 예약 일방 취소 안된다",
-      "sentence": "앞으로 대규모 행사를 앞두고 가격 인상을 목적으로 숙박업소가 기존 예약을 일방적으로 취소하면 계약금과 함께 총...",
-      "articleCount": 102,
-      "link": "https://www.yna.co.kr/view/AKR20261116050000002"
+      "phrase": "대구 수성못에 1000석 규모 수상공연장 건립",
+      "sentence": "대구시 제공 대구시와 수성구가 수성못 수상공연장(조감도) 건립에 힘을 모으기로 했다.…",
+      "articleCount": 113,
+      "link": "https://www.kmib.co.kr/article/20261116501815"
+    },
+    {
+      "id": "stock",
+      "name": "증시",
+      "phrase": "한덕수 19일 선고⋯ 계엄은 내란인가 대법 첫",
+      "sentence": "내란 가담 혐의로 기소된 한덕수 전 국무총리의 상고심 선고가 오는 19일 이뤄진다.",
+      "articleCount": 110,
+      "link": "https://www.kmib.co.kr/article/20261116501838"
     },
     {
       "id": "realestate",
       "name": "부동산",
-      "phrase": "지난달 전월세 물가 1.4%↑",
-      "sentence": "지난달 소비자물가 조사 중에 전월세가 1년 전보다 1.4% 올라서 3년 10개월 만에 가장 큰 폭으로 뛰었습니다.지역별 전월세 상승률은 울산이 …",
-      "articleCount": 99,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846774"
+      "phrase": "서울 집값 상승폭 석달째 둔화",
+      "sentence": "지난달 서울 집값 상승폭이 3개월 연속 둔화한 가운데 경기 지역의 집값 상승률이 서울을 앞질렀다.",
+      "articleCount": 107,
+      "link": "https://www.yna.co.kr/view/AKR20261116074451003"
     },
     {
       "id": "trade",
       "name": "수출·관세",
-      "phrase": "李대통령 한-아세안 FTA 개선",
-      "sentence": "이재명 대통령은 16일 아세안(ASEAN·동남아시아국가연합) 정상회의 참석을 앞두고 한국과 아세안 간의 긴밀한...",
-      "articleCount": 84,
-      "link": "https://www.yna.co.kr/view/AKR20261116005700001"
-    },
-    {
-      "id": "oil",
-      "name": "유가·에너지",
-      "phrase": "美 주피터파워와 수조원대 ESS용 LFP",
-      "sentence": "삼성SDI가 미국에서 수조 원대 에너지저장장치(ESS)용 리튬인산철(LFP) 배터리 공급 계약을 따냈다.…",
-      "articleCount": 76,
-      "link": "https://www.donga.com/news/Economy/article/all/20261116/135030718/1"
+      "phrase": "한국 포도 수출 1억달러 돌파",
+      "sentence": "한국 포도 수출액이 신선 농산물 단일 품목으로는 처음으로 1억달러를 넘어섰다.",
+      "articleCount": 90,
+      "link": "https://www.yna.co.kr/view/AKR20261116155900030"
     },
     {
       "id": "health",
       "name": "건강·의료",
-      "phrase": "경주 관상용 거위 사육시설서 고병원성 AI 확진",
-      "sentence": "경북 경주시가 지역의 한 관상용 거위 사육시설에서 고병원성 조류인플루엔자(AI) 확진 판정이 나와 긴급 방역에...",
-      "articleCount": 71,
-      "link": "https://www.yna.co.kr/view/AKR20261116067500053"
+      "phrase": "법원 무면허 음주운전 집유 의사 면허취소 정당",
+      "sentence": "무면허 음주 운전 등 의료 행위와 무관한 범죄로 금고 이상의 형을 받은 의사의 면허를 취소한 것은 정당하다는 법원 판결이 나왔다.…",
+      "articleCount": 87,
+      "link": "https://www.donga.com/news/Society/article/all/20261117/135035503/2"
+    },
+    {
+      "id": "oil",
+      "name": "유가·에너지",
+      "phrase": "美서 수조원대 ESS 배터리 수주",
+      "sentence": "삼성 SDI 의 LFP 배터리가 탑재된 ESS 솔루션 ‘SBB’ .",
+      "articleCount": 75,
+      "link": "https://www.kmib.co.kr/article/20261116501847"
     },
     {
       "id": "price",
       "name": "물가·고용",
-      "phrase": "지난달 전월세 물가 1.4%↑",
-      "sentence": "지난달 소비자물가 조사 중에 전월세가 1년 전보다 1.4% 올라서 3년 10개월 만에 가장 큰 폭으로 뛰었습니다.지역별 전월세 상승률은 울산이 …",
-      "articleCount": 65,
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846774"
-    },
-    {
-      "id": "telecom",
-      "name": "통신",
-      "phrase": "SKT·효성중공업 손잡았다",
-      "sentence": "SK텔레콤[017670]이 효성중공업[298040]과 손잡고 기가와트(GW)급 인공지능(AI) 데이터센터 구축...",
-      "articleCount": 51,
-      "link": "https://www.yna.co.kr/view/AKR20261116040300017"
+      "phrase": "KDI 반도체 생산성 8.5% 늘 때 그 외",
+      "sentence": "최근 4년간 반도체 제조업의 생산성이 연평균 8% 넘게 증가한 반면, 비반도체 부문은 오히려 감소하면서 산업 ...",
+      "articleCount": 64,
+      "link": "https://www.yna.co.kr/view/AKR20261116075000002"
     },
     {
       "id": "rate",
       "name": "금리",
-      "phrase": "전월세 물가 3년10개월 만에 최대폭↑",
-      "sentence": "국민일보DB 전세보증금과 월세에 대출 이자까지 오르면서 세입자들의 주거비 부담이 커지고 있다.…",
-      "articleCount": 49,
-      "link": "https://www.kmib.co.kr/article/20261115501358"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "개발자 교류 행사 KDC WEEK 2026 개최",
-      "sentence": "개발자 교류 행사 ‘KDC WEEK 2026’ 이미지.",
-      "articleCount": 47,
-      "link": "https://www.kmib.co.kr/article/20261116500242"
+      "phrase": "주담대 금리 더 오른다",
+      "sentence": "지난달 은행권 주택담보대출 변동금리 기준인 코픽스(COFIX·자금조달비용지수)가 두 달 연속 상승했다.",
+      "articleCount": 54,
+      "link": "https://www.yna.co.kr/view/AKR20261116115851002"
     },
     {
       "id": "climate",
       "name": "환경·기후",
-      "phrase": "XX 때문? 장관과 성적 농담 방송사에 딱 걸려",
-      "sentence": "앤서니 앨버니지 호주 총리가 국제 행사장에서 자국 장관과 나눈 성적 농담이 알려져 논란이 일었다.…",
-      "articleCount": 46,
-      "link": "https://www.donga.com/news/Inter/article/all/20261115/135028442/2"
+      "phrase": "국제 탄소시장연합 가입",
+      "sentence": "한국이 유럽연합(EU)과 중국 등이 참여하는 국제 탄소시장 협력체인 '탄소시장연합'(OCCCM)에 14번째 신...",
+      "articleCount": 45,
+      "link": "https://www.yna.co.kr/view/AKR20261116116500530"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "외주업체 해킹으로 고객 정보 유출",
-      "sentence": "가상자산 거래소 코인원이 고객 상담 업무를 맡긴 외주업체가 해킹 당하면서 고객 정보가 유출된 것으로 확인됐다.",
+      "phrase": "두나무 3분기 186억원 순손실",
+      "sentence": "가상자산 거래소 업비트를 운영하는 두나무는 올해 3분기 순손실 186억원을 기록했다고 16일 공시했다.",
       "articleCount": 44,
-      "link": "https://www.yna.co.kr/view/AKR20261115020900002"
+      "link": "https://www.yna.co.kr/view/AKR20261116137400002"
     },
     {
-      "id": "science",
-      "name": "우주·과학",
-      "phrase": "사상 첫 우주선 상단 본체 회수 성공",
-      "sentence": "(서울=연합뉴스) 일론 머스크의 우주기업 스페이스X가 사상 처음으로 우주선의 상단 선체 회수에 성공했습니다.",
-      "articleCount": 40,
-      "link": "https://www.yna.co.kr/view/AKR20261115027200704"
+      "id": "game",
+      "name": "게임",
+      "phrase": "넥슨 지주사 NXC",
+      "sentence": "넥슨 그룹 지주회사 엔엑스씨(NXC)는 총 5만3천662주(약 2천900억원)의 자기주식을 취득했다고 16일 ...",
+      "articleCount": 43,
+      "link": "https://www.yna.co.kr/view/AKR20261116139800017"
     },
     {
       "id": "retail",
       "name": "유통·소비",
-      "phrase": "한유원 상임감사에 백혜숙 국정기획위원 취임",
-      "sentence": "한국중소벤처기업유통원은 제8대 백혜숙 상임감사가 13일 서울 목동 한유원 사옥에서 취임식을 갖고 공식 업무를 ...",
-      "articleCount": 39,
-      "link": "https://www.yna.co.kr/view/AKR20261116039300030"
+      "phrase": "신선농산물 단일 품목으로는 처음",
+      "sentence": "농림축산식품부가 올해 포도 수출액이 1억달러(약 1340억원)를 돌파했다고 16일 밝혔다.",
+      "articleCount": 42,
+      "link": "https://www.chosun.com/economy/economy_general/2026/11/16/GU2TQNJRGZQTEMLDMZRGEM3BMM/"
+    },
+    {
+      "id": "telecom",
+      "name": "통신",
+      "phrase": "수조원대 LFP 배터리 공급",
+      "sentence": "삼성SDI가 미국에서 수조 원대 에너지저장장치(ESS)용 리튬인산철(LFP) 배터리 공급 계약을 따냈다.…",
+      "articleCount": 37,
+      "link": "https://www.donga.com/news/Economy/article/all/20261116/135034752/2"
+    },
+    {
+      "id": "science",
+      "name": "우주·과학",
+      "phrase": "메모리팹에 1000평 소부장 공간 내줘⋯",
+      "sentence": "경기도 용인 처인구의 SK하이닉스 반도체 클러스터에서 지난 10일 트리니티팹이 들어설 용인 1기 팹(Y1)이 건설되고 있다.…",
+      "articleCount": 37,
+      "link": "https://www.kmib.co.kr/article/20261116501938"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "영화 가능한 사랑 전도연·설경구⋯ 물 흐르듯",
-      "sentence": "“이창동 감독님 작품은 제게 남다를 수밖에 없죠.",
-      "articleCount": 23,
-      "link": "https://www.kmib.co.kr/article/20261115501335"
+      "phrase": "화장실까지 분할하나요?",
+      "sentence": "카카오[035720] 노동조합이 경기 성남시 판교 일대에서 카카오 인적분할에 반대하는 버스 광고를 시작했다.",
+      "articleCount": 21,
+      "link": "https://www.yna.co.kr/view/AKR20261116153600017"
     },
     {
       "id": "fx",
       "name": "환율",
-      "phrase": "아르헨 경제학자 월 2% 물가·현재 낮은 환율",
-      "sentence": "아르헨티나의 경제학자인 로베르토 프렝켈 경제사회연구소(CEDES) 소장은 하비에르 밀레이 정부가 ...",
-      "articleCount": 10,
-      "link": "https://www.yna.co.kr/view/AKR20261116000500009"
+      "phrase": "금리·환율변동에 투자손실",
+      "sentence": "롯데손해보험[000400]은 투자영업이 적자로 전환하며 올해 3분기 당기순손실 937억원을 기록했다고 16일 ...",
+      "articleCount": 19,
+      "link": "https://www.yna.co.kr/view/AKR20261116161400002"
     }
   ],
   "topicCatalog": [
