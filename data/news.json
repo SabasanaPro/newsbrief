@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:45:49+09:00",
+  "generatedAt": "2026-11-22T04:10:09+09:00",
   "categories": [
     {
       "id": "politics",
@@ -90,22 +90,6 @@
       "name": "사회",
       "items": [
         {
-          "title": "코레일 “22일 첫차부터 경부선 일반열차 운행 재개”",
-          "summary": "21일 오전 세종시 소정면 경부선 소정리역 부근에서 탈선사고가 발생해 한국철도공사(코레일) 등 관계자들이 원인 파악 및 복구작업에 나서고 있다.…",
-          "source": "국민일보",
-          "link": "https://www.kmib.co.kr/article/20261121500219",
-          "publishedAt": "2026-11-21T11:54:29+00:00",
-          "sourceCount": 7,
-          "otherSources": [
-            "경향신문",
-            "동아일보",
-            "매일경제",
-            "연합뉴스",
-            "조선일보",
-            "한겨레"
-          ]
-        },
-        {
           "title": "홍대입구역 인근서 3중 추돌로 버스 인도 돌진…6명 경상",
           "summary": "서울 마포구 홍대입구역 인근에서 시내버스가 인도로 돌진해 6명이 다쳤다.21일 소방당국에 따르면 이날 오후 6시57분께 서울 마포구 홍대입구역 인근에서 시내버스와 승용차 등이 잇따라 들이받는 3중 추돌 사고가 발생했다.사고 과정에서 버스가 인도로 올라가 구조물을 들이받은 것으로 파악됐다.이 사고로 현재까지 6명이 경상을 입고 병원으로 이송됐다.경찰과 소방당국은 정확한 사고 경위를 조사 중이다.[서울=뉴시스]",
           "source": "동아일보",
@@ -119,6 +103,22 @@
             "노컷뉴스",
             "매일경제",
             "연합뉴스"
+          ]
+        },
+        {
+          "title": "코레일 “22일 첫차부터 경부선 일반열차 운행 재개”",
+          "summary": "21일 오전 세종시 소정면 경부선 소정리역 부근에서 탈선사고가 발생해 한국철도공사(코레일) 등 관계자들이 원인 파악 및 복구작업에 나서고 있다.…",
+          "source": "국민일보",
+          "link": "https://www.kmib.co.kr/article/20261121500219",
+          "publishedAt": "2026-11-21T11:54:29+00:00",
+          "sourceCount": 7,
+          "otherSources": [
+            "경향신문",
+            "동아일보",
+            "매일경제",
+            "연합뉴스",
+            "조선일보",
+            "한겨레"
           ]
         },
         {
@@ -276,11 +276,11 @@
           "otherSources": []
         },
         {
-          "title": "21일",
-          "summary": "◇ KB스타뱅킹 2026-2027 여자프로농구 정규리그 중간순위(21일)",
-          "source": "연합뉴스",
-          "link": "https://www.yna.co.kr/view/AKR20261121044300007",
-          "publishedAt": "2026-11-21T08:43:56+00:00",
+          "title": "종묘 앞 ‘145m 아파트’ 못 짓는다...유산위, 유적 보존 방안 부결",
+          "summary": "",
+          "source": "한겨레",
+          "link": "https://www.hani.co.kr/arti/culture/culture_general/1288428.html",
+          "publishedAt": null,
           "sourceCount": 1,
           "otherSources": []
         }
@@ -317,31 +317,31 @@
       "name": "교육",
       "phrase": "통제불가능 혼란 초래",
       "sentence": "고3 학생 등으로 구성된 수험생연대가 올해 수능을 치르는 과정에서 부정행위 방지와 시험 운영에 허점이 드러났다며 최교진 교육부 장관의 사퇴를 촉…",
-      "articleCount": 211,
+      "articleCount": 187,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856951"
-    },
-    {
-      "id": "stock",
-      "name": "증시",
-      "phrase": "1조 달러에 SK하이닉스 인수 시도 했었다",
-      "sentence": "소프트뱅크 그룹의 손정의 회장이 한국의 메모리 반도체 기업 SK 하이닉스를 약 1조달러(약 1346조원)에 인수하는 방안을 검토하고 월가 금융기관들과 자금 조달을…",
-      "articleCount": 126,
-      "link": "https://www.kmib.co.kr/article/20261121500139"
     },
     {
       "id": "entertain",
       "name": "연예·문화",
       "phrase": "佛 국민배우 드파르디외",
       "sentence": "프랑스 국민배우 제라르 드파르디외(77)와 프랑스 작가 미셸 우엘벡(70)이 2018년 영화 촬영장에서 여성을 집단 성폭행하고 폭행했다는 혐의로 프랑스 경찰의 조…",
-      "articleCount": 117,
+      "articleCount": 109,
       "link": "https://www.donga.com/news/Inter/article/all/20261121/135064840/1"
+    },
+    {
+      "id": "stock",
+      "name": "증시",
+      "phrase": "1조 달러에 SK하이닉스 인수 시도 했었다",
+      "sentence": "소프트뱅크 그룹의 손정의 회장이 한국의 메모리 반도체 기업 SK 하이닉스를 약 1조달러(약 1346조원)에 인수하는 방안을 검토하고 월가 금융기관들과 자금 조달을…",
+      "articleCount": 107,
+      "link": "https://www.kmib.co.kr/article/20261121500139"
     },
     {
       "id": "sports",
       "name": "스포츠",
       "phrase": "프로농구 드래프트 전체 1순위로 kt행",
       "sentence": "대학 농구 최고의 선수로 활약해 온 고려대 포워드 이동근이 프로농구 신인 드래프트 전체 1순위로 수원 kt 유...",
-      "articleCount": 105,
+      "articleCount": 99,
       "link": "https://www.yna.co.kr/view/AKR20261120130451007"
     },
     {
@@ -349,55 +349,55 @@
       "name": "반도체",
       "phrase": "한때 SK하이닉스 1조달러 인수안 검토",
       "sentence": "손정의 소프트뱅크그룹 회장이 SK하이닉스를 인수하기 위해 최근 월가 금융기관들에 자금 조달 방안을 문의했다는 ...",
-      "articleCount": 99,
+      "articleCount": 87,
       "link": "https://www.yna.co.kr/view/AKR20261121033000009"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "EU·인도네시아 무역협정 체결",
-      "sentence": "유럽연합(EU)과 인도네시아가 21일(현지시간) 90％ 이상 수출입품에 관세를 철폐하는 내용의 무역협정을 ...",
-      "articleCount": 94,
-      "link": "https://www.yna.co.kr/view/AKR20261121052500082"
-    },
-    {
-      "id": "game",
-      "name": "게임",
-      "phrase": "출시 첫날 매출 5조원",
-      "sentence": "락스타게임즈의 '그랜드 테프트 오토(GTA) Ⅵ(6)'가 출시 하루 만에 약 5조원의 매출을 기록했다.",
-      "articleCount": 85,
-      "link": "https://www.yna.co.kr/view/AKR20261121036200017"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "홍대입구역 인근서 3중 추돌로 버스 인도 돌진",
       "sentence": "서울 마포구 홍대입구역 인근에서 시내버스가 인도로 돌진해 6명이 다쳤다.21일 소방당국에 따르면 이날 오후 6시57분께 서울 마포구 홍대입구역 인근에서 시내버스와…",
-      "articleCount": 85,
+      "articleCount": 80,
       "link": "https://www.donga.com/news/Society/article/all/20261121/135065141/1"
+    },
+    {
+      "id": "game",
+      "name": "게임",
+      "phrase": "출시 첫날 매출 5조원",
+      "sentence": "락스타게임즈의 '그랜드 테프트 오토(GTA) Ⅵ(6)'가 출시 하루 만에 약 5조원의 매출을 기록했다.",
+      "articleCount": 79,
+      "link": "https://www.yna.co.kr/view/AKR20261121036200017"
+    },
+    {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "EU·인도네시아 무역협정 체결",
+      "sentence": "유럽연합(EU)과 인도네시아가 21일(현지시간) 90％ 이상 수출입품에 관세를 철폐하는 내용의 무역협정을 ...",
+      "articleCount": 78,
+      "link": "https://www.yna.co.kr/view/AKR20261121052500082"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "내년 공동주택 공시가격 현실화율 69% 유지",
       "sentence": "내년 공동주택 공시가격 시세반영률(현실화율)이 올해와 같은 69% 수준으로 유지된다.",
-      "articleCount": 67,
+      "articleCount": 64,
       "link": "https://www.yna.co.kr/view/AKR20261120143400003"
     },
     {
       "id": "industry",
       "name": "산업·기업",
-      "phrase": "손님이 놓고 간 지갑 돌려준 날",
-      "sentence": "미국 메릴랜드주의 한 자동차 정비사가 손님이 두고 간 지갑을 돌려준 날 3만 달러(약 4000만 원)짜리 복권에 당첨됐다.메릴랜드 복권국은 16일(현지시간) 크로…",
-      "articleCount": 55,
-      "link": "https://www.donga.com/news/Inter/article/all/20261120/135061114/1"
+      "phrase": "AI 성과 속 신뢰 회복은 과제",
+      "sentence": "기업 최고 의사결정권자(CEO, CFO, COO, CIO 등)의 행보에서 투자 인사이트를 얻어 가세요.LG그룹이 최근 사장단 인사를 발표하고 홍범식 LG유플러스…",
+      "articleCount": 50,
+      "link": "https://www.bloter.net/news/articleView.html?idxno=679307"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "AI 커닝 사태 속 첫 국가자격시험 현장 점검",
       "sentence": "김영훈 고용노동부 장관이 21일 '인공지능(AI) 부정행위' 사태 뒤로 처음 치러진 국가자격시험 현장을 찾아 ...",
-      "articleCount": 46,
+      "articleCount": 43,
       "link": "https://www.yna.co.kr/view/AKR20261121023800530"
     },
     {
@@ -405,31 +405,31 @@
       "name": "유가·에너지",
       "phrase": "작심 발언⋯ 조희대 탄핵 당론 반대",
       "sentence": "곽상언 더불어민주당 의원 페이스북 캡처 곽상언 더불어민주당 의원이 20일 당이 조희대 대법원장 탄핵소추 추진을 당론으로 추인한 것에 대해 “탄핵 당론 추진에 대해…",
-      "articleCount": 44,
-      "link": "https://www.kmib.co.kr/article/20261121500063"
-    },
-    {
-      "id": "retail",
-      "name": "유통·소비",
-      "phrase": "대형마트 많은 고령군에 하나로마트가 필요한 이유",
-      "sentence": "경북 고령군에는 이미 여러 대형마트와 유통시설이 들어서 있지만, 농협 하나로마트의 필요성을 단순히 유통시설의 숫자나 상권 경쟁 논리만으로 판단해서는 안 된다는 목…",
       "articleCount": 40,
-      "link": "https://www.pressian.com/pages/articles/2026112114150437734&ref=rss"
+      "link": "https://www.kmib.co.kr/article/20261121500063"
     },
     {
       "id": "telecom",
       "name": "통신",
       "phrase": "화물열차 탈선에 천안~대전 일반열차 STOP",
       "sentence": "한국철도공사가 화물열차 탈선으로 일반열차 운행이 중단된 천안~대전 구간에 KTX와 ITX-새마을 등 임시열차 15대를 투입하기로 했습니다.화물열…",
-      "articleCount": 37,
+      "articleCount": 36,
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856927"
+    },
+    {
+      "id": "retail",
+      "name": "유통·소비",
+      "phrase": "대형마트 많은 고령군에 하나로마트가 필요한 이유",
+      "sentence": "경북 고령군에는 이미 여러 대형마트와 유통시설이 들어서 있지만, 농협 하나로마트의 필요성을 단순히 유통시설의 숫자나 상권 경쟁 논리만으로 판단해서는 안 된다는 목…",
+      "articleCount": 34,
+      "link": "https://www.pressian.com/pages/articles/2026112114150437734&ref=rss"
     },
     {
       "id": "climate",
       "name": "환경·기후",
       "phrase": "오사카 달군 2026 마마 어워즈",
       "sentence": "그룹 엔하이픈과 방탄소년단(BTS)이 대중음악 시상식 '2026 마마 어워즈' 첫날 대상을 받았다.",
-      "articleCount": 30,
+      "articleCount": 26,
       "link": "https://www.yna.co.kr/view/AKR20261120179200005"
     },
     {
@@ -437,40 +437,40 @@
       "name": "우주·과학",
       "phrase": "호르무즈서 미확인 발사체에 유조선 잇단 피격",
       "sentence": "호르무즈 해협을 지나던 유조선이 미확인 발사체에 피격됐다는 보고가 잇달아 접수됐다고 영국 해상무역기구...",
-      "articleCount": 29,
+      "articleCount": 25,
       "link": "https://www.yna.co.kr/view/AKR20261121046400099"
-    },
-    {
-      "id": "rate",
-      "name": "금리",
-      "phrase": "우리운용 미국 단기채 공모주 펀드",
-      "sentence": "우리자산운용은 우리미국단기채공모주증권자투자신탁(채권혼합) 펀드가 인공지능(AI) 모델 클로드 개발사인 앤트로픽 기업공개(IPO)에 참여해 신주 물량을 배정 받았다…",
-      "articleCount": 21,
-      "link": "https://www.chosun.com/economy/stock-finance/2026/11/20/GI3WIOBYMYZGEZBSG42DGZJQMI/"
     },
     {
       "id": "crypto",
       "name": "가상자산",
       "phrase": "비트코인 59K 회복",
       "sentence": "[블록미디어 이정화 기자] 비트코인이 5만9000달러선을 회복했다.",
-      "articleCount": 20,
+      "articleCount": 19,
       "link": "https://www.blockmedia.co.kr/archives/1169008?utm_source=general&utm_medium=rss"
+    },
+    {
+      "id": "rate",
+      "name": "금리",
+      "phrase": "연준 위원들 잇달아 공개발언",
+      "sentence": "케빈 워시 연방준비제도(Fed·연준) 의장은 지난 5월 취임 이후 ‘포워드 가이던스(선제지침)’를 폐지하겠다는 방침을 밝히고 향후 통화정책 방향에 대해 언급하지…",
+      "articleCount": 17,
+      "link": "https://www.bloter.net/news/articleView.html?idxno=679294"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "파업 중 사측 임단협 제시안 거부",
-      "sentence": "조합원 1천300여명이 전면 파업 중인 효성중공업 사무기술직 노동조합이 사측의 올해 임금·단체협약(임단협) 1...",
-      "articleCount": 17,
-      "link": "https://www.yna.co.kr/view/AKR20261120133100052"
+      "phrase": "지방에 뿌리내려 세계적 명성 얻은 연출가",
+      "sentence": "2026 서울형 국제 공연예술 유통 플랫폼에 초청돼 방한한 미야기 사토시 SPAC 예술총감독.",
+      "articleCount": 13,
+      "link": "https://www.kmib.co.kr/article/20261120500743"
     },
     {
       "id": "fx",
       "name": "환율",
-      "phrase": "강달러·주가 급락에 6.2원 오른 1",
-      "sentence": "원/달러 환율은 20일 달러 강세와 증시 급락으로 인한 위험회피 심리 영향으로 상승했다.",
-      "articleCount": 10,
-      "link": "https://www.yna.co.kr/view/AKR20261120132200002"
+      "phrase": "국힘 코스피 3500조 증발",
+      "sentence": "국민의힘이 21일 “이재명 정권과 더불어민주당이 주가 상승은 자신들의 치적인 양 선거에 실컷 팔아먹더니, 폭락하자 시장을 헌신짝처럼 내팽개쳤다”고 비판했다.국민의…",
+      "articleCount": 8,
+      "link": "https://www.donga.com/news/Politics/article/all/20261121/135064676/1"
     }
   ],
   "topicCatalog": [
