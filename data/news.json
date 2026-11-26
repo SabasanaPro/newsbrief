@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:48:56+09:00",
+  "generatedAt": "2026-11-27T05:08:49+09:00",
   "categories": [
     {
       "id": "politics",
@@ -228,15 +228,6 @@
       "name": "가상화폐",
       "items": [
         {
-          "title": "선후배 연극인 한무대 올라 옛 명작 ‘리플레이’로 통했다",
-          "summary": "",
-          "source": "한겨레",
-          "link": "https://www.hani.co.kr/arti/culture/music/1289072.html",
-          "publishedAt": null,
-          "sourceCount": 1,
-          "otherSources": []
-        },
-        {
           "title": "“비트코인 2만달러에도 스트래티지 견딜 수 있다”–TD코웬 분석가",
           "summary": "[블록미디어 이정화 기자] TD코웬(Cowen)의 애널리스트 랜스 비탄자(Lance Vitanza)는 비트코인 가격이 2만달러로 급락하더라도 스트래티지는 10년간 지속되는 가상자산(디지털자산) 겨울을 견딜 수 있다고 주장했다.…",
           "source": "블록미디어",
@@ -253,6 +244,15 @@
           "publishedAt": "2026-11-26T12:41:06+00:00",
           "sourceCount": 1,
           "otherSources": []
+        },
+        {
+          "title": "바이낸스로 이더리움 17만개 순유입…6개월 만 최대→‘매도 폭탄’ 터지나",
+          "summary": "[블록미디어 양원모 기자] 이더리움(ETH)이 1700달러 안팎에서 등락을 이어가는 가운데 세계 최대 디지털자산 거래소 바이낸스로 일주일 새 2억8300만달러(약 3800억원) 상당의 이더리움이 순유입됐다.…",
+          "source": "블록미디어",
+          "link": "https://www.blockmedia.co.kr/archives/1170966?utm_source=general&utm_medium=rss",
+          "publishedAt": "2026-11-26T12:30:06+00:00",
+          "sourceCount": 1,
+          "otherSources": []
         }
       ]
     },
@@ -261,14 +261,13 @@
       "name": "문화·스포츠",
       "items": [
         {
-          "title": "신진서, 누적 상금 110억 5000만원…박정환 넘어 통산 상금 1위 등극",
-          "summary": "한국 바둑 최강자 신진서 9단이 누적 상금 110억 원을 돌파하며 한국 바둑 역대 통산 상금 1위에 올랐다.…",
+          "title": "26세 신진서 9단, 누적 상금 110억 돌파…韓바둑 통산 1위",
+          "summary": "신진서 9단(26·사진)이 한국 바둑 통산 누적 상금랭킹 1위로 올라섰다.한국기원은 26일 “신 9단은 진서는 25일 박정환 9단(33)을 2승 1패로 꺾고 우승상금 7000만원을 받으며, 누적 상금 110억5468만 원을 기록했다”고 밝혔다.이로써 신 9단은 기존 1위였던 박 9단(110억4853만 원)을 제치고 통산 1위에 올랐다.…",
           "source": "동아일보",
-          "link": "https://www.donga.com/news/Sports/article/all/20261126/135094491/1",
-          "publishedAt": "2026-11-26T01:57:09+00:00",
-          "sourceCount": 3,
+          "link": "https://www.donga.com/news/Culture/article/all/20261126/135096698/1",
+          "publishedAt": "2026-11-26T07:23:00+00:00",
+          "sourceCount": 2,
           "otherSources": [
-            "연합뉴스",
             "한겨레"
           ]
         },
@@ -309,10 +308,10 @@
     {
       "id": "politics",
       "name": "정치",
-      "phrase": "강금실 국정원장 후보자 등 인사청문요청서 재가",
-      "sentence": "이재명 대통령은 26일 강금실 국가정보원장 후보자를 포함해 최근 임명한 장관 후보자들에 대한 인사청문요청서를 ...",
+      "phrase": "조작기소 특검 후보에 민주당 이임성·혁신당",
+      "sentence": "‘검사 출신’ 이임성, 조희대 탄핵 반대 입장…보완수사권도 “유지”이정훈은 판사 출신…추천 거부 국힘 “사기 도박판” 장외투쟁 지속더불어민주당과 조국혁신당이 26…",
       "articleCount": 250,
-      "link": "https://www.yna.co.kr/view/AKR20261126186700001"
+      "link": "https://www.khan.co.kr/article/202611262120005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=society_news"
     },
     {
       "id": "world",
@@ -323,51 +322,51 @@
       "link": "https://www.yna.co.kr/view/AKR20261126194000109"
     },
     {
+      "id": "trade",
+      "name": "수출·관세",
+      "phrase": "美 호남 반도체 콕 찍어 관세 압박",
+      "sentence": "도널드 트럼프 미국 대통령과 젠슨 황 엔비디아 최고경영자(CEO)가 지난 10월 8일 워싱턴DC에서 열린 행사에 함께 참석한 모습.…",
+      "articleCount": 173,
+      "link": "https://www.kmib.co.kr/article/20261126501709"
+    },
+    {
       "id": "semiconductor",
       "name": "반도체",
       "phrase": "메모리 개발체제 일원화",
       "sentence": "삼성전자가 반도체 부문의 메모리 개발 체제를 사업부장 직속으로 일원화하고 반도체 설계를 담당하는 시스템...",
-      "articleCount": 170,
-      "link": "https://www.yna.co.kr/view/AKR20261126084351003"
-    },
-    {
-      "id": "trade",
-      "name": "수출·관세",
-      "phrase": "미 USTR 한국 관세 15% 상한 유지",
-      "sentence": "‘과잉생산 과세’ 부과 방안 제시일본·EU도 15%…중국엔 20%도널드 트럼프 미국 행정부가 한국과 중국, 일본, 유럽연합(EU) 등 14개 경제주체를 대상으로…",
       "articleCount": 169,
-      "link": "https://www.khan.co.kr/article/202611252302005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=kh_world"
+      "link": "https://www.yna.co.kr/view/AKR20261126084351003"
     },
     {
       "id": "realestate",
       "name": "부동산",
       "phrase": "주택 종부세 73만명에 고지",
       "sentence": "주택분 종합부동산세 납부 대상이 올해 약 73만명으로 작년보다 34.5% 늘었다.",
-      "articleCount": 152,
+      "articleCount": 153,
       "link": "https://www.yna.co.kr/view/AKR20261126145800002"
+    },
+    {
+      "id": "education",
+      "name": "교육",
+      "phrase": "학교 비정규직 총파업에 급식·돌봄 비상",
+      "sentence": "전국학교비정규직노동조합 서울지부 방과후강사분과 조합원들이 26일 서울 용산구 서울시교육청 앞에서 강사료 인상 등을 촉구하며 피켓 시위를 벌이고 있다.…",
+      "articleCount": 141,
+      "link": "https://www.kmib.co.kr/article/20261126501936"
     },
     {
       "id": "sports",
       "name": "스포츠",
       "phrase": "월드컵 민영화 자료는 멀쩡",
       "sentence": "최근 각국 주요 기관에 사이버 공격이 잇따르는 가운데 국제축구연맹(FIFA) 본부도 해킹당했다고 스위스 공...",
-      "articleCount": 139,
+      "articleCount": 138,
       "link": "https://www.yna.co.kr/view/AKR20261126194200082"
-    },
-    {
-      "id": "education",
-      "name": "교육",
-      "phrase": "대학생 단체 청해부대 파병 반대",
-      "sentence": "청해부대의 임무 구역 확대를 골자로 한 파견 연장 수정 동의안에 반대하는 대학생들이 국회에서 기습 시위를 벌였...",
-      "articleCount": 135,
-      "link": "https://www.yna.co.kr/view/AKR20261126152500004"
     },
     {
       "id": "rate",
       "name": "금리",
       "phrase": "고금리 엄습⋯ 기준금리 3.25%로 인상",
       "sentence": "한국은행이 내년 경제성장률 전망치를 4%대로 대폭 상향했다.",
-      "articleCount": 126,
+      "articleCount": 127,
       "link": "https://www.kmib.co.kr/article/20261126501708"
     },
     {
@@ -383,47 +382,47 @@
       "name": "산업·기업",
       "phrase": "통합 LCC 본사 유치에 한목소리로 환영",
       "sentence": "에어부산·진에어·에어서울 등 저비용항공사(LCC) 통합 본사의 위치가 부산으로 확정되자 지역 여야 정치권은 2...",
-      "articleCount": 102,
+      "articleCount": 101,
       "link": "https://www.yna.co.kr/view/AKR20261126155400051"
-    },
-    {
-      "id": "entertain",
-      "name": "연예·문화",
-      "phrase": "경찰청 차장에 송영호·부산경찰청장에 김병기",
-      "sentence": "김종철 경찰청장 취임 이후 공석이었던 경찰청 차장에 송영호(54· 왼쪽 사진 ) 경찰청 치안정보국장이 임명됐다.…",
-      "articleCount": 98,
-      "link": "https://www.kmib.co.kr/article/20261126501928"
     },
     {
       "id": "price",
       "name": "물가·고용",
       "phrase": "한은 총재 물가상승률",
       "sentence": "신현송 한국은행 총재는 26일 \"2028년에야 소비자 물가 상승률이 목표 수준에 수렴할 것으로 보인다\"고 밝혔...",
-      "articleCount": 91,
+      "articleCount": 94,
       "link": "https://www.yna.co.kr/view/AKR20261126115800002"
+    },
+    {
+      "id": "entertain",
+      "name": "연예·문화",
+      "phrase": "경찰청 차장에 송영호·부산경찰청장에 김병기",
+      "sentence": "김종철 경찰청장 취임 이후 공석이었던 경찰청 차장에 송영호(54· 왼쪽 사진 ) 경찰청 치안정보국장이 임명됐다.…",
+      "articleCount": 94,
+      "link": "https://www.kmib.co.kr/article/20261126501928"
     },
     {
       "id": "health",
       "name": "건강·의료",
       "phrase": "시각장애인 안마사 자격 제한 합헌",
       "sentence": "대한안마사협회는 26일 헌법재판소가 시각장애인에게만 안마사 자격을 허용하는 의료법 조항에 합헌 결정을 내린 데...",
-      "articleCount": 81,
+      "articleCount": 82,
       "link": "https://www.yna.co.kr/view/AKR20261126093151004"
     },
     {
       "id": "labor",
       "name": "노동",
-      "phrase": "학교 비정규직 총파업에 급식·돌봄 비상",
-      "sentence": "전국학교비정규직노동조합 서울지부 방과후강사분과 조합원들이 26일 서울 용산구 서울시교육청 앞에서 강사료 인상 등을 촉구하며 피켓 시위를 벌이고 있다.…",
-      "articleCount": 61,
-      "link": "https://www.kmib.co.kr/article/20261126501936"
+      "phrase": "철도노조 준법투쟁에 열차 운행 지연",
+      "sentence": "전국철도노동조합이 준법투쟁에 돌입한 26일 대구 동구 동대구역에 열차 운행 지연 안내문이 붙어 있다.…",
+      "articleCount": 64,
+      "link": "https://www.donga.com/news/Society/article/all/20261127/135099513/2"
     },
     {
       "id": "oil",
       "name": "유가·에너지",
       "phrase": "태국 방콕 정유공장 폭발·화재",
       "sentence": "태국 수도 방콕의 대형 정유공장에서 26일(현지시간) 강력한 폭발과 화재가 발생, 7명이 부상하고 인근 주...",
-      "articleCount": 60,
+      "articleCount": 59,
       "link": "https://www.yna.co.kr/view/AKR20261126187400084"
     },
     {
@@ -431,7 +430,7 @@
       "name": "유통·소비",
       "phrase": "대전 타임월드점 롯데쇼핑 매각 협상 결렬",
       "sentence": "한화갤러리아[452260]가 추진해 온 대전 갤러리아백화점 타임월드점 매각 협상이 결렬됐다.",
-      "articleCount": 54,
+      "articleCount": 55,
       "link": "https://www.yna.co.kr/view/AKR20261126172151063"
     },
     {
@@ -455,7 +454,7 @@
       "name": "우주·과학",
       "phrase": "스페이스X 우주 데이터센터 위성 승인",
       "sentence": "스페이스X가 미국 당국으로부터 AI 우주 데이터센터를 위한 위성 100만 기 배치를 승인받았다는 소식에 26일...",
-      "articleCount": 47,
+      "articleCount": 46,
       "link": "https://www.yna.co.kr/view/AKR20261126040751008"
     },
     {
@@ -463,23 +462,23 @@
       "name": "환경·기후",
       "phrase": "정년연장 연내 입법 분수령⋯ 65세 공감대",
       "sentence": "공주석(가운데) 대한민국공무원노동조합총연맹 위원장과 산하 연맹 간부들이 26일 서울 여의도 국회 앞에서 공무원의 노후 소득 공백 해소와 정년연장을 촉구하는 삭발식…",
-      "articleCount": 34,
+      "articleCount": 33,
       "link": "https://www.kmib.co.kr/article/20261126501851"
     },
     {
       "id": "crypto",
       "name": "가상자산",
-      "phrase": "선후배 연극인 한무대 올라 옛 명작 리플레이",
-      "sentence": "선후배 연극인 한무대 올라 옛 명작 ‘리플레이’로 통했다",
-      "articleCount": 30,
-      "link": "https://www.hani.co.kr/arti/culture/music/1289072.html"
+      "phrase": "머니투데이 오프라인 헤드라인-27일",
+      "sentence": "[종합] \"내년 4%대 성장\"…한은, 다시 긴축 [기준금리 3.25%] 고성장·고물가 '압박'…내년 상반기 1~2차례 추가인상 무게 금통위 \"더 인상할 것\"이 말…",
+      "articleCount": 28,
+      "link": "https://www.mt.co.kr/industry/2026/11/27/2026112622333536200"
     },
     {
       "id": "fx",
       "name": "환율",
       "phrase": "김성묵 배우러 갔던 아버지학교",
       "sentence": "아버지학교 참가자들이 1997년 한 프로그램에서 조별 발표를 하는 모습.",
-      "articleCount": 11,
+      "articleCount": 12,
       "link": "https://www.kmib.co.kr/article/20261126501771"
     }
   ],
